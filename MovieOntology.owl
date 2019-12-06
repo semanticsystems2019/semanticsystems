@@ -14,6 +14,7 @@ Declaration(Class(:Drama))
 Declaration(Class(:Emotion))
 Declaration(Class(:Horror))
 Declaration(Class(:Indifferent))
+Declaration(Class(:InstaPost))
 Declaration(Class(:Instagram))
 Declaration(Class(:Kids))
 Declaration(Class(:Movie))
@@ -21,17 +22,27 @@ Declaration(Class(:Negative))
 Declaration(Class(:Positive))
 Declaration(Class(:Post))
 Declaration(Class(:Reddit))
+Declaration(Class(:RedditPost))
 Declaration(Class(:Romance))
 Declaration(Class(:Source))
+Declaration(Class(:Tweet))
 Declaration(Class(:Twitter))
 Declaration(Class(:User))
 Declaration(Class(:Youtube))
+Declaration(Class(:YoutubePost))
 Declaration(ObjectProperty(:createdBy))
 Declaration(ObjectProperty(:hasEmotion))
 Declaration(ObjectProperty(:hasSource))
 Declaration(ObjectProperty(:isCommentOn))
 Declaration(ObjectProperty(:isOriginalPosterOfPost))
 Declaration(ObjectProperty(:refersToMovie))
+Declaration(DataProperty(:hasDate))
+Declaration(DataProperty(:hasId))
+Declaration(DataProperty(:hasLikes))
+Declaration(DataProperty(:hasRetweet))
+Declaration(DataProperty(:hasText))
+Declaration(DataProperty(:hasTitle))
+Declaration(DataProperty(:hasUsername))
 ############################
 #   Object Properties
 ############################
@@ -68,6 +79,47 @@ ObjectPropertyRange(:refersToMovie :Movie)
 
 
 ############################
+#   Data Properties
+############################
+
+# Data Property: :hasDate (:hasDate)
+
+DataPropertyDomain(:hasDate ObjectUnionOf(:Comment :Post))
+DataPropertyRange(:hasDate xsd:dateTimeStamp)
+
+# Data Property: :hasId (:hasId)
+
+DataPropertyDomain(:hasId ObjectUnionOf(:RedditPost :Tweet :User))
+DataPropertyRange(:hasId xsd:string)
+
+# Data Property: :hasLikes (:hasLikes)
+
+DataPropertyDomain(:hasLikes ObjectUnionOf(:Comment :Post))
+DataPropertyRange(:hasLikes xsd:integer)
+
+# Data Property: :hasRetweet (:hasRetweet)
+
+DataPropertyDomain(:hasRetweet :Tweet)
+DataPropertyRange(:hasRetweet xsd:integer)
+
+# Data Property: :hasText (:hasText)
+
+DataPropertyDomain(:hasText ObjectUnionOf(:Comment :Post))
+DataPropertyRange(:hasText xsd:string)
+
+# Data Property: :hasTitle (:hasTitle)
+
+DataPropertyDomain(:hasTitle ObjectUnionOf(:RedditPost :YoutubePost))
+DataPropertyRange(:hasTitle xsd:string)
+
+# Data Property: :hasUsername (:hasUsername)
+
+DataPropertyDomain(:hasUsername :User)
+DataPropertyRange(:hasUsername xsd:string)
+
+
+
+############################
 #   Classes
 ############################
 
@@ -92,6 +144,10 @@ SubClassOf(:Horror :Movie)
 # Class: :Indifferent (:Indifferent)
 
 SubClassOf(:Indifferent :Emotion)
+
+# Class: :InstaPost (:InstaPost)
+
+SubClassOf(:InstaPost :Post)
 
 # Class: :Instagram (:Instagram)
 
@@ -120,9 +176,17 @@ SubClassOf(:Post ObjectExactCardinality(1 :refersToMovie :Movie))
 
 SubClassOf(:Reddit :Source)
 
+# Class: :RedditPost (:RedditPost)
+
+SubClassOf(:RedditPost :Post)
+
 # Class: :Romance (:Romance)
 
 SubClassOf(:Romance :Movie)
+
+# Class: :Tweet (:Tweet)
+
+SubClassOf(:Tweet :Post)
 
 # Class: :Twitter (:Twitter)
 
@@ -135,6 +199,10 @@ SubClassOf(:User ObjectMinCardinality(0 :isOriginalPosterOfPost :Post))
 # Class: :Youtube (:Youtube)
 
 SubClassOf(:Youtube :Source)
+
+# Class: :YoutubePost (:YoutubePost)
+
+SubClassOf(:YoutubePost :Post)
 
 
 DisjointClasses(:Indifferent :Negative :Positive)
