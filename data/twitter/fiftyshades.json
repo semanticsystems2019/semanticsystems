@@ -1,0 +1,492 @@
+[
+    {
+        "created_at": "Thu Jan 04 20:02:05 +0000 2018",
+        "id": 949008049158594560,
+        "id_str": "949008049158594560",
+        "text": "@FiftyShades Is this movie about how intense 2 ppl f***ing? What's so great about this movie?",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "FiftyShades",
+              "name": "Fifty Shades Freed",
+              "id": 634706405,
+              "id_str": "634706405",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\">Twitter for Android<\/a>",
+        "in_reply_to_status_id": 927566277798801409,
+        "in_reply_to_status_id_str": "927566277798801409",
+        "in_reply_to_user_id": 634706405,
+        "in_reply_to_user_id_str": "634706405",
+        "in_reply_to_screen_name": "FiftyShades",
+        "user": {
+          "id": 1552182733,
+          "id_str": "1552182733",
+          "name": "Related",
+          "screen_name": "relatedelegance",
+          "location": "",
+          "description": "",
+          "url": null,
+          "entities": {
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 1599,
+          "friends_count": 1366,
+          "listed_count": 6,
+          "created_at": "Fri Jun 28 04:06:11 +0000 2013",
+          "favourites_count": 375,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 59938,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "C0DEED",
+          "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+          "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/963947103436251136\/clrSAh0J_normal.jpg",
+          "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/963947103436251136\/clrSAh0J_normal.jpg",
+          "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/1552182733\/1372473777",
+          "profile_link_color": "1DA1F2",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": true,
+          "default_profile": true,
+          "default_profile_image": false,
+          "can_media_tag": true,
+          "followed_by": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 5,
+        "favorite_count": 2,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Mon Nov 06 16:09:53 +0000 2017",
+        "id": 927568731173261314,
+        "id_str": "927568731173261314",
+        "text": "@FiftyShades MY BLOOD PRESSURE ROSE TO 200!! THE CLUB SCENCE, MRS. GREY, THE CAR CHASE, EVERYTHING SEEMS JUST LIKE… https:\/\/t.co\/V7Ax36mfGl",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "FiftyShades",
+              "name": "Fifty Shades Freed",
+              "id": 634706405,
+              "id_str": "634706405",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https:\/\/t.co\/V7Ax36mfGl",
+              "expanded_url": "https:\/\/twitter.com\/i\/web\/status\/927568731173261314",
+              "display_url": "twitter.com\/i\/web\/status\/9…",
+              "indices": [
+                116,
+                139
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\">Twitter for iPhone<\/a>",
+        "in_reply_to_status_id": 927566277798801409,
+        "in_reply_to_status_id_str": "927566277798801409",
+        "in_reply_to_user_id": 634706405,
+        "in_reply_to_user_id_str": "634706405",
+        "in_reply_to_screen_name": "FiftyShades",
+        "user": {
+          "id": 156281082,
+          "id_str": "156281082",
+          "name": "jennie🎄",
+          "screen_name": "jenniemahone",
+          "location": "Texas, USA",
+          "description": "they all warned us about times like these",
+          "url": null,
+          "entities": {
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 4356,
+          "friends_count": 57,
+          "listed_count": 71,
+          "created_at": "Wed Jun 16 14:13:57 +0000 2010",
+          "favourites_count": 3028,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 121076,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "000000",
+          "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme11\/bg.gif",
+          "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme11\/bg.gif",
+          "profile_background_tile": true,
+          "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1194077703529488384\/9vsLlZ3U_normal.jpg",
+          "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1194077703529488384\/9vsLlZ3U_normal.jpg",
+          "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/156281082\/1573525358",
+          "profile_link_color": "F58EA8",
+          "profile_sidebar_border_color": "FFFFFF",
+          "profile_sidebar_fill_color": "E5507E",
+          "profile_text_color": "362720",
+          "profile_use_background_image": true,
+          "has_extended_profile": true,
+          "default_profile": false,
+          "default_profile_image": false,
+          "can_media_tag": false,
+          "followed_by": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 3,
+        "favorite_count": 37,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Sun Nov 12 17:54:07 +0000 2017",
+        "id": 929769288780664832,
+        "id_str": "929769288780664832",
+        "text": "@FiftyShades @KingRebellious @Juss_Neeyo when this comes out we are going, it's a date.",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "FiftyShades",
+              "name": "Fifty Shades Freed",
+              "id": 634706405,
+              "id_str": "634706405",
+              "indices": [
+                0,
+                12
+              ]
+            },
+            {
+              "screen_name": "KingRebellious",
+              "name": "xoRebelliousKing",
+              "id": 973414154676703232,
+              "id_str": "973414154676703232",
+              "indices": [
+                13,
+                28
+              ]
+            },
+            {
+              "screen_name": "Juss_Neeyo",
+              "name": "Neo🌻",
+              "id": 797726923,
+              "id_str": "797726923",
+              "indices": [
+                29,
+                40
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\">Twitter for Android<\/a>",
+        "in_reply_to_status_id": 927566277798801409,
+        "in_reply_to_status_id_str": "927566277798801409",
+        "in_reply_to_user_id": 634706405,
+        "in_reply_to_user_id_str": "634706405",
+        "in_reply_to_screen_name": "FiftyShades",
+        "user": {
+          "id": 780767720333725697,
+          "id_str": "780767720333725697",
+          "name": "Ndzalama.",
+          "screen_name": "ndzalichabalala",
+          "location": "South Africa",
+          "description": "the sun, working on her flowers🖤.",
+          "url": null,
+          "entities": {
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 1748,
+          "friends_count": 572,
+          "listed_count": 3,
+          "created_at": "Tue Sep 27 13:55:05 +0000 2016",
+          "favourites_count": 378,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 11899,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "F5F8FA",
+          "profile_background_image_url": null,
+          "profile_background_image_url_https": null,
+          "profile_background_tile": false,
+          "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1199434051926536193\/WNRKm7lq_normal.jpg",
+          "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1199434051926536193\/WNRKm7lq_normal.jpg",
+          "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/780767720333725697\/1574802317",
+          "profile_link_color": "1DA1F2",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": true,
+          "default_profile": true,
+          "default_profile_image": false,
+          "can_media_tag": false,
+          "followed_by": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 2,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Thu Jan 04 07:16:55 +0000 2018",
+        "id": 948815491371556865,
+        "id_str": "948815491371556865",
+        "text": "@FiftyShades I BETTER HAVE A NIGGA BY VALENTINES DAY TO GO WATCH THIS SHIT WITH !!!",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "FiftyShades",
+              "name": "Fifty Shades Freed",
+              "id": 634706405,
+              "id_str": "634706405",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\">Twitter for iPhone<\/a>",
+        "in_reply_to_status_id": 927566277798801409,
+        "in_reply_to_status_id_str": "927566277798801409",
+        "in_reply_to_user_id": 634706405,
+        "in_reply_to_user_id_str": "634706405",
+        "in_reply_to_screen_name": "FiftyShades",
+        "user": {
+          "id": 3235501309,
+          "id_str": "3235501309",
+          "name": "araia :)",
+          "screen_name": "araiagarcia",
+          "location": "sa,tx",
+          "description": "sc:araiahope ig:uhhhrayyyuhhh",
+          "url": null,
+          "entities": {
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 538,
+          "friends_count": 511,
+          "listed_count": 0,
+          "created_at": "Wed Jun 03 21:47:24 +0000 2015",
+          "favourites_count": 29774,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 13835,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "C0DEED",
+          "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+          "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1192571922795712515\/5IrmOixJ_normal.jpg",
+          "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1192571922795712515\/5IrmOixJ_normal.jpg",
+          "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/3235501309\/1574447460",
+          "profile_link_color": "1DA1F2",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": true,
+          "default_profile": true,
+          "default_profile_image": false,
+          "can_media_tag": false,
+          "followed_by": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 2,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Tue Nov 07 00:23:01 +0000 2017",
+        "id": 927692831229140992,
+        "id_str": "927692831229140992",
+        "text": "@FiftyShades @BaileyWill82 \nWe need to see this",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "FiftyShades",
+              "name": "Fifty Shades Freed",
+              "id": 634706405,
+              "id_str": "634706405",
+              "indices": [
+                0,
+                12
+              ]
+            },
+            {
+              "screen_name": "BaileyWill82",
+              "name": "Bailey",
+              "id": 739111640814125056,
+              "id_str": "739111640814125056",
+              "indices": [
+                13,
+                26
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\">Twitter for Android<\/a>",
+        "in_reply_to_status_id": 927566277798801409,
+        "in_reply_to_status_id_str": "927566277798801409",
+        "in_reply_to_user_id": 634706405,
+        "in_reply_to_user_id_str": "634706405",
+        "in_reply_to_screen_name": "FiftyShades",
+        "user": {
+          "id": 738836822084718592,
+          "id_str": "738836822084718592",
+          "name": "Cherokee Mercedes",
+          "screen_name": "Cherokeewill19",
+          "location": "",
+          "description": "Bailey Chance ❤| Proverbs 31:25. 🌸",
+          "url": null,
+          "entities": {
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 115,
+          "friends_count": 421,
+          "listed_count": 0,
+          "created_at": "Fri Jun 03 20:56:40 +0000 2016",
+          "favourites_count": 14478,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 1184,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "F5F8FA",
+          "profile_background_image_url": null,
+          "profile_background_image_url_https": null,
+          "profile_background_tile": false,
+          "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1134553794791071745\/oN3otPaS_normal.jpg",
+          "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1134553794791071745\/oN3otPaS_normal.jpg",
+          "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/738836822084718592\/1558262208",
+          "profile_link_color": "1DA1F2",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": true,
+          "default_profile": true,
+          "default_profile_image": false,
+          "can_media_tag": true,
+          "followed_by": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 2,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    }
+]

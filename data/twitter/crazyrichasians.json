@@ -1,0 +1,495 @@
+[
+    {
+        "created_at": "Tue Apr 24 02:01:46 +0000 2018",
+        "id": 988598846686093313,
+        "id_str": "988598846686093313",
+        "text": "@CrazyRichMovie Is it me or august 17th feels like a thousand years apart cus im DYING to watch this. AND THEY BETT… https:\/\/t.co\/kmPkxZmrhb",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "CrazyRichMovie",
+              "name": "Crazy Rich Asians",
+              "id": 874401319171178496,
+              "id_str": "874401319171178496",
+              "indices": [
+                0,
+                15
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https:\/\/t.co\/kmPkxZmrhb",
+              "expanded_url": "https:\/\/twitter.com\/i\/web\/status\/988598846686093313",
+              "display_url": "twitter.com\/i\/web\/status\/9…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\">Twitter for iPhone<\/a>",
+        "in_reply_to_status_id": 988492703225626624,
+        "in_reply_to_status_id_str": "988492703225626624",
+        "in_reply_to_user_id": 874401319171178496,
+        "in_reply_to_user_id_str": "874401319171178496",
+        "in_reply_to_screen_name": "CrazyRichMovie",
+        "user": {
+          "id": 77442114,
+          "id_str": "77442114",
+          "name": "𝘧𝘦𝘭𝘪𝘹",
+          "screen_name": "celfhrist",
+          "location": "🇮🇩",
+          "description": "23. bless this mess.",
+          "url": null,
+          "entities": {
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 920,
+          "friends_count": 776,
+          "listed_count": 8,
+          "created_at": "Sat Sep 26 10:01:58 +0000 2009",
+          "favourites_count": 1683,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 82716,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "1A1B1F",
+          "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme9\/bg.gif",
+          "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme9\/bg.gif",
+          "profile_background_tile": false,
+          "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1199412683616837632\/33D7f3bZ_normal.jpg",
+          "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1199412683616837632\/33D7f3bZ_normal.jpg",
+          "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/77442114\/1574797393",
+          "profile_link_color": "2FC2EF",
+          "profile_sidebar_border_color": "181A1E",
+          "profile_sidebar_fill_color": "252429",
+          "profile_text_color": "666666",
+          "profile_use_background_image": true,
+          "has_extended_profile": true,
+          "default_profile": false,
+          "default_profile_image": false,
+          "can_media_tag": false,
+          "followed_by": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 9,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      {
+        "created_at": "Tue Apr 24 13:56:40 +0000 2018",
+        "id": 988778753231745024,
+        "id_str": "988778753231745024",
+        "text": "@CrazyRichMovie Yellow on the outside, white on the inside lmao",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "CrazyRichMovie",
+              "name": "Crazy Rich Asians",
+              "id": 874401319171178496,
+              "id_str": "874401319171178496",
+              "indices": [
+                0,
+                15
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\">Twitter for Android<\/a>",
+        "in_reply_to_status_id": 988492703225626624,
+        "in_reply_to_status_id_str": "988492703225626624",
+        "in_reply_to_user_id": 874401319171178496,
+        "in_reply_to_user_id_str": "874401319171178496",
+        "in_reply_to_screen_name": "CrazyRichMovie",
+        "user": {
+          "id": 166060903,
+          "id_str": "166060903",
+          "name": "𝒟",
+          "screen_name": "mebeingdumb",
+          "location": "Bandung, Jawa Barat",
+          "description": "Am I doing this life thing right?",
+          "url": "https:\/\/t.co\/lqe5i0A9Di",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https:\/\/t.co\/lqe5i0A9Di",
+                  "expanded_url": "https:\/\/open.spotify.com\/user\/21m6g4m3mgxcvscnzf5gjrg5q\/playlist\/4DJvib2AGbscgzBnniCfP9",
+                  "display_url": "open.spotify.com\/user\/21m6g4m3m…",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 2367,
+          "friends_count": 559,
+          "listed_count": 2,
+          "created_at": "Tue Jul 13 06:30:22 +0000 2010",
+          "favourites_count": 4408,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 54357,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "022330",
+          "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme15\/bg.png",
+          "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme15\/bg.png",
+          "profile_background_tile": true,
+          "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1192465409363984384\/WT8fmXQM_normal.jpg",
+          "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1192465409363984384\/WT8fmXQM_normal.jpg",
+          "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/166060903\/1545284093",
+          "profile_link_color": "ED3B4A",
+          "profile_sidebar_border_color": "FFFFFF",
+          "profile_sidebar_fill_color": "C0DFEC",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": true,
+          "default_profile": false,
+          "default_profile_image": false,
+          "can_media_tag": false,
+          "followed_by": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "regular"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 16,
+        "favorite_count": 298,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },{
+        "created_at": "Mon Apr 23 21:33:05 +0000 2018",
+        "id": 988531226272260099,
+        "id_str": "988531226272260099",
+        "text": "@emiIeeg @CrazyRichMovie Step 1: Be Asian\nStep 2: Get rich\nStep 3: ???????\nStep 4: Profit",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "CrazyRichMovie",
+              "name": "Crazy Rich Asians",
+              "id": 874401319171178496,
+              "id_str": "874401319171178496",
+              "indices": [
+                9,
+                24
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\">Twitter for Android<\/a>",
+        "in_reply_to_status_id": 988523723543244800,
+        "in_reply_to_status_id_str": "988523723543244800",
+        "in_reply_to_user_id": 447744191,
+        "in_reply_to_user_id_str": "447744191",
+        "in_reply_to_screen_name": "emiIeeee_",
+        "user": {
+          "id": 2614640707,
+          "id_str": "2614640707",
+          "name": "Parimal Vyas",
+          "screen_name": "VyasParimal",
+          "location": "",
+          "description": "Illinois State University Alum | Acacia Fraternity he\/him",
+          "url": null,
+          "entities": {
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 217,
+          "friends_count": 270,
+          "listed_count": 0,
+          "created_at": "Thu Jul 10 02:20:42 +0000 2014",
+          "favourites_count": 20510,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 2144,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "C0DEED",
+          "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+          "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1051970903079309312\/8EnmrJ6m_normal.jpg",
+          "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1051970903079309312\/8EnmrJ6m_normal.jpg",
+          "profile_link_color": "1DA1F2",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": true,
+          "default_profile": true,
+          "default_profile_image": false,
+          "can_media_tag": true,
+          "followed_by": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 7,
+        "favorite_count": 130,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },{
+        "created_at": "Fri Apr 27 00:34:22 +0000 2018",
+        "id": 989664012743913473,
+        "id_str": "989664012743913473",
+        "text": "@CrazyRichMovie Beautiful Asian women, handsome Asian men AND COMEDY RICHNESS ROMANCE???? ALL IN ONE MOVIE. I’m so… https:\/\/t.co\/c4jfxSEEYD",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "CrazyRichMovie",
+              "name": "Crazy Rich Asians",
+              "id": 874401319171178496,
+              "id_str": "874401319171178496",
+              "indices": [
+                0,
+                15
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https:\/\/t.co\/c4jfxSEEYD",
+              "expanded_url": "https:\/\/twitter.com\/i\/web\/status\/989664012743913473",
+              "display_url": "twitter.com\/i\/web\/status\/9…",
+              "indices": [
+                116,
+                139
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\">Twitter for iPhone<\/a>",
+        "in_reply_to_status_id": 988492703225626624,
+        "in_reply_to_status_id_str": "988492703225626624",
+        "in_reply_to_user_id": 874401319171178496,
+        "in_reply_to_user_id_str": "874401319171178496",
+        "in_reply_to_screen_name": "CrazyRichMovie",
+        "user": {
+          "id": 1057277342,
+          "id_str": "1057277342",
+          "name": "mom",
+          "screen_name": "trippmeow_",
+          "location": "DTX",
+          "description": "loves it",
+          "url": "https:\/\/t.co\/9ryRcMhFQG",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https:\/\/t.co\/9ryRcMhFQG",
+                  "expanded_url": "https:\/\/www.instagram.com\/ohmalaya\/",
+                  "display_url": "instagram.com\/ohmalaya\/",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 1480,
+          "friends_count": 927,
+          "listed_count": 5,
+          "created_at": "Thu Jan 03 08:56:26 +0000 2013",
+          "favourites_count": 23525,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 92941,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "000000",
+          "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+          "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+          "profile_background_tile": true,
+          "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1067126316342874112\/9ao2mhlf_normal.jpg",
+          "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1067126316342874112\/9ao2mhlf_normal.jpg",
+          "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/1057277342\/1541619053",
+          "profile_link_color": "F58EA8",
+          "profile_sidebar_border_color": "000000",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": true,
+          "default_profile": false,
+          "default_profile_image": false,
+          "can_media_tag": false,
+          "followed_by": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 8,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      {
+        "created_at": "Tue Apr 24 17:10:49 +0000 2018",
+        "id": 988827615724294145,
+        "id_str": "988827615724294145",
+        "text": "@CrazyRichMovie How about moderate middle-class ones?",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "CrazyRichMovie",
+              "name": "Crazy Rich Asians",
+              "id": 874401319171178496,
+              "id_str": "874401319171178496",
+              "indices": [
+                0,
+                15
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\">Twitter for iPhone<\/a>",
+        "in_reply_to_status_id": 988492703225626624,
+        "in_reply_to_status_id_str": "988492703225626624",
+        "in_reply_to_user_id": 874401319171178496,
+        "in_reply_to_user_id_str": "874401319171178496",
+        "in_reply_to_screen_name": "CrazyRichMovie",
+        "user": {
+          "id": 14084639,
+          "id_str": "14084639",
+          "name": "Yom",
+          "screen_name": "moymoy",
+          "location": "",
+          "description": "Reduce, reuse, recycle. Introvert. Don’t follow me.",
+          "url": null,
+          "entities": {
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 22,
+          "friends_count": 29,
+          "listed_count": 4,
+          "created_at": "Wed Mar 05 19:36:26 +0000 2008",
+          "favourites_count": 2731,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 27488,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "0099B9",
+          "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme4\/bg.gif",
+          "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme4\/bg.gif",
+          "profile_background_tile": false,
+          "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/51555732\/minSafHal01_normal.jpg",
+          "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/51555732\/minSafHal01_normal.jpg",
+          "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/14084639\/1464741807",
+          "profile_link_color": "0099B9",
+          "profile_sidebar_border_color": "5ED4DC",
+          "profile_sidebar_fill_color": "95E8EC",
+          "profile_text_color": "3C3940",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "can_media_tag": false,
+          "followed_by": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 5,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      }
+]

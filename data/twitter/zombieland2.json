@@ -1,0 +1,688 @@
+[
+{
+    "created_at": "Thu Jul 25 18:03:14 +0000 2019",
+    "id": 1154452059652890624,
+    "id_str": "1154452059652890624",
+    "text": "@Zombieland 10 years later 😩 so fucking excited",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "Zombieland",
+          "name": "Zombieland: Double Tap",
+          "id": 20651402,
+          "id_str": "20651402",
+          "indices": [
+            0,
+            11
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\">Twitter for Android<\/a>",
+    "in_reply_to_status_id": 1154421046444875778,
+    "in_reply_to_status_id_str": "1154421046444875778",
+    "in_reply_to_user_id": 20651402,
+    "in_reply_to_user_id_str": "20651402",
+    "in_reply_to_screen_name": "Zombieland",
+    "user": {
+      "id": 85218024,
+      "id_str": "85218024",
+      "name": "𝙙ɹ𝙣𝙯𝙯əʎ",
+      "screen_name": "yezzzurp",
+      "location": "LV426",
+      "description": "𓆣𝙚𝙫𝙚𝙧𝙮𝙤𝙣𝙚 𝙞𝙨 𝙬𝙚𝙡𝙘𝙤𝙢𝙚𓆣\n\n               𓁼𓃠𓃰",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 25384,
+      "friends_count": 25655,
+      "listed_count": 37,
+      "created_at": "Mon Oct 26 02:21:13 +0000 2009",
+      "favourites_count": 42008,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 38739,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "00AAFF",
+      "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme15\/bg.png",
+      "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme15\/bg.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1193320852630073344\/kzY3apKC_normal.jpg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1193320852630073344\/kzY3apKC_normal.jpg",
+      "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/85218024\/1574325325",
+      "profile_link_color": "00A6FF",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "EDEDED",
+      "profile_text_color": "04CF2D",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "can_media_tag": true,
+      "followed_by": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 119,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+},
+{
+    "created_at": "Thu Jul 25 16:45:55 +0000 2019",
+    "id": 1154432602088103936,
+    "id_str": "1154432602088103936",
+    "text": "@Zombieland @AGramuglia Haven’t watched the first movie, but I’ve gotta say.\n\nThis looks enjoyable, I think I’ll mi… https:\/\/t.co\/a3CYpEMhMm",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "Zombieland",
+          "name": "Zombieland: Double Tap",
+          "id": 20651402,
+          "id_str": "20651402",
+          "indices": [
+            0,
+            11
+          ]
+        },
+        {
+          "screen_name": "AGramuglia",
+          "name": "Ant is Doing NaNoWriMo...",
+          "id": 619959481,
+          "id_str": "619959481",
+          "indices": [
+            12,
+            23
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https:\/\/t.co\/a3CYpEMhMm",
+          "expanded_url": "https:\/\/twitter.com\/i\/web\/status\/1154432602088103936",
+          "display_url": "twitter.com\/i\/web\/status\/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\">Twitter for iPhone<\/a>",
+    "in_reply_to_status_id": 1154421046444875778,
+    "in_reply_to_status_id_str": "1154421046444875778",
+    "in_reply_to_user_id": 20651402,
+    "in_reply_to_user_id_str": "20651402",
+    "in_reply_to_screen_name": "Zombieland",
+    "user": {
+      "id": 952604999527358466,
+      "id_str": "952604999527358466",
+      "name": "The Arabian Eagle🦅",
+      "screen_name": "KingFahad360",
+      "location": "",
+      "description": "19| Bisexual| Lover Of Film and Animation. Loves to draw Fan Art| #ActuallyAutistic. This account sometimes tweets stuff that is NSFW. Girlfriend is @SashaSFW",
+      "url": "https:\/\/t.co\/jHGHaqiI1w",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https:\/\/t.co\/jHGHaqiI1w",
+              "expanded_url": "https:\/\/psnprofiles.com\/Soviet_Albania",
+              "display_url": "psnprofiles.com\/Soviet_Albania",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1203,
+      "friends_count": 1164,
+      "listed_count": 13,
+      "created_at": "Sun Jan 14 18:15:05 +0000 2018",
+      "favourites_count": 35903,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 52855,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1190045852204781569\/cHh3zdbN_normal.jpg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1190045852204781569\/cHh3zdbN_normal.jpg",
+      "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/952604999527358466\/1573669157",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "can_media_tag": false,
+      "followed_by": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 15,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+{
+    "created_at": "Thu Jul 25 16:13:53 +0000 2019",
+    "id": 1154424542804291589,
+    "id_str": "1154424542804291589",
+    "text": "@Zombieland Hell yes.",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "Zombieland",
+          "name": "Zombieland: Double Tap",
+          "id": 20651402,
+          "id_str": "20651402",
+          "indices": [
+            0,
+            11
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"https:\/\/mobile.twitter.com\" rel=\"nofollow\">Twitter Web App<\/a>",
+    "in_reply_to_status_id": 1154421046444875778,
+    "in_reply_to_status_id_str": "1154421046444875778",
+    "in_reply_to_user_id": 20651402,
+    "in_reply_to_user_id_str": "20651402",
+    "in_reply_to_screen_name": "Zombieland",
+    "user": {
+      "id": 123574362,
+      "id_str": "123574362",
+      "name": "FANGORIA",
+      "screen_name": "FANGORIA",
+      "location": "",
+      "description": "The First in Fright since 1979, celebrating forty years of horror.",
+      "url": "https:\/\/t.co\/hJ4v006aL6",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https:\/\/t.co\/hJ4v006aL6",
+              "expanded_url": "http:\/\/www.FANGORIA.com",
+              "display_url": "FANGORIA.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 169355,
+      "friends_count": 600,
+      "listed_count": 1805,
+      "created_at": "Tue Mar 16 14:29:18 +0000 2010",
+      "favourites_count": 31306,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 12503,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "1A1B1F",
+      "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme9\/bg.gif",
+      "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme9\/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1196522833897312256\/Lne2xtgT_normal.jpg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1196522833897312256\/Lne2xtgT_normal.jpg",
+      "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/123574362\/1574108249",
+      "profile_link_color": "000000",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "252429",
+      "profile_text_color": "666666",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "can_media_tag": false,
+      "followed_by": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 74,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+{
+    "created_at": "Thu Jul 25 16:05:21 +0000 2019",
+    "id": 1154422392523034624,
+    "id_str": "1154422392523034624",
+    "text": "@Zombieland i’m so fkkin happy https:\/\/t.co\/ZmIRiZDzrK",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "Zombieland",
+          "name": "Zombieland: Double Tap",
+          "id": 20651402,
+          "id_str": "20651402",
+          "indices": [
+            0,
+            11
+          ]
+        }
+      ],
+      "urls": [],
+      "media": [
+        {
+          "id": 1154422386810339329,
+          "id_str": "1154422386810339329",
+          "indices": [
+            31,
+            54
+          ],
+          "media_url": "http:\/\/pbs.twimg.com\/tweet_video_thumb\/EAVVC16WwAElJY2.jpg",
+          "media_url_https": "https:\/\/pbs.twimg.com\/tweet_video_thumb\/EAVVC16WwAElJY2.jpg",
+          "url": "https:\/\/t.co\/ZmIRiZDzrK",
+          "display_url": "pic.twitter.com\/ZmIRiZDzrK",
+          "expanded_url": "https:\/\/twitter.com\/AlexLeeNowak\/status\/1154422392523034624\/photo\/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 160,
+              "h": 180,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 160,
+              "h": 180,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 160,
+              "h": 180,
+              "resize": "fit"
+            }
+          },
+          "features": {}
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1154422386810339329,
+          "id_str": "1154422386810339329",
+          "indices": [
+            31,
+            54
+          ],
+          "media_url": "http:\/\/pbs.twimg.com\/tweet_video_thumb\/EAVVC16WwAElJY2.jpg",
+          "media_url_https": "https:\/\/pbs.twimg.com\/tweet_video_thumb\/EAVVC16WwAElJY2.jpg",
+          "url": "https:\/\/t.co\/ZmIRiZDzrK",
+          "display_url": "pic.twitter.com\/ZmIRiZDzrK",
+          "expanded_url": "https:\/\/twitter.com\/AlexLeeNowak\/status\/1154422392523034624\/photo\/1",
+          "type": "animated_gif",
+          "sizes": {
+            "small": {
+              "w": 160,
+              "h": 180,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 160,
+              "h": 180,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 160,
+              "h": 180,
+              "resize": "fit"
+            }
+          },
+          "video_info": {
+            "aspect_ratio": [
+              8,
+              9
+            ],
+            "variants": [
+              {
+                "bitrate": 0,
+                "content_type": "video\/mp4",
+                "url": "https:\/\/video.twimg.com\/tweet_video\/EAVVC16WwAElJY2.mp4"
+              }
+            ]
+          },
+          "features": {}
+        }
+      ]
+    },
+    "source": "<a href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\">Twitter for iPhone<\/a>",
+    "in_reply_to_status_id": 1154421046444875778,
+    "in_reply_to_status_id_str": "1154421046444875778",
+    "in_reply_to_user_id": 20651402,
+    "in_reply_to_user_id_str": "20651402",
+    "in_reply_to_screen_name": "Zombieland",
+    "user": {
+      "id": 311027736,
+      "id_str": "311027736",
+      "name": "Alex Lee",
+      "screen_name": "AlexLeeNowak",
+      "location": "atlanta, ga",
+      "description": "\"yIKES\" -my catchphrase and my motto",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 203,
+      "friends_count": 153,
+      "listed_count": 0,
+      "created_at": "Sat Jun 04 19:31:46 +0000 2011",
+      "favourites_count": 10069,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 5064,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "009999",
+      "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme14\/bg.gif",
+      "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme14\/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1199469715149742080\/wW5RyLmD_normal.jpg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1199469715149742080\/wW5RyLmD_normal.jpg",
+      "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/311027736\/1528669652",
+      "profile_link_color": "9D6B84",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "252429",
+      "profile_text_color": "666666",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "can_media_tag": false,
+      "followed_by": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 53,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "lang": "en"
+  },
+{
+    "created_at": "Thu Jul 25 16:05:21 +0000 2019",
+    "id": 1154422392523034624,
+    "id_str": "1154422392523034624",
+    "text": "@Zombieland i’m so fkkin happy https:\/\/t.co\/ZmIRiZDzrK",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "Zombieland",
+          "name": "Zombieland: Double Tap",
+          "id": 20651402,
+          "id_str": "20651402",
+          "indices": [
+            0,
+            11
+          ]
+        }
+      ],
+      "urls": [],
+      "media": [
+        {
+          "id": 1154422386810339329,
+          "id_str": "1154422386810339329",
+          "indices": [
+            31,
+            54
+          ],
+          "media_url": "http:\/\/pbs.twimg.com\/tweet_video_thumb\/EAVVC16WwAElJY2.jpg",
+          "media_url_https": "https:\/\/pbs.twimg.com\/tweet_video_thumb\/EAVVC16WwAElJY2.jpg",
+          "url": "https:\/\/t.co\/ZmIRiZDzrK",
+          "display_url": "pic.twitter.com\/ZmIRiZDzrK",
+          "expanded_url": "https:\/\/twitter.com\/AlexLeeNowak\/status\/1154422392523034624\/photo\/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 160,
+              "h": 180,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 160,
+              "h": 180,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 160,
+              "h": 180,
+              "resize": "fit"
+            }
+          },
+          "features": {}
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1154422386810339329,
+          "id_str": "1154422386810339329",
+          "indices": [
+            31,
+            54
+          ],
+          "media_url": "http:\/\/pbs.twimg.com\/tweet_video_thumb\/EAVVC16WwAElJY2.jpg",
+          "media_url_https": "https:\/\/pbs.twimg.com\/tweet_video_thumb\/EAVVC16WwAElJY2.jpg",
+          "url": "https:\/\/t.co\/ZmIRiZDzrK",
+          "display_url": "pic.twitter.com\/ZmIRiZDzrK",
+          "expanded_url": "https:\/\/twitter.com\/AlexLeeNowak\/status\/1154422392523034624\/photo\/1",
+          "type": "animated_gif",
+          "sizes": {
+            "small": {
+              "w": 160,
+              "h": 180,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 160,
+              "h": 180,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 160,
+              "h": 180,
+              "resize": "fit"
+            }
+          },
+          "video_info": {
+            "aspect_ratio": [
+              8,
+              9
+            ],
+            "variants": [
+              {
+                "bitrate": 0,
+                "content_type": "video\/mp4",
+                "url": "https:\/\/video.twimg.com\/tweet_video\/EAVVC16WwAElJY2.mp4"
+              }
+            ]
+          },
+          "features": {}
+        }
+      ]
+    },
+    "source": "<a href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\">Twitter for iPhone<\/a>",
+    "in_reply_to_status_id": 1154421046444875778,
+    "in_reply_to_status_id_str": "1154421046444875778",
+    "in_reply_to_user_id": 20651402,
+    "in_reply_to_user_id_str": "20651402",
+    "in_reply_to_screen_name": "Zombieland",
+    "user": {
+      "id": 311027736,
+      "id_str": "311027736",
+      "name": "Alex Lee",
+      "screen_name": "AlexLeeNowak",
+      "location": "atlanta, ga",
+      "description": "\"yIKES\" -my catchphrase and my motto",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 203,
+      "friends_count": 153,
+      "listed_count": 0,
+      "created_at": "Sat Jun 04 19:31:46 +0000 2011",
+      "favourites_count": 10069,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 5064,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "009999",
+      "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme14\/bg.gif",
+      "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme14\/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1199469715149742080\/wW5RyLmD_normal.jpg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1199469715149742080\/wW5RyLmD_normal.jpg",
+      "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/311027736\/1528669652",
+      "profile_link_color": "9D6B84",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "252429",
+      "profile_text_color": "666666",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "can_media_tag": false,
+      "followed_by": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 53,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "lang": "en"
+  }
+]

@@ -1,0 +1,593 @@
+[
+    {
+        "created_at": "Wed Apr 03 14:44:38 +0000 2019",
+        "id": 1113452251673026561,
+        "id_str": "1113452251673026561",
+        "text": "@jokermovie This looks awesome",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "jokermovie",
+              "name": "Joker Movie",
+              "id": 1038128227485532160,
+              "id_str": "1038128227485532160",
+              "indices": [
+                0,
+                11
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\">Twitter for iPhone<\/a>",
+        "in_reply_to_status_id": 1113425942574034945,
+        "in_reply_to_status_id_str": "1113425942574034945",
+        "in_reply_to_user_id": 1038128227485532160,
+        "in_reply_to_user_id_str": "1038128227485532160",
+        "in_reply_to_screen_name": "jokermovie",
+        "user": {
+          "id": 24735658,
+          "id_str": "24735658",
+          "name": "dmg04",
+          "screen_name": "A_dmg04",
+          "location": "Seattle, WA",
+          "description": "Community Manager at Bungie. He\/Him. For Help Articles and Guided Support, please visit:",
+          "url": "https:\/\/t.co\/BxYSj7iDN3",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https:\/\/t.co\/BxYSj7iDN3",
+                  "expanded_url": "https:\/\/help.bungie.net\/",
+                  "display_url": "help.bungie.net",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 92938,
+          "friends_count": 1626,
+          "listed_count": 425,
+          "created_at": "Mon Mar 16 17:55:49 +0000 2009",
+          "favourites_count": 28652,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 15273,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "131516",
+          "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme14\/bg.gif",
+          "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme14\/bg.gif",
+          "profile_background_tile": true,
+          "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1198783956788768768\/qgz3pD0Q_normal.jpg",
+          "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1198783956788768768\/qgz3pD0Q_normal.jpg",
+          "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/24735658\/1565909222",
+          "profile_link_color": "FAB81E",
+          "profile_sidebar_border_color": "000000",
+          "profile_sidebar_fill_color": "EFEFEF",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": true,
+          "default_profile": false,
+          "default_profile_image": false,
+          "can_media_tag": false,
+          "followed_by": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 159,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Wed Apr 03 19:53:30 +0000 2019",
+        "id": 1113529980716244993,
+        "id_str": "1113529980716244993",
+        "text": "@TheFFRealist @jokermovie No performance of joker will ever come close to dark knight",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "TheFFRealist",
+              "name": "Michael Hauff",
+              "id": 2971353131,
+              "id_str": "2971353131",
+              "indices": [
+                0,
+                13
+              ]
+            },
+            {
+              "screen_name": "jokermovie",
+              "name": "Joker Movie",
+              "id": 1038128227485532160,
+              "id_str": "1038128227485532160",
+              "indices": [
+                14,
+                25
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\">Twitter for iPhone<\/a>",
+        "in_reply_to_status_id": 1113426151568023553,
+        "in_reply_to_status_id_str": "1113426151568023553",
+        "in_reply_to_user_id": 2971353131,
+        "in_reply_to_user_id_str": "2971353131",
+        "in_reply_to_screen_name": "TheFFRealist",
+        "user": {
+          "id": 1710365509,
+          "id_str": "1710365509",
+          "name": "Taylor schmidt",
+          "screen_name": "tschmidt1212",
+          "location": "",
+          "description": "",
+          "url": null,
+          "entities": {
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 108,
+          "friends_count": 191,
+          "listed_count": 1,
+          "created_at": "Thu Aug 29 15:40:39 +0000 2013",
+          "favourites_count": 6122,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 1035,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "C0DEED",
+          "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+          "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/978032460511391744\/KQYYkEBm_normal.jpg",
+          "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/978032460511391744\/KQYYkEBm_normal.jpg",
+          "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/1710365509\/1571472148",
+          "profile_link_color": "1DA1F2",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": true,
+          "default_profile": true,
+          "default_profile_image": false,
+          "can_media_tag": true,
+          "followed_by": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 50,
+        "favorite_count": 964,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Wed Apr 03 13:44:21 +0000 2019",
+        "id": 1113437080724680704,
+        "id_str": "1113437080724680704",
+        "text": "@jokermovie This doesn't really feel like a Joker movie...that aspect feels tacked on compared to what we're shown.… https:\/\/t.co\/xIZylCVAEd",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "jokermovie",
+              "name": "Joker Movie",
+              "id": 1038128227485532160,
+              "id_str": "1038128227485532160",
+              "indices": [
+                0,
+                11
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https:\/\/t.co\/xIZylCVAEd",
+              "expanded_url": "https:\/\/twitter.com\/i\/web\/status\/1113437080724680704",
+              "display_url": "twitter.com\/i\/web\/status\/1…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\">Twitter for Android<\/a>",
+        "in_reply_to_status_id": 1113425942574034945,
+        "in_reply_to_status_id_str": "1113425942574034945",
+        "in_reply_to_user_id": 1038128227485532160,
+        "in_reply_to_user_id_str": "1038128227485532160",
+        "in_reply_to_screen_name": "jokermovie",
+        "user": {
+          "id": 2204420810,
+          "id_str": "2204420810",
+          "name": "abril alejandra",
+          "screen_name": "hisrebelblue",
+          "location": "",
+          "description": "🦎🦎🦎",
+          "url": null,
+          "entities": {
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 59,
+          "friends_count": 138,
+          "listed_count": 0,
+          "created_at": "Wed Nov 20 06:58:34 +0000 2013",
+          "favourites_count": 9980,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 8123,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "000000",
+          "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+          "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1195886896024576000\/9AhN4Z38_normal.jpg",
+          "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1195886896024576000\/9AhN4Z38_normal.jpg",
+          "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/2204420810\/1529288117",
+          "profile_link_color": "F5ABB5",
+          "profile_sidebar_border_color": "000000",
+          "profile_sidebar_fill_color": "000000",
+          "profile_text_color": "000000",
+          "profile_use_background_image": false,
+          "has_extended_profile": true,
+          "default_profile": false,
+          "default_profile_image": false,
+          "can_media_tag": false,
+          "followed_by": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 22,
+        "favorite_count": 492,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Wed Apr 03 16:08:11 +0000 2019",
+        "id": 1113473276766875648,
+        "id_str": "1113473276766875648",
+        "text": "@jokermovie WOW",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "jokermovie",
+              "name": "Joker Movie",
+              "id": 1038128227485532160,
+              "id_str": "1038128227485532160",
+              "indices": [
+                0,
+                11
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\">Twitter for iPhone<\/a>",
+        "in_reply_to_status_id": 1113425942574034945,
+        "in_reply_to_status_id_str": "1113425942574034945",
+        "in_reply_to_user_id": 1038128227485532160,
+        "in_reply_to_user_id_str": "1038128227485532160",
+        "in_reply_to_screen_name": "jokermovie",
+        "user": {
+          "id": 2920014210,
+          "id_str": "2920014210",
+          "name": "Ben Barnes",
+          "screen_name": "benbarnes",
+          "location": "",
+          "description": "Film, TV & Theatre actor. @ThePunisher Season 2 is on @Netflix, ‘Golddigger’ is coming to @BBCone in 2019. @WestworldHBO is on @HBO",
+          "url": "https:\/\/t.co\/pmCSSrZE3h",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https:\/\/t.co\/pmCSSrZE3h",
+                  "expanded_url": "https:\/\/www.facebook.com\/BenBarnesOfficial",
+                  "display_url": "facebook.com\/BenBarnesOffic…",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 136181,
+          "friends_count": 295,
+          "listed_count": 502,
+          "created_at": "Sat Dec 06 00:00:52 +0000 2014",
+          "favourites_count": 5939,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": false,
+          "verified": true,
+          "statuses_count": 1339,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "C0DEED",
+          "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+          "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1098511947480195072\/2205rEww_normal.jpg",
+          "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1098511947480195072\/2205rEww_normal.jpg",
+          "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/2920014210\/1570449286",
+          "profile_link_color": "1DA1F2",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": true,
+          "default_profile_image": false,
+          "can_media_tag": true,
+          "followed_by": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 140,
+        "favorite_count": 2025,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "und"
+    },
+    {
+        "created_at": "Wed Apr 03 13:16:01 +0000 2019",
+        "id": 1113429948902137856,
+        "id_str": "1113429948902137856",
+        "text": "@jokermovie Congrats to Todd Philips. I can't wait for this film! https:\/\/t.co\/fFMYj6ySCn",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "jokermovie",
+              "name": "Joker Movie",
+              "id": 1038128227485532160,
+              "id_str": "1038128227485532160",
+              "indices": [
+                0,
+                11
+              ]
+            }
+          ],
+          "urls": [],
+          "media": [
+            {
+              "id": 1113429940958048256,
+              "id_str": "1113429940958048256",
+              "indices": [
+                66,
+                89
+              ],
+              "media_url": "http:\/\/pbs.twimg.com\/tweet_video_thumb\/D3OyodEWsAASeUj.jpg",
+              "media_url_https": "https:\/\/pbs.twimg.com\/tweet_video_thumb\/D3OyodEWsAASeUj.jpg",
+              "url": "https:\/\/t.co\/fFMYj6ySCn",
+              "display_url": "pic.twitter.com\/fFMYj6ySCn",
+              "expanded_url": "https:\/\/twitter.com\/ReaperOnCinema\/status\/1113429948902137856\/photo\/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "small": {
+                  "w": 374,
+                  "h": 404,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 374,
+                  "h": 404,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 374,
+                  "h": 404,
+                  "resize": "fit"
+                }
+              },
+              "features": {}
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 1113429940958048256,
+              "id_str": "1113429940958048256",
+              "indices": [
+                66,
+                89
+              ],
+              "media_url": "http:\/\/pbs.twimg.com\/tweet_video_thumb\/D3OyodEWsAASeUj.jpg",
+              "media_url_https": "https:\/\/pbs.twimg.com\/tweet_video_thumb\/D3OyodEWsAASeUj.jpg",
+              "url": "https:\/\/t.co\/fFMYj6ySCn",
+              "display_url": "pic.twitter.com\/fFMYj6ySCn",
+              "expanded_url": "https:\/\/twitter.com\/ReaperOnCinema\/status\/1113429948902137856\/photo\/1",
+              "type": "animated_gif",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "small": {
+                  "w": 374,
+                  "h": 404,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 374,
+                  "h": 404,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 374,
+                  "h": 404,
+                  "resize": "fit"
+                }
+              },
+              "video_info": {
+                "aspect_ratio": [
+                  187,
+                  202
+                ],
+                "variants": [
+                  {
+                    "bitrate": 0,
+                    "content_type": "video\/mp4",
+                    "url": "https:\/\/video.twimg.com\/tweet_video\/D3OyodEWsAASeUj.mp4"
+                  }
+                ]
+              },
+              "features": {}
+            }
+          ]
+        },
+        "source": "<a href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\">Twitter for Android<\/a>",
+        "in_reply_to_status_id": 1113425942574034945,
+        "in_reply_to_status_id_str": "1113425942574034945",
+        "in_reply_to_user_id": 1038128227485532160,
+        "in_reply_to_user_id_str": "1038128227485532160",
+        "in_reply_to_screen_name": "jokermovie",
+        "user": {
+          "id": 4185456253,
+          "id_str": "4185456253",
+          "name": "Mr.Reaper",
+          "screen_name": "ReaperHorror",
+          "location": "Reaperville",
+          "description": "The home to the bone man himself, all tweets are considered #Reapermoments",
+          "url": null,
+          "entities": {
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 487,
+          "friends_count": 1755,
+          "listed_count": 6,
+          "created_at": "Tue Nov 10 02:01:22 +0000 2015",
+          "favourites_count": 1186,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 8955,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "C0DEED",
+          "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+          "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1153840040222445568\/x_1pAzIm_normal.jpg",
+          "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1153840040222445568\/x_1pAzIm_normal.jpg",
+          "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/4185456253\/1564283342",
+          "profile_link_color": "1DA1F2",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": true,
+          "default_profile": true,
+          "default_profile_image": false,
+          "can_media_tag": false,
+          "followed_by": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 4,
+        "favorite_count": 126,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "lang": "en"
+    }
+]
