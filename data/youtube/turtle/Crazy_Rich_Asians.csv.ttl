@@ -1,0 +1,3582 @@
+@prefix ns1: <https://iisg.amsterdam/vocab/> .
+@prefix ns2: <http://www.w3.org/ns/csvw#> .
+@prefix ns3: <http://purl.org/dc/terms/> .
+@prefix ns4: <http://schema.org/> .
+@prefix ns5: <http://www.w3.org/ns/prov#> .
+@prefix ns6: <http://www.nanopub.org/nschema#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://iisg.amsterdam/0> ns1:Comment "I almost drank from a finger bowl once too."^^xsd:string ;
+    ns1:Date "28.02.19 12:09:48"^^xsd:string ;
+    ns1:Id "1"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugwf-q_peRYo3-dcXzl4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/1> ns1:Comment "God can someone tell me why this movie didn't receive a single oscar nomination??? It's frustrating to see that Black Panther got the attention and credit it deserved while Crazy Rich Asians was overlooked :/"^^xsd:string ;
+    ns1:Date "28.02.19 12:09:48"^^xsd:string ;
+    ns1:Id "2"^^xsd:string ;
+    ns1:Likes 1 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugwu38WApO5jSvyTgyR4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/10> ns1:Comment "Brilliant movie. Just watched it??"^^xsd:string ;
+    ns1:Date "28.02.19 12:09:48"^^xsd:string ;
+    ns1:Id "11"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgyH_RlxISmrnph0dbp4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/100> ns1:Comment "That's what we call Asian"^^xsd:string ;
+    ns1:Date "28.03.19 12:09:48"^^xsd:string ;
+    ns1:Id "67"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgzSv5jNscV6uzlNfHt4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/101> ns1:Comment "Damn Asian is the new Jew, where all they care about is $$$"^^xsd:string ;
+    ns1:Date "28.03.19 12:09:48"^^xsd:string ;
+    ns1:Id "68"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgzDx2HHJpRD8hwGV054AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/102> ns1:Comment "To all the people who say Asians are under represented in Hollywood so are many cultures, even white ones, how often do you get a polish lead in a movie? Or a scottish superhero, the only Scottish superhero in X-Men got an English make over in the new XMen movies.  To be honest the movie industry doesn't care for culture or race, it cares for money.  White Americans make up majority of the population so they target the people that will bring in the most money.  That's why black movies don't become blockbusters, only 12 percent (the Black population) is going to see it. The only reason black panther did well is because it a superhero movie.  It's about supply and demand, nothing to do with culture or race. When the demographics change in America so will the movies being made.  Bollywood is massive so why not do the same thing in other Asians countries?"^^xsd:string ;
+    ns1:Date "28.03.19 12:09:48"^^xsd:string ;
+    ns1:Id "69"^^xsd:string ;
+    ns1:Likes 1 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugyh1opddzDHqTLz_oh4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/103> ns1:Comment "Lol you must be white. And it's not about what the industry cares for. We need representation, it's as as simple as that. All we see are white people on our screens, we need diversity. Bollywood is not as big as Hollywood and neither are any other niche industries. Hollywood to you may be just an America thing, but Hollywood is a world thing, and it should represent the world and it's population."^^xsd:string ;
+    ns1:Date "28.03.19 12:09:48"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugyh1opddzDHqTLz_oh4AaABAg"^^xsd:string ;
+    ns1:SubId "69-1"^^xsd:string .
+
+<https://iisg.amsterdam/104> ns1:Comment "@Ally Granger  Your comment just proves his point."^^xsd:string ;
+    ns1:Date "21.11.19 12:09:48"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugyh1opddzDHqTLz_oh4AaABAg"^^xsd:string ;
+    ns1:SubId "69-2"^^xsd:string .
+
+<https://iisg.amsterdam/105> ns1:Comment "Good movie, but if you have stayed around the MBS hotel you would have seen 60% of the movie's backdrop already."^^xsd:string ;
+    ns1:Date "28.03.19 12:09:48"^^xsd:string ;
+    ns1:Id "70"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugz2NntE00tExTiZHGZ4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/106> ns1:Comment "Yo"^^xsd:string ;
+    ns1:Date "28.03.19 12:09:48"^^xsd:string ;
+    ns1:Id "71"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugzn04ImYdc_cFQpZ1l4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/107> ns1:Comment "Is This om Netflix?"^^xsd:string ;
+    ns1:Date "28.03.19 12:09:48"^^xsd:string ;
+    ns1:Id "72"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugzk0jH4YDxHcHgompp4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/108> ns1:Comment "It was the most beautiful movie I've ever seen ??"^^xsd:string ;
+    ns1:Date "28.03.19 12:09:48"^^xsd:string ;
+    ns1:Id "73"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgxKkv5rxV64EL2hhEp4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/109> ns1:Comment "So this is Hana Yori Dango(Boys over flowers) except set in America . BTW yall need to watch that tv series. Matsumoto Jun is love and the mother is worse than here."^^xsd:string ;
+    ns1:Date "28.03.19 12:09:48"^^xsd:string ;
+    ns1:Id "74"^^xsd:string ;
+    ns1:Likes 5 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgzmZZGteT-FkC75MoB4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/11> ns1:Comment "This movie made me cry because it made my siblings and I really reflect and relate the many aspects played out in the movie to our own family"^^xsd:string ;
+    ns1:Date "28.02.19 12:09:48"^^xsd:string ;
+    ns1:Id "12"^^xsd:string ;
+    ns1:Likes 2 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgxFj1rYWDpNTohQvOF4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/110> ns1:Comment "Surprised they got such a racist title past the censors."^^xsd:string ;
+    ns1:Date "28.03.19 12:09:48"^^xsd:string ;
+    ns1:Id "75"^^xsd:string ;
+    ns1:Likes 2 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgwpEuBZ1Zh23ip6xTh4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/111> ns1:Comment "RIGHT????"^^xsd:string ;
+    ns1:Date "28.03.19 12:09:48"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgwpEuBZ1Zh23ip6xTh4AaABAg"^^xsd:string ;
+    ns1:SubId "75-1"^^xsd:string .
+
+<https://iisg.amsterdam/112> ns1:Comment "Luis Felipe Orozco it’s based off a book with the same name..."^^xsd:string ;
+    ns1:Date "28.11.88 15:56:45"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 1 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgwpEuBZ1Zh23ip6xTh4AaABAg"^^xsd:string ;
+    ns1:SubId "75-2"^^xsd:string .
+
+<https://iisg.amsterdam/113> ns1:Comment "Here some Indians are crying over their negligence when it comes to word \"Asians\"/.. To b honest I M from India ( north east part of India)... We r different in looks from typical Indians...we have features similar to East Asians...so we are neglected here in India...we are often called Chinese or Nepalese.... So I guess my fellow brothers from India realise how hard it is to b ignored wen u r one...we feel the same wen we Indians from North East are not recognised as Indians( not always)... Karma hits hard.."^^xsd:string ;
+    ns1:Date "28.03.19 12:09:48"^^xsd:string ;
+    ns1:Id "76"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugy-xA97nMWnv4R4A_J4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/114> ns1:Comment "sucks"^^xsd:string ;
+    ns1:Date "28.03.19 12:09:48"^^xsd:string ;
+    ns1:Id "77"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgyzaebFjIq7xxJbXu14AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/115> ns1:Comment "I think this the first Non kungfu Asian holly wood movie"^^xsd:string ;
+    ns1:Date "28.11.88 15:56:45"^^xsd:string ;
+    ns1:Id "78"^^xsd:string ;
+    ns1:Likes 1 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgyMIFjBIoWWdanX3bp4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/116> ns1:Comment "What's the name of the song playing at the last?"^^xsd:string ;
+    ns1:Date "28.11.88 15:56:45"^^xsd:string ;
+    ns1:Id "79"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugwy_cgywOKBjR3Y-UN4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/117> ns1:Comment "Vote by Miguel (Produced by Mark Ronson)"^^xsd:string ;
+    ns1:Date "28.11.88 15:56:45"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugwy_cgywOKBjR3Y-UN4AaABAg"^^xsd:string ;
+    ns1:SubId "79-1"^^xsd:string .
+
+<https://iisg.amsterdam/118> ns1:Comment "glorious by Skylar and mackelmore"^^xsd:string ;
+    ns1:Date "28.11.88 15:56:45"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugwy_cgywOKBjR3Y-UN4AaABAg"^^xsd:string ;
+    ns1:SubId "79-2"^^xsd:string .
+
+<https://iisg.amsterdam/119> ns1:Comment "Crazy rich ambani Indian version"^^xsd:string ;
+    ns1:Date "28.11.88 15:56:45"^^xsd:string ;
+    ns1:Id "80"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgzFm4igDsUVFghrgFJ4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/12> ns1:Comment "I forgot asian representation existed until this"^^xsd:string ;
+    ns1:Date "28.02.19 12:09:48"^^xsd:string ;
+    ns1:Id "13"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgxGiF5GiD8DcmN2bcZ4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/120> ns1:Comment "This is the very highest standard of blatant propaganda issued towards the Asian community imaginable, about what holds value and what does not, in relation to ethnicity and culture.  The majority of these actors aren't even Chinese (who's government is AGGRESSIVELY pushing to take over the industry) and have prominent European features - square jaw lines coupled with high cheek bones, and less slant in the eyes with distinct American or British accents.  Apparently, this is fooling a great deal of people, judging by the profit it has made, in that it's \"not\" propaganda, by masquerading as legitimate, modern, \"Asian\" culture in a ridiculous fairy tale environment projecting the importance of material wealth over the adoration of tradition (even if tradition should be updated incrementally from time to time)."^^xsd:string ;
+    ns1:Date "28.11.88 15:56:45"^^xsd:string ;
+    ns1:Id "81"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugz74wRNiA1vhLhD3Gd4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/121> ns1:Comment "Beyond the propaganda it was flat out TERRIBLE. Nothing happens. The dialogue is hideously on-the-nose, the scenes are completely overdrawn, and the entire second act is just \"They're rich, They're rich, They're rich!\" It's The Proposal combined with Meet the Fockers, and without a single line of humor. Was this supposed to a comedy?"^^xsd:string ;
+    ns1:Date "28.11.88 15:56:45"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugz74wRNiA1vhLhD3Gd4AaABAg"^^xsd:string ;
+    ns1:SubId "81-1"^^xsd:string .
+
+<https://iisg.amsterdam/122> ns1:Comment "Watching it for the first time and loving it!! I feel like I'm watching a cross between Hollywood and Bollywood, because the cultures are so similar.  Actually, feels more like all the world in 1 :D ??"^^xsd:string ;
+    ns1:Date "28.11.88 15:56:45"^^xsd:string ;
+    ns1:Id "82"^^xsd:string ;
+    ns1:Likes 1 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgxoUgEnOBaPE1CcIwh4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/123> ns1:Comment "one of my favorite movies of all time"^^xsd:string ;
+    ns1:Date "28.11.88 15:56:45"^^xsd:string ;
+    ns1:Id "83"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugwjux8AMH0-xz7_xbh4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/124> ns1:Comment "Eat the rich, doesnt matter which flavour"^^xsd:string ;
+    ns1:Date "28.11.88 15:56:45"^^xsd:string ;
+    ns1:Id "84"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgyPFZVO8Gh5Rg5htrZ4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/125> ns1:Comment "I hate this movie"^^xsd:string ;
+    ns1:Date "28.11.88 15:56:45"^^xsd:string ;
+    ns1:Id "85"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugyp9muBsbSxp5aeOFV4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/126> ns1:Comment "JESSICA FROM FRESH OF THE BOAT"^^xsd:string ;
+    ns1:Date "28.11.88 15:56:45"^^xsd:string ;
+    ns1:Id "86"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugxm3852kxVN023ZNBN4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/127> ns1:Comment "Where can i watch this mooie for free?"^^xsd:string ;
+    ns1:Date "28.11.88 15:56:45"^^xsd:string ;
+    ns1:Id "87"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugw4s_bfcwoojBp2INF4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/128> ns1:Comment "#hypergamy  at it's finest."^^xsd:string ;
+    ns1:Date "28.11.88 15:56:45"^^xsd:string ;
+    ns1:Id "88"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgxZqXd_y_kgbzDW3jR4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/129> ns1:Comment "I had to admit I cried while watching this movie"^^xsd:string ;
+    ns1:Date "28.11.88 15:56:45"^^xsd:string ;
+    ns1:Id "89"^^xsd:string ;
+    ns1:Likes 1 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgyIa2dirsy5kjNwF4d4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/13> ns1:Comment "\"I forgot asian representation existed\" I've never heard that before."^^xsd:string ;
+    ns1:Date "21.11.19 12:09:48"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgxGiF5GiD8DcmN2bcZ4AaABAg"^^xsd:string ;
+    ns1:SubId "13-1"^^xsd:string .
+
+<https://iisg.amsterdam/130> ns1:Comment "but it's a comedy..."^^xsd:string ;
+    ns1:Date "28.11.88 15:56:45"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgyIa2dirsy5kjNwF4d4AaABAg"^^xsd:string ;
+    ns1:SubId "89-1"^^xsd:string .
+
+<https://iisg.amsterdam/131> ns1:Comment "Crazy Rice Asians. Im asian and I fuck dogs then eat them"^^xsd:string ;
+    ns1:Date "28.11.88 15:56:45"^^xsd:string ;
+    ns1:Id "90"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugwd_XguLJL0aNbJGBR4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/132> ns1:Comment "Being rich is boring asf"^^xsd:string ;
+    ns1:Date "28.11.88 15:56:45"^^xsd:string ;
+    ns1:Id "91"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgxZilsCCREASWGUTUh4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/133> ns1:Comment "MOST SINGAPOOR ARE POORER THAN MANY THINK... CRAZY RICH MOSTLY FROM INDON AND REGIONAL MOVE TO SINGAPOOR... KING OF SUGAR FROM SEMARANG, OEI TIONG HAM.. ONCE THE RICHEST MAN IN SINGAPOOR. OEI HONG LEONG (LEASING COMPANY), SON OF INDON 2ND RICHEST MAN. SPRINGFIELD PROPERTY ALSO FROM SUMATRA, INDONESIA... AND MANY MORE. EVEN EX FACEBOOK PARTNER, EDUARDO MOVED TO SINGAPOOR TO SKIP TAX.. THE JUICY PART, EVEN LEE KUAN YEW PARENTS CAME FROM INDONESIA (WIKI). BEAT THAT"^^xsd:string ;
+    ns1:Date "28.11.88 15:56:45"^^xsd:string ;
+    ns1:Id "92"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgzNQsSDnN1a4qg9xSJ4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/134> ns1:Comment "?????????? ????"^^xsd:string ;
+    ns1:Date "28.11.88 15:56:45"^^xsd:string ;
+    ns1:Id "93"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugxcjch8Ww4xQVkD1lh4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/135> ns1:Comment "I’m not greedy, I just need “comfortable life”"^^xsd:string ;
+    ns1:Date "28.11.88 15:56:45"^^xsd:string ;
+    ns1:Id "94"^^xsd:string ;
+    ns1:Likes 8 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgyD-f6UcFFkNtVA7lV4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/136> ns1:Comment "???"^^xsd:string ;
+    ns1:Date "28.11.88 15:56:45"^^xsd:string ;
+    ns1:Id "95"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgyvLwh76b3HsC0QLPB4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/137> ns1:Comment "just typical love story. nothing wow"^^xsd:string ;
+    ns1:Date "28.11.88 15:56:45"^^xsd:string ;
+    ns1:Id "96"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugyw-tXuts0TLavd2oh4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/138> ns1:Comment "Is this a good movie yes or nah?"^^xsd:string ;
+    ns1:Date "28.11.88 15:56:45"^^xsd:string ;
+    ns1:Id "97"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugxr15eaNKjt_zL66EV4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/139> ns1:Comment "Crazy poor, lazy Hispanic asian"^^xsd:string ;
+    ns1:Date "28.11.88 15:56:45"^^xsd:string ;
+    ns1:Id "98"^^xsd:string ;
+    ns1:Likes 7 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugx7hTikXT2be7xEfRV4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/14> ns1:Comment "I’m sorry the leading man speaks English richest looks the most western out of all the Asians and yet ... these Asians are proud of all asian cast.....and yet conforming to the idea yellow be mellow but to act (be) whiter be nicer... not so proud are we.... love the movie but this b some Hollywood BS"^^xsd:string ;
+    ns1:Date "28.02.19 12:09:48"^^xsd:string ;
+    ns1:Id "14"^^xsd:string ;
+    ns1:Likes 1 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgxjhYMZdRXzRHjDTQZ4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/140> ns1:Comment "If this movie would be having a part 2. Oh please please include Lea Salonga! ????"^^xsd:string ;
+    ns1:Date "28.11.88 15:56:45"^^xsd:string ;
+    ns1:Id "99"^^xsd:string ;
+    ns1:Likes 1 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugx04-4eD6DYkro4VTh4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/141> ns1:Comment "One of the very best movies ever with a amazing cast"^^xsd:string ;
+    ns1:Date "28.11.88 15:56:45"^^xsd:string ;
+    ns1:Id "100"^^xsd:string ;
+    ns1:Likes 1 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgzT_4VjFDMeuPIDX9B4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/142> ns1:Comment "Thank you a lot for like my comment this is a great fun movie"^^xsd:string ;
+    ns1:Date "28.11.88 15:56:45"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgzT_4VjFDMeuPIDX9B4AaABAg"^^xsd:string ;
+    ns1:SubId "100-1"^^xsd:string .
+
+<https://iisg.amsterdam/143> ns1:Comment "Why are people in the comments only focusing only the rich people in the movie? I get that’s the title of the movie but this movie also includes a women who isn’t privileged in the slightest and is just struggling to fit in with boyfriend’s rich family. The main girl even has a mother that went through hardships in her life and so she moved to America. This movie isn’t trying to create a stereotype that all Asians are rich and anyone who thinks that is a dumb bitch that hasn’t watched the movie yet."^^xsd:string ;
+    ns1:Date "28.11.88 15:56:45"^^xsd:string ;
+    ns1:Id "101"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgyVLfX950s7hKryBnd4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/144> ns1:Comment "For the recently separated man to watch, or made to watch because of his chick; chicken soup in a movie for the \"whipped\" male....smh..."^^xsd:string ;
+    ns1:Date "28.11.88 15:56:45"^^xsd:string ;
+    ns1:Id "102"^^xsd:string ;
+    ns1:Likes 1 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgyIh5Jww9ck9n5nDId4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/145> ns1:Comment "Awkwafina! In Fina we trust"^^xsd:string ;
+    ns1:Date "28.11.88 15:56:45"^^xsd:string ;
+    ns1:Id "103"^^xsd:string ;
+    ns1:Likes 1 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugw0jqdIVrOCCAkPi6t4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/146> ns1:Comment "Any Singaporean’s here? And also any rich asians here lol"^^xsd:string ;
+    ns1:Date "28.11.88 15:56:45"^^xsd:string ;
+    ns1:Id "104"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgzZEj6eOVjG8scjqa94AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/147> ns1:Comment "There's an asian dude who has a crush on me and I would like to date him so bad... If my life situation was less confusing I def would"^^xsd:string ;
+    ns1:Date "28.11.88 15:56:45"^^xsd:string ;
+    ns1:Id "105"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgxETrBoncBmMW0OmMJ4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/148> ns1:Comment "THIS was the movie people raved about??? Could not believe how bad it was."^^xsd:string ;
+    ns1:Date "28.11.88 15:56:45"^^xsd:string ;
+    ns1:Id "106"^^xsd:string ;
+    ns1:Likes 2 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgzGataco0BHBe3J9fh4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/149> ns1:Comment "I know the feeling. Watching it now on hbo and I'm like what was the hype all about."^^xsd:string ;
+    ns1:Date "28.05.19 12:09:48"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgzGataco0BHBe3J9fh4AaABAg"^^xsd:string ;
+    ns1:SubId "106-1"^^xsd:string .
+
+<https://iisg.amsterdam/15> ns1:Comment "well you guys should know henry golding is not even chinese, Vietnam or whatsoever. He is originated from borneo, sarawak ?? his race is Iban mix"^^xsd:string ;
+    ns1:Date "28.02.19 12:09:48"^^xsd:string ;
+    ns1:Id "15"^^xsd:string ;
+    ns1:Likes 1 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgytO1iNIrr0TDXLlF14AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/150> ns1:Comment "Enrique Alvarado the hype was because Hollywood is basically SJW so they stock pump anything diverse no matter how amateur the film is."^^xsd:string ;
+    ns1:Date "28.05.19 12:09:48"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgzGataco0BHBe3J9fh4AaABAg"^^xsd:string ;
+    ns1:SubId "106-2"^^xsd:string .
+
+<https://iisg.amsterdam/151> ns1:Comment "Watch new asia movies here.. https://www.youtube.com/channel/UCq64Yoq34SGoeSQs5cqM4-Q"^^xsd:string ;
+    ns1:Date "28.11.88 15:56:45"^^xsd:string ;
+    ns1:Id "107"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugy6hkOQeScR92WOvpF4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/152> ns1:Comment "I'm Lazy Poor Asian."^^xsd:string ;
+    ns1:Date "28.11.88 15:56:45"^^xsd:string ;
+    ns1:Id "108"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgxbJ1_EQskMxmVpfA54AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/153> ns1:Comment "This is movie is soo good omg"^^xsd:string ;
+    ns1:Date "28.11.88 15:56:45"^^xsd:string ;
+    ns1:Id "109"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugxjz6www8fS1g6W2Ol4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/154> ns1:Comment "Eugene from try guys would’ve been perfect for that part"^^xsd:string ;
+    ns1:Date "28.11.88 15:56:45"^^xsd:string ;
+    ns1:Id "110"^^xsd:string ;
+    ns1:Likes 1 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgxWSgUO8Jd5VTp-_4t4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/155> ns1:Comment "There are thousands of Indian movies have similar story. Only difference is language is English and cast are Chinese. I am disappointed."^^xsd:string ;
+    ns1:Date "28.11.88 15:56:45"^^xsd:string ;
+    ns1:Id "111"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugw5wPM22vSxgqCsNEp4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/156> ns1:Comment "More like White Washed Asians"^^xsd:string ;
+    ns1:Date "28.11.88 15:56:45"^^xsd:string ;
+    ns1:Id "112"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgzV7C4gYa7eTrpTyhZ4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/157> ns1:Comment "??????????"^^xsd:string ;
+    ns1:Date "28.11.88 15:56:45"^^xsd:string ;
+    ns1:Id "113"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgxpRi3cyozjT4pbug54AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/158> ns1:Comment "Looks like Jennifer's Lopez movie Monster in law but in steroids of money."^^xsd:string ;
+    ns1:Date "28.11.88 15:56:45"^^xsd:string ;
+    ns1:Id "114"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugz4xQ4oLUDWVxtzNZ14AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/159> ns1:Comment "Trying to watch this on amazon prime but it keeps saying it’s unavailable ?????????? WHY!!!"^^xsd:string ;
+    ns1:Date "28.11.88 15:56:45"^^xsd:string ;
+    ns1:Id "115"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgwKAeTkwz56D_o1H6R4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/16> ns1:Comment "I have no interest in this, there's no kung fu."^^xsd:string ;
+    ns1:Date "28.02.19 12:09:48"^^xsd:string ;
+    ns1:Id "16"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgyGnWlZm8w6R5Htupd4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/160> ns1:Comment "Watch it in fushar"^^xsd:string ;
+    ns1:Date "28.11.88 15:56:45"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgwKAeTkwz56D_o1H6R4AaABAg"^^xsd:string ;
+    ns1:SubId "115-1"^^xsd:string .
+
+<https://iisg.amsterdam/161> ns1:Comment "Lovely movie. One time watch. ?"^^xsd:string ;
+    ns1:Date "28.11.88 15:56:45"^^xsd:string ;
+    ns1:Id "116"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgwfkTAQQr4FE2CQlPN4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/162> ns1:Comment "2:01  the fact that y'all didn't showed Astrid and Charlie dancin in the movie is so dibidissappointing"^^xsd:string ;
+    ns1:Date "28.11.88 15:56:45"^^xsd:string ;
+    ns1:Id "117"^^xsd:string ;
+    ns1:Likes 2 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgwQ6HHrLvute0lrWgl4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/163> ns1:Comment "BAK BAK BITCH"^^xsd:string ;
+    ns1:Date "28.11.88 15:56:45"^^xsd:string ;
+    ns1:Id "118"^^xsd:string ;
+    ns1:Likes 2 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugzb_QvoY19OYKo6Det4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/164> ns1:Comment "some stuff in this trailer wasn't in the actual movie ;\\"^^xsd:string ;
+    ns1:Date "28.11.88 15:56:45"^^xsd:string ;
+    ns1:Id "119"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgyeYcrENoy9MqCjo2J4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/165> ns1:Comment "People always forget Indians are Asian too :("^^xsd:string ;
+    ns1:Date "28.11.88 15:56:45"^^xsd:string ;
+    ns1:Id "120"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgwO9stvYoiJku4hOMd4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/166> ns1:Comment "you still can watch it at freewaymovies. com"^^xsd:string ;
+    ns1:Date "28.11.88 15:56:45"^^xsd:string ;
+    ns1:Id "121"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugzv6nwwSvxtsicqx214AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/167> ns1:Comment "Improvised movie... very different from the book especially with astrid situation..."^^xsd:string ;
+    ns1:Date "28.11.88 15:56:45"^^xsd:string ;
+    ns1:Id "122"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugy7ukCm7QmQqJ1qRCV4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/168> ns1:Comment "Me crazy cheap, i watched this from websites"^^xsd:string ;
+    ns1:Date "28.11.88 15:56:45"^^xsd:string ;
+    ns1:Id "123"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgxaNHGASwBZUkzzP0F4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/169> ns1:Comment "At first I thought this was called 'Crazy Bitch Aliens'"^^xsd:string ;
+    ns1:Date "28.11.88 15:56:45"^^xsd:string ;
+    ns1:Id "124"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgxHIGRpvgpKe-wKnJR4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/17> ns1:Comment "I'm bothered that the very rich mother doesn't know how a designer jacket should fit. That white striped jacket looks BAD on her. The collar doesn't even touch her neck, when its supposed to fit snugly.  You don't get these problems with Armani. And they're happy to fit you, too.  Fire the costume designer."^^xsd:string ;
+    ns1:Date "28.02.19 12:09:48"^^xsd:string ;
+    ns1:Id "17"^^xsd:string ;
+    ns1:Likes 1 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgzN6EaLAfgCh19-r0B4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/170> ns1:Comment "this was like watching Beverly hills house wives. no thanks!!!!"^^xsd:string ;
+    ns1:Date "28.11.88 15:56:45"^^xsd:string ;
+    ns1:Id "125"^^xsd:string ;
+    ns1:Likes 2 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgyuZv2j_1nce6oqIoJ4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/171> ns1:Comment "the staffs from rich asian on NAACP awards made nasty remaks agains whites shame sham shame !!!!!!!!!!!!!!!!!! guess it is not a movie for whites to see  the asian men on Naacp was nasty shame  I will never go see this movie  making funs of whites to  90/100 chineses are like pigs  durthy I'm part asian I was a shame to ear this  idiot on stage w long hair  anyway he is ugly w a tiny you know what LOL gee NAACP using asians and spanish to be on there side gross  it whites where doing this it would be call RACIST!!!!!!!!!!!!!!!!!!"^^xsd:string ;
+    ns1:Date "28.11.88 15:56:45"^^xsd:string ;
+    ns1:Id "126"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgyAp3GB4Lxy5ej4A-R4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/172> ns1:Comment "WHERE'S SONOYA????"^^xsd:string ;
+    ns1:Date "28.11.88 15:56:45"^^xsd:string ;
+    ns1:Id "127"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgwDJZxV-qcaCTr-diF4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/173> ns1:Comment "I prefer Rodgers and Hammerstein's  Flower Drum Song."^^xsd:string ;
+    ns1:Date "28.11.88 15:56:45"^^xsd:string ;
+    ns1:Id "128"^^xsd:string ;
+    ns1:Likes 1 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgzgWzw_g4mvITy4yWJ4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/174> ns1:Comment "The \"Asian\" in this is clearly just racism, because that is what the movie is the least about. The movie is a fine rom-com but who ever came with this representation and \"Asian\" shit, needs to be smacked on the head."^^xsd:string ;
+    ns1:Date "28.11.88 15:56:45"^^xsd:string ;
+    ns1:Id "129"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugze_0rFCqVZ1FcVCPF4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/175> ns1:Comment "PLEASE MAKE ASTRID FILM????????????!!!!!"^^xsd:string ;
+    ns1:Date "28.11.88 15:56:45"^^xsd:string ;
+    ns1:Id "130"^^xsd:string ;
+    ns1:Likes 2 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugy5mBweIrRLk9o7V1x4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/176> ns1:Comment "The girl with short black curly hair is also in fresh off the boat just noticed"^^xsd:string ;
+    ns1:Date "28.11.88 15:56:45"^^xsd:string ;
+    ns1:Id "131"^^xsd:string ;
+    ns1:Likes 1 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgyRecSV45bA9eE4NTV4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/177> ns1:Comment "This movie was completely stupid and dumb my eyes was tormented watching Chinese people trying hard to speak English and acting like white people and thinking stupid things are fun like a shopping spree but they are already rich why they need a shopping spree?? Don't waste your time watching this dumb movie but the ex girl is pretty but too many plastic and fake beauty sad the minds of Chinese people"^^xsd:string ;
+    ns1:Date "28.11.88 15:56:45"^^xsd:string ;
+    ns1:Id "132"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgwUu7ZJWN-uZdKqKul4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/178> ns1:Comment "im just here for henry golding tbf"^^xsd:string ;
+    ns1:Date "28.11.88 15:56:45"^^xsd:string ;
+    ns1:Id "133"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgxHOVXSthBJbADgkPh4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/179> ns1:Comment "ugh this movie was amazing ????"^^xsd:string ;
+    ns1:Date "28.11.88 15:56:45"^^xsd:string ;
+    ns1:Id "134"^^xsd:string ;
+    ns1:Likes 5 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugyss22wQml4GGZn_3R4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/18> ns1:Comment "No white middleaged men in the trailer. Impossible for me to relate. Won't watch"^^xsd:string ;
+    ns1:Date "28.02.19 12:09:48"^^xsd:string ;
+    ns1:Id "18"^^xsd:string ;
+    ns1:Likes 1 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgxvIxwdqGMTZXNGJCZ4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/180> ns1:Comment "This is the shittest movies I have ever seen. The main character, the guy, is really bad. The two main characters have 0 chemistry between them."^^xsd:string ;
+    ns1:Date "28.11.88 15:56:45"^^xsd:string ;
+    ns1:Id "135"^^xsd:string ;
+    ns1:Likes 2 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgzcSnexLIB2iGqyeWF4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/181> ns1:Comment "I know right? How the hell did people like this movie???"^^xsd:string ;
+    ns1:Date "28.11.88 15:56:45"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 1 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgzcSnexLIB2iGqyeWF4AaABAg"^^xsd:string ;
+    ns1:SubId "135-1"^^xsd:string .
+
+<https://iisg.amsterdam/182> ns1:Comment "Why these asains aren't good looking enough??"^^xsd:string ;
+    ns1:Date "28.11.88 15:56:45"^^xsd:string ;
+    ns1:Id "136"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgyocyD64TPdm8tbLDV4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/183> ns1:Comment "Your opinion"^^xsd:string ;
+    ns1:Date "28.10.19 12:09:48"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgyocyD64TPdm8tbLDV4AaABAg"^^xsd:string ;
+    ns1:SubId "136-1"^^xsd:string .
+
+<https://iisg.amsterdam/184> ns1:Comment "they all look same!!"^^xsd:string ;
+    ns1:Date "28.11.88 15:56:45"^^xsd:string ;
+    ns1:Id "137"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugzk4Wes2W7QnUpJMvR4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/185> ns1:Comment "let the world nuke  itself"^^xsd:string ;
+    ns1:Date "28.11.88 15:56:45"^^xsd:string ;
+    ns1:Id "138"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgzVn3H40zPtLgbkUNB4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/186> ns1:Comment "can anyone help me to download this movie?"^^xsd:string ;
+    ns1:Date "28.11.88 15:56:45"^^xsd:string ;
+    ns1:Id "139"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgxmHvNmyyoHOESE5gt4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/187> ns1:Comment "This movie was brilliant. I loved how double-unprivileged (women of color) can be brave and strong."^^xsd:string ;
+    ns1:Date "28.11.88 15:56:45"^^xsd:string ;
+    ns1:Id "140"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgzswZWe2un4bY49Q2p4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/188> ns1:Comment "Moonbat alert!"^^xsd:string ;
+    ns1:Date "28.11.88 15:56:45"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgzswZWe2un4bY49Q2p4AaABAg"^^xsd:string ;
+    ns1:SubId "140-1"^^xsd:string .
+
+<https://iisg.amsterdam/189> ns1:Comment "Classic one of the best movies for a long time"^^xsd:string ;
+    ns1:Date "28.05.19 12:09:48"^^xsd:string ;
+    ns1:Id "141"^^xsd:string ;
+    ns1:Likes 1 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugz760pNl0QnR4l0VdR4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/19> ns1:Comment "CRAZY POOR SINGAPOORS... MOSTLY INDONESIAN CHINESE TYCOONS WHO PLAY IMPORTANT ROLE IN SINGAPOOR, LIKE OEO TIONG HAM, OEI HONG LEONG, SPRINGLEAF PROPERTY, ASIA PULP, ETC."^^xsd:string ;
+    ns1:Date "28.02.19 12:09:48"^^xsd:string ;
+    ns1:Id "19"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgyKh8ALPUwKMv97vLZ4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/190> ns1:Comment "im a crazy asian-european"^^xsd:string ;
+    ns1:Date "28.05.19 12:09:48"^^xsd:string ;
+    ns1:Id "142"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgxTtdxFPJJ_8jKKgWp4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/191> ns1:Comment "ASIAN CUNTS WORSHIP MONEY—THEY WILL SELL THEIR FORTUNE COOKIES FOR IT!!!"^^xsd:string ;
+    ns1:Date "28.05.19 12:09:48"^^xsd:string ;
+    ns1:Id "143"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgxFkroSgkZE08U27s54AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/192> ns1:Comment "ALL WOMEN WANT $$$$$  NOT love"^^xsd:string ;
+    ns1:Date "28.05.19 12:09:48"^^xsd:string ;
+    ns1:Id "144"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgzWscCl_stnKLZ89eN4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/193> ns1:Comment "Just watched this like 10 mins ago it was good"^^xsd:string ;
+    ns1:Date "28.05.19 12:09:48"^^xsd:string ;
+    ns1:Id "145"^^xsd:string ;
+    ns1:Likes 1 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgyUCUhB5dXCwBNd2yB4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/194> ns1:Comment "And I just finished watching it like minutes ago. It was super lit indeed ??????????"^^xsd:string ;
+    ns1:Date "28.05.19 12:09:48"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgyUCUhB5dXCwBNd2yB4AaABAg"^^xsd:string ;
+    ns1:SubId "145-1"^^xsd:string .
+
+<https://iisg.amsterdam/195> ns1:Comment "I CANT FUCKING WAIT"^^xsd:string ;
+    ns1:Date "28.05.19 12:09:48"^^xsd:string ;
+    ns1:Id "146"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgysVx-Boyhq38lPsXN4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/196> ns1:Comment "The movie itself is way better than this trailer. Go out and watch this movie! So funny and the drama is so good."^^xsd:string ;
+    ns1:Date "28.05.19 12:09:48"^^xsd:string ;
+    ns1:Id "147"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgxQaF4-s_HaRrPYlg94AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/197> ns1:Comment "Crazy Rich Africa ia Wakanda Forever!"^^xsd:string ;
+    ns1:Date "28.05.19 12:09:48"^^xsd:string ;
+    ns1:Id "148"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgzXEU2HuS3NPgQ5qr54AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/198> ns1:Comment "Their british accent is so fake and annoying made the movie unbearable to watch. Dislike"^^xsd:string ;
+    ns1:Date "28.05.19 12:09:48"^^xsd:string ;
+    ns1:Id "149"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgxkfyXo2aQOOErAGF14AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/199> ns1:Comment "So thats the reason  this film released in India , Its all british-american film."^^xsd:string ;
+    ns1:Date "28.05.19 12:09:48"^^xsd:string ;
+    ns1:Id "150"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgxcM8UYcFCL-_fAZW54AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/2> ns1:Comment "Not a good movie... Needs more Filipinos."^^xsd:string ;
+    ns1:Date "28.02.19 12:09:48"^^xsd:string ;
+    ns1:Id "3"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugzh-6fF8CKKE7tBNpp4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/20> ns1:Comment "HE'S NOT PURE ASIAN, HIS MOTHRR FROM MALAYSIA... MAYBE THEIR FAMILY SOMEHOW ENJOY MONEY LAUNDERING OR TAX HAVEN FROM SINGAPOORS...  I NEVER ENCOUNTER A SINGAPOOR HAS THIS SHOW OFF, LAVISH LIFESTYLE.... EVEN ORCHARD ROAD, PEOPLE JUST WEAR FLIP FLOP, T SHIRTS, AND SHORTS.... HOLLYWOOD AGAIN EXAGGERATES STORY... THEY KNOWS NOTHING ABOUT SINGAPOORS.. SO POOR, EVEN A BRIT MAN BY NAME OF ANTON CASEY JUST PUT A JOKE REMARKS ABOUT HOW POOR SINGAPOORS, THERE GOES HIS LIFE... EVEN DEATH THREATS. SO SENSITIVE ISSUE HAHHAHHAHAHHAHAAHAHAHA... SINGAPOOR IS NOT GREAT AS MANY THOUGHT."^^xsd:string ;
+    ns1:Date "28.02.19 12:09:48"^^xsd:string ;
+    ns1:Id "20"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugzy4jyFRD-N18Zx3Lt4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/200> ns1:Comment "Movies so good, just a bit sounds like dub"^^xsd:string ;
+    ns1:Date "28.05.19 12:09:48"^^xsd:string ;
+    ns1:Id "151"^^xsd:string ;
+    ns1:Likes 1 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgxC_jt_H9IXCPy8NN14AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/201> ns1:Comment "I would like to watch this movie and yes I am a Chinese Canadian ???????? girl and man we finally have actual Asian actors and actresses that are represented in the western media"^^xsd:string ;
+    ns1:Date "28.05.19 12:09:48"^^xsd:string ;
+    ns1:Id "152"^^xsd:string ;
+    ns1:Likes 1 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugxbn_qkIiTZeVoDNxl4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/202> ns1:Comment "Blue eyes originated in Thailand. And IDK if its verified but I heard OG Mongolians had blonde haired and blue eyes people in the high tiers of their war parties. Can I be AZN plz? I'm a weeb and blessed with superior Aryan genetics. I'm 5'10, 180 ilbs, and I have a 6.8\" penis. You know you want me to trample some Chinese villages to impress the cool AZNz."^^xsd:string ;
+    ns1:Date "28.05.19 12:09:48"^^xsd:string ;
+    ns1:Id "153"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugxws0kiJMEj6Fu3PFB4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/203> ns1:Comment "Are sure that Singapore place ?"^^xsd:string ;
+    ns1:Date "28.05.19 12:09:48"^^xsd:string ;
+    ns1:Id "154"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgxsdO9AbInh3TzEVBV4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/204> ns1:Comment "dude i live in singapore and dang this is the dream"^^xsd:string ;
+    ns1:Date "28.05.19 12:09:48"^^xsd:string ;
+    ns1:Id "155"^^xsd:string ;
+    ns1:Likes 2 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgwMaZpA-UxBbyiIBJB4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/205> ns1:Comment "But Henry Golding doesn’t look like a Chinese :("^^xsd:string ;
+    ns1:Date "28.05.19 12:09:48"^^xsd:string ;
+    ns1:Id "156"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugwf7PVymTn1qob27KV4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/206> ns1:Comment "Jason Pang he is more like indonesian & filipina. asian isn’t all bout chinese :)"^^xsd:string ;
+    ns1:Date "28.05.19 12:09:48"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugwf7PVymTn1qob27KV4AaABAg"^^xsd:string ;
+    ns1:SubId "156-1"^^xsd:string .
+
+<https://iisg.amsterdam/207> ns1:Comment "1:32   the song is named glorious by Macklemore and Skylar grey!"^^xsd:string ;
+    ns1:Date "28.05.19 12:09:48"^^xsd:string ;
+    ns1:Id "157"^^xsd:string ;
+    ns1:Likes 3 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugx8vMDNk0rXnsJ9V8B4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/208> ns1:Comment "Why was bobby lee not in this?!"^^xsd:string ;
+    ns1:Date "28.05.19 12:09:48"^^xsd:string ;
+    ns1:Id "158"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgzNWfFALarLLo7aJHB4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/209> ns1:Comment "Proud to be Sarawakian :) love this Man"^^xsd:string ;
+    ns1:Date "28.05.19 12:09:48"^^xsd:string ;
+    ns1:Id "159"^^xsd:string ;
+    ns1:Likes 2 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgwB6n4ns-m78wmkb054AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/21> ns1:Comment "i'm singaporean! anyone jealous lmao"^^xsd:string ;
+    ns1:Date "28.02.19 12:09:48"^^xsd:string ;
+    ns1:Id "21"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgwzQ5jJjD7hB2IW-ZV4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/210> ns1:Comment "Just waiting for it to come into netflix in june"^^xsd:string ;
+    ns1:Date "28.05.19 12:09:48"^^xsd:string ;
+    ns1:Id "160"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugy7iKuGdn_vJTZsCwl4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/211> ns1:Comment "I’m so sorry but I don’t speak  Crazy  rich I speak normal ri- nope I speak broke"^^xsd:string ;
+    ns1:Date "28.05.19 12:09:48"^^xsd:string ;
+    ns1:Id "161"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgyR3UxOWFpR6ZsmH9x4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/212> ns1:Comment "I watched maybe half this movie because it’s garbage !! Nothing that entertaining about it"^^xsd:string ;
+    ns1:Date "28.05.19 12:09:48"^^xsd:string ;
+    ns1:Id "162"^^xsd:string ;
+    ns1:Likes 1 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugy1pmvQb9d0viGH_R94AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/213> ns1:Comment "How is this empowering for Asians?"^^xsd:string ;
+    ns1:Date "28.05.19 12:09:48"^^xsd:string ;
+    ns1:Id "163"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgwoKI-6zKGEzOiKvWJ4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/214> ns1:Comment "idk"^^xsd:string ;
+    ns1:Date "21.11.19 12:09:48"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgwoKI-6zKGEzOiKvWJ4AaABAg"^^xsd:string ;
+    ns1:SubId "163-1"^^xsd:string .
+
+<https://iisg.amsterdam/215> ns1:Comment "I am Indian here. I hate this movie."^^xsd:string ;
+    ns1:Date "28.05.19 12:09:48"^^xsd:string ;
+    ns1:Id "164"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugz68Ul8Cpr1yuIkSR14AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/216> ns1:Comment "THE BEST MOVIE EVER ??? YEAHHHHHH"^^xsd:string ;
+    ns1:Date "28.05.19 12:09:48"^^xsd:string ;
+    ns1:Id "165"^^xsd:string ;
+    ns1:Likes 3 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgxdWygPkR7uPRFZQv94AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/217> ns1:Comment "i heard this movie wasn't funny enough"^^xsd:string ;
+    ns1:Date "28.05.19 12:09:48"^^xsd:string ;
+    ns1:Id "166"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugzfzr6ztV569CNCefV4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/218> ns1:Comment "I thought this movie was going to be shallow but it was actually really good. I was surprised! Funny too??"^^xsd:string ;
+    ns1:Date "28.05.19 12:09:48"^^xsd:string ;
+    ns1:Id "167"^^xsd:string ;
+    ns1:Likes 15 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgznYxG3OplnZRhd4dF4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/219> ns1:Comment "Omg ikr I thought the exact same thing I didn't wanna watch it cuz the trailer just didn't make it seem good and it looked shallow like u said and then my friend made me watch it and it's my favorite movie . The trailer doesn't do it any justice"^^xsd:string ;
+    ns1:Date "07.11.19 12:09:48"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgznYxG3OplnZRhd4dF4AaABAg"^^xsd:string ;
+    ns1:SubId "167-1"^^xsd:string .
+
+<https://iisg.amsterdam/22> ns1:Comment "I came here because the Bond"^^xsd:string ;
+    ns1:Date "28.02.19 12:09:48"^^xsd:string ;
+    ns1:Id "22"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgwNy8Ck8gY9QbEslc94AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/220> ns1:Comment "Welcome to Fantasyland, I guess. Unreal. Good solid storyline. I didn't care for the scene where \"Dr. Ken\"(sorry, just typecasting,) tells his kids to eat up because-\"there are starving children in America\". Nope. Not a fan of that line in any way. There are far too many suffering children and this joke was not funny in any way. The entire time I watched this movie all I could think about are all the villagers in Northern China whose villages have been burned down to make way for expensive highrise ghost town communities that enslave elderly farm families who are forced to go into debt $80,000 and up just to live in these giant cold freezing cement kingdoms. And no more family farm for them :( A very sad outcome. So for the poor people of China --- China is still a Communist Country? Yet, for the filthy rich, China is a basic free for all. Hmm. I guess I don't understand any of it. And the Uighers, the Muslims, the Tibetans!(who I adore)--all enslaved, beaten down and supposed to be forgotten about. This movie is what I call a Brain washing Commercial. Can I say that? I am an American. God help us all if this is the future. The Wedding scene was nice. No offense to any Chinese people. I just think it was like \"over the top\"--maybe it's just me. The customs being passed down were nice. The movie has good intentions and if you don't know what's really going on in China, then it's fine."^^xsd:string ;
+    ns1:Date "28.05.19 12:09:48"^^xsd:string ;
+    ns1:Id "168"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugy_wXA3h1pryt8N0Dx4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/221> ns1:Comment "Eh"^^xsd:string ;
+    ns1:Date "28.05.19 12:09:48"^^xsd:string ;
+    ns1:Id "169"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgwZUnKYmDbt_rZ9K-d4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/222> ns1:Comment "Can't believe their use the banana racist joke"^^xsd:string ;
+    ns1:Date "28.05.19 12:09:48"^^xsd:string ;
+    ns1:Id "170"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugy-V7THLiSG2jfxRvB4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/223> ns1:Comment "Cinderella rewritten."^^xsd:string ;
+    ns1:Date "28.05.19 12:09:48"^^xsd:string ;
+    ns1:Id "171"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgyrmIraGcupDamqoth4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/224> ns1:Comment "LOL crazy rich mother"^^xsd:string ;
+    ns1:Date "28.05.19 12:09:48"^^xsd:string ;
+    ns1:Id "172"^^xsd:string ;
+    ns1:Likes 2 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgyUsC8JF1WEo8BuKXp4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/225> ns1:Comment "Well im asian where is my Money ?? ??"^^xsd:string ;
+    ns1:Date "28.05.19 12:09:48"^^xsd:string ;
+    ns1:Id "173"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgxcjM4HZdP4NMaGBup4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/226> ns1:Comment "I  love this movie <3"^^xsd:string ;
+    ns1:Date "28.05.19 12:09:48"^^xsd:string ;
+    ns1:Id "174"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugwv7JItRyFYEFhRbdB4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/227> ns1:Comment "I saw this in the plane last night was really good :)"^^xsd:string ;
+    ns1:Date "28.05.19 12:09:48"^^xsd:string ;
+    ns1:Id "175"^^xsd:string ;
+    ns1:Likes 5 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgxR_6RkVScTn5MzbN54AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/228> ns1:Comment "Astrid is just that bitch, she's classy as fuck ?"^^xsd:string ;
+    ns1:Date "28.05.19 12:09:48"^^xsd:string ;
+    ns1:Id "176"^^xsd:string ;
+    ns1:Likes 1 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgwlSs9T0vLuB2FBQ4V4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/229> ns1:Comment "Why do so many Asians pretend to be more superior than Black Americans, yet COPY our style.....lingo.....music, etc.!?  It's CLEAR who I'm talking about, in this trailer. And I have 40 YEARS of VIDEOS, FILMS, LITERATURE, PHOTOS, MUSIC....to validate my statement."^^xsd:string ;
+    ns1:Date "28.06.19 12:09:48"^^xsd:string ;
+    ns1:Id "177"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgwgYg0HCGCV-_1b7sJ4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/23> ns1:Comment "Bangkok and Shanghai much ?"^^xsd:string ;
+    ns1:Date "28.02.19 12:09:48"^^xsd:string ;
+    ns1:Id "23"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgyErjQOknTwG_IiZFF4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/230> ns1:Comment "Does the title mean that they're crazy & rich, or are they using crazy rich to mean extremely rich?"^^xsd:string ;
+    ns1:Date "28.06.19 12:09:48"^^xsd:string ;
+    ns1:Id "178"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgyxuMjC_MM8kmrFCSB4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/231> ns1:Comment "Why do many sources describe this film as a comedy? It's a drama with a bit of humour in it. Describing it as a comedy-drama would be pushing it - to describe it as a comedy is dishonest. It's not particularly lighthearted either."^^xsd:string ;
+    ns1:Date "28.06.19 12:09:48"^^xsd:string ;
+    ns1:Id "179"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgwHClA9BMvEv6i-p494AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/232> ns1:Comment "BakBakBitch ??"^^xsd:string ;
+    ns1:Date "28.06.19 12:09:48"^^xsd:string ;
+    ns1:Id "180"^^xsd:string ;
+    ns1:Likes 1 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgzWz7WnVzuiaX6m2dZ4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/233> ns1:Comment "It sucked!!!!!"^^xsd:string ;
+    ns1:Date "28.06.19 12:09:48"^^xsd:string ;
+    ns1:Id "181"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgwtAXnHTeI-zyVDHql4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/234> ns1:Comment "Rubbish 3/10. Do rich families really look down on people of they aren't making 6 figure salary a year"^^xsd:string ;
+    ns1:Date "28.06.19 12:09:48"^^xsd:string ;
+    ns1:Id "182"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgyqIaldQa2f5GVZgXh4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/235> ns1:Comment "Many do."^^xsd:string ;
+    ns1:Date "28.06.19 12:09:48"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgyqIaldQa2f5GVZgXh4AaABAg"^^xsd:string ;
+    ns1:SubId "182-1"^^xsd:string .
+
+<https://iisg.amsterdam/236> ns1:Comment "In love with this movie"^^xsd:string ;
+    ns1:Date "28.06.19 12:09:48"^^xsd:string ;
+    ns1:Id "183"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgyNtQjGkmE56RA1dpB4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/237> ns1:Comment "I'm from Singapore!!! Yay......"^^xsd:string ;
+    ns1:Date "28.06.19 12:09:48"^^xsd:string ;
+    ns1:Id "184"^^xsd:string ;
+    ns1:Likes 1 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgxSM50HEM_yhzVqm9t4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/238> ns1:Comment "Lmao the Hollywood version of meteor garden. Loved it anyway"^^xsd:string ;
+    ns1:Date "28.06.19 12:09:48"^^xsd:string ;
+    ns1:Id "185"^^xsd:string ;
+    ns1:Likes 1 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgwJ5s4OJt3vMF4aBs14AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/239> ns1:Comment "ur right"^^xsd:string ;
+    ns1:Date "28.07.19 12:09:48"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgwJ5s4OJt3vMF4aBs14AaABAg"^^xsd:string ;
+    ns1:SubId "185-1"^^xsd:string .
+
+<https://iisg.amsterdam/24> ns1:Comment "Kuala Lumpur is a richkid hotspot"^^xsd:string ;
+    ns1:Date "28.02.19 12:09:48"^^xsd:string ;
+    ns1:Id "24"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgwiWnf22I64ZW6VFul4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/240> ns1:Comment "please where can I get the full movie? I love it"^^xsd:string ;
+    ns1:Date "28.06.19 12:09:48"^^xsd:string ;
+    ns1:Id "186"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgwHylI9wAeoaYPyh5V4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/241> ns1:Comment "Fotb mom"^^xsd:string ;
+    ns1:Date "28.06.19 12:09:48"^^xsd:string ;
+    ns1:Id "187"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugzbjqj2HZkYoI2Onyl4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/242> ns1:Comment "The story is lame. In all Asian series, they are all like this, nothing new. Rich guy fell in love with the poor girl. The rich mom doesn't approve. At the end they are together. Boring...."^^xsd:string ;
+    ns1:Date "28.06.19 12:09:48"^^xsd:string ;
+    ns1:Id "188"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugwal-s8Zi_BhTgjF7Z4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/243> ns1:Comment "I'm sure this movie is very appealing women as its basically everyone girls fantasy to suddenly find out their boyfriends are super rich."^^xsd:string ;
+    ns1:Date "28.06.19 12:09:48"^^xsd:string ;
+    ns1:Id "189"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugy2tZY30Z43LGcIAgF4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/244> ns1:Comment "Conservative version of FiftyShadesofGrey."^^xsd:string ;
+    ns1:Date "28.06.19 12:09:48"^^xsd:string ;
+    ns1:Id "190"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugz78wvjm0K4XNnDyQJ4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/245> ns1:Comment "This movie is full of asian troupes, very funny and appealing"^^xsd:string ;
+    ns1:Date "28.06.19 12:09:48"^^xsd:string ;
+    ns1:Id "191"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgxGAv3c2EnivA6fIMl4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/246> ns1:Comment "Ohhh if Ken Jong is in it, then i'm in??????"^^xsd:string ;
+    ns1:Date "28.06.19 12:09:48"^^xsd:string ;
+    ns1:Id "192"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugz1tOo-vxyUDTOGgjh4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/247> ns1:Comment "The Art and Decor in this movie is Amazingly BEAUTIFUL"^^xsd:string ;
+    ns1:Date "28.06.19 12:09:48"^^xsd:string ;
+    ns1:Id "193"^^xsd:string ;
+    ns1:Likes 3 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugw3ryPeB4Y92IJfcGB4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/248> ns1:Comment "Richest asian talk about ambanis and their crazy rich indian weddings"^^xsd:string ;
+    ns1:Date "28.06.19 12:09:48"^^xsd:string ;
+    ns1:Id "194"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugw0ISaur9g4sUa3t9F4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/249> ns1:Comment "Where is pacquaio?"^^xsd:string ;
+    ns1:Date "28.06.19 12:09:48"^^xsd:string ;
+    ns1:Id "195"^^xsd:string ;
+    ns1:Likes 1 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgzxvTHwfuZY2EreYAh4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/25> ns1:Comment "I dont know if I could marry that guy after how petty and rude those ppl were. I wouldnt wanna deal with toxicity and passive aggression till I died."^^xsd:string ;
+    ns1:Date "28.03.19 12:09:48"^^xsd:string ;
+    ns1:Id "25"^^xsd:string ;
+    ns1:Likes 8 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgzVftOIxgFIZe59SR94AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/250> ns1:Comment "Can't help falling in love with you made me watch this movie"^^xsd:string ;
+    ns1:Date "28.06.19 12:09:48"^^xsd:string ;
+    ns1:Id "196"^^xsd:string ;
+    ns1:Likes 2 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgwNuwo9ra_IAzCBGht4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/251> ns1:Comment "It was actually a really good and refreshing movie"^^xsd:string ;
+    ns1:Date "28.06.19 12:09:48"^^xsd:string ;
+    ns1:Id "197"^^xsd:string ;
+    ns1:Likes 3 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgwDnTBWja0yMgK47C54AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/252> ns1:Comment "This movie is very weird"^^xsd:string ;
+    ns1:Date "28.06.19 12:09:48"^^xsd:string ;
+    ns1:Id "198"^^xsd:string ;
+    ns1:Likes 1 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugz4fsCeeOj1mp1jbfd4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/253> ns1:Comment "When this porno coming out?"^^xsd:string ;
+    ns1:Date "28.06.19 12:09:48"^^xsd:string ;
+    ns1:Id "199"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugy1L9hgSpIiTfEdeO94AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/254> ns1:Comment "Wait, i didn't see half of these scenes in the movie in theatre?"^^xsd:string ;
+    ns1:Date "28.06.19 12:09:48"^^xsd:string ;
+    ns1:Id "200"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgxneJ-YmiirU1pPUfB4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/255> ns1:Comment "idk why my fav part is when her friends family find out she’s dating nick young and they like keep going on about him. just love how she didn’t know him and that’s the type of girl he needed"^^xsd:string ;
+    ns1:Date "28.06.19 12:09:48"^^xsd:string ;
+    ns1:Id "201"^^xsd:string ;
+    ns1:Likes 3 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugw2EaWBia_t5Pst-nB4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/256> ns1:Comment "Great movie! but there are like tons of movies and soap operas in asia that have the same plot as this lol"^^xsd:string ;
+    ns1:Date "28.06.19 12:09:48"^^xsd:string ;
+    ns1:Id "202"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgxgP_V5OZO4AeRCc6Z4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/257> ns1:Comment "Here's momma  Michelle Yeoh  being a real \"bad mamma\"  w/ JACKIE CHAN many moons ago before being crazy and on the bridge. Love her  4 sure."^^xsd:string ;
+    ns1:Date "28.06.19 12:09:48"^^xsd:string ;
+    ns1:Id "203"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgzW3mMAQ0-j_ua90X54AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/258> ns1:Comment "Overrated movie. Just my opinion, sorry."^^xsd:string ;
+    ns1:Date "28.06.19 12:09:48"^^xsd:string ;
+    ns1:Id "204"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugz1tsudGfVAa7hX8sd4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/259> ns1:Comment "Reincarnate Jo lho crazy rich stealing money 1mdb"^^xsd:string ;
+    ns1:Date "28.06.19 12:09:48"^^xsd:string ;
+    ns1:Id "205"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgyguNL1qr79Vhz7qTl4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/26> ns1:Comment "Depends, you're in for a guy or his family and fame..."^^xsd:string ;
+    ns1:Date "28.03.19 12:09:48"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 1 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgzVftOIxgFIZe59SR94AaABAg"^^xsd:string ;
+    ns1:SubId "25-1"^^xsd:string .
+
+<https://iisg.amsterdam/260> ns1:Comment "I’m crazy, middle class, and asian"^^xsd:string ;
+    ns1:Date "28.06.19 12:09:48"^^xsd:string ;
+    ns1:Id "206"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugwtns6bfq_Iq_sRdSh4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/261> ns1:Comment "Typical K-Drama story... I can't take it any more lol."^^xsd:string ;
+    ns1:Date "28.06.19 12:09:48"^^xsd:string ;
+    ns1:Id "207"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugy2fQDNKXKAt2_gRFd4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/262> ns1:Comment "Just watched loved every sec ending was blunt but loved regardless"^^xsd:string ;
+    ns1:Date "28.06.19 12:09:48"^^xsd:string ;
+    ns1:Id "208"^^xsd:string ;
+    ns1:Likes 2 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugx9LK3hWJ3eqLhmxWt4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/263> ns1:Comment "I'm a black guy. I have no idea what I'm doing here."^^xsd:string ;
+    ns1:Date "28.06.19 12:09:48"^^xsd:string ;
+    ns1:Id "209"^^xsd:string ;
+    ns1:Likes 2 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgymepQEOblNgZbAJGF4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/264> ns1:Comment "Jungle conclusions....  https://chrome.google.com/webstore/detail/threelly-ai-for-youtube/dfohlnjmjiipcppekkbhbabjbnikkibo"^^xsd:string ;
+    ns1:Date "28.06.19 12:09:48"^^xsd:string ;
+    ns1:Id "210"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgzGvdAoWlrbemf2BNJ4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/265> ns1:Comment "I stood next to Michelle Yeoh at a taxi rank in Jakarta last year. I think it was at Plaza Senayan  (or Senayan City). Cool that she didn’t need a whole security crew."^^xsd:string ;
+    ns1:Date "28.06.19 12:09:48"^^xsd:string ;
+    ns1:Id "211"^^xsd:string ;
+    ns1:Likes 1 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgxYEkG_q4JQLh0QHdp4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/266> ns1:Comment "A film where an Asian woman is finally  with an Asian man."^^xsd:string ;
+    ns1:Date "28.06.19 12:09:48"^^xsd:string ;
+    ns1:Id "212"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugx0wh9xF_WhzyuhZHR4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/267> ns1:Comment "does anybody know which bridge is the one right at the beginning of the trailer???"^^xsd:string ;
+    ns1:Date "28.06.19 12:09:48"^^xsd:string ;
+    ns1:Id "213"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgyVlgABmpF5dXaOA2R4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/268> ns1:Comment "Malaysian food has more variety and flavor...come at me bruuu!"^^xsd:string ;
+    ns1:Date "28.06.19 12:09:48"^^xsd:string ;
+    ns1:Id "214"^^xsd:string ;
+    ns1:Likes 1 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgzG_Bzjsf4nOhLb5qh4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/269> ns1:Comment "how to download this film? I wanna watch"^^xsd:string ;
+    ns1:Date "28.06.19 12:09:48"^^xsd:string ;
+    ns1:Id "215"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgxVgKRffxXE_DlJCIZ4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/27> ns1:Comment "@????? ????   Definitely for the guy, if I dont get along with his fam we may as well part ways."^^xsd:string ;
+    ns1:Date "28.03.19 12:09:48"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgzVftOIxgFIZe59SR94AaABAg"^^xsd:string ;
+    ns1:SubId "25-2"^^xsd:string .
+
+<https://iisg.amsterdam/270> ns1:Comment "They called me and my friend crazy rich asians accept your both rich and I had forgot about this movie and we were on our phones and I was like oh fuck that's what they meant"^^xsd:string ;
+    ns1:Date "28.06.19 12:09:48"^^xsd:string ;
+    ns1:Id "216"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgzgYwXYSxRJBJBvQ8Z4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/271> ns1:Comment "And we are like Crazy poor Africans ??????????"^^xsd:string ;
+    ns1:Date "28.06.19 12:09:48"^^xsd:string ;
+    ns1:Id "217"^^xsd:string ;
+    ns1:Likes 3 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgxUHaxqFC-ZEKZ89Zx4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/272> ns1:Comment "Bitch Please! You've got Black Panther."^^xsd:string ;
+    ns1:Date "28.06.19 12:09:48"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgxUHaxqFC-ZEKZ89Zx4AaABAg"^^xsd:string ;
+    ns1:SubId "217-1"^^xsd:string .
+
+<https://iisg.amsterdam/273> ns1:Comment "When will Sane Poor Non-Asians come out?"^^xsd:string ;
+    ns1:Date "28.06.19 12:09:48"^^xsd:string ;
+    ns1:Id "218"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgzDwUQ21ryZ4Axs8EJ4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/274> ns1:Comment "I'm confused, is this a trailer or are they actually showing us the whole movie...."^^xsd:string ;
+    ns1:Date "28.06.19 12:09:48"^^xsd:string ;
+    ns1:Id "219"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgyB_5yYVbYvPYSG_TV4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/275> ns1:Comment "Trailer :)"^^xsd:string ;
+    ns1:Date "28.06.19 12:09:48"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgyB_5yYVbYvPYSG_TV4AaABAg"^^xsd:string ;
+    ns1:SubId "219-1"^^xsd:string .
+
+<https://iisg.amsterdam/276> ns1:Comment "It's a short K-Drama without subs ??"^^xsd:string ;
+    ns1:Date "28.06.19 12:09:48"^^xsd:string ;
+    ns1:Id "220"^^xsd:string ;
+    ns1:Likes 8 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgyVMwOGQM9SaRbrZi14AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/277> ns1:Comment "what is that?"^^xsd:string ;
+    ns1:Date "28.07.19 12:09:48"^^xsd:string ;
+    ns1:Id "221"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgwBofltjvyZQN2e9tx4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/278> ns1:Comment "San ko po ba ito pwede mapanood ng full"^^xsd:string ;
+    ns1:Date "28.07.19 12:09:48"^^xsd:string ;
+    ns1:Id "222"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgxBDKFqxJ8Vsyl8-354AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/279> ns1:Comment "Yay Singapore"^^xsd:string ;
+    ns1:Date "28.07.19 12:09:48"^^xsd:string ;
+    ns1:Id "223"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgyaRyWQGeZf8nNESit4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/28> ns1:Comment "@- Simplicity  because of his family, you will leave him even if he's good to you?"^^xsd:string ;
+    ns1:Date "28.03.19 12:09:48"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgzVftOIxgFIZe59SR94AaABAg"^^xsd:string ;
+    ns1:SubId "25-3"^^xsd:string .
+
+<https://iisg.amsterdam/280> ns1:Comment "They sound like they are dubbed by the most stereotypical British and black people i could imagine."^^xsd:string ;
+    ns1:Date "28.07.19 12:09:48"^^xsd:string ;
+    ns1:Id "224"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugza5mzDteKKZPg_RH94AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/281> ns1:Comment "Someone please tell me where they are at @ 1:25"^^xsd:string ;
+    ns1:Date "28.07.19 12:09:48"^^xsd:string ;
+    ns1:Id "225"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgxpJAgkhoRW4UBiTzF4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/282> ns1:Comment "I watched this movie today and I swear I LOVED IT!!!!! Everyone, it's a must watch. Specially Asians, you should watch it cause being an Asian myself I could so much relate to it at times."^^xsd:string ;
+    ns1:Date "28.07.19 12:09:48"^^xsd:string ;
+    ns1:Id "226"^^xsd:string ;
+    ns1:Likes 9 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugxa26MPPEBXewtYpwp4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/283> ns1:Comment "I am geographically Asian , But I am Poor :("^^xsd:string ;
+    ns1:Date "28.07.19 12:09:48"^^xsd:string ;
+    ns1:Id "227"^^xsd:string ;
+    ns1:Likes 1 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugz_EFf1Q1w_9TN67Np4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/284> ns1:Comment "Unpopular opinion: this movie was a hackeneyed bore"^^xsd:string ;
+    ns1:Date "28.07.19 12:09:48"^^xsd:string ;
+    ns1:Id "228"^^xsd:string ;
+    ns1:Likes 1 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgxcJP7BPW-swSziYu54AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/285> ns1:Comment "The song in the last minutes??"^^xsd:string ;
+    ns1:Date "28.07.19 12:09:48"^^xsd:string ;
+    ns1:Id "229"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugyy5BxszdSfxJNAnC14AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/286> ns1:Comment "I DO NOT HAVE A YEN TO SEE THIS PIECE OF GARBAGE EVER!!!"^^xsd:string ;
+    ns1:Date "28.07.19 12:09:48"^^xsd:string ;
+    ns1:Id "230"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugx65cQ8lV3y89cpLld4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/287> ns1:Comment "TOTAL UNREALISTIC FANTASY PIECE OF USELESS CRAP OF A MOVIE."^^xsd:string ;
+    ns1:Date "28.07.19 12:09:48"^^xsd:string ;
+    ns1:Id "231"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgyPR2_V0lOcByKsBjB4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/288> ns1:Comment "Sick of these god damn british accents"^^xsd:string ;
+    ns1:Date "28.07.19 12:09:48"^^xsd:string ;
+    ns1:Id "232"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugy5Upngz9KEyThbQQR4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/289> ns1:Comment "ha I popped on here hoping to see Gemma Chan as I heard she was in this movie, talk about barely in the trailer:) hope she is in the movie more I heard she stole the show"^^xsd:string ;
+    ns1:Date "28.07.19 12:09:48"^^xsd:string ;
+    ns1:Id "233"^^xsd:string ;
+    ns1:Likes 1 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugx3mVTseD8EQrCdOPl4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/29> ns1:Comment "@????? ????  Family has a big impact, it can ruin even the best relationships. Ive seen it"^^xsd:string ;
+    ns1:Date "28.03.19 12:09:48"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgzVftOIxgFIZe59SR94AaABAg"^^xsd:string ;
+    ns1:SubId "25-4"^^xsd:string .
+
+<https://iisg.amsterdam/290> ns1:Comment "where’s rice gum"^^xsd:string ;
+    ns1:Date "28.07.19 12:09:48"^^xsd:string ;
+    ns1:Id "234"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgxU94XDwDmLXB18mdJ4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/291> ns1:Comment "meanwhile my family is what you'd call,  crazy broke asians"^^xsd:string ;
+    ns1:Date "28.07.19 12:09:48"^^xsd:string ;
+    ns1:Id "235"^^xsd:string ;
+    ns1:Likes 10 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugz8a1DuIGRd-YkgUj94AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/292> ns1:Comment "we got that in common then."^^xsd:string ;
+    ns1:Date "28.09.19 12:09:48"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 1 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugz8a1DuIGRd-YkgUj94AaABAg"^^xsd:string ;
+    ns1:SubId "235-1"^^xsd:string .
+
+<https://iisg.amsterdam/293> ns1:Comment "I NO DRIVE"^^xsd:string ;
+    ns1:Date "28.07.19 12:09:48"^^xsd:string ;
+    ns1:Id "236"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgyQjmZgd0B17xrUAVF4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/294> ns1:Comment "Bruce Lee approves. He was a ground breaker. Research his path."^^xsd:string ;
+    ns1:Date "28.07.19 12:09:48"^^xsd:string ;
+    ns1:Id "237"^^xsd:string ;
+    ns1:Likes 2 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugz3rez4NhOn0Ptyy4p4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/295> ns1:Comment "stan lee is related to bruce lee"^^xsd:string ;
+    ns1:Date "28.07.19 12:09:48"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugz3rez4NhOn0Ptyy4p4AaABAg"^^xsd:string ;
+    ns1:SubId "237-1"^^xsd:string .
+
+<https://iisg.amsterdam/296> ns1:Comment "OMG does every ethnic movie have to start with how they are oppressed by the White man? Jesus. Some of the most racist people I have ever met were Asians. What do they have to say about that????"^^xsd:string ;
+    ns1:Date "28.07.19 12:09:48"^^xsd:string ;
+    ns1:Id "238"^^xsd:string ;
+    ns1:Likes 1 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgyQxQDDKGL_f5bQF2h4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/297> ns1:Comment "Been looking for this movie on netflix??can u come out already!!!"^^xsd:string ;
+    ns1:Date "28.07.19 12:09:48"^^xsd:string ;
+    ns1:Id "239"^^xsd:string ;
+    ns1:Likes 3 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugz3sSmnLrHWkZGZw3F4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/298> ns1:Comment "Warner brothers doesn't release it's movies on Netflix. It's on HBO of you live in the states/Canada and Amazon prime internationally."^^xsd:string ;
+    ns1:Date "28.08.19 12:09:48"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 1 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugz3sSmnLrHWkZGZw3F4AaABAg"^^xsd:string ;
+    ns1:SubId "239-1"^^xsd:string .
+
+<https://iisg.amsterdam/299> ns1:Comment "I think"^^xsd:string ;
+    ns1:Date "28.08.19 12:09:48"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugz3sSmnLrHWkZGZw3F4AaABAg"^^xsd:string ;
+    ns1:SubId "239-2"^^xsd:string .
+
+<https://iisg.amsterdam/3> ns1:Comment "Movie was stupid!!!! Half of the Asian actors have British accents ok...stupid and they r suppose Chinese???"^^xsd:string ;
+    ns1:Date "28.02.19 12:09:48"^^xsd:string ;
+    ns1:Id "4"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugz5IS1yD4lpBiM7AmB4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/30> ns1:Comment "India is also an Asian country but ppl think as only China Korea Filipinos Singapore japan Indonesia like someone said in the comments. Tbh even if ppl think abou India it’s of no use cause if I talk about crazy then it’d be only the ambanis! The ambanis r the richest ppl in the asia"^^xsd:string ;
+    ns1:Date "28.03.19 12:09:48"^^xsd:string ;
+    ns1:Id "26"^^xsd:string ;
+    ns1:Likes 1 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgzABR27x_B6a9PZY5V4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/300> ns1:Comment "Thanks"^^xsd:string ;
+    ns1:Date "28.08.19 12:09:48"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugz3sSmnLrHWkZGZw3F4AaABAg"^^xsd:string ;
+    ns1:SubId "239-3"^^xsd:string .
+
+<https://iisg.amsterdam/301> ns1:Comment "needGod.com"^^xsd:string ;
+    ns1:Date "28.07.19 12:09:48"^^xsd:string ;
+    ns1:Id "240"^^xsd:string ;
+    ns1:Likes 1 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugy9Vty245nWJUB9MCF4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/302> ns1:Comment "Fresh off the boat? Anyone?"^^xsd:string ;
+    ns1:Date "28.07.19 12:09:48"^^xsd:string ;
+    ns1:Id "241"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugzglh5CX8hCIxxJU_54AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/303> ns1:Comment "Here after Aziz Ansari : Right Now trailer :D"^^xsd:string ;
+    ns1:Date "28.07.19 12:09:48"^^xsd:string ;
+    ns1:Id "242"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgxT3z_s-mF1u5VfcOJ4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/304> ns1:Comment "Loved this movie a lot..."^^xsd:string ;
+    ns1:Date "28.07.19 12:09:48"^^xsd:string ;
+    ns1:Id "243"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgwAy7qreBmPHS4lygt4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/305> ns1:Comment "how do i watch the full movie;please help"^^xsd:string ;
+    ns1:Date "28.07.19 12:09:48"^^xsd:string ;
+    ns1:Id "244"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgyYkUaK3jBSqQx8kJB4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/306> ns1:Comment "Does Asian mean only Chinese , Japanese , Malaysians , Koreans or Vietnamese ?? There's more to Asia than only these races , what about Indians , Pakistani , Bangladeshi , Afghani ... Asia is nothing without them all"^^xsd:string ;
+    ns1:Date "28.07.19 12:09:48"^^xsd:string ;
+    ns1:Id "245"^^xsd:string ;
+    ns1:Likes 3 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgxQUNpuuHgOJ-dySj14AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/307> ns1:Comment "No... they are brown on the outside and brown on the inside."^^xsd:string ;
+    ns1:Date "28.07.19 12:09:48"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgxQUNpuuHgOJ-dySj14AaABAg"^^xsd:string ;
+    ns1:SubId "245-1"^^xsd:string .
+
+<https://iisg.amsterdam/308> ns1:Comment "When the wedding scene came and when Rachel and Nick were staring at each other It was the best moment and the song which was playing in the background Ahhh I couldn't hold up my tear I was sooooooooooo emotional It is the best romantic movie I have seen in awhile"^^xsd:string ;
+    ns1:Date "28.07.19 12:09:48"^^xsd:string ;
+    ns1:Id "246"^^xsd:string ;
+    ns1:Likes 14 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgzTKeJxyDd4qea-7wt4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/309> ns1:Comment "Im Asian too! I mean Eurasian, but still!!!"^^xsd:string ;
+    ns1:Date "28.07.19 12:09:48"^^xsd:string ;
+    ns1:Id "247"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugz9g-xwuNZbMiKDn1h4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/31> ns1:Comment "So she's been dating him for a year and doesn't know that he is crazy rich? She has never Googled him or his family? Come on... And she looks like she's always dressed in expensive clothes even in the coffee shop scene, so the plot is not very believable.  Also, it is very rare irl for very rich people to date poor people, no matter what everyone says. Usually the rich ones are not only stuck up, but they roam around other rich people."^^xsd:string ;
+    ns1:Date "28.03.19 12:09:48"^^xsd:string ;
+    ns1:Id "27"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgwyEbMoFbDPIGlYbDR4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/310> ns1:Comment "I'm literally dying for China Rich Girlfriend a.k.a the sequel. I can't wait to see Harry Shum Jr as Astrid's ex - fiance who will turn into her love interest??"^^xsd:string ;
+    ns1:Date "28.07.19 12:09:48"^^xsd:string ;
+    ns1:Id "248"^^xsd:string ;
+    ns1:Likes 2 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgzLzhKK6B4krAB65H94AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/311> ns1:Comment "Same??i can't wait"^^xsd:string ;
+    ns1:Date "28.09.19 12:09:48"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgzLzhKK6B4krAB65H94AaABAg"^^xsd:string ;
+    ns1:SubId "248-1"^^xsd:string .
+
+<https://iisg.amsterdam/312> ns1:Comment "Are they gonna make a sequel movie?"^^xsd:string ;
+    ns1:Date "07.11.19 12:09:48"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgzLzhKK6B4krAB65H94AaABAg"^^xsd:string ;
+    ns1:SubId "248-2"^^xsd:string .
+
+<https://iisg.amsterdam/313> ns1:Comment "Tr?nh Di?m L? https://news.zing.vn/my-nhan-phim-cap-ba-vat-va-kiem-moi-gio-87-nghin-dong-post430431.html"^^xsd:string ;
+    ns1:Date "28.07.19 12:09:48"^^xsd:string ;
+    ns1:Id "249"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgwBPT3e8tt-ZDFo9iB4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/314> ns1:Comment "This is not Asian. Not a single Indian guy. Why Asian has become synonym to Chinese?."^^xsd:string ;
+    ns1:Date "28.07.19 12:09:48"^^xsd:string ;
+    ns1:Id "250"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgyQAL5eC1ETwJ3q7rV4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/315> ns1:Comment "Watch Crazy Rich Asians -------->  https://verystream.com/stream/2V3JUoSGWbT/Crazy_Rich_Asians_2018.mp4"^^xsd:string ;
+    ns1:Date "28.07.19 12:09:48"^^xsd:string ;
+    ns1:Id "251"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgycqNHr9sCGpv97nqx4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/316> ns1:Comment "Warnerbros? They be thinking It's 200% more safer than working with DC"^^xsd:string ;
+    ns1:Date "28.07.19 12:09:48"^^xsd:string ;
+    ns1:Id "252"^^xsd:string ;
+    ns1:Likes 4 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgxiNQJ9G_m4JXcFTKB4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/317> ns1:Comment "CRAZY RICH ASIANS 2 PLSSSSSSSSS"^^xsd:string ;
+    ns1:Date "28.07.19 12:09:48"^^xsd:string ;
+    ns1:Id "253"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugwm0SIMp7ijHUTXqKl4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/318> ns1:Comment "Tetangga gua Di Orchard Singapore"^^xsd:string ;
+    ns1:Date "28.07.19 12:09:48"^^xsd:string ;
+    ns1:Id "254"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugxe1lKxx4WSuSO7jfJ4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/319> ns1:Comment "1:19  'Buck Buck Bitch'. I can't stop laughing."^^xsd:string ;
+    ns1:Date "28.08.19 12:09:48"^^xsd:string ;
+    ns1:Id "255"^^xsd:string ;
+    ns1:Likes 2 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgywhbU9rE6XGTaoPZt4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/32> ns1:Comment "Im asian and I need to see this movie"^^xsd:string ;
+    ns1:Date "28.03.19 12:09:48"^^xsd:string ;
+    ns1:Id "28"^^xsd:string ;
+    ns1:Likes 7 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgzPoB1d4AXiCbc0RRN4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/320> ns1:Comment "WHY DO THEY ALL HAVE PAPERCUTS FOR EYES?!?!?"^^xsd:string ;
+    ns1:Date "28.08.19 12:09:48"^^xsd:string ;
+    ns1:Id "256"^^xsd:string ;
+    ns1:Likes 1 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgzPClFHwCoyX3Vphdh4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/321> ns1:Comment "Omfg that was actually racist af dont ever say that again lmao"^^xsd:string ;
+    ns1:Date "28.09.19 12:09:48"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgzPClFHwCoyX3Vphdh4AaABAg"^^xsd:string ;
+    ns1:SubId "256-1"^^xsd:string .
+
+<https://iisg.amsterdam/322> ns1:Comment "@Green Tea  No I think I will continue saying it. Free speech, biatch. The world to them is an elongated ellipse and their eyes are papercuts."^^xsd:string ;
+    ns1:Date "28.09.19 12:09:48"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgzPClFHwCoyX3Vphdh4AaABAg"^^xsd:string ;
+    ns1:SubId "256-2"^^xsd:string .
+
+<https://iisg.amsterdam/323> ns1:Comment "@Alan Parson  no that's not freedom of speech that's racist"^^xsd:string ;
+    ns1:Date "28.09.19 12:09:48"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 1 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgzPClFHwCoyX3Vphdh4AaABAg"^^xsd:string ;
+    ns1:SubId "256-3"^^xsd:string .
+
+<https://iisg.amsterdam/324> ns1:Comment "@Alan Parson  now dont say it again"^^xsd:string ;
+    ns1:Date "28.09.19 12:09:48"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgzPClFHwCoyX3Vphdh4AaABAg"^^xsd:string ;
+    ns1:SubId "256-4"^^xsd:string .
+
+<https://iisg.amsterdam/325> ns1:Comment "@Green Tea  Freedom of speech is my ability to say anything I like and letting it be critiqued and/or ridiculed in the public forum. Would you issue me a fine or jailing me for saying that?  So yeah, bloody papercuts for eyes maybe very hard squinting. It's a beautiful phrase and I love saying it. Don't mansplain by telling me what to do."^^xsd:string ;
+    ns1:Date "28.09.19 12:09:48"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgzPClFHwCoyX3Vphdh4AaABAg"^^xsd:string ;
+    ns1:SubId "256-5"^^xsd:string .
+
+<https://iisg.amsterdam/326> ns1:Comment "@Alan Parson  I'm really doing this so you dont get in trouble by a actual Asian person just dont say its   its gonna give you a bad rep if more and more people see this :/"^^xsd:string ;
+    ns1:Date "28.09.19 12:09:48"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgzPClFHwCoyX3Vphdh4AaABAg"^^xsd:string ;
+    ns1:SubId "256-6"^^xsd:string .
+
+<https://iisg.amsterdam/327> ns1:Comment "@Green Tea  Asian people can suck my hairy balls! I don't care to associate with paper cut eye people who crash cars and smell like fish.  Rich Asians just crash bigger cars, smell more like fish, and get surgery to make their eyes less like papercuts!!!"^^xsd:string ;
+    ns1:Date "28.09.19 12:09:48"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgzPClFHwCoyX3Vphdh4AaABAg"^^xsd:string ;
+    ns1:SubId "256-7"^^xsd:string .
+
+<https://iisg.amsterdam/328> ns1:Comment "Finally a movie where we aren't doing Kungfu or solving math equations."^^xsd:string ;
+    ns1:Date "28.08.19 12:09:48"^^xsd:string ;
+    ns1:Id "257"^^xsd:string ;
+    ns1:Likes 1669 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgztcymW-rgPXBZuOx94AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/329> ns1:Comment "Break your hip and wake from a coma.  whatever reply you have to say is nothing more than a begging for a reply"^^xsd:string ;
+    ns1:Date "07.11.19 12:09:48"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgztcymW-rgPXBZuOx94AaABAg"^^xsd:string ;
+    ns1:SubId "257-1"^^xsd:string .
+
+<https://iisg.amsterdam/33> ns1:Comment "are u sure ur asian?  ur ears are more elephant!  lolz"^^xsd:string ;
+    ns1:Date "28.11.88 15:56:45"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 1 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgzPoB1d4AXiCbc0RRN4AaABAg"^^xsd:string ;
+    ns1:SubId "28-1"^^xsd:string .
+
+<https://iisg.amsterdam/330> ns1:Comment "Anh Tien Quang Nguyen ??????????"^^xsd:string ;
+    ns1:Date "22.11.19 12:09:48"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgztcymW-rgPXBZuOx94AaABAg"^^xsd:string ;
+    ns1:SubId "257-2"^^xsd:string .
+
+<https://iisg.amsterdam/331> ns1:Comment "not bad work if you can get it."^^xsd:string ;
+    ns1:Date "28.08.19 12:09:48"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 10 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgztcymW-rgPXBZuOx94AaABAg"^^xsd:string ;
+    ns1:SubId "257-3"^^xsd:string .
+
+<https://iisg.amsterdam/332> ns1:Comment "Lol"^^xsd:string ;
+    ns1:Date "28.08.19 12:09:48"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 3 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgztcymW-rgPXBZuOx94AaABAg"^^xsd:string ;
+    ns1:SubId "257-4"^^xsd:string .
+
+<https://iisg.amsterdam/333> ns1:Comment "There was mahjong"^^xsd:string ;
+    ns1:Date "28.09.19 12:09:48"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 5 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgztcymW-rgPXBZuOx94AaABAg"^^xsd:string ;
+    ns1:SubId "257-5"^^xsd:string .
+
+<https://iisg.amsterdam/334> ns1:Comment "Anh Tien Quang Nguyen Jackie Chan has entered the chat ??"^^xsd:string ;
+    ns1:Date "28.09.19 12:09:48"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgztcymW-rgPXBZuOx94AaABAg"^^xsd:string ;
+    ns1:SubId "257-6"^^xsd:string .
+
+<https://iisg.amsterdam/335> ns1:Comment "hahaahha"^^xsd:string ;
+    ns1:Date "28.09.19 12:09:48"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgztcymW-rgPXBZuOx94AaABAg"^^xsd:string ;
+    ns1:SubId "257-7"^^xsd:string .
+
+<https://iisg.amsterdam/336> ns1:Comment "I doubt anyone even saw you that way exclusively"^^xsd:string ;
+    ns1:Date "28.10.19 12:09:48"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgztcymW-rgPXBZuOx94AaABAg"^^xsd:string ;
+    ns1:SubId "257-8"^^xsd:string .
+
+<https://iisg.amsterdam/337> ns1:Comment "lol"^^xsd:string ;
+    ns1:Date "28.10.19 12:09:48"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgztcymW-rgPXBZuOx94AaABAg"^^xsd:string ;
+    ns1:SubId "257-9"^^xsd:string .
+
+<https://iisg.amsterdam/338> ns1:Comment "Lol"^^xsd:string ;
+    ns1:Date "28.10.19 12:09:48"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgztcymW-rgPXBZuOx94AaABAg"^^xsd:string ;
+    ns1:SubId "257-10"^^xsd:string .
+
+<https://iisg.amsterdam/339> ns1:Comment "Yeah I know f*cking hollywood.."^^xsd:string ;
+    ns1:Date "28.10.19 12:09:48"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgztcymW-rgPXBZuOx94AaABAg"^^xsd:string ;
+    ns1:SubId "257-11"^^xsd:string .
+
+<https://iisg.amsterdam/34> ns1:Comment "lol i'm done ??????"^^xsd:string ;
+    ns1:Date "28.06.19 12:09:48"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgzPoB1d4AXiCbc0RRN4AaABAg"^^xsd:string ;
+    ns1:SubId "28-2"^^xsd:string .
+
+<https://iisg.amsterdam/340> ns1:Comment "The softcore mode."^^xsd:string ;
+    ns1:Date "28.08.19 12:09:48"^^xsd:string ;
+    ns1:Id "258"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgzrK7Ns3drsfgxoOrt4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/341> ns1:Comment "ahhh I’m not used to the non Asian mom accent from fotb"^^xsd:string ;
+    ns1:Date "28.08.19 12:09:48"^^xsd:string ;
+    ns1:Id "259"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugxm8qK23YcldYhmif14AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/342> ns1:Comment "I’m a crazy broke Asian"^^xsd:string ;
+    ns1:Date "28.08.19 12:09:48"^^xsd:string ;
+    ns1:Id "260"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgwGJTgN9wgYCp_EqpR4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/343> ns1:Comment "scandal and only childness is my bread and butter. But turning down ppl who were well off because they seemed to assume I'd want it to work out at the cost of their reciprocal respect, is a relatable thing, surprisingly."^^xsd:string ;
+    ns1:Date "28.08.19 12:09:48"^^xsd:string ;
+    ns1:Id "261"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgwjzeSkv_lNI1Y0xJ54AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/344> ns1:Comment "it's about love .  not just love of spouse, but love of family, love of friends, love of humanity for each other when you stop looking at the \"stuff\" and just see people in their struggle to be strong when we are all so fragile.  ants, really.  our stuff is dust and we are mere ants.  it wasn't about the pretty people, the superb acting, the gorgeous scenery, but people doing what they think is best and struggling even in the face of pain and doubt.  we are all God's children, country, ethnicity, customs are just decorations.  we are just mere mortal creations, trying to figure out what we should be doing in this paradise."^^xsd:string ;
+    ns1:Date "28.08.19 12:09:48"^^xsd:string ;
+    ns1:Id "262"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgyecF9EaLPrxYkK3wZ4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/345> ns1:Comment "Out of mind the heroine nt pretty all"^^xsd:string ;
+    ns1:Date "28.08.19 12:09:48"^^xsd:string ;
+    ns1:Id "263"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgxRcHEa4kHvtdUMw9V4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/346> ns1:Comment "For people who keep saying wow it took Hollywood this long, don’t cry for more movies that focus on a cast change. Focus on making actually good movies, like this one."^^xsd:string ;
+    ns1:Date "28.08.19 12:09:48"^^xsd:string ;
+    ns1:Id "264"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgzxrP17J7QjdU-ksTN4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/347> ns1:Comment "Most overrated movie I have seen in years - I'd give it a 2/10."^^xsd:string ;
+    ns1:Date "28.08.19 12:09:48"^^xsd:string ;
+    ns1:Id "265"^^xsd:string ;
+    ns1:Likes 1 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgzXoFw84FNTZgmVx0h4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/348> ns1:Comment "Only Chinese"^^xsd:string ;
+    ns1:Date "28.08.19 12:09:48"^^xsd:string ;
+    ns1:Id "266"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgwvVxr7lkadC-mAbK14AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/349> ns1:Comment "Can anyone be my asian best friend ??i live in dallas"^^xsd:string ;
+    ns1:Date "28.08.19 12:09:48"^^xsd:string ;
+    ns1:Id "267"^^xsd:string ;
+    ns1:Likes 2 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugy5uvu_LDmRPMpjV7N4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/35> ns1:Comment "This movie wins an award, it has everything a movie needs and more. This will be the 2nd movie that made me cry, from the best friends wedding to when the girls mum came to see her daughter from (01.20.00 until the end). This movie is similar to may life, its like the writer wrote it just for me haha. This made me love it even more and I would love if the director (Jon M. Chu) and writer (Kevin Kwan) wrote more movies similar to THIS ONE. ???? best movie in 2018. Was worth the wait!!"^^xsd:string ;
+    ns1:Date "28.03.19 12:09:48"^^xsd:string ;
+    ns1:Id "29"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugy7bnxGP7KcetJ1XWd4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/350> ns1:Comment "Hey yo, we need a sequel of this!!!!!!!!!!!!!!! #CrazyRichAsians2"^^xsd:string ;
+    ns1:Date "28.08.19 12:09:48"^^xsd:string ;
+    ns1:Id "268"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgyqGTAE5Nf2a5LYlKl4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/351> ns1:Comment "Lol the real crazy-rich there is Ms. Kris Aquino (plays the role of Princess Intan). The daughter of Ex President Benigno Aquino II and the sister of Ex President Benigno Aquino III. She's also like a princess in real life"^^xsd:string ;
+    ns1:Date "28.08.19 12:09:48"^^xsd:string ;
+    ns1:Id "269"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgwicGSJ4fDM-UZPywJ4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/352> ns1:Comment "On offense,I don't like the heroin??"^^xsd:string ;
+    ns1:Date "28.08.19 12:09:48"^^xsd:string ;
+    ns1:Id "270"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugy3P76zVYd-xqpziOx4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/353> ns1:Comment "So. This is ALL Yellow?"^^xsd:string ;
+    ns1:Date "28.08.19 12:09:48"^^xsd:string ;
+    ns1:Id "271"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgweNhFoH8ss5lcXlkh4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/354> ns1:Comment "I'm Crazy Poor Asian."^^xsd:string ;
+    ns1:Date "28.08.19 12:09:48"^^xsd:string ;
+    ns1:Id "272"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgzT0STHfSNP_H2Grjl4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/355> ns1:Comment "Ima crazy broke asian"^^xsd:string ;
+    ns1:Date "28.08.19 12:09:48"^^xsd:string ;
+    ns1:Id "273"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgxlgHYkJSRj8gK6l7d4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/356> ns1:Comment "This movie have a rehash plot and Asian cast does not make it different"^^xsd:string ;
+    ns1:Date "28.08.19 12:09:48"^^xsd:string ;
+    ns1:Id "274"^^xsd:string ;
+    ns1:Likes 1 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgytjK-B5w9pkkffg614AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/357> ns1:Comment "Can’t relate ???????????"^^xsd:string ;
+    ns1:Date "28.08.19 12:09:48"^^xsd:string ;
+    ns1:Id "275"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugw9mKyLbDYP_NXKBHV4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/358> ns1:Comment "After being inpired by hall of mirror in versaille now i've become an ultimate lifeform who can eat a whole bucket of familiy size macaroni and cheese in one sitting"^^xsd:string ;
+    ns1:Date "28.08.19 12:09:48"^^xsd:string ;
+    ns1:Id "276"^^xsd:string ;
+    ns1:Likes 4 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgzU-nd9B6WFBvgXBjZ4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/359> ns1:Comment "This is still my favorite movie even though The Lion King is out, I love Crazy Rich Asians???"^^xsd:string ;
+    ns1:Date "28.08.19 12:09:48"^^xsd:string ;
+    ns1:Id "277"^^xsd:string ;
+    ns1:Likes 1 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgwVmItn4LuAWvtFpd54AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/36> ns1:Comment "Someone please make a movie on our Ambani family.. They're crazy rich asians too"^^xsd:string ;
+    ns1:Date "28.03.19 12:09:48"^^xsd:string ;
+    ns1:Id "30"^^xsd:string ;
+    ns1:Likes 7 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugw2pY-EF0kDceRoG9F4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/360> ns1:Comment "SEQUEL PLEASEEEEEEE!!!!! THIS MOVIE IS ONE YEAR OLD ALREADY....IT'S  TIME FOR THE SEQUEL DON'T YOU GUYS THINK?? PLEASE PLEASEEEEEEE????????????"^^xsd:string ;
+    ns1:Date "28.08.19 12:09:48"^^xsd:string ;
+    ns1:Id "278"^^xsd:string ;
+    ns1:Likes 1 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgyoZqOQXeFwYpfv0_B4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/361> ns1:Comment "I'm sure he \"Crazy rich asian\" after this movie"^^xsd:string ;
+    ns1:Date "28.08.19 12:09:48"^^xsd:string ;
+    ns1:Id "279"^^xsd:string ;
+    ns1:Likes 1 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugyoe9-K8Xkla996Q2N4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/362> ns1:Comment "Ok seriously, this movie is a waste of time. Its not very funny. Its cliche. Its really boring.  But it has Asians that are crazy and rich, am I right?"^^xsd:string ;
+    ns1:Date "28.08.19 12:09:48"^^xsd:string ;
+    ns1:Id "280"^^xsd:string ;
+    ns1:Likes 1 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugxf6jypePayZ0pDxJV4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/363> ns1:Comment "Its our time bitch!"^^xsd:string ;
+    ns1:Date "28.08.19 12:09:48"^^xsd:string ;
+    ns1:Id "281"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgwwK7XgTycWLIZoRut4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/364> ns1:Comment "No machine guns, no explosions! .....WTF!"^^xsd:string ;
+    ns1:Date "28.08.19 12:09:48"^^xsd:string ;
+    ns1:Id "282"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgxtF-04aegXe1NKVYl4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/365> ns1:Comment "\"Bak-Bak bitch\" I'm dead ??"^^xsd:string ;
+    ns1:Date "28.08.19 12:09:48"^^xsd:string ;
+    ns1:Id "283"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgzRq0ytIwR1b1mMXUZ4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/366> ns1:Comment "1:20  \"And For Gosh Sake Watch Your Language.\" - Tony Stark/Iron Man, 2015"^^xsd:string ;
+    ns1:Date "28.08.19 12:09:48"^^xsd:string ;
+    ns1:Id "284"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugw13LUXtx60ygF_Fzt4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/367> ns1:Comment "2:00  Yeah For Youngster Only, Don't Watch. Please don't Watch."^^xsd:string ;
+    ns1:Date "28.08.19 12:09:48"^^xsd:string ;
+    ns1:Id "285"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugw8Qy2r3JGQM2VZqmt4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/368> ns1:Comment "CRA: Every Family Has its Crazy End Game: Summer Begins With The End Game. Godzilla: Only One Can Be KING. Best quotes of the Movie ??"^^xsd:string ;
+    ns1:Date "28.08.19 12:09:48"^^xsd:string ;
+    ns1:Id "286"^^xsd:string ;
+    ns1:Likes 1 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgwcmjJs4Yr_IA0V30d4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/369> ns1:Comment "Anyone from NOC?"^^xsd:string ;
+    ns1:Date "28.08.19 12:09:48"^^xsd:string ;
+    ns1:Id "287"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgzdixjkBSJlrYQfs4t4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/37> ns1:Comment "Y so butifel i want to frk u"^^xsd:string ;
+    ns1:Date "28.03.19 12:09:48"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 1 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugw2pY-EF0kDceRoG9F4AaABAg"^^xsd:string ;
+    ns1:SubId "30-1"^^xsd:string .
+
+<https://iisg.amsterdam/370> ns1:Comment "Nick fine ass"^^xsd:string ;
+    ns1:Date "28.08.19 12:09:48"^^xsd:string ;
+    ns1:Id "288"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugy47nW5K9qcH_inAaR4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/371> ns1:Comment "Henry Golding as Nick Young and Gemma Chan as Astrid Leong would be like an Asian 50 Shades."^^xsd:string ;
+    ns1:Date "28.08.19 12:09:48"^^xsd:string ;
+    ns1:Id "289"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgzzAM_4sJf91QDul_d4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/372> ns1:Comment "Wait, it looks like i got carried away then got overwhelmed. Due to the impulse of triumph i thought the couple was indestructible. Now, how the hell did you get the 8 sticks with so many cards left uncovered. That's cheating. Prior to the intent of having both men for her self. Why did Nick Young's best man's fiancee do a flying buzzer beater slam dunk at the Changi Airport. That was a travelling violation. At the floating bar, who was that lady in red that seemed extremely happy. That was the best asian movie i've ever seen in my entire life."^^xsd:string ;
+    ns1:Date "28.08.19 12:09:48"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgzzAM_4sJf91QDul_d4AaABAg"^^xsd:string ;
+    ns1:SubId "289-1"^^xsd:string .
+
+<https://iisg.amsterdam/373> ns1:Comment "Princess Intan I've spotted her once at Sapphire Road, Manila while driving to Robinson's Galleria in 2017. She is truely our Princess and one the highest ranking Princess."^^xsd:string ;
+    ns1:Date "28.08.19 12:09:48"^^xsd:string ;
+    ns1:Id "290"^^xsd:string ;
+    ns1:Likes 2 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugym7Rzrd4871QTx9c14AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/374> ns1:Comment "My one pet peeve about the movie is the layout. This is the biggest asian movie america has seen in a while. I would not have made it materialistic focusing on the luxury and glam and rich. I would've focused it on the deeper side of Asian culture: the monks. Nothing exudes Asian culture deeper than that. Their spiritual seriousness truly is enviable."^^xsd:string ;
+    ns1:Date "28.08.19 12:09:48"^^xsd:string ;
+    ns1:Id "291"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgxDAi4gfbvUaC98mNd4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/375> ns1:Comment "he is like asian  rich harry"^^xsd:string ;
+    ns1:Date "28.08.19 12:09:48"^^xsd:string ;
+    ns1:Id "292"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgzvS4MgczpBCz1H2Op4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/376> ns1:Comment "Dem asian"^^xsd:string ;
+    ns1:Date "28.08.19 12:09:48"^^xsd:string ;
+    ns1:Id "293"^^xsd:string ;
+    ns1:Likes 1 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgyNwU1rfZx90UVsWox4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/377> ns1:Comment "WOW This  looks like the best M Rated movie EVER"^^xsd:string ;
+    ns1:Date "28.08.19 12:09:48"^^xsd:string ;
+    ns1:Id "294"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugx39t1ZOGTn7wesDTp4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/378> ns1:Comment "being asian, you usually have a relative that is super rich whom you hv to impress everytime they came by. and by \"impress\" it means you're gonna try to compete with their children and  not let them think you're just useless"^^xsd:string ;
+    ns1:Date "28.08.19 12:09:48"^^xsd:string ;
+    ns1:Id "295"^^xsd:string ;
+    ns1:Likes 23 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgyoAg0ifbrKAMBkydJ4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/379> ns1:Comment "awkwafina was freaking amazing and gemma chan's character we stan"^^xsd:string ;
+    ns1:Date "28.08.19 12:09:48"^^xsd:string ;
+    ns1:Id "296"^^xsd:string ;
+    ns1:Likes 1 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgxUVpb7OeMzd8mD6md4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/38> ns1:Comment "Not really Asian representation but go off."^^xsd:string ;
+    ns1:Date "28.03.19 12:09:48"^^xsd:string ;
+    ns1:Id "31"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugw653tR7ey8fqLoC8V4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/380> ns1:Comment "Lucky girl!!!!"^^xsd:string ;
+    ns1:Date "28.08.19 12:09:48"^^xsd:string ;
+    ns1:Id "297"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgwGDNqHVZwIkNZs0Ml4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/381> ns1:Comment "I'm a broke crazy asian girl??"^^xsd:string ;
+    ns1:Date "28.08.19 12:09:48"^^xsd:string ;
+    ns1:Id "298"^^xsd:string ;
+    ns1:Likes 3 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugyt4bKQ0k8MGvpaQ6t4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/382> ns1:Comment "i just finished watching this movie and it called me poor in 1000 languages."^^xsd:string ;
+    ns1:Date "28.08.19 12:09:48"^^xsd:string ;
+    ns1:Id "299"^^xsd:string ;
+    ns1:Likes 223 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugxk0xnFfj-gK5mO1hh4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/383> ns1:Comment "meanwhile me: crazy poor Asian"^^xsd:string ;
+    ns1:Date "28.08.19 12:09:48"^^xsd:string ;
+    ns1:Id "300"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgxgE6pYOtpJgDAFcgt4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/384> ns1:Comment "I watched this!! It’s like Hollywood movies with Asian faces!! So it’s like Singaporean’s don’t have their own culture, every thing is western"^^xsd:string ;
+    ns1:Date "28.08.19 12:09:48"^^xsd:string ;
+    ns1:Id "301"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgxyunaG_NJb-8ssgaZ4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/385> ns1:Comment "The only crazy rich asian in Singapore is minister...esp prime minister..earning millions of dollars and expect to have that luxury kind of living..where citizen become poorer and poorer. Agree?"^^xsd:string ;
+    ns1:Date "28.08.19 12:09:48"^^xsd:string ;
+    ns1:Id "302"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgwYo_IVvxbmKL2GmLZ4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/386> ns1:Comment "just watched here in the philippines on cable channel its' a very good movie well represented of asians actor/actress us like ms. kris aquino."^^xsd:string ;
+    ns1:Date "28.08.19 12:09:48"^^xsd:string ;
+    ns1:Id "303"^^xsd:string ;
+    ns1:Likes 1 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgxL6ydydrvvAlN9k354AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/387> ns1:Comment "A Hollywood movie with an all Asian cast, feels very refreshing!"^^xsd:string ;
+    ns1:Date "28.09.19 12:09:48"^^xsd:string ;
+    ns1:Id "304"^^xsd:string ;
+    ns1:Likes 2 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgxfgkG2kuCRkFXooVF4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/388> ns1:Comment "I’m so ready for the sequel ??"^^xsd:string ;
+    ns1:Date "28.09.19 12:09:48"^^xsd:string ;
+    ns1:Id "305"^^xsd:string ;
+    ns1:Likes 2 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugz4rS0e_u_EzKyuXId4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/389> ns1:Comment "That wedding scene though... wow loved that mystical scenery!"^^xsd:string ;
+    ns1:Date "28.09.19 12:09:48"^^xsd:string ;
+    ns1:Id "306"^^xsd:string ;
+    ns1:Likes 6 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgxCMal5-dlyoNPgstB4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/39> ns1:Comment "Wonder what Awkwafina is doing now? She's baking Boujee Gucci Cupcakes ??  https://youtu.be/Xh4h-lMGV90"^^xsd:string ;
+    ns1:Date "28.03.19 12:09:48"^^xsd:string ;
+    ns1:Id "32"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgzKG7Yl6eauYz65KKR4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/390> ns1:Comment "“Prince William of Asia” Ah they left that scene out of the movie, but it’s okay the movie was great"^^xsd:string ;
+    ns1:Date "28.09.19 12:09:48"^^xsd:string ;
+    ns1:Id "307"^^xsd:string ;
+    ns1:Likes 13 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgxUuNzQgJrFXOn7o-l4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/391> ns1:Comment "Why is Awkwafina trying to act ghetto???????"^^xsd:string ;
+    ns1:Date "28.09.19 12:09:48"^^xsd:string ;
+    ns1:Id "308"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgzKpvQV7GDD6bzBCwp4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/392> ns1:Comment "Well for you car guys out there, here are the cars that appeared in the movie: Audi R8 BMW i8 Ferrari F430 Ford GT40 Lamborghini Aventador SV McLaren MP4 - 12C Rolls Royce Phantom Rolls Royce Wraith Jagusr XJ Mercedes-Benz AMG GT Porsche 911 Carrera 2013 Ford Shelby GT500 Jeep Wrangler Acura NSX/Honda NSX Land Rover Defender Mercedes-McLaren SLR Mercedes-Benz C63 AMG I'll update this as soon as I'm finished rewatching the trailer multiple times"^^xsd:string ;
+    ns1:Date "28.09.19 12:09:48"^^xsd:string ;
+    ns1:Id "309"^^xsd:string ;
+    ns1:Likes 31 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugze68jbM7m_M5EyA_x4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/393> ns1:Comment "Mercedes Benz GL, Bentley Bentayga, Bentley Flying Spur"^^xsd:string ;
+    ns1:Date "31.10.19 12:09:48"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugze68jbM7m_M5EyA_x4AaABAg"^^xsd:string ;
+    ns1:SubId "309-1"^^xsd:string .
+
+<https://iisg.amsterdam/394> ns1:Comment "He's Chinese but has a British accent ok.. yet the mom has heavy Asian accent.. ok!!!!! Even if they went to school in England doesn't mean u pick up the British accent"^^xsd:string ;
+    ns1:Date "28.09.19 12:09:48"^^xsd:string ;
+    ns1:Id "310"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugzj_yqCnSa9F6z_h9B4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/395> ns1:Comment "D F. my parents came from singapore to england with very heavy chinese accents. I was born in england and i have a strong british accent. You’re stupid."^^xsd:string ;
+    ns1:Date "23.11.19 12:09:48"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugzj_yqCnSa9F6z_h9B4AaABAg"^^xsd:string ;
+    ns1:SubId "310-1"^^xsd:string .
+
+<https://iisg.amsterdam/396> ns1:Comment "I'm Asian and this movie was beyond stupid... I didn't like any actors except Kenny from the Hangover and Aquakfina.. Al the rich Asians characters had British accents like WTF"^^xsd:string ;
+    ns1:Date "28.09.19 12:09:48"^^xsd:string ;
+    ns1:Id "311"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgzWSrBautEnqFvDict4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/397> ns1:Comment "D F. read the book dumbass. YOU’LL KNOW WHY THEY HAVE BRITISH ACCENTS."^^xsd:string ;
+    ns1:Date "23.11.19 12:09:48"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgzWSrBautEnqFvDict4AaABAg"^^xsd:string ;
+    ns1:SubId "311-1"^^xsd:string .
+
+<https://iisg.amsterdam/398> ns1:Comment "That guy is too “not” hot for nick young"^^xsd:string ;
+    ns1:Date "28.09.19 12:09:48"^^xsd:string ;
+    ns1:Id "312"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgxFGayiXlKdYaKTm1B4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/399> ns1:Comment "Why u guys added CC i mean we can understand their accent cant we?"^^xsd:string ;
+    ns1:Date "28.09.19 12:09:48"^^xsd:string ;
+    ns1:Id "313"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgysLBqkVk26LyqfcCh4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/4> ns1:Comment "#Shawnmendas"^^xsd:string ;
+    ns1:Date "28.02.19 12:09:48"^^xsd:string ;
+    ns1:Id "5"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugz9_NQ8voMlx2nfOIx4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/40> ns1:Comment "Bok Bok Bit #h"^^xsd:string ;
+    ns1:Date "28.03.19 12:09:48"^^xsd:string ;
+    ns1:Id "33"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgxZ7j9VZLyE6qf4Akp4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/400> ns1:Comment "B A K BAK B I T C H"^^xsd:string ;
+    ns1:Date "28.09.19 12:09:48"^^xsd:string ;
+    ns1:Id "314"^^xsd:string ;
+    ns1:Likes 1 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgwpkOLRm8f55BRwUmh4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/401> ns1:Comment "Bak-Bak Bitch!"^^xsd:string ;
+    ns1:Date "28.09.19 12:09:48"^^xsd:string ;
+    ns1:Id "315"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugw-sk2J_uUPRMbeafp4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/402> ns1:Comment "Rachel's like the ang mo pai If you know you know"^^xsd:string ;
+    ns1:Date "28.09.19 12:09:48"^^xsd:string ;
+    ns1:Id "316"^^xsd:string ;
+    ns1:Likes 2 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugzqp-2lbsWRodwfym14AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/403> ns1:Comment "This movie speaks for my love life :( This frequently happen here in asia tbh"^^xsd:string ;
+    ns1:Date "28.09.19 12:09:48"^^xsd:string ;
+    ns1:Id "317"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgzxsRAhv4vZNuqcfzh4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/404> ns1:Comment "I would of watched the whole movie but I hate dramas; Any and all movies/tv shows with drama in them."^^xsd:string ;
+    ns1:Date "28.09.19 12:09:48"^^xsd:string ;
+    ns1:Id "318"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugy1oHSPbbJkhjLNkvh4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/405> ns1:Comment "Me:Crazy broke asian"^^xsd:string ;
+    ns1:Date "28.09.19 12:09:48"^^xsd:string ;
+    ns1:Id "319"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugzc2k_N3Tujd0n2X614AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/406> ns1:Comment "Guys I'm cringing so hard. So when this had just come out, my science teacher brought it up saying he saw it the past weekend, and I was like I really wanna see it.  NOW I'M REWATCHING THIS TRAILER AND REMEMBERING ALL KINDS OF SCENES...PLUS THE ONES IN THIS TRAILER... UUGHGHGHGHGHGHGH"^^xsd:string ;
+    ns1:Date "28.09.19 12:09:48"^^xsd:string ;
+    ns1:Id "320"^^xsd:string ;
+    ns1:Likes 1 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgxLCBsLMOtYBJkwJil4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/407> ns1:Comment "YOU WILL NOT REGRET WATCHING IT SWEAR ?"^^xsd:string ;
+    ns1:Date "28.09.19 12:09:48"^^xsd:string ;
+    ns1:Id "321"^^xsd:string ;
+    ns1:Likes 1 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgzMvfd6lzCexNxT1x94AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/408> ns1:Comment "I loved the movie ??"^^xsd:string ;
+    ns1:Date "28.09.19 12:09:48"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgzMvfd6lzCexNxT1x94AaABAg"^^xsd:string ;
+    ns1:SubId "321-1"^^xsd:string .
+
+<https://iisg.amsterdam/409> ns1:Comment "Some people talk about this movie, and i ended up watch this too on YT. Happy to see jessica huang from fresh off the boat. And I think i actually watched this kind of story since 18 years ago...in Meteor Garden. It's also described rich sons and a poor girl. Powerfull family and ambitious mother. The difference is MG tells about rich people in east asia like china, japan, korea, taiwan. Hehe."^^xsd:string ;
+    ns1:Date "28.09.19 12:09:48"^^xsd:string ;
+    ns1:Id "322"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugxbgzg6e63Sg8nt32t4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/41> ns1:Comment "Ya boy flexin with a dolla bill"^^xsd:string ;
+    ns1:Date "28.03.19 12:09:48"^^xsd:string ;
+    ns1:Id "34"^^xsd:string ;
+    ns1:Likes 1 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugw7Vt-Hq93MogDMrjd4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/410> ns1:Comment "Marisa CRA is definitely more than that. Read the 2nd book (china rich girlfriend) and you’ll find out why."^^xsd:string ;
+    ns1:Date "23.11.19 12:09:48"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugxbgzg6e63Sg8nt32t4AaABAg"^^xsd:string ;
+    ns1:SubId "322-1"^^xsd:string .
+
+<https://iisg.amsterdam/411> ns1:Comment "I'm just finishing the book, it's been super fun. Can't wait to watch the movie!"^^xsd:string ;
+    ns1:Date "28.09.19 12:09:48"^^xsd:string ;
+    ns1:Id "323"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgyT9rwk1-EItVq2T194AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/412> ns1:Comment "BAK baK BItCH  favourite quote of the movie"^^xsd:string ;
+    ns1:Date "28.09.19 12:09:48"^^xsd:string ;
+    ns1:Id "324"^^xsd:string ;
+    ns1:Likes 2 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugxp3_Kgb21YkYDWyBZ4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/413> ns1:Comment "Awkwafina=Thug Life"^^xsd:string ;
+    ns1:Date "28.09.19 12:09:48"^^xsd:string ;
+    ns1:Id "325"^^xsd:string ;
+    ns1:Likes 1 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugxus0WHKiwOYxnSPBh4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/414> ns1:Comment "I was expecting so much from this movie but...Disappointed ??"^^xsd:string ;
+    ns1:Date "28.09.19 12:09:48"^^xsd:string ;
+    ns1:Id "326"^^xsd:string ;
+    ns1:Likes 2 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugxvv3PV3RuryZ0ho-14AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/415> ns1:Comment "So boring movie"^^xsd:string ;
+    ns1:Date "28.09.19 12:09:48"^^xsd:string ;
+    ns1:Id "327"^^xsd:string ;
+    ns1:Likes 1 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgwR6SFUyISuUx8WoKV4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/416> ns1:Comment "This movie is excellent. Good story line good acting. 100%"^^xsd:string ;
+    ns1:Date "28.09.19 12:09:48"^^xsd:string ;
+    ns1:Id "328"^^xsd:string ;
+    ns1:Likes 1 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgxEnP_VeIbJRRSQWop4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/417> ns1:Comment "Where in the world can i watch this movie been dying to watch it snc last year but cant find it. Not even on netflix"^^xsd:string ;
+    ns1:Date "28.09.19 12:09:48"^^xsd:string ;
+    ns1:Id "329"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugw23fJJQLtFcW7_ca14AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/418> ns1:Comment "i just realize they used the same song in the new doctor who trailer"^^xsd:string ;
+    ns1:Date "28.09.19 12:09:48"^^xsd:string ;
+    ns1:Id "330"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgxOp1wk3DQWCGcgXBB4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/419> ns1:Comment "Just another kdrama without the Korean language"^^xsd:string ;
+    ns1:Date "28.09.19 12:09:48"^^xsd:string ;
+    ns1:Id "331"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugz8xgCY4dD8sk1vlmN4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/42> ns1:Comment "I know the girl is young and unknowing but the way she speaks to his mother is sheer disrespect as if the mother is some causal woman lol"^^xsd:string ;
+    ns1:Date "28.03.19 12:09:48"^^xsd:string ;
+    ns1:Id "35"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgznAflr1z3yCXmbxPF4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/420> ns1:Comment "Best trailer ever"^^xsd:string ;
+    ns1:Date "28.09.19 12:09:48"^^xsd:string ;
+    ns1:Id "332"^^xsd:string ;
+    ns1:Likes 1 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgzUX9AoKt0BmeTpvaR4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/421> ns1:Comment "constance wu is just really charismatic and she could play any role."^^xsd:string ;
+    ns1:Date "28.09.19 12:09:48"^^xsd:string ;
+    ns1:Id "333"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgzrERrNDQlaZ7PE8xp4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/422> ns1:Comment "Frankly it's not fiction.. watched the movie, it's reality. The crazy rich people actually very humble, like Nick & Astrid however the 'so so' rich or 'rich wannabe' totally snob !!!"^^xsd:string ;
+    ns1:Date "28.09.19 12:09:48"^^xsd:string ;
+    ns1:Id "334"^^xsd:string ;
+    ns1:Likes 1 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugzkb1NA-W7Y9oP-cEV4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/423> ns1:Comment "So unrelatable for singaporeans lol..the average persons house is a HDB house not a bungalow with a fountain inthe frontyard.."^^xsd:string ;
+    ns1:Date "28.09.19 12:09:48"^^xsd:string ;
+    ns1:Id "335"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgxvyBHAEty0k3bAKTh4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/424> ns1:Comment "More like crazy rich chinese and overseas chinese. Lmao where r the Indians at? Koreans? Japanese? Thai?"^^xsd:string ;
+    ns1:Date "28.09.19 12:09:48"^^xsd:string ;
+    ns1:Id "336"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgzXnjTUQYnwfFSYNd14AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/425> ns1:Comment "?????? ????? ??"^^xsd:string ;
+    ns1:Date "28.09.19 12:09:48"^^xsd:string ;
+    ns1:Id "337"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgzU3zLRIHt9YWeD6pJ4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/426> ns1:Comment "this is like what? 50 shades of gray with rated G?"^^xsd:string ;
+    ns1:Date "28.10.19 12:09:48"^^xsd:string ;
+    ns1:Id "338"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgyvxyW-8yGadamcWYt4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/427> ns1:Comment "when Michelle Yeoh said: you will never be enough  I felt  THAT"^^xsd:string ;
+    ns1:Date "28.10.19 12:09:48"^^xsd:string ;
+    ns1:Id "339"^^xsd:string ;
+    ns1:Likes 14 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugzg-sezENMUwE_ytWp4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/428> ns1:Comment "best movie ever!"^^xsd:string ;
+    ns1:Date "28.10.19 12:09:48"^^xsd:string ;
+    ns1:Id "340"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgyZcUguPnp04AowG8R4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/429> ns1:Comment "Not a very Diverse society"^^xsd:string ;
+    ns1:Date "28.10.19 12:09:48"^^xsd:string ;
+    ns1:Id "341"^^xsd:string ;
+    ns1:Likes 1 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgxA1ClKSy0wVTTBrkx4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/43> ns1:Comment "I'm a crazy lazy asian"^^xsd:string ;
+    ns1:Date "28.03.19 12:09:48"^^xsd:string ;
+    ns1:Id "36"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgyCIcNpJNEl1Tnzf-x4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/430> ns1:Comment "untrue"^^xsd:string ;
+    ns1:Date "28.10.19 12:09:48"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgxA1ClKSy0wVTTBrkx4AaABAg"^^xsd:string ;
+    ns1:SubId "341-1"^^xsd:string .
+
+<https://iisg.amsterdam/431> ns1:Comment "@Lenny Surjati Mank  90 percent are Asian actors how is that diverse?"^^xsd:string ;
+    ns1:Date "28.10.19 12:09:48"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 1 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgxA1ClKSy0wVTTBrkx4AaABAg"^^xsd:string ;
+    ns1:SubId "341-2"^^xsd:string .
+
+<https://iisg.amsterdam/432> ns1:Comment "THE MOVIE IS SOOOOOOO GREAT ????"^^xsd:string ;
+    ns1:Date "28.10.19 12:09:48"^^xsd:string ;
+    ns1:Id "342"^^xsd:string ;
+    ns1:Likes 4 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugw_09wZlTPVQb6mtqB4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/433> ns1:Comment "I hate this movie"^^xsd:string ;
+    ns1:Date "28.10.19 12:09:48"^^xsd:string ;
+    ns1:Id "343"^^xsd:string ;
+    ns1:Likes 1 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgzrrtxHZX7cBfRJonp4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/434> ns1:Comment "Dhel Mayek then why are you here, get a fucking life you pathetic piece of attention"^^xsd:string ;
+    ns1:Date "28.10.19 12:09:48"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgzrrtxHZX7cBfRJonp4AaABAg"^^xsd:string ;
+    ns1:SubId "343-1"^^xsd:string .
+
+<https://iisg.amsterdam/435> ns1:Comment "Boring as Hell!...I'm sure Saudi Arabia or Dubai makes a sequel, very soon if they stupid enough... title may be \"Stupid Rich Arabs\""^^xsd:string ;
+    ns1:Date "28.10.19 12:09:48"^^xsd:string ;
+    ns1:Id "344"^^xsd:string ;
+    ns1:Likes 1 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgwtXB5fkk-QA6uxdMl4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/436> ns1:Comment "I NEED THE PART 2 IM ADDICTED"^^xsd:string ;
+    ns1:Date "28.10.19 12:09:48"^^xsd:string ;
+    ns1:Id "345"^^xsd:string ;
+    ns1:Likes 2 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugx22pGNghRAw_BJ_B14AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/437> ns1:Comment "Netflix it is here"^^xsd:string ;
+    ns1:Date "28.10.19 12:09:48"^^xsd:string ;
+    ns1:Id "346"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgxLNv7hAImWLLJGJ7l4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/438> ns1:Comment "After seeing Ken Jeong In the hangover movies it's impossible to pass up this offer"^^xsd:string ;
+    ns1:Date "28.10.19 12:09:48"^^xsd:string ;
+    ns1:Id "347"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgyrauLfOudUuo5LtLd4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/439> ns1:Comment "This is really funny. I like it . But just two things 1.Asians doesn't only represent chinese people 2.why the security people of that rich family are Indians ? I mean if you can take your whole cast chinese then ,choose from them to be security guards also. I feel it's a bit disgraceful towards Indians"^^xsd:string ;
+    ns1:Date "28.10.19 12:09:48"^^xsd:string ;
+    ns1:Id "348"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgwCqLYTCeUNOJXKrl94AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/44> ns1:Comment "yellow on the outside white on the inside..."^^xsd:string ;
+    ns1:Date "28.03.19 12:09:48"^^xsd:string ;
+    ns1:Id "37"^^xsd:string ;
+    ns1:Likes 1 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugz9Wpc-np_44XIPTJV4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/440> ns1:Comment "COUGHS  INDIANS ARE ALSO ASIANS. I SAW THIS MOVIE AND THE PORTRAYAL OF INDIANS IS TYPICALLY STEREOTYPED.   Well done Hollywood...."^^xsd:string ;
+    ns1:Date "28.10.19 12:09:48"^^xsd:string ;
+    ns1:Id "349"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgwizTLK4vmufrVFm8V4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/441> ns1:Comment "I can't differentiate from anybody."^^xsd:string ;
+    ns1:Date "28.10.19 12:09:48"^^xsd:string ;
+    ns1:Id "350"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugz2bvr9Yho0tQI7or14AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/442> ns1:Comment "This trailer doesn’t do this movie justice!"^^xsd:string ;
+    ns1:Date "28.10.19 12:09:48"^^xsd:string ;
+    ns1:Id "351"^^xsd:string ;
+    ns1:Likes 5 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugw8kzDl7ANBfixbrcV4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/443> ns1:Comment "At all!! I finally watched it and was surprised that it was a full on saccharine romcom with all the elements I love! This whole time I thought it was more along the lines of the Hangover or Girls Trip, I feel like I spent a year missing out on something great."^^xsd:string ;
+    ns1:Date "28.10.19 12:09:48"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 1 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugw8kzDl7ANBfixbrcV4AaABAg"^^xsd:string ;
+    ns1:SubId "351-1"^^xsd:string .
+
+<https://iisg.amsterdam/444> ns1:Comment "Anne Day Same!! Wish I had followed the hype ??"^^xsd:string ;
+    ns1:Date "28.10.19 12:09:48"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugw8kzDl7ANBfixbrcV4AaABAg"^^xsd:string ;
+    ns1:SubId "351-2"^^xsd:string .
+
+<https://iisg.amsterdam/445> ns1:Comment "They made a Malaysian turn into Chinese in this movie lmao"^^xsd:string ;
+    ns1:Date "28.10.19 12:09:48"^^xsd:string ;
+    ns1:Id "352"^^xsd:string ;
+    ns1:Likes 3 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgyFZ9bC1jl0b5CaTBZ4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/446> ns1:Comment "Hmm seems like some place is in malaysia like the mansion??"^^xsd:string ;
+    ns1:Date "28.10.19 12:09:48"^^xsd:string ;
+    ns1:Id "353"^^xsd:string ;
+    ns1:Likes 1 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugwp_KAHnwYsut-Oc0x4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/447> ns1:Comment "The girl who protrays rachel looks like Ritz Azul from the Philippines a little bit..."^^xsd:string ;
+    ns1:Date "28.10.19 12:09:48"^^xsd:string ;
+    ns1:Id "354"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugx0xF2k3MNGNwlFKdJ4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/448> ns1:Comment "I just finish the movie"^^xsd:string ;
+    ns1:Date "28.10.19 12:09:48"^^xsd:string ;
+    ns1:Id "355"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugxak4zwQEVdfWODq1N4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/449> ns1:Comment "You mean Chinese?"^^xsd:string ;
+    ns1:Date "28.10.19 12:09:48"^^xsd:string ;
+    ns1:Id "356"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgyBK1FWPh0fgTA_cXJ4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/45> ns1:Comment "I really really love this movie!! Specially the wedding scene... Hope they´re made more movies"^^xsd:string ;
+    ns1:Date "28.03.19 12:09:48"^^xsd:string ;
+    ns1:Id "38"^^xsd:string ;
+    ns1:Likes 3 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgwOff31HdzUgDngujt4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/450> ns1:Comment "@Rahul  thanks for inderstanding .. yea im muslim, Indonesian ?? most people in eastern part of asia doesnt care about the story of this movie (tbh I think the story is just like Korean soap opera, and I dont like K-Pop culture at all), we can see that the main male cast and his parents have so many physical different, so many people here questioning: \"how could chinese parents have dayak son (an asian pacific islander) ?\", and many other weakness here and there .. but its ok, we r not talking about how good the movie is, we have been represented by this movie .. its like the way black people see black panther movie .."^^xsd:string ;
+    ns1:Date "28.10.19 12:09:48"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgyBK1FWPh0fgTA_cXJ4AaABAg"^^xsd:string ;
+    ns1:SubId "356-1"^^xsd:string .
+
+<https://iisg.amsterdam/451> ns1:Comment "chinese ? ?? how did u say that while the main male cast was a dayak (the native people of Borneo island) ? and he has no chinese blood at all."^^xsd:string ;
+    ns1:Date "28.10.19 12:09:48"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgyBK1FWPh0fgTA_cXJ4AaABAg"^^xsd:string ;
+    ns1:SubId "356-2"^^xsd:string .
+
+<https://iisg.amsterdam/452> ns1:Comment "@ahmad zainuri  They look same."^^xsd:string ;
+    ns1:Date "28.10.19 12:09:48"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 1 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgyBK1FWPh0fgTA_cXJ4AaABAg"^^xsd:string ;
+    ns1:SubId "356-3"^^xsd:string .
+
+<https://iisg.amsterdam/453> ns1:Comment "nope, they dont look same .. Henry Golding looks so southeast asian, and the parents look like northeast asian ?? so I think its fair enough to say that this movie was representing asia  especially eastern asia"^^xsd:string ;
+    ns1:Date "28.10.19 12:09:48"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgyBK1FWPh0fgTA_cXJ4AaABAg"^^xsd:string ;
+    ns1:SubId "356-4"^^xsd:string .
+
+<https://iisg.amsterdam/454> ns1:Comment "@ahmad zainuri  Most Asians other than Russians and Indians look same, be it Chinese, Japanese, or Nepali."^^xsd:string ;
+    ns1:Date "28.10.19 12:09:48"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 1 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgyBK1FWPh0fgTA_cXJ4AaABAg"^^xsd:string ;
+    ns1:SubId "356-5"^^xsd:string .
+
+<https://iisg.amsterdam/455> ns1:Comment "@Rahul  \"most asians look same\" ?? by using that words means u have accepted that this movie represents asia, not only chinese .. u cant find the diference doesnt mean they are all chinese, right ? and the fact is the casts arent chinese only .."^^xsd:string ;
+    ns1:Date "28.10.19 12:09:48"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgyBK1FWPh0fgTA_cXJ4AaABAg"^^xsd:string ;
+    ns1:SubId "356-6"^^xsd:string .
+
+<https://iisg.amsterdam/456> ns1:Comment "@ahmad zainuri  Yes Asian, not areas you mentioned."^^xsd:string ;
+    ns1:Date "28.10.19 12:09:48"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 1 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgyBK1FWPh0fgTA_cXJ4AaABAg"^^xsd:string ;
+    ns1:SubId "356-7"^^xsd:string .
+
+<https://iisg.amsterdam/457> ns1:Comment "@Rahul  which areas I mentioned wrong ? Borneo ?  I just wanna say: saying only chinese is wrong (and kinda racist) ?? why do u make it so complicating while the sentence is so simple ?"^^xsd:string ;
+    ns1:Date "28.10.19 12:09:48"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgyBK1FWPh0fgTA_cXJ4AaABAg"^^xsd:string ;
+    ns1:SubId "356-8"^^xsd:string .
+
+<https://iisg.amsterdam/458> ns1:Comment "@ahmad zainuri  Chinese, Asian, Borneo, whatever, why so serious for a ridiculous film?"^^xsd:string ;
+    ns1:Date "28.10.19 12:09:48"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 1 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgyBK1FWPh0fgTA_cXJ4AaABAg"^^xsd:string ;
+    ns1:SubId "356-9"^^xsd:string .
+
+<https://iisg.amsterdam/459> ns1:Comment "many of eastern asians feel proud bcz of this movie represents them (and asia generally) ?? and you just broken it by saying \"chinese\"."^^xsd:string ;
+    ns1:Date "28.10.19 12:09:48"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgyBK1FWPh0fgTA_cXJ4AaABAg"^^xsd:string ;
+    ns1:SubId "356-10"^^xsd:string .
+
+<https://iisg.amsterdam/46> ns1:Comment "WOWOOWOWO BEST MOVEI EVERRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR"^^xsd:string ;
+    ns1:Date "28.03.19 12:09:48"^^xsd:string ;
+    ns1:Id "39"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugx71iX2W-yNWJIXngR4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/460> ns1:Comment "@ahmad zainuri  Cool, by your name, you seem Muslim with unconventional background, nice talking with you. BTW, I am Asian myself, Indian actually, but I feel no empathy for this film."^^xsd:string ;
+    ns1:Date "28.10.19 12:09:48"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 1 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgyBK1FWPh0fgTA_cXJ4AaABAg"^^xsd:string ;
+    ns1:SubId "356-11"^^xsd:string .
+
+<https://iisg.amsterdam/461> ns1:Comment "When I told my collegues (who have not been to Singapore) in my workplace that I am Singaporean and they thought I am as rich as the characters in this movie. How I wish!"^^xsd:string ;
+    ns1:Date "28.10.19 12:09:48"^^xsd:string ;
+    ns1:Id "357"^^xsd:string ;
+    ns1:Likes 4 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugy2t5EoIPNMaSA0qGt4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/462> ns1:Comment "did they use the imovie app to make this trailer?"^^xsd:string ;
+    ns1:Date "28.10.19 12:09:48"^^xsd:string ;
+    ns1:Id "358"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugx7hLg7NNY_0j6cU-14AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/463> ns1:Comment "The best movie ever"^^xsd:string ;
+    ns1:Date "28.10.19 12:09:48"^^xsd:string ;
+    ns1:Id "359"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugxn-k8KhHz6F8lbffR4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/464> ns1:Comment "go to oak ridges in richmond hill...plenty of crazy rich asians."^^xsd:string ;
+    ns1:Date "28.10.19 12:09:48"^^xsd:string ;
+    ns1:Id "360"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugyjuvp07SaBgd-smzZ4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/465> ns1:Comment "The life of literally no Singaporean ever"^^xsd:string ;
+    ns1:Date "28.10.19 12:09:48"^^xsd:string ;
+    ns1:Id "361"^^xsd:string ;
+    ns1:Likes 3 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgwbLjvU1WMTvdz51NF4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/466> ns1:Comment "I haven’t watch it yet ...I’m singaporean"^^xsd:string ;
+    ns1:Date "28.10.19 12:09:48"^^xsd:string ;
+    ns1:Id "362"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgxIBEHJ0F4iQR3a6054AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/467> ns1:Comment "Ik Singapore is one of the richest country, but this is far off since majority in Singapore aren’t rich"^^xsd:string ;
+    ns1:Date "28.10.19 12:09:48"^^xsd:string ;
+    ns1:Id "363"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgxWG7gyWbNCdQ1Snt94AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/468> ns1:Comment ".....that's one of the points. they aren't like most asians. they're \"crazy rich\""^^xsd:string ;
+    ns1:Date "28.10.19 12:09:48"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 1 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgxWG7gyWbNCdQ1Snt94AaABAg"^^xsd:string ;
+    ns1:SubId "363-1"^^xsd:string .
+
+<https://iisg.amsterdam/469> ns1:Comment "Me gustaría laa pelicp"^^xsd:string ;
+    ns1:Date "28.10.19 12:09:48"^^xsd:string ;
+    ns1:Id "364"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugz65A_bOeKXbiL2uQd4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/47> ns1:Comment "this movie is made for that Asian girl hoping and praying she'll marry rich and live a life happily ever after. most crazy Asians are middle class trying to make ends meet."^^xsd:string ;
+    ns1:Date "28.03.19 12:09:48"^^xsd:string ;
+    ns1:Id "40"^^xsd:string ;
+    ns1:Likes 1 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgxV0TSNwfOq8n-JQmx4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/470> ns1:Comment "Asian men have small penis."^^xsd:string ;
+    ns1:Date "28.10.19 12:09:48"^^xsd:string ;
+    ns1:Id "365"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugz2ZrLaS-s2DaRaMhB4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/471> ns1:Comment "So nothing new...well if you ever watched a Korean drama that's it......Rich boyfriend, poor girl, evil step mother.."^^xsd:string ;
+    ns1:Date "28.10.19 12:09:48"^^xsd:string ;
+    ns1:Id "366"^^xsd:string ;
+    ns1:Likes 1 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugyn6OOOrqjbhDvTatR4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/472> ns1:Comment "Cool they mad HIV into a movie"^^xsd:string ;
+    ns1:Date "28.10.19 12:09:48"^^xsd:string ;
+    ns1:Id "367"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgzlnNB7f9kWn6SiHwV4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/473> ns1:Comment "Me a crazy pOor asian"^^xsd:string ;
+    ns1:Date "28.10.19 12:09:48"^^xsd:string ;
+    ns1:Id "368"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugzo7PEW12jTPf-nJKh4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/474> ns1:Comment "This movie was literally every Bollywood movie ever made."^^xsd:string ;
+    ns1:Date "31.10.19 12:09:48"^^xsd:string ;
+    ns1:Id "369"^^xsd:string ;
+    ns1:Likes 1 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgwdWyC8-pJNw7KRcct4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/475> ns1:Comment "Great movie"^^xsd:string ;
+    ns1:Date "31.10.19 12:09:48"^^xsd:string ;
+    ns1:Id "370"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgyhmjhXKa7El-yvQ_t4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/476> ns1:Comment "they made a film about rich asians ... and they didnt mention india were the richest asian mukesh ambani is from ."^^xsd:string ;
+    ns1:Date "07.11.19 12:09:48"^^xsd:string ;
+    ns1:Id "371"^^xsd:string ;
+    ns1:Likes 1 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgxzIJp7pPt5wfxka754AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/477> ns1:Comment "- Hey have you seen Crazy Rich Asians? - DUDE WHAT THE FUCK this movie sucks."^^xsd:string ;
+    ns1:Date "07.11.19 12:09:48"^^xsd:string ;
+    ns1:Id "372"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgzQgom-DOVWwMpPEDZ4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/478> ns1:Comment "Tasteless movie, should have never been published.  It set's up other Asian's for hardship.  Judge that Echo"^^xsd:string ;
+    ns1:Date "07.11.19 12:09:48"^^xsd:string ;
+    ns1:Id "373"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugy9RVRFLneIywJ9dG54AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/479> ns1:Comment "this is like meteor garden all other again"^^xsd:string ;
+    ns1:Date "07.11.19 12:09:48"^^xsd:string ;
+    ns1:Id "374"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgxkR4xfaLdmV8l4ul14AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/48> ns1:Comment "MOTHER N SON ARE TOTALLY DIFFERENT GENETIC... NOT REALLY RICH COZ I NEVER SEE RICH PEOPLE TOOK CAB TO AIRPORT, BUT REALLY CRAZY ASIAN... OR PERHAPS THE SON WAS ADOPTED OR \"UNWANTED\" CHILD HAHHAHAAHAHA"^^xsd:string ;
+    ns1:Date "28.03.19 12:09:48"^^xsd:string ;
+    ns1:Id "41"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgxyJA2NcPSY-acaxmZ4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/480> ns1:Comment "“You know it’s about time someone stood up to Aunty Eleanor, but not me! Oh god, she can’t ever know I was here”"^^xsd:string ;
+    ns1:Date "07.11.19 12:09:48"^^xsd:string ;
+    ns1:Id "375"^^xsd:string ;
+    ns1:Likes 15 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugyczfyi4PVCHxe4GWx4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/481> ns1:Comment "Sane, poor Africans."^^xsd:string ;
+    ns1:Date "07.11.19 12:09:48"^^xsd:string ;
+    ns1:Id "376"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugy9vp0KRhHsUHZh78V4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/482> ns1:Comment "I’m a crazy broke Asian ahaha"^^xsd:string ;
+    ns1:Date "07.11.19 12:09:48"^^xsd:string ;
+    ns1:Id "377"^^xsd:string ;
+    ns1:Likes 1 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgxYMtzJUB4kl3kWb914AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/483> ns1:Comment "any malaysians?"^^xsd:string ;
+    ns1:Date "07.11.19 12:09:48"^^xsd:string ;
+    ns1:Id "378"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgxMxLdW-LQw_DDDlTl4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/484> ns1:Comment "Nice film.. henry golding, father frm england and mother frm sarawak (iban)?????"^^xsd:string ;
+    ns1:Date "07.11.19 12:09:48"^^xsd:string ;
+    ns1:Id "379"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugyr9UK49AcTIkmSMWl4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/485> ns1:Comment "Paul Young drove a bus and so did I."^^xsd:string ;
+    ns1:Date "14.11.19 12:09:48"^^xsd:string ;
+    ns1:Id "380"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgxLUCp_kyx4Weh6x8l4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/486> ns1:Comment "The book is WAY better."^^xsd:string ;
+    ns1:Date "14.11.19 12:09:48"^^xsd:string ;
+    ns1:Id "381"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgyGyDXW7Z_Nd8L14_J4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/487> ns1:Comment "“Bok bok bitch!”"^^xsd:string ;
+    ns1:Date "14.11.19 12:09:48"^^xsd:string ;
+    ns1:Id "382"^^xsd:string ;
+    ns1:Likes 1 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugz-rxjGhDIm_qr5PoJ4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/488> ns1:Comment "This movie was so annoying"^^xsd:string ;
+    ns1:Date "14.11.19 12:09:48"^^xsd:string ;
+    ns1:Id "383"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgwotofoNoxG2Pz-AYB4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/489> ns1:Comment "What the heck was that!!!!  Other than a bunch of rich people with a serious inferiority complex trying to be someone they are not; I got nothing out of this inane and extremely boring movie— to be honest. I thought this was going to be a mindless comedy. What a disappointment!!"^^xsd:string ;
+    ns1:Date "14.11.19 12:09:48"^^xsd:string ;
+    ns1:Id "384"^^xsd:string ;
+    ns1:Likes 1 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugy83tf0ylKDC-00vi54AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/49> ns1:Comment "SINGAPOOR??? FACT IS ONLY PAP@ LEE AND HIS FAMILEES' AND CRONIES AND MONEY LAUNDERING TYCOONS THOSE WHO ARE RICH, THE REST IS SINGAPOOR, SO POOR AND SENSITIVE. EVEN EARNING 5K PER MONTH FOR FT, ALREADY IRS CAME TO YOU AND INVESTIGATE YOUR BACKGROUND, LEST YOU GIVE THEM MONEY THEN DIFFERENT STORY. MONEY IS SINGAPOOR'S GOD"^^xsd:string ;
+    ns1:Date "28.03.19 12:09:48"^^xsd:string ;
+    ns1:Id "42"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgyxZZSoOXirD8TQhH94AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/490> ns1:Comment "Why are so many scenes not even there in the real movie???"^^xsd:string ;
+    ns1:Date "21.11.19 12:09:48"^^xsd:string ;
+    ns1:Id "385"^^xsd:string ;
+    ns1:Likes 2 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugz_i8UXwMOumLKRWFx4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/491> ns1:Comment "Yeahyeah i wonder why"^^xsd:string ;
+    ns1:Date "22.11.19 12:09:48"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugz_i8UXwMOumLKRWFx4AaABAg"^^xsd:string ;
+    ns1:SubId "385-1"^^xsd:string .
+
+<https://iisg.amsterdam/492> ns1:Comment "Or here"^^xsd:string ;
+    ns1:Date "21.11.19 12:09:48"^^xsd:string ;
+    ns1:Id "386"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgyNxotD_KTjL7BME4Z4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/493> ns1:Comment "Part 2 please"^^xsd:string ;
+    ns1:Date "21.11.19 12:09:48"^^xsd:string ;
+    ns1:Id "387"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgwnycqpK8n5DAaCCep4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/494> ns1:Comment "I am the cheapest Asian man in Hong Kong. trust me.....my party place is 7-11 around the corner by the bar with free musics."^^xsd:string ;
+    ns1:Date "21.11.19 12:09:48"^^xsd:string ;
+    ns1:Id "388"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugwdm300uEDR8ro5XfV4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/495> ns1:Comment "Kinda sad that not all these scenes were in the movie??"^^xsd:string ;
+    ns1:Date "21.11.19 12:09:48"^^xsd:string ;
+    ns1:Id "389"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugy8r2Ld_RaY6qjtoTB4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/496> ns1:Comment "This movie always reminds me of you.. i miss you joe.... i miss you so much.."^^xsd:string ;
+    ns1:Date "23.11.19 12:09:48"^^xsd:string ;
+    ns1:Id "390"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgyoMYFuUQ_AkUIZTHh4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/497> ns1:Comment "Lol whenever I tell people I am Singaporean they're always like WoW! Really? That's cool!"^^xsd:string ;
+    ns1:Date "23.11.19 12:09:48"^^xsd:string ;
+    ns1:Id "391"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugw8zv3SB38vQk9e_lN4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/498> ns1:Comment "\"Bak-bak bitch!\" I'M SCREAMING ????"^^xsd:string ;
+    ns1:Date "24.11.19 12:09:48"^^xsd:string ;
+    ns1:Id "392"^^xsd:string ;
+    ns1:Likes 1 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgzoYKTuofXy3oQm36t4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/499> ns1:Comment "They should make a second one"^^xsd:string ;
+    ns1:Date "24.11.19 12:09:48"^^xsd:string ;
+    ns1:Id "393"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugw8WbzeeKrxFMVMH0F4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/5> ns1:Comment "Why are people boycotting this movie again?"^^xsd:string ;
+    ns1:Date "28.02.19 12:09:48"^^xsd:string ;
+    ns1:Id "6"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgwE9iBx9vTBM6VGiI94AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/50> ns1:Comment "Can't wait for the more relatable sequel: MENTALLY ORDINARY MIDDLE CLASS ASIANS"^^xsd:string ;
+    ns1:Date "28.03.19 12:09:48"^^xsd:string ;
+    ns1:Id "43"^^xsd:string ;
+    ns1:Likes 3036 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgyILHL5Uy9C7L4drHh4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/51> ns1:Comment "Damn??"^^xsd:string ;
+    ns1:Date "28.08.19 12:09:48"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 2 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgyILHL5Uy9C7L4drHh4AaABAg"^^xsd:string ;
+    ns1:SubId "43-1"^^xsd:string .
+
+<https://iisg.amsterdam/52> ns1:Comment "Gabtube252 lol in the 2nd book Rachel is actually richer than Nick."^^xsd:string ;
+    ns1:Date "28.08.19 12:09:48"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 1 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgyILHL5Uy9C7L4drHh4AaABAg"^^xsd:string ;
+    ns1:SubId "43-2"^^xsd:string .
+
+<https://iisg.amsterdam/53> ns1:Comment "?????????? Yes"^^xsd:string ;
+    ns1:Date "28.08.19 12:09:48"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgyILHL5Uy9C7L4drHh4AaABAg"^^xsd:string ;
+    ns1:SubId "43-3"^^xsd:string .
+
+<https://iisg.amsterdam/54> ns1:Comment "Mentally Ordinary Middle Class Asians who are not necessarily only Japanese, korean or Chinese.??"^^xsd:string ;
+    ns1:Date "28.08.19 12:09:48"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 2 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgyILHL5Uy9C7L4drHh4AaABAg"^^xsd:string ;
+    ns1:SubId "43-4"^^xsd:string .
+
+<https://iisg.amsterdam/55> ns1:Comment "Its american movie hun, with actors of asian backgrounds"^^xsd:string ;
+    ns1:Date "28.09.19 12:09:48"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgyILHL5Uy9C7L4drHh4AaABAg"^^xsd:string ;
+    ns1:SubId "43-5"^^xsd:string .
+
+<https://iisg.amsterdam/56> ns1:Comment "Watch fresh off the boat you will love it (its on prime)"^^xsd:string ;
+    ns1:Date "28.10.19 12:09:48"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgyILHL5Uy9C7L4drHh4AaABAg"^^xsd:string ;
+    ns1:SubId "43-6"^^xsd:string .
+
+<https://iisg.amsterdam/57> ns1:Comment "Phlunk yourself 40degrees in bones and wake up from that injury ... bet you will remember this text message sincerely"^^xsd:string ;
+    ns1:Date "07.11.19 12:09:48"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgyILHL5Uy9C7L4drHh4AaABAg"^^xsd:string ;
+    ns1:SubId "43-7"^^xsd:string .
+
+<https://iisg.amsterdam/58> ns1:Comment "Exactly, that's why the movie tanked in Asia. They should have name it Crazy Rich American Asian instead. Their accent, culture and way of life are nothing like Asia Asians. I'm saying this as a Singaporean."^^xsd:string ;
+    ns1:Date "07.11.19 12:09:48"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgyILHL5Uy9C7L4drHh4AaABAg"^^xsd:string ;
+    ns1:SubId "43-8"^^xsd:string .
+
+<https://iisg.amsterdam/59> ns1:Comment "There are 3 books.. the second one is China Rich Girlfriend"^^xsd:string ;
+    ns1:Date "28.03.19 12:09:48"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 41 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgyILHL5Uy9C7L4drHh4AaABAg"^^xsd:string ;
+    ns1:SubId "43-9"^^xsd:string .
+
+<https://iisg.amsterdam/6> ns1:Comment "I’m a crazy non Asian!"^^xsd:string ;
+    ns1:Date "28.02.19 12:09:48"^^xsd:string ;
+    ns1:Id "7"^^xsd:string ;
+    ns1:Likes 1 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgzgNW0BKxTv7Vn9gNZ4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/60> ns1:Comment "Great comment!  DEAD ON."^^xsd:string ;
+    ns1:Date "28.11.88 15:56:45"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 5 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgyILHL5Uy9C7L4drHh4AaABAg"^^xsd:string ;
+    ns1:SubId "43-10"^^xsd:string .
+
+<https://iisg.amsterdam/61> ns1:Comment "Hahaha, totally stupid movie, really idiotic"^^xsd:string ;
+    ns1:Date "28.11.88 15:56:45"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 7 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgyILHL5Uy9C7L4drHh4AaABAg"^^xsd:string ;
+    ns1:SubId "43-11"^^xsd:string .
+
+<https://iisg.amsterdam/62> ns1:Comment "Hahahahaha i would love to watch this movie ??"^^xsd:string ;
+    ns1:Date "28.05.19 12:09:48"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 3 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgyILHL5Uy9C7L4drHh4AaABAg"^^xsd:string ;
+    ns1:SubId "43-12"^^xsd:string .
+
+<https://iisg.amsterdam/63> ns1:Comment "MEEE"^^xsd:string ;
+    ns1:Date "28.05.19 12:09:48"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 2 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgyILHL5Uy9C7L4drHh4AaABAg"^^xsd:string ;
+    ns1:SubId "43-13"^^xsd:string .
+
+<https://iisg.amsterdam/64> ns1:Comment "Perfect comment"^^xsd:string ;
+    ns1:Date "28.05.19 12:09:48"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 2 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgyILHL5Uy9C7L4drHh4AaABAg"^^xsd:string ;
+    ns1:SubId "43-14"^^xsd:string .
+
+<https://iisg.amsterdam/65> ns1:Comment "@Iqozul Himam  Can you tell me how many books are there for this sequel?"^^xsd:string ;
+    ns1:Date "28.05.19 12:09:48"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 1 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgyILHL5Uy9C7L4drHh4AaABAg"^^xsd:string ;
+    ns1:SubId "43-15"^^xsd:string .
+
+<https://iisg.amsterdam/66> ns1:Comment "@Ankit Kumar  Crazy Rich Asians, China Rich Girlfriend, and Rich People Problem"^^xsd:string ;
+    ns1:Date "28.05.19 12:09:48"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 8 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgyILHL5Uy9C7L4drHh4AaABAg"^^xsd:string ;
+    ns1:SubId "43-16"^^xsd:string .
+
+<https://iisg.amsterdam/67> ns1:Comment "See off the boat"^^xsd:string ;
+    ns1:Date "28.05.19 12:09:48"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 2 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgyILHL5Uy9C7L4drHh4AaABAg"^^xsd:string ;
+    ns1:SubId "43-17"^^xsd:string .
+
+<https://iisg.amsterdam/68> ns1:Comment "@Iqozul Himam  but i think it's allready combined together. Maybe/? LETS PRAG FOR SEQUEL"^^xsd:string ;
+    ns1:Date "28.06.19 12:09:48"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 2 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgyILHL5Uy9C7L4drHh4AaABAg"^^xsd:string ;
+    ns1:SubId "43-18"^^xsd:string .
+
+<https://iisg.amsterdam/69> ns1:Comment "Go Asia"^^xsd:string ;
+    ns1:Date "28.03.19 12:09:48"^^xsd:string ;
+    ns1:Id "44"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgwkNeI9qnneFhHJ7OZ4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/7> ns1:Comment "I LOVED THIS MOVIEEEEE"^^xsd:string ;
+    ns1:Date "28.02.19 12:09:48"^^xsd:string ;
+    ns1:Id "8"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugx6FA4GHw8549tMx-t4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/70> ns1:Comment "Recommend movies pleaseee"^^xsd:string ;
+    ns1:Date "28.03.19 12:09:48"^^xsd:string ;
+    ns1:Id "45"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugw5WtfujFUUatv02nB4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/71> ns1:Comment "I am a crazy  rich  Asian.... In my dreams. ¬.¬"^^xsd:string ;
+    ns1:Date "28.03.19 12:09:48"^^xsd:string ;
+    ns1:Id "46"^^xsd:string ;
+    ns1:Likes 10 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgzmdYq_zd2tuhf6SXB4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/72> ns1:Comment "I am rich, tall and handsome."^^xsd:string ;
+    ns1:Date "28.03.19 12:09:48"^^xsd:string ;
+    ns1:Id "47"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgxocclZPW7trYCdzEN4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/73> ns1:Comment "Dammit, I STILL haven't seen this movie!!!!"^^xsd:string ;
+    ns1:Date "28.03.19 12:09:48"^^xsd:string ;
+    ns1:Id "48"^^xsd:string ;
+    ns1:Likes 2 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgzE_POURzTcAM0kuIt4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/74> ns1:Comment "It's amazing,  u should watch it"^^xsd:string ;
+    ns1:Date "28.03.19 12:09:48"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgzE_POURzTcAM0kuIt4AaABAg"^^xsd:string ;
+    ns1:SubId "48-1"^^xsd:string .
+
+<https://iisg.amsterdam/75> ns1:Comment "Seriously, Nick is SO ugly.....!!!!"^^xsd:string ;
+    ns1:Date "28.03.19 12:09:48"^^xsd:string ;
+    ns1:Id "49"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgzeMF9lwthES6q99Op4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/76> ns1:Comment "This is a fantastic movie, except for one thing, the music is so loud I couldn't hear what they were saying!!! Why is this always happening in almost every movie I watch it's so annoying"^^xsd:string ;
+    ns1:Date "28.03.19 12:09:48"^^xsd:string ;
+    ns1:Id "50"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgyIzxbT0dbnmJBoSVt4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/77> ns1:Comment "Ugh... This movie has been made 235694872 times already. If I was asian I wouldn't be proud of having commercial garbage products like this made in my name because of DIVERSITY. There are already so many amazing asian movies outside of Hollywood's trash machine."^^xsd:string ;
+    ns1:Date "28.03.19 12:09:48"^^xsd:string ;
+    ns1:Id "51"^^xsd:string ;
+    ns1:Likes 1 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgyufvR9e2DurHNL39R4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/78> ns1:Comment "Yeah because .. Indians Middle eastern sri lankan bangladeshi people aren’t ASIAN of course"^^xsd:string ;
+    ns1:Date "28.03.19 12:09:48"^^xsd:string ;
+    ns1:Id "52"^^xsd:string ;
+    ns1:Likes 35 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgwcyJ1Y3oTTBm-M6Uh4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/79> ns1:Comment "They are, but this movie just isn't about them :^/"^^xsd:string ;
+    ns1:Date "28.03.19 12:09:48"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 11 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgwcyJ1Y3oTTBm-M6Uh4AaABAg"^^xsd:string ;
+    ns1:SubId "52-1"^^xsd:string .
+
+<https://iisg.amsterdam/8> ns1:Comment "Chinese are taking over the world!!!"^^xsd:string ;
+    ns1:Date "28.02.19 12:09:48"^^xsd:string ;
+    ns1:Id "9"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgysIs0e2XmjK-cDy5N4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/80> ns1:Comment "@peaceflowerstudios  so true!"^^xsd:string ;
+    ns1:Date "28.03.19 12:09:48"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgwcyJ1Y3oTTBm-M6Uh4AaABAg"^^xsd:string ;
+    ns1:SubId "52-2"^^xsd:string .
+
+<https://iisg.amsterdam/81> ns1:Comment "You're not the sharpest pencil in the box I shall say"^^xsd:string ;
+    ns1:Date "28.03.19 12:09:48"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 4 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgwcyJ1Y3oTTBm-M6Uh4AaABAg"^^xsd:string ;
+    ns1:SubId "52-3"^^xsd:string .
+
+<https://iisg.amsterdam/82> ns1:Comment "Pakistan left the chat"^^xsd:string ;
+    ns1:Date "28.03.19 12:09:48"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 2 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgwcyJ1Y3oTTBm-M6Uh4AaABAg"^^xsd:string ;
+    ns1:SubId "52-4"^^xsd:string .
+
+<https://iisg.amsterdam/83> ns1:Comment "Laelae ever heard about mukesh ambani.. he is the sharpest pencil in whole of asia"^^xsd:string ;
+    ns1:Date "28.03.19 12:09:48"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 1 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgwcyJ1Y3oTTBm-M6Uh4AaABAg"^^xsd:string ;
+    ns1:SubId "52-5"^^xsd:string .
+
+<https://iisg.amsterdam/84> ns1:Comment "Asia is big and Chines should be classified as orientals in that case"^^xsd:string ;
+    ns1:Date "28.03.19 12:09:48"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgwcyJ1Y3oTTBm-M6Uh4AaABAg"^^xsd:string ;
+    ns1:SubId "52-6"^^xsd:string .
+
+<https://iisg.amsterdam/85> ns1:Comment "If I'm correct.. this is supposed to be based on the book \" Crazy Rich Asians\". But the Astrid described in the book is soo striking yet sweet. I was sooo looking forward to seeing her ever since I accidentally got to know there was a film. And Lin girl is supposed to be this super fashionable thing that trots around in all the designer labels and walks around like a Queen. Not at all the picture they've portrayed here. And in the book, Rachel doesn't really stand up much to Eleanor. She just try to stay away. And Nick and Rachel fly back to America where they plan to have their wedding which only starts in the second book. And Nick... Nick is to look hot yet this Oxford type guy who's down to earth and uncomfortable about talking about money and stuff.. I dunno.. The story is not at all very accurate but well.. love the lead actress from \"Fresh off the boat\" .. so anything goes.."^^xsd:string ;
+    ns1:Date "28.03.19 12:09:48"^^xsd:string ;
+    ns1:Id "53"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgyiO8YOR0VGqxAtplZ4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/86> ns1:Comment "I'm crazy Asian poor! ?? ?? ??"^^xsd:string ;
+    ns1:Date "28.03.19 12:09:48"^^xsd:string ;
+    ns1:Id "54"^^xsd:string ;
+    ns1:Likes 1 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgyzdaollljdQh6YZuF4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/87> ns1:Comment "haha also me"^^xsd:string ;
+    ns1:Date "28.03.19 12:09:48"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgyzdaollljdQh6YZuF4AaABAg"^^xsd:string ;
+    ns1:SubId "54-1"^^xsd:string .
+
+<https://iisg.amsterdam/88> ns1:Comment "one of the best movies"^^xsd:string ;
+    ns1:Date "28.03.19 12:09:48"^^xsd:string ;
+    ns1:Id "55"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugz0Th5y2yE_SOA1FL54AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/89> ns1:Comment "Hollywood has the power to shape the social ideology of the people in the world, whatever they see in their movies is how they perceive other race and other people. For this they can promote prejudice, stereotypes or hatre,  or even glorify an ethnic group through how they portray them"^^xsd:string ;
+    ns1:Date "28.03.19 12:09:48"^^xsd:string ;
+    ns1:Id "56"^^xsd:string ;
+    ns1:Likes 1 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgxPBrT6geul4aAG8sR4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/9> ns1:Comment "Henry=james bond uhhhh"^^xsd:string ;
+    ns1:Date "28.02.19 12:09:48"^^xsd:string ;
+    ns1:Id "10"^^xsd:string ;
+    ns1:Likes 1 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgxfWkmlPOb_bQ_JvY14AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/90> ns1:Comment "This is a very uncomfortable movie."^^xsd:string ;
+    ns1:Date "28.03.19 12:09:48"^^xsd:string ;
+    ns1:Id "57"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgyvQpcQdVL-3zNzSWd4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/91> ns1:Comment "Wow! I'm Crazy Poor Asian. My breakfast is candy, oops sorry i meant half a candy."^^xsd:string ;
+    ns1:Date "28.03.19 12:09:48"^^xsd:string ;
+    ns1:Id "58"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgxZBoHK33zBoDTenoN4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/92> ns1:Comment "Yeah, sure, yet another movie pay for watching stupid ass rich people ending up happily ever after. Yay."^^xsd:string ;
+    ns1:Date "28.03.19 12:09:48"^^xsd:string ;
+    ns1:Id "59"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgwDDJjFon9N87booel4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/93> ns1:Comment "Hopefully this can change how asian men are perceived"^^xsd:string ;
+    ns1:Date "28.03.19 12:09:48"^^xsd:string ;
+    ns1:Id "60"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugzu1uPGpZLF26VurhN4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/94> ns1:Comment "This will be our Future civilization, We will become Aristocrate society in year 1800.  the rich will marry the rich, the poor will marry the poor and will be a lot of divorced then produce damage next gen kids. GBU. The rich will have an Armed Guard in front of the house."^^xsd:string ;
+    ns1:Date "28.03.19 12:09:48"^^xsd:string ;
+    ns1:Id "61"^^xsd:string ;
+    ns1:Likes 2 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgzorfFIGU5_nsBrcBh4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/95> ns1:Comment "1:45  that hits real hard though"^^xsd:string ;
+    ns1:Date "28.03.19 12:09:48"^^xsd:string ;
+    ns1:Id "62"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgzdZHDK8TvFSPUmgM54AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/96> ns1:Comment "This movie should be named  Crazy   Rich   Chinese Oh, come on Asia is a continent, not a country   ¯\\_(?)_/¯ Increase your geographical knowledge a bit"^^xsd:string ;
+    ns1:Date "28.03.19 12:09:48"^^xsd:string ;
+    ns1:Id "63"^^xsd:string ;
+    ns1:Likes 1 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugx9sGzkAG652ZKsfIZ4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/97> ns1:Comment "I have a private helicopter and a private yacht, but not a private jet"^^xsd:string ;
+    ns1:Date "28.03.19 12:09:48"^^xsd:string ;
+    ns1:Id "64"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgxEY5hZwwWQ3d_wF3F4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/98> ns1:Comment "Im crazy lazy asian"^^xsd:string ;
+    ns1:Date "28.03.19 12:09:48"^^xsd:string ;
+    ns1:Id "65"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=Ugwpt-8z5G5M9Fqh6wd4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/99> ns1:Comment "This movie really great ."^^xsd:string ;
+    ns1:Date "28.03.19 12:09:48"^^xsd:string ;
+    ns1:Id "66"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=ZQ-YX-5bAs0&lc=UgzMz8oJyBsTfLMMpVV4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/Crazy_Rich_Asians/nanopublication/287ad83d/2019-12-13T10:20> a ns6:Nanopublication ;
+    ns6:hasAssertion <https://iisg.amsterdam/Crazy_Rich_Asians/assertion/287ad83d/2019-12-13T10:20> ;
+    ns6:hasProvenance <https://iisg.amsterdam/Crazy_Rich_Asians/provenance/287ad83d/2019-12-13T10:20> ;
+    ns6:hasPublicationInfo <https://iisg.amsterdam/Crazy_Rich_Asians/pubinfo/287ad83d/2019-12-13T10:20> ;
+    ns5:generatedAtTime "2019-12-13T10:20:00"^^xsd:dateTime ;
+    ns5:wasGeneratedBy <https://github.com/CLARIAH/wp4-converters> .
+
+<https://iisg.amsterdam/287ad83dbcdb7b4543baa456b6d68538239ec476> ns1:path "/tmp/P5KXV3SB3Q/web_interface/68f23c9afe44ccf2179a26ffa7e01d35/Crazy_Rich_Asians.csv"^^xsd:string ;
+    ns1:sha1_hash "287ad83dbcdb7b4543baa456b6d68538239ec476"^^xsd:string .
+
+<https://iisg.amsterdam/Crazy_Rich_Asians.csv> ns3:license <http://opendefinition.org/licenses/cc-by/> ;
+    ns3:modified "2019-12-13"^^xsd:date ;
+    ns3:publisher [ ns4:name "CLARIAH Structured Data Hub - Datalegend"@en ;
+            ns4:url <http://datalegend.net/> ] ;
+    ns3:title "Crazy_Rich_Asians.csv"@en ;
+    ns2:dialect [ ns2:delimiter ";" ;
+            ns2:encoding "Windows-1252" ;
+            ns2:quoteChar "\"" ] ;
+    ns2:tableSchema [ ns2:aboutUrl <https://iisg.amsterdam/__row_> ;
+            ns2:column [ rdf:first <https://iisg.amsterdam/Crazy_Rich_Asians.csv/column/Id> ;
+                    rdf:rest ( <https://iisg.amsterdam/Crazy_Rich_Asians.csv/column/SubId> <https://iisg.amsterdam/Crazy_Rich_Asians.csv/column/Name_(click_to_view_profile)> <https://iisg.amsterdam/Crazy_Rich_Asians.csv/column/Date> <https://iisg.amsterdam/Crazy_Rich_Asians.csv/column/Likes> <https://iisg.amsterdam/Crazy_Rich_Asians.csv/column/Comment> <https://iisg.amsterdam/Crazy_Rich_Asians.csv/column/Link> ),
+                        () ] ;
+            ns2:primaryKey "Id" ] ;
+    ns2:url "Crazy_Rich_Asians.csv"^^xsd:anyURI .
+
+<https://iisg.amsterdam/Crazy_Rich_Asians.csv/column/Comment> ns3:description "Comment"@en ;
+    ns2:datatype xsd:string ;
+    ns2:name "Comment" ;
+    ns2:title "Comment"@en .
+
+<https://iisg.amsterdam/Crazy_Rich_Asians.csv/column/Date> ns3:description "Date"@en ;
+    ns2:datatype xsd:string ;
+    ns2:name "Date" ;
+    ns2:title "Date"@en .
+
+<https://iisg.amsterdam/Crazy_Rich_Asians.csv/column/Id> ns3:description "Id"@en ;
+    ns2:datatype xsd:string ;
+    ns2:name "Id" ;
+    ns2:title "Id"@en .
+
+<https://iisg.amsterdam/Crazy_Rich_Asians.csv/column/Likes> ns3:description "Likes"@en ;
+    ns2:datatype xsd:integer ;
+    ns2:name "Likes" ;
+    ns2:title "Likes"@en .
+
+<https://iisg.amsterdam/Crazy_Rich_Asians.csv/column/Link> ns3:description "Link"@en ;
+    ns2:datatype xsd:string ;
+    ns2:name "Link" ;
+    ns2:title "Link"@en .
+
+<https://iisg.amsterdam/Crazy_Rich_Asians.csv/column/Name_(click_to_view_profile)> ns3:description "Name (click to view profile)"@en ;
+    ns2:datatype xsd:string ;
+    ns2:name "Name (click to view profile)" ;
+    ns2:title "Name (click to view profile)"@en .
+
+<https://iisg.amsterdam/Crazy_Rich_Asians.csv/column/SubId> ns3:description "SubId"@en ;
+    ns2:datatype xsd:string ;
+    ns2:name "SubId" ;
+    ns2:title "SubId"@en .
+
+<https://iisg.amsterdam/Crazy_Rich_Asians/assertion/287ad83d/2019-12-13T10:20> a ns6:Assertion ;
+    ns5:generatedAtTime "2019-12-13T10:20:00"^^xsd:dateTime ;
+    ns5:wasDerivedFrom <https://iisg.amsterdam/287ad83dbcdb7b4543baa456b6d68538239ec476>,
+        <https://iisg.amsterdam/Crazy_Rich_Asians.csv> .
+
+<https://iisg.amsterdam/Crazy_Rich_Asians/provenance/287ad83d/2019-12-13T10:20> a ns6:Provenance .
+
+<https://iisg.amsterdam/Crazy_Rich_Asians/pubinfo/287ad83d/2019-12-13T10:20> a ns6:PublicationInfo .
+
+<https://iisg.amsterdam/__row_> ns5:wasDerivedFrom "https://iisg.amsterdam/{_row}"^^xsd:string .
+

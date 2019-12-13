@@ -1,0 +1,3589 @@
+@prefix ns1: <https://iisg.amsterdam/vocab/> .
+@prefix ns2: <http://www.w3.org/ns/prov#> .
+@prefix ns3: <http://www.w3.org/ns/csvw#> .
+@prefix ns4: <http://purl.org/dc/terms/> .
+@prefix ns5: <http://www.nanopub.org/nschema#> .
+@prefix ns6: <http://schema.org/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://iisg.amsterdam/0> ns1:Comment "Over and over again, the same luscious notes. Let someone stop this wilderness. Unleavenedy, kitschy and churchy. I'll just vomit."^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "1"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugyrvctav128SAzV1FN4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/1> ns1:Comment "IT'S AMAZING"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "2"^^xsd:string ;
+    ns1:Likes 2 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugy5Ar8nHNMf8MxqgRV4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/10> ns1:Comment "I love u mammia Mia"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "11"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgwePKtPrsXak5ufoZ54AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/100> ns1:Comment "I'm dutch"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "88"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgxpyFYpj9kkOIcgPVR4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/101> ns1:Comment "Woooowww it's twooo Just can't wait..... oh my godddd"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "89"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgyqgzJkfWRgYSZtLEh4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/102> ns1:Comment "I've watched mamma mia 1 when I was 4 years old and I've watched it many times now that Mamma Mia 2 was released. I've been watching it everyday."^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "90"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugwa7dluucjHfccHYBd4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/103> ns1:Comment "Three more days!!!!"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "91"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgxTieAWdmIBufUS58R4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/104> ns1:Comment "After watching the movie I see how much they spoiled everything in trailer. Absolutely everything that was supposed to be revealed in the end was revealed here. I enjoyed the movie BTW, it was amazing but I knew how it will end since it have started."^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "92"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugw25Xnomy2aG1IGJbt4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/105> ns1:Comment "Actually the stupidest movie with No sorry line I have ever seen smh"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "93"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugzhm0lgcjORNb4M6UJ4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/106> ns1:Comment "I saw it today, it was terrible."^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "94"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgyLQnyyVWSTLONb64l4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/107> ns1:Comment "Fantastic movie"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "95"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugws_11WeaPrCHq-5FV4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/108> ns1:Comment "Okay, so I am seeing this movie today but I've never seen the first one and I am worried that I have to see it otherwise this movie won't make any sense. Any advice?"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "96"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgzEow3BBHHbQsNhOaZ4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/109> ns1:Comment "It’s in the wake of another poisoned story (the second of this year) that has made my fears for HTTYD 3 grow. I lack any confidence (however I will happily eat these words if I’m wrong) that a man determined to make his fans cry with the final DRAGON film won’t succumb to the tragically unfortunate ‘destroy good stories’ craze we seem to have in our film world lately. I hate stories that set up this great, epic story and then tear it down in a sequel (or connecting story) I love the stories that inspire life, hope, courage and above all love. A love of the story, a love of life. Really is needed, agreed, in stories to be believable, but like sugar in a repicy it needs balance. Too much makes it too sweet to little makes it sour. MAMMA MIA 2 was a nice story, good to see the back story, but I found it tried to recreate this epic cake and failed. The music wasn’t as vibrant or inspiriting, it lacked it’s basic and homely quality I loved best about the first and - while I can appreciate a tale about mourning and moving on - I felt this one was too focused on the sad. Leaving many questions unanswered as well. It was too forced and ridged and regretfully I must say; soulless. It had too much sugar for my tastes and sadly falls to the second film this year in a series that negates the great, epic story that came before. I can only hope this growing horrible occurrence in our films burns out before DRAGONS 3 arrives next year, because; though I’ll be open and fair, I WILL NOT hold any punches in my review of DRAGONS 3 if such a soulless, dark and depression craze remains in the last film of the very dearly loved series. I’ve seen the death of two beloved franchises. For the love of Thor! Don’t give us another one. Stories of dark and sad can work but not if it butchers something that was once vibrant, strong and wonderful. That’s too much reality, too much sugar for anyone to swallow.  Making it DRAGON size…well, it will choke this writer half to death.  I can only hope it won’t end that way. Mamma Mia 2 Review By Ej Robinson"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "97"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugwo3zyruvi3M5EiTJx4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/11> ns1:Comment "I told bill,and I told harry,and I told..many many people....."^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "12"^^xsd:string ;
+    ns1:Likes 1 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgyiBIcsogxMOxjQfI14AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/110> ns1:Comment "IT WAS SO GOOD!! I made a vlog about it in my channel if you wanna check it out!"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "98"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgwZy6t2wcChbQnHcJV4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/111> ns1:Comment "Bruh I bet no one watched the first one"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "99"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugwg_lrxlv2qAkjA97B4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/112> ns1:Comment "I told Bill, I told Harry, I told mani mani People hahahahahahaha"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "100"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgzZbJVJGPwJ2uFxY014AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/113> ns1:Comment "I have see the movie"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "101"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgzOzd7aR8xRqjF3zXh4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/114> ns1:Comment "YOUNG BILL IS SO HOT!"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "102"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugyhqbzy6kC5EFDzgUJ4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/115> ns1:Comment "definitely did not cry in this movie... <3"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "103"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugzi4_EFuxfiteGq4_t4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/116> ns1:Comment "Um but where is Dona???"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "104"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgyTkvCdjpy-sCJXNCR4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/117> ns1:Comment "The best movie every In the wold ????"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "105"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgwTxOboDbeZZizfAkB4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/118> ns1:Comment "Omg this was SUCH A GREAT movie !"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "106"^^xsd:string ;
+    ns1:Likes 2 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgwBOP8o55mze5kMAep4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/119> ns1:Comment "They should have used one of bill skarsgards sons to play the younger him!!"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "107"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgwMTI_sU0AMf2H7QH54AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/12> ns1:Comment "boring"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "13"^^xsd:string ;
+    ns1:Likes 1 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugw8pOWWU-g2Ggpfg0F4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/120> ns1:Comment "Soo exited to watch it"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "108"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugw4pzeHLuNQZZv0T454AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/121> ns1:Comment "OMFGGGGGG I THINK SHES PREGNANT  Edit: I’m an idiot"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "109"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgyUvxZdcm-bZUZ8j3l4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/122> ns1:Comment "I cannot wait to see this!????"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "110"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugw6aQ5Ke7P1z5h7BFN4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/123> ns1:Comment "I just saw mama mia 2. Its amazing!!! ????????"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "111"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgxAt--ac1Ti7cicAnF4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/124> ns1:Comment "????"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "112"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgxaH_QPAkcjD7pidFp4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/125> ns1:Comment "I saw this yesturday and i thought its quite sad compared to the other one. In the cinema i looked round and there were some tears from some people."^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "113"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgzNVMMnxNXoL4PHxJh4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/126> ns1:Comment "i watched the movie today. soo sad. cried at the end when donna came back. trying not to give away too much. such an mazing film and i wished it could go on for longer even tho it was already 2 and a half hours long. it would have been better with more original songs in it."^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "114"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgweS7-SmgpqtHNEwwd4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/127> ns1:Comment "Bring me please"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "115"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugx9JhrBE0CIyrePp1p4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/128> ns1:Comment "Been waiting for this sequel. So much love for Amanda Seyfried"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "116"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugyy7jeOjoAkG9jzdAV4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/129> ns1:Comment "This is croacia"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "117"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugw1SjJa3GG76B287Op4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/13> ns1:Comment "How was this in 1979 when she was 20 in the first one??"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "14"^^xsd:string ;
+    ns1:Likes 1 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugxpg3Urx8HKjBKTTsd4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/130> ns1:Comment "spastige tek laf yetmiyor ANLAMASI icin... iki KIZ KARDES DOGRUYU ANLAMAMAÖZÜRLÜ... 1991 SONU BASLADIM KOT TÜRÜ SEYLER GIYMEYE... ONDAN ÖNCE KILOMDAN DOLAYI PANTOLONA ZATEN KÜSDÜM... 1992 EVDE KAPALII GIYMEME DOGRU TELAS BASLADI VE O SENE ISYAN BAYRAGINI CEKTIM...1993 HAZIRAN PIKNIGE GITTIGIMIZDE GIYDIGIM KOT ?ORT ESK? PANTOLONUMDAN KES?D? VE HER YER?M TA?TI?I ?Ç?N UZUN T??ÖRT GIYEREK KAPATIYORDUM.... NE TOPLULUKTAN AYRILDIM NE SUYA FALAN GIRDIM(ÖYLE SU FALAN YOKTU) YANI 1990 ILE 1993 ARASINDA GIYDIKLERIMLE YAPTIKLARIM HIC ANLATILDIGI TÜRDEN DEGIL"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "118"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgyR4gytmrqahHmeXix4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/131> ns1:Comment "I feel like it would've been so much better if Saoirese Ronan played young Donna."^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "119"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgyyCoygzZvIuuXaqBd4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/132> ns1:Comment "Cher"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "120"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgwVVosICEF0OuPoK6Z4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/133> ns1:Comment "I have never been so disappointed in a prequel in my life until I saw this one. Although it was funny it seemed to be forced funny. Although it was musically talented it seemed to be pushing ABBAs unsuccessful music.  And bringing back everyone was awesome except Donna was only a figment of selfies imagination because they killed her off. And that was something that was totally unnecessary because they could have put her stranded at a ski resort somewhere instead.  But they couldn't put Cher and Meryl Streep side-by-side when Cher looks so much younger than Meryl Streep due to her plastic surgery so there you go.  This is one video I'm not going to waste time and money purchasing."^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "121"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgwYUVEiiDhSKsHAcEN4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/134> ns1:Comment "I don’t like it. There’s to much happiness and no acton like come on no hate though"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "122"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgwB-JgOiK6BvtSPNLR4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/135> ns1:Comment "I’m going to see mama Mia with my mama and I am sooooo excited!!!!!!!????????"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "123"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgxAGYnXjJIE-_mAauh4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/136> ns1:Comment "Song at  0:13 ?"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "124"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugzm24E__5RqRNeS9oB4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/137> ns1:Comment "Angel Eyes its originally sung by ABBA but the movie its sung by Amanda Seyfried; Christine Baranski and Julie Walters."^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugzm24E__5RqRNeS9oB4AaABAg"^^xsd:string ;
+    ns1:SubId "124-1"^^xsd:string .
+
+<https://iisg.amsterdam/138> ns1:Comment "This is the best movie going this year your great"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "125"^^xsd:string ;
+    ns1:Likes 1 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgwzjRn8_2fRsQl55kh4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/139> ns1:Comment "I loved MMHWGA but I was kind bothered by they ..... I don't want to be overly specific for those who haven't seen it but the  parts with young Donna they mixed up the order of who , Donna met 1st and I forget the name of 1 of the 3 guys and they didn't even say it in this movie , lol"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "126"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgzMg_1Mo7CyfKWNHqR4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/14> ns1:Comment "its a weird timeline but Donna became pregnant in 1979 and gave birth in 1980 Sophie was 20 in 2000 so 2005 is when she would be 25. the trailer there is a mistake it says it takes place in 2015 but really it was 2005."^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugxpg3Urx8HKjBKTTsd4AaABAg"^^xsd:string ;
+    ns1:SubId "14-1"^^xsd:string .
+
+<https://iisg.amsterdam/140> ns1:Comment "SOILER ALERT DONNA IS DEAD"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "127"^^xsd:string ;
+    ns1:Likes 4 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgxvoQ4gV0uI3rK8pFV4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/141> ns1:Comment "George Weasley when you watched the movie, did you notice this plot hole: How did Donna die?"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgxvoQ4gV0uI3rK8pFV4AaABAg"^^xsd:string ;
+    ns1:SubId "127-1"^^xsd:string .
+
+<https://iisg.amsterdam/142> ns1:Comment "Alix Raphaelson it didnt tell u how she died I don’t believe"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgxvoQ4gV0uI3rK8pFV4AaABAg"^^xsd:string ;
+    ns1:SubId "127-2"^^xsd:string .
+
+<https://iisg.amsterdam/143> ns1:Comment "Yeah no that’s what I am saying."^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgxvoQ4gV0uI3rK8pFV4AaABAg"^^xsd:string ;
+    ns1:SubId "127-3"^^xsd:string .
+
+<https://iisg.amsterdam/144> ns1:Comment "10/10 movie I watched it in the cinema ??"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "128"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgymLtfsNKA2v7LUnOh4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/145> ns1:Comment "Sorry.  Don't like the new version of the daughter.  The new girl looks clumsy."^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "129"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugx8zOpC5ILVPvGz0I94AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/146> ns1:Comment "Looks fun! Cool to see an actor from Harlots in it too, it’ll be fun to see him in another role. ??"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "130"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgygQHguN7NMcBvgled4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/147> ns1:Comment "oh my a all white cast no biggie nothing new they it's always been that way..what would be new if some one mention it."^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "131"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgzMQ1tWbdly5wM2uZZ4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/148> ns1:Comment "Awesome movie...very good and nice that hidden Abba treasure songs got to the stage!"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "132"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugw8FoMv889vQAULc4J4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/149> ns1:Comment "I've watched the movie!!! So dope??"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "133"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugz6YWdPhSTO5Wv7lj54AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/15> ns1:Comment "No no no no no no no no no. Young Bill is supposed to have longer hair, Young Sam is supposed to have long hair and a handlebar Mustache, and Young Harry is supposed to be Emo. Donnas mom is supposed to be dead AND Catholic. Did they even watch the movie???"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "15"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgzO7mx1pHeGud9pFbl4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/150> ns1:Comment "yo where my fellow greeks at ???????"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "134"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugybgytq_5mlD4LPZKZ4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/151> ns1:Comment "GREECE IS PARADISE"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "135"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgwxtXFBN37k7wSbZgB4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/152> ns1:Comment "I have been waiting sooo long for this sequel"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "136"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgyIjbN5_JN6ocBwYc14AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/153> ns1:Comment "i’m actually personally offended they didn’t make the actresses wear contacts ESPECIALLY rosie’s younger self, you mean to tell me she literally had LIGHT BLUE eyes when she was young and almost BLACK eyes when she was older???? and donna has brown eyes when she’s young and blue when old??? nah chief this aint it"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "137"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugy6110OkDivUlpEdmV4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/154> ns1:Comment "I search Mama Mia bc I didn't know what it was"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "138"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgwGczfmFT2Ls1_bw2Z4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/155> ns1:Comment "???? ????? ???? ? ????"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "139"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgzK7GqKYGAuowqbpxx4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/156> ns1:Comment "Words cannot describe how pleased I was when they started playing Angeleyes. Not one of their most well known, but by far my favourite, and forever my favourite. Mamma Mia 2 was amazing!!"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "140"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugz8ZKJ1u0wqRMDDmrR4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/157> ns1:Comment "I need to see this film :("^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "141"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgzPk8PXNeVtz3BlrTp4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/158> ns1:Comment "It’s an amazing movie"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "142"^^xsd:string ;
+    ns1:Likes 1 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugy_BXh8SW8FT8B-b7F4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/159> ns1:Comment "Spoiler: we DON'T find out who sofie's dad is!!! So why does this movie need to exist??!!!"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "143"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugy_A4n9mYeQ3nAZxWZ4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/16> ns1:Comment "Wasn’t in love the first film but this film delivers all. Was memorised by Lily James, her character was very fun and vibrant, defiantly delivered her parting role. Brilliant film 9/10"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "16"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgyVsLVbXS90_bWj3kd4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/160> ns1:Comment "Grandma you weren’t invited, that’s the best kinda party.  Me"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "144"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugy3V7QE4YlQL43Dm8Z4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/161> ns1:Comment "I have already seen the film  it is really good !!"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "145"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgzklGfwVAv_avFvIqx4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/162> ns1:Comment "CROATIA????"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "146"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugy0-aYKUSSP_c7uMiV4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/163> ns1:Comment "I’ve seen the movie I recommend to watch it"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "147"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgzcqNZDPXy-xcEN2Tl4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/164> ns1:Comment "10 years later, Here we go again!!! ???????????"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "148"^^xsd:string ;
+    ns1:Likes 6 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugw0EXShT94ffihISyJ4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/165> ns1:Comment "Stay informed I'll be in Vis Island in 2 days!! ??"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugw0EXShT94ffihISyJ4AaABAg"^^xsd:string ;
+    ns1:SubId "148-1"^^xsd:string .
+
+<https://iisg.amsterdam/166> ns1:Comment "Stay informed just came from the Island!! Loved it!! Its an amazing place!! ??"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugw0EXShT94ffihISyJ4AaABAg"^^xsd:string ;
+    ns1:SubId "148-2"^^xsd:string .
+
+<https://iisg.amsterdam/167> ns1:Comment "OMFG I’m tired of seeing this commercial before every video I watch"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "149"^^xsd:string ;
+    ns1:Likes 2 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugz-lDKSXW3e9O4JeGZ4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/168> ns1:Comment "STOOOP !!! Just STOP IT !!! Please Stop !!!  Stop makin this shit with horrible music and horrible actors .... JUST STOP FOR FUCK SAKE"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "150"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgyGG6bU8OCe-IpT8JF4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/169> ns1:Comment "If I have to hear this fucking stupid movies advertising by electronics in wal mart one more time I will stab out my own ear drums to become deaf."^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "151"^^xsd:string ;
+    ns1:Likes 1 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgzNyDAslOrwIzLZh6R4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/17> ns1:Comment "Damn, just saw this, it’s amazing, beautiful, heartbreaking in all the right ways. ??"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "17"^^xsd:string ;
+    ns1:Likes 1 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugw3dyXkYsJxlRPiI0J4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/170> ns1:Comment "THERE IS A FUDGING SECOND ONE!? NO ONE TOLD ME! OMG IM EXCITED????????????????????????????"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "152"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgxZ_qM-bllPu4xIyit4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/171> ns1:Comment "BEEEST! but on this version i crying so much????"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "153"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgwyVeUi_JwKn2EKcMF4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/172> ns1:Comment "BEEEST! but on this version i crying so much????"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "154"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgxXYrKrx_HxGr70lZN4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/173> ns1:Comment "I feel like this movie was pointless...it had stories that i think they already had in the first...i feel like i have to watch the first one after this one to shake of this feeling. And without donna this movie was just crap. The whole story was boring and like in the first one you had a story and you felt like watching a movie but with this one i feel like i have been watching song videos for and hour"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "155"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugxaulp-ylDX0fFfg6x4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/174> ns1:Comment "Horrible movie it was like watching a bad traffic accident."^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "156"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgwEyl72_m60yU_yi8J4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/175> ns1:Comment "Who was her dad?"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "157"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgzulHVQqsXsPI9l7sB4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/176> ns1:Comment "Mamma Mia will forever be my favorite movie"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "158"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugxotg8UOvoX_LxWBfl4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/177> ns1:Comment "OH MY GOD I JUST FOUND OUT NOW AND ITS COMING! Jesus Christ, my heart is not PREPARED"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "159"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugzdxn_eCOgFnHm92bJ4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/178> ns1:Comment "I hate ween someone die in this movie"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "160"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgxK9zc222iaFAKe1tZ4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/179> ns1:Comment "Yes!!!! ?"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "161"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugx6cEqjUHP9_gTy_LR4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/18> ns1:Comment "I actually really loved this sequel/prequel. It did the series justice and was such a delight to watch!"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "18"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugyv-8WPsG3TyKE-LL94AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/180> ns1:Comment "Who is the father?"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "162"^^xsd:string ;
+    ns1:Likes 1 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgzsP_fdc3JqMtv2zdZ4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/181> ns1:Comment "IT WAS SO GOOD ??????????"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "163"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugw_Vbv3xAk2LnBVV5V4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/182> ns1:Comment "Lily James ????"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "164"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgwZ39ZBZtkpCSVaukR4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/183> ns1:Comment "Is Sophie and her fiance married or did she just choose another guy?"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "165"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugy4adv9HYVLQ3qANcB4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/184> ns1:Comment "I am sosososo happy that this is coming out!!!!!!!!!!! I'm digging it"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "166"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugw2g9ULl5XhraeOQ1R4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/185> ns1:Comment "Oh my God I just realized her name is Lily James like Lily and James Potter!!! Sorry just some random Potterhead thought I'll leave now??"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "167"^^xsd:string ;
+    ns1:Likes 75 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugxstci1xnjmYHUORPd4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/186> ns1:Comment "Julie OMG NEVER NOTICED Thats so cool, I'm a potterhead too"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 1 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugxstci1xnjmYHUORPd4AaABAg"^^xsd:string ;
+    ns1:SubId "167-1"^^xsd:string .
+
+<https://iisg.amsterdam/187> ns1:Comment "Ariadna hidalgo ??????"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugxstci1xnjmYHUORPd4AaABAg"^^xsd:string ;
+    ns1:SubId "167-2"^^xsd:string .
+
+<https://iisg.amsterdam/188> ns1:Comment "Ariadna hidalgo same"^^xsd:string ;
+    ns1:Date "28.12.18 12:12:41"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugxstci1xnjmYHUORPd4AaABAg"^^xsd:string ;
+    ns1:SubId "167-3"^^xsd:string .
+
+<https://iisg.amsterdam/189> ns1:Comment "Julie same"^^xsd:string ;
+    ns1:Date "28.12.18 12:12:41"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugxstci1xnjmYHUORPd4AaABAg"^^xsd:string ;
+    ns1:SubId "167-4"^^xsd:string .
+
+<https://iisg.amsterdam/19> ns1:Comment "What happened to Sophie's best friends? Ali and Lisa.. why aren't they in this movie? :-)????"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "19"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugw4aSQpk09OEBk1GIN4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/190> ns1:Comment "Same here! Potterheads forever!!!"^^xsd:string ;
+    ns1:Date "28.02.19 12:12:41"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugxstci1xnjmYHUORPd4AaABAg"^^xsd:string ;
+    ns1:SubId "167-5"^^xsd:string .
+
+<https://iisg.amsterdam/191> ns1:Comment "I can't wait too see it in cinemas and on dvd I'm so excited Hannah cooper ??"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "168"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgzQGOtAVYdv07tfpCV4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/192> ns1:Comment "is it inappropriate??"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "169"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugz6i8Bhe_-_K2Tp3B14AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/193> ns1:Comment "lily james really made this movie"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "170"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugz9MBgoeKnfFS7hZAN4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/194> ns1:Comment "Ughhhh I can’t wait!!!"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "171"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgynifD3aGCs-91AxaJ4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/195> ns1:Comment "The amazing songs of Abba being butchered and made sound second rate by second rate performers."^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "172"^^xsd:string ;
+    ns1:Likes 1 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugz_TJUJdlBGKqybJwd4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/196> ns1:Comment "I love those 3 dads, but am I the only one that wants to know who the real father is?"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "173"^^xsd:string ;
+    ns1:Likes 1 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgwDidrWZiggejYfGDF4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/197> ns1:Comment "Do i have to watch the first mamma mia to understand this one?"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "174"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugyb5gbRs6cxoMbiT1h4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/198> ns1:Comment "got the trailer before the video..."^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "175"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgxwmN_z_EfApb8j-eR4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/199> ns1:Comment "Fuck I’m so excited for this"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "176"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugxc-ULU-8VVmCe4N4t4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/2> ns1:Comment "They stitch these ABBA songs together like somebody with Parkinson's trying to make a quilt."^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "3"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugz7wP5bmbsqgYOTWCl4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/20> ns1:Comment "i saw the 2 one and the 1 one but i really want to want to see mama mia 2 again"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "20"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgxPcc-SlKfqfbSX1_R4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/200> ns1:Comment "I just told bill I told hary  pauses  I told many many people"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "177"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugxgb2XrGTuIA89fF-h4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/201> ns1:Comment "HIDEOUS!! We walked out of the cinema after 30 minutes of trying to endure this sickly, desperate, over the top, horrendously bad acting. The first film was AMAZING!! The second was a shameful embarrassment with a LAME and sorry story line. Don;t be fooled by the flashy trailer... the film will make you vomit into your popcorn. Please save your time and watch something else."^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "178"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugyd_8k6kU16_Q3tYjh4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/202> ns1:Comment "The whitest movie ever lol"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "179"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgyF15Gkq0y7xrmGsPt4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/203> ns1:Comment "Must be honest and thought the film was totally rubbish, nowhere near as the first one bit like when grease 1st came out brilliant but then grease 2 was bloody crap."^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "180"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgxUsqVmC4vGF1PQ7Wh4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/204> ns1:Comment "Soooo, is meryl in it?"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "181"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgxWCyAFRolu-kmooAF4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/205> ns1:Comment "Just came back from the theatre a couple minutes ago. This film is absolutely inspiring. You’ll love it trust me. It’s beyond excellent."^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "182"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugw2enDV3GRhi7qi0_N4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/206> ns1:Comment "I loved it too Lily James made such a fantastic young donner honestly couldn't asked for a better cast ????"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugw2enDV3GRhi7qi0_N4AaABAg"^^xsd:string ;
+    ns1:SubId "182-1"^^xsd:string .
+
+<https://iisg.amsterdam/207> ns1:Comment "Reasons why this movie doesn't make any sense: 1. So it's been 5 years but Sophie still hasn't had a DNA test to find out who her biological father really is? Or does she find it normal to have 3 dads? 2. Your daughter dies but you don't show up for her funeral or support to your granddaughter and you show up at the party for her pregnancy (or whatever it's about)? 3. 5 years ago you came from England or Ireland or Sweden because you were informed you might have a daughter and 5 years later you still have no interest to find out if she really is your daughter? You just think it's ok to \"share\" her with two other men? And people find this thing awesome. Whatever..."^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "183"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugyz2UqImHRMAGHenMh4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/208> ns1:Comment "Can someone explain how Cher is old enough to be meryl Streep’s mum?"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "184"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgwNrj8aOLR9N4G_2Nd4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/209> ns1:Comment "I hate the new 1"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "185"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgxQzWzsQv1Jp4uwsvJ4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/21> ns1:Comment "Bullshit film.. 1 unlike"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "21"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgwgFEiYN37RqN3Sbx94AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/210> ns1:Comment "I’m going to see it today at the cinema"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "186"^^xsd:string ;
+    ns1:Likes 3 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgzY2pns3NNSs9vwEZ94AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/211> ns1:Comment "She dies"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "187"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgwTdD6NgJA_AwIoZ3F4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/212> ns1:Comment "She dirs"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "188"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgyUhc9TNuQGV3y1KmR4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/213> ns1:Comment "woooooow this film is so amazing! It's one of the best comedies i have ever seen. Its a bit complicated but the aftermovie cleared my mind! So i wonne give you a clue: watch the aftermovie first!!!! And do you know that lady Gaga has also a roll in it? i love her so much, she also seems a bit like the girl of abba!! and the amout of music! damn  i like the fact tht they sing 80% of the film! they repait enough what they feel so than you understand the film mush better! I feel the same way like Donna: liking a lot of guys, just like I like pigs! pay attention to the donky who looks like a pig! damn this film is so good! I give it FIVE STARS!"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "189"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgxA8qgKX1ZMt2glWpx4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/214> ns1:Comment "Laura Peirs wow i feel the same way as you!!!!!!!!! Incredible movie ??????????????????????"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgxA8qgKX1ZMt2glWpx4AaABAg"^^xsd:string ;
+    ns1:SubId "189-1"^^xsd:string .
+
+<https://iisg.amsterdam/215> ns1:Comment "serious? do you also wanna watch it 10 times again?"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgxA8qgKX1ZMt2glWpx4AaABAg"^^xsd:string ;
+    ns1:SubId "189-2"^^xsd:string .
+
+<https://iisg.amsterdam/216> ns1:Comment "I can't get enough of it! <333333"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgxA8qgKX1ZMt2glWpx4AaABAg"^^xsd:string ;
+    ns1:SubId "189-3"^^xsd:string .
+
+<https://iisg.amsterdam/217> ns1:Comment "Laura Peirs of course!!! I have a question.......... do you wanna join This is the musical???????"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgxA8qgKX1ZMt2glWpx4AaABAg"^^xsd:string ;
+    ns1:SubId "189-4"^^xsd:string .
+
+<https://iisg.amsterdam/218> ns1:Comment "Saw this at the cinema last night! So good!!"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "190"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugx5N19my4m6BIJScPZ4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/219> ns1:Comment "um why does the mother and grandmother look the same age"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "191"^^xsd:string ;
+    ns1:Likes 16 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgzBiIucU8utdXn_l7p4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/22> ns1:Comment "Im getting tired of this stupid ass trailer playing everytime i try to watch a fucking video on yt"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "22"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgxhBNtPABZ2LqEl5yp4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/220> ns1:Comment "Laurie lmao that’s Cher????she’s got hella work done that’s the point"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 5 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgzBiIucU8utdXn_l7p4AaABAg"^^xsd:string ;
+    ns1:SubId "191-1"^^xsd:string .
+
+<https://iisg.amsterdam/221> ns1:Comment "Cher and Streep? Because in reality, they are around the same age"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 8 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgzBiIucU8utdXn_l7p4AaABAg"^^xsd:string ;
+    ns1:SubId "191-2"^^xsd:string .
+
+<https://iisg.amsterdam/222> ns1:Comment "cause.. the actresses are? hah, cher is 72 and meryl is 69"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 3 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgzBiIucU8utdXn_l7p4AaABAg"^^xsd:string ;
+    ns1:SubId "191-3"^^xsd:string .
+
+<https://iisg.amsterdam/223> ns1:Comment "Because they're about 3 years apart...? But how else are you going to get cooler than Meryl? Who else is ALIVE at that age, lol?  Maybe Sophia Loren...? She'd also be the right age..."^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgzBiIucU8utdXn_l7p4AaABAg"^^xsd:string ;
+    ns1:SubId "191-4"^^xsd:string .
+
+<https://iisg.amsterdam/224> ns1:Comment "who wants to see preacher the musical ?"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "192"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgxVfMZWOo3a6F-fc1l4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/225> ns1:Comment "??????????????"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "193"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgzLyJWTjJrvuwuzM454AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/226> ns1:Comment "When I graduate college Im going to dump my boyfriend and .Im  going to Sweden and if I can't choose go to Greece and find myself some Sam and Bill and stay there forever. If it doesn't work I get back with my boyfriend and live a sad life"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "194"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugxe4oT9Ag415YUqcul4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/227> ns1:Comment "Yay"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "195"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgystrbDMsQU2lz8nJx4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/228> ns1:Comment "I thought it was Lady Gaga ?? ? What an entrance !!! Glad I ?? Cher!"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "196"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgygFkAAeKuta7prsH14AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/229> ns1:Comment "Why isn’t Streep in this ? I guess she knows it’s going to be a flop ..."^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "197"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgzctTf7eVs4scsjmld4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/23> ns1:Comment "I LOVED the first. And now a second film. OMG!! Best day of my life!!"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "23"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgzlqpIMtAgi3ETeOZZ4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/230> ns1:Comment "It’s karen from mean girls"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "198"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgyEJoMdSqUgNqk2RMR4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/231> ns1:Comment "I didn’t know there was mamma Mia 2 I watch the first movie when I was 9 years old omg yes the second one yaaaaaay"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "199"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgwseOB63dgUon1gsrR4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/232> ns1:Comment "Cinderella singing Mama Mia! Oh my!"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "200"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgzDn_YFgfWcq5VcZ5t4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/233> ns1:Comment "Out here trying to network and build bless up"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "201"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugz0VZL7XFcww__ap_F4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/234> ns1:Comment "Haven't seen one mean girls reference in the comments yet. Smh"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "202"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgxB3ND0ibT-MN_PEjF4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/235> ns1:Comment "I’m waching after I came back waching this movie in cinemas"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "203"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgxCMP2YGr9VWG5c5fF4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/236> ns1:Comment "It was a good movie but until I saw the FRENCH FLAG at Waterloo scene!!! Dammn! I hate anything FRANCE/FRANCH????????"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "204"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgxRjhIVj9WwY35KPCt4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/237> ns1:Comment "Can’t believe Donna died ..."^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "205"^^xsd:string ;
+    ns1:Likes 2 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugzq2maz1rikY2kgac14AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/238> ns1:Comment "God, I love Colin Firth! One line, and he still stole the whole scene!"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "206"^^xsd:string ;
+    ns1:Likes 2 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgwdHsw3jCt-b-IgKmN4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/239> ns1:Comment "It’s great , if you’re 8"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "207"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugxx2KWZOQio5jMQt8p4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/24> ns1:Comment "Is Donna dead?"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "24"^^xsd:string ;
+    ns1:Likes 1 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugyn_b_oREwYnB3luWN4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/240> ns1:Comment "love it both movies"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "208"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgxCuuBR1sNJ6at6-rd4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/241> ns1:Comment "To cast Lily James as young Meryl Streep is absolute bonkers! I am sure Meryl is turning in her grave because of this!"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "209"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgzFdj1fo8GB9FFIqe94AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/242> ns1:Comment "I watched it! IT WAS TERRIFIC!"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "210"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgwpU3NnxNacBMjgl8p4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/243> ns1:Comment "The problem I have with this is .. will Abbas music now be acossiated with a shit tacky sequel.   Why can't you people just leave things alone,"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "211"^^xsd:string ;
+    ns1:Likes 1 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgyuKtJ_ibxwFBeGD0p4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/244> ns1:Comment "where's daddie mia"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "212"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgwNqZUiBZ6p9GfJ_Nd4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/245> ns1:Comment "Am I the only one who is sick of these mamma Mia ads? Yes? Haha okay then ??????"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "213"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgzGRMovieO3nGTeAs14AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/246> ns1:Comment "OMG SO FLIPPING EXCITED"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "214"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugx-kjlRZkXRpYW7a954AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/247> ns1:Comment "My name is Mia ????"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "215"^^xsd:string ;
+    ns1:Likes 1 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugw6Dx7ZZDGR12062Dh4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/248> ns1:Comment "OMG I saw it it was so good I really recommend it."^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "216"^^xsd:string ;
+    ns1:Likes 4 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgzwXofgT92lANGxir14AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/249> ns1:Comment "Am I the only one who hated the original and hopes this one will redeem it?"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "217"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgxBHsrrwYpi44yiHfd4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/25> ns1:Comment "Andy Marcos yeah"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugyn_b_oREwYnB3luWN4AaABAg"^^xsd:string ;
+    ns1:SubId "24-1"^^xsd:string .
+
+<https://iisg.amsterdam/250> ns1:Comment "great trailer!!"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "218"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugw0ynM4UEvrE6pQimx4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/251> ns1:Comment "Why the fuck are y’all trying to advertise this movie so bad"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "219"^^xsd:string ;
+    ns1:Likes 2 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgxL6vyK5LwHfXayPG54AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/252> ns1:Comment "The movie was absolutely fantastic!"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "220"^^xsd:string ;
+    ns1:Likes 4 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgwM3d5wDcl4N0m1MKR4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/253> ns1:Comment "Went to see it yesterday, very average film, nowhere near as good as the first one, no real story, we didn't know half the songs, which were performed badly and it wasn't funny. Watch it on TV  when it's free but don't pay to see it."^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "221"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgzXUhvrYux0ec5xFjF4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/254> ns1:Comment "Mission Multi Media uhh... The first one was WAY worse oops"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgzXUhvrYux0ec5xFjF4AaABAg"^^xsd:string ;
+    ns1:SubId "221-1"^^xsd:string .
+
+<https://iisg.amsterdam/255> ns1:Comment "Omid Djalili is class!"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "222"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgxDrpg00L-XAUAG0e94AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/256> ns1:Comment "????????"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "223"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgxcFl3MOa1sTRI9F9B4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/257> ns1:Comment "SHE GETS A BABY!?!?!"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "224"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugyxau-DqgP1RQh_MQd4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/258> ns1:Comment "love this movie. Hope they make a third one."^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "225"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugxvv669_zqu79fZpvh4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/259> ns1:Comment "Cher plays her grandmother even though she’s only three years older the Meryl Streep"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "226"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgzqZGwFwxDt7EyhXHN4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/26> ns1:Comment "I don't want to watch it cause then it will have to end and I will feel empty and think about it for weeks"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "25"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugw-0GVY4H5Q-UWzxGx4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/260> ns1:Comment "Here I go again!"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "227"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgyLhCZEl-20M0QHTEV4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/261> ns1:Comment "Only white people in the entire trailer..."^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "228"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgythoKEunkfm1jftxh4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/262> ns1:Comment "Good.  No need to muck up the movie with 3rd worlders."^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgythoKEunkfm1jftxh4AaABAg"^^xsd:string ;
+    ns1:SubId "228-1"^^xsd:string .
+
+<https://iisg.amsterdam/263> ns1:Comment "it's supposed to be taking place in Greece. Not a highly multicultural country especially the islands"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgythoKEunkfm1jftxh4AaABAg"^^xsd:string ;
+    ns1:SubId "228-2"^^xsd:string .
+
+<https://iisg.amsterdam/264> ns1:Comment "we dont need a sequal"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "229"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgyTI1ti4N8ycNVPJJt4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/265> ns1:Comment "Mamma Mia! 01 prime video 02- blu ray 03- dvd 04- 4k  all with amazon  https://amzn.to/2yXIgNt"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "230"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgzaNYTNwi6V2Hp4Psd4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/266> ns1:Comment "I can't wait to see this movie"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "231"^^xsd:string ;
+    ns1:Likes 1 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgwLjH12EUWEDsOZdZB4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/267> ns1:Comment "Is it out yet??"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "232"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgzXPR9Dk6dTC1zm8VR4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/268> ns1:Comment "I feel like I've just seen the entire movie..."^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "233"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgxdVtuq5gswoRKwl4t4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/269> ns1:Comment "The fucking nostalgia man."^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "234"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgxXaQ9PQqtaJrHwNzF4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/27> ns1:Comment "There is a mistake with young Donna and Donna, young Donna has BROWN eyes but Donna has BLUEY eyes. By the way this is my own fought and it kinda was one of those mistakes that doesn’t matter but oh well x????"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "26"^^xsd:string ;
+    ns1:Likes 2 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugy0yEjNSgHwRqIe3DZ4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/270> ns1:Comment "OMG I CAN'T WAIT TO SEE THIS!  I'm going to see it w all my friends!"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "235"^^xsd:string ;
+    ns1:Likes 2 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgxE7k0Pw78Ve_jARZF4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/271> ns1:Comment "Mama mia! who the fuck asked for a sequel"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "236"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgzetfNAXa3cKH24cbd4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/272> ns1:Comment "Amazing sequel! Have seen it twice already because that's how much I loved it! Now I need to rewatch the first Mamma Mia ?? It's amazing"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "237"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugxha1ounn9piNAp4Qh4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/273> ns1:Comment "I LOVED this movie but what's the plot?"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "238"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugy2mo5j1I8ntMBVddJ4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/274> ns1:Comment "People are going to spend money on this garbage?  Funny.  Maybe if you're over 50"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "239"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugx0qcWYYoGQQYURQYt4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/275> ns1:Comment "Can someone please post the scence where sophie tells sky she is pregnant"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "240"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugxy6fha49aKFjhGSZd4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/276> ns1:Comment "Love this"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "241"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugw0ZdhV_RLGc6aCqWZ4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/277> ns1:Comment "having someone as hot as lily james supposedly be a younger meryl streep is just unrealistic."^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "242"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgxNnWHDiJnx9jNqknB4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/278> ns1:Comment "why why"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "243"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugz2nX-J4h45cZnEyNd4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/279> ns1:Comment "This film was recorded on my island Vis <3<3<3 how much we can get likes"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "244"^^xsd:string ;
+    ns1:Likes 2 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgwORDy7IosnTAEnV7x4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/28> ns1:Comment "Maybe Amanda Seyfried and Lily James roles could’ve been swapped"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 1 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugy0yEjNSgHwRqIe3DZ4AaABAg"^^xsd:string ;
+    ns1:SubId "26-1"^^xsd:string .
+
+<https://iisg.amsterdam/280> ns1:Comment "Ahhhhhhh I've been waiting  for this forever!!!!!!!"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "245"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugw7RCSiFJtBwtm0Jht4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/281> ns1:Comment "Eeeeh I can't wait. When this movie comes out I am going to see it no matter what!!!!!"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "246"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgwHEZMnQNtZw36LFS54AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/282> ns1:Comment "Parita Deuchande It’s already out.??:P"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgwHEZMnQNtZw36LFS54AaABAg"^^xsd:string ;
+    ns1:SubId "246-1"^^xsd:string .
+
+<https://iisg.amsterdam/283> ns1:Comment "Fucking ads with this gay shit every ,10 mins !!! Fuck u bitches"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "247"^^xsd:string ;
+    ns1:Likes 1 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgybimWQuSPkZR_FBGh4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/284> ns1:Comment "is anyone here also wondering what happened to pepper and tanya??"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "248"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgxQPDWhWY3PaOfqi8F4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/285> ns1:Comment "I had to focus so hard not to sing along at the movies"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "249"^^xsd:string ;
+    ns1:Likes 3 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugy00T0ELq5YjWdxhYl4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/286> ns1:Comment "???????? I love this!!!????"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "250"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgzvenjKeJJUzJ5MdtN4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/287> ns1:Comment "One of the biggest disappointments in movie history. Lazy plot and terrible execution. Nobody asked for this \"sequel\". If you ask me, I'll stay in my bubble where everyone is happy"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "251"^^xsd:string ;
+    ns1:Likes 6 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugzz9uAuNnlxzGlsgfN4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/288> ns1:Comment "Philippa So precisely stated. I was getting depressed with all the comments praising this disastrous, slapped-together mess whose only unifying factor was ABBA songs. Remove the soundtrack and convince me that it's worth the money or time spent.The storyline was abysmal and frankly thoughtless. And everyone knows sequels are nearly guaranteed to be worse."^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 1 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugzz9uAuNnlxzGlsgfN4AaABAg"^^xsd:string ;
+    ns1:SubId "251-1"^^xsd:string .
+
+<https://iisg.amsterdam/289> ns1:Comment "Philippa lol the plot in the first one and the first movie in general was way worse"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugzz9uAuNnlxzGlsgfN4AaABAg"^^xsd:string ;
+    ns1:SubId "251-2"^^xsd:string .
+
+<https://iisg.amsterdam/29> ns1:Comment "Alix Raphaelson Makes so much sence"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugy0yEjNSgHwRqIe3DZ4AaABAg"^^xsd:string ;
+    ns1:SubId "26-2"^^xsd:string .
+
+<https://iisg.amsterdam/290> ns1:Comment "It was pretty terrible. I hated how they executed the back in time plot line with the young mother. Lily’s acting was very poor and annoying with constant wooos! and hands throwing. I think she did a pretty bad job, I don’t think she was the best choice for this role. The best part of the movie are Lily’s gold boots in the first scene and that’s pretty much it. The whole movie is cringeworthy and flat"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugzz9uAuNnlxzGlsgfN4AaABAg"^^xsd:string ;
+    ns1:SubId "251-3"^^xsd:string .
+
+<https://iisg.amsterdam/291> ns1:Comment "Donna is dead ??????????"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "252"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugzy6-DYdFpWn_LNQFx4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/292> ns1:Comment "the movie wasnt great,  but was ok unfortunately the music parts were a bit dry, needed more \"power\" especially from the music and not the voices only the my love my life one was good because was more soft song"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "253"^^xsd:string ;
+    ns1:Likes 1 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgyboLtTrkCAZt_XWcN4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/293> ns1:Comment "I just know I'm gonna be flipping singing every single singing note in the movie when i watch it XD also: I've always watched Mamma Mia at least 5 times every year. I've been watching it pretty much since I was born, and I thought that it was an old movie and that everybody had  forgotten about it. But apparently not. And when I saw that there was a second movie, I was so, so, SO happy. I know every word to ALL the songs in the first movie, and this one, I'm sure, will be no different. ??... ?? (And it is very, VERY,  VERY  rare that I use a ?? emoji, so that just shows how much I love this movie.)"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "254"^^xsd:string ;
+    ns1:Likes 2 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgzvDn0iX6qba7loOVF4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/294> ns1:Comment "Mudah-mudahan masuk bioskop Indonesia,,seri pertama nya bener2 juara,semoga sekuelnya tidak mengecewakan"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "255"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgysWHOuFPR-w7mcJ6N4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/295> ns1:Comment "There is a flaw. In the first movie when they sing Our Last Summer, they show photos of the young versions of Bill, Harry and Sam, yet in this new movie, they look completely different! This is just a thing I observed... just watched the new movie, amazing. ??"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "256"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugz5WzBfJnq5rY4JIzh4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/296> ns1:Comment "They killed off Donna!! What!!?"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "257"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgxH8fscXprwnPPngPZ4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/297> ns1:Comment "Excuse o wise people of the internet but am I bloody missing something?! Is Donna dead?! ??"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "258"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugwg5kuCxzxx8dyRzWN4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/298> ns1:Comment "i’ve watched it yesterday!! so emotional and funny??"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "259"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgxUAwtMRgSMaYiG9Xx4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/299> ns1:Comment "Pls don't hate on me... I loved the first Mamma Mia because it was amazing, but honestly, this film really let me down ??"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "260"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgzCskVUskqYZ9hDGsJ4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/3> ns1:Comment "Here we go again"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "4"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgysfYt0WTq45FqMHsF4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/30> ns1:Comment "her eyes aren't bluey there brown like always. meryl streep fan for life."^^xsd:string ;
+    ns1:Date "28.12.18 12:12:41"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugy0yEjNSgHwRqIe3DZ4AaABAg"^^xsd:string ;
+    ns1:SubId "26-3"^^xsd:string .
+
+<https://iisg.amsterdam/300> ns1:Comment "I’m having a stroke right now omg"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "261"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgwihBhUfQYpOgLc7xp4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/301> ns1:Comment "this  movie is awesome. five stars"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "262"^^xsd:string ;
+    ns1:Likes 1 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugzwtac7KgiEYCQR-bJ4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/302> ns1:Comment "Where the hell is Meryl Streep in the sequel?! Clearly I loved the first and am excited to see a sequel. But how can you do a sequel without her?"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "263"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgypbL2-pOO6wJQW5gx4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/303> ns1:Comment "I literally get chills when it’s changes 1979"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "264"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgxmdLfGgf_5FqgBDzN4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/304> ns1:Comment "I cried so much"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "265"^^xsd:string ;
+    ns1:Likes 1 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugyu9y_foNqJ-MK3_Np4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/305> ns1:Comment "This looks so amazing I wanna watch it xx"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "266"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgzG7WkspGHWX0SNhhJ4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/306> ns1:Comment "What happend to Donna!!! I AM DISTRAUGT!!!"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "267"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgwfCJfdx-mFb12_XwZ4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/307> ns1:Comment "Já quero ver ??"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "268"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugx4a4xiqMODOqxN-BR4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/308> ns1:Comment "One of my favourite films but the trailer looks confusing. Hope the movies will not disappoint :( :)"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "269"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgyBl1IrAED_kZrer9d4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/309> ns1:Comment "Who's here for Dominic Cooper? ????"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "270"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugwmj7QyxWQQSM67ez54AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/31> ns1:Comment "I don't give a fuck how many American dollars one offers me, I am NOT acknowledging ( spoiler ahead ) Donna's death. I am NOT. And I don't care what people tell me, IT'S NOT CANON !!!! Donna's alive and that's all."^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "27"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgxInpiy12N2D-t-mUZ4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/310> ns1:Comment "Best movie of 2018 omg"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "271"^^xsd:string ;
+    ns1:Likes 1 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgyYAVyC3oghuD4My4V4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/311> ns1:Comment "It’s still not mamma Mia without Meryl Streep :("^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "272"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgxD4rGIpEKY3DCHMJ14AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/312> ns1:Comment "Hey Everyone what’s up it’s Sammy the Believer again ?? ...AND I’ve gotta say... WHATEVER YOU DO, WATCH THIS MOVIE. I have not seen one like it since the original, and just like its former, it made us laugh, it made us cry, it made us fall out of our chairs with laughter. This is one movie to secure its place as an all-time classic like the first movie ??. A movie to be remembered. So whatever you do, watch it. You won’t regret it ??????"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "273"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgwuVN3BBB5A08v0wb54AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/313> ns1:Comment "I love it"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "274"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugxxm5FTSKQIkfhEq0N4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/314> ns1:Comment "Wait didn’t Donna say in the first movie that her mom was dead I’m confused"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "275"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgyI997My_RDxhNtkGB4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/315> ns1:Comment "I got a Mamma Mia 2 ad while watching this trailer."^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "276"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgzuLo78CTkG0o0RBld4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/316> ns1:Comment "Sarah mamma use John year part can end to and you"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "277"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgzNSFfJe7QhevQdURR4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/317> ns1:Comment "\"I told many many people.\""^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "278"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgxpRWnsgwB4Zh5yRrt4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/318> ns1:Comment "What a shit movie xd"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "279"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgxeMU_RnHa47qwNuzl4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/319> ns1:Comment "Honestly though the sequel was so redundant they should’ve left it at the trailer"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "280"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgykNXfi76Psg3kndVR4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/32> ns1:Comment "Clem Marchal I'm so sorry but in the second movie she is definitely dead..."^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgxInpiy12N2D-t-mUZ4AaABAg"^^xsd:string ;
+    ns1:SubId "27-1"^^xsd:string .
+
+<https://iisg.amsterdam/320> ns1:Comment "Just watched the movie last Friday after 5 years and I am honestly excited to see this sequel tomorrow with one of my best friends! Can't wait!"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "281"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugw_CCMQy_YaYHrMI_54AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/321> ns1:Comment "I’m shanebearddj I love that movie for first time yay ????????????"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "282"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgwtgV8CXhryvr74HGx4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/322> ns1:Comment "yay"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "283"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugwt2S143RQ7lEDM8up4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/323> ns1:Comment "the songs inspire me dunno why"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "284"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgxnouLwujtHwc080VF4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/324> ns1:Comment "the songs inspire me dunno why"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "285"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgypaspAsS-e7HgMqeZ4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/325> ns1:Comment "the songs inspire me dunno why"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "286"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgysAo2jWPANryd1Z4Z4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/326> ns1:Comment "Hey"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "287"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgygITUOaaKxOLZEL154AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/327> ns1:Comment "Hahahahha im so ready my DuDeS"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "288"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgxyqBhucVrQnFAUIbh4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/328> ns1:Comment "Lily James... is sexy"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "289"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugw20VbbPHbWK1eFLI54AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/329> ns1:Comment "Anyone else think that Josh Dylan aka young Bill was the best part of the whole movie?"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "290"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgwsJHr6jc53eE7bjzh4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/33> ns1:Comment "Linda Jung I know but to me it's not canon."^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgxInpiy12N2D-t-mUZ4AaABAg"^^xsd:string ;
+    ns1:SubId "27-2"^^xsd:string .
+
+<https://iisg.amsterdam/330> ns1:Comment "1:30  the way she sings it literally feels like angel kisses for my ears ??"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "291"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgwVA-ZIXWmekaJmtKl4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/331> ns1:Comment "I am so excited to watch it"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "292"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgxumkkGhSVs92aGSgp4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/332> ns1:Comment "So I'm guessing I'm the only one that thought the movie was very disappointing and unimpressive. And kinda depressing. The first one was so damn good and funny. This one...Didn't even feel like I was watching the sequel/prequel! Waited so long and I was so excited, only to be very let down."^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "293"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgzM_uyoz8dXuQjnCpB4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/333> ns1:Comment "Does Lily James sing un the film or it is an other voice?"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "294"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugw4D3oZzR6RN7aXUdd4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/334> ns1:Comment "I just got an ad for the trailer of Mamma Mia 2 while waiting to watch the trailer of Mamma Mia 2"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "295"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgwD5ZmeRQP2MTQ5HSp4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/335> ns1:Comment "I absolutely adored this movie!! Some of the singing could have been better, but it was so much fun! Fantastic! I will definitely watched with boxxy software!"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "296"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugzzn2rnfbNbslOilUh4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/336> ns1:Comment "Worst movie ever... they should had left the first one ... the first was the best and they ruined it by making this crap... and guess what... Donna isn’t in it ...."^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "297"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgwfvATCjyWFze1elP54AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/337> ns1:Comment "Oh I'm so ready for this"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "298"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugyv8X3XxhzOMKd9nBx4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/338> ns1:Comment "saw this movie just for the meme of it and meryl wasnt even in it smfh"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "299"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugxynv7XnQ8DGkpomu94AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/339> ns1:Comment "We are Americans making a huge noise on a peer in Italy. This is our backyard and we are here just to have a picnic. Waitress!"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "300"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugy1OZDMP1KxF-XsVMh4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/34> ns1:Comment "Best  movie ever ????????????????"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "28"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugwb5u4vCKtHErAM8X54AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/340> ns1:Comment "Looks bad gonna watch it and be bored as fuck"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "301"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgxsJIuaxyQQBuMCswN4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/341> ns1:Comment "JESUS H. CHRIST HOLLYWOOD HAS SERIOUSLY RAN OUTTA IDEAS. No reason for this. Leave well enough alone fk !!!"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "302"^^xsd:string ;
+    ns1:Likes 2 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgztZlmYhAzmLcNZ1s54AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/342> ns1:Comment "Wait I just realised in the first one donnas mum is dead but in the second Donna is dead  My only brain cell thought of that just there"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "303"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgybTJfQYSL93BHQtRJ4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/343> ns1:Comment "Can’t wait"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "304"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugxvuy7Z4gpjKddm4I54AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/344> ns1:Comment "I really thought it would be bad, but I never been happier to be proven wrong! I loved it! Dare I say it was better than the first one! I was very emotional at the end...ok fine I sobbed during the church scene"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "305"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgxiFmGcNHDRUHq7azB4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/345> ns1:Comment "I'm going to the concert me my mum and sis are her biggest fan we love Mama mia"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "306"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgwB59GQ2SzREhN3BXF4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/346> ns1:Comment "There is such an unbelievably sad pall throughout the majority of this film (Meryl Streep not being there).  The entire time, it continuously distracts you, wondering why Meryl pulled out of it (was there a fight between people? money fight? etc.) but then almost near the end (Thank God), Meryl finally shows up (in a short cameo) and an incredibly tender moment happens which literally makes you cry.  But still afterward, you’d been thinking for so long that Meryl Streep had been kicked off (or backed out of) the project that you’d already accepted her as being a  no-show, so it kind of felt ‘too little too late’.  The writer abandoned the audience by killing Meryl’s character off from the very beginning, so you felt deeply upset with the writer for killing her off and making the audience feel depressed for over an hour when you thought it was going to be a fun movie from the start like the first one was.   Amanda Siefried has an exquisitely beautiful voice. Lily James is a stand-out actress.  Colin Firth is hilarious on the boat.  Cher is  amazing as always and her role had great depth.  It’s always great to see Pierce Brosnan.  Gorgeous Greek island set/color design especially in Amanda’s bedroom.  The actress who helped deliver Lily James’ baby is an amazing actress.  This film should have been way more lighthearted and fun starting from the beginning, instead of starting it with bumming the audience out for over an hour and Lily James seeming to have incredibly superficial values at the very beginning. They should have worked on Lily’s backstory story using tons more thought and depth.  Her dialogue was absolutely not believable as a Valedictorian at the beginning. The Abba songs will always be timeless though.  They should reshoot it featuring Meryl at the beginning continually yelling at Lily James “Don’t do it!” at her younger self."^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "307"^^xsd:string ;
+    ns1:Likes 2 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugxe415GURlkMeTUR1Z4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/347> ns1:Comment "Therese Ember ...and you should be the one to write and direct the reshoot, right?!"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugxe415GURlkMeTUR1Z4AaABAg"^^xsd:string ;
+    ns1:SubId "307-1"^^xsd:string .
+
+<https://iisg.amsterdam/348> ns1:Comment "She didn't want to be in it"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 1 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugxe415GURlkMeTUR1Z4AaABAg"^^xsd:string ;
+    ns1:SubId "307-2"^^xsd:string .
+
+<https://iisg.amsterdam/349> ns1:Comment "The writer and director thought it had more emotional impact if Donna was dead and Meryl agreed."^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 1 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugxe415GURlkMeTUR1Z4AaABAg"^^xsd:string ;
+    ns1:SubId "307-3"^^xsd:string .
+
+<https://iisg.amsterdam/35> ns1:Comment "Is that Cinderella 0.0"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "29"^^xsd:string ;
+    ns1:Likes 2 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgzqfhpvHuxEiI9ugAt4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/350> ns1:Comment "What a Magnificent Movie. DEFIANTLEY A TEAR JERKER . AT Least For Me.   What a wonderful Movie. I cry Everytime I see it. ????"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "308"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugy_zWfdSfbjXN4XRT54AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/351> ns1:Comment "Looks awful, full of clichés, predictable, easy fodder popcorn for those who don't need to engage their brains; a singalong tripe of a film."^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "309"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugyx_gHfgqUH6Tdl19d4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/352> ns1:Comment "CAN THIS MOVIE COME OUT ALREADY SO THEIR ANNOYING ADS CAN STOP"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "310"^^xsd:string ;
+    ns1:Likes 1 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgxC6tIpW_Sex-fjeUZ4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/353> ns1:Comment "Wtf is this shit? Haha this looks so Fucking lame. I didn't even know these movies existed until it showed up in my recommended videos 2 days ago. This movie looks like it sucks ass"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "311"^^xsd:string ;
+    ns1:Likes 1 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgwAf1DFGP16pUDlcLJ4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/354> ns1:Comment "It does"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgwAf1DFGP16pUDlcLJ4AaABAg"^^xsd:string ;
+    ns1:SubId "311-1"^^xsd:string .
+
+<https://iisg.amsterdam/355> ns1:Comment "HEADS UP: THE MOVIE IS SO SAD!! PEOPLE DIE AND BREAK UP IM NOT HERE FOR THIS"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "312"^^xsd:string ;
+    ns1:Likes 5 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugx1_txGjLx4ifTZNxN4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/356> ns1:Comment "im waching this today bc its my birthday today"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "313"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugzoz7M5Dy0Rv1Qcqfl4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/357> ns1:Comment "I’m pregnant just watching this."^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "314"^^xsd:string ;
+    ns1:Likes 1 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugxm115Sck4vZH9iyy54AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/358> ns1:Comment "why????"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "315"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgzS8CtwNmXybRHng3B4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/359> ns1:Comment "Oh great another feminist sjw leftist shit. Fucking murder this world god!"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "316"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgwD657phgtt7R3wDMF4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/36> ns1:Comment "yes"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgzqfhpvHuxEiI9ugAt4AaABAg"^^xsd:string ;
+    ns1:SubId "29-1"^^xsd:string .
+
+<https://iisg.amsterdam/360> ns1:Comment "Young Rosie/Rose looks so cute- this is when the gay af part of me comes out. She looks so cute, and soft, and huggable!"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "317"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgyfKh26A8aApYGXYrd4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/361> ns1:Comment "The song at the beginning of trailer is... ???"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "318"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgzZIFgDZfLCJE9aeA94AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/362> ns1:Comment "Wiktoria \"Angels Eyes\" ??"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgzZIFgDZfLCJE9aeA94AaABAg"^^xsd:string ;
+    ns1:SubId "318-1"^^xsd:string .
+
+<https://iisg.amsterdam/363> ns1:Comment "JAMES FERNANDEZ Thanks ??"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgzZIFgDZfLCJE9aeA94AaABAg"^^xsd:string ;
+    ns1:SubId "318-2"^^xsd:string .
+
+<https://iisg.amsterdam/364> ns1:Comment "Two girls next to me didnt get the story?? they thought young donna was sofie's sistrr??"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "319"^^xsd:string ;
+    ns1:Likes 1 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgwjaR2LtLyX3coQog54AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/365> ns1:Comment "\"God, I hope his wife is dead...\" they gave her and Cher all the best lines, which I'm sure is why they agreed to do the film.  Rita Wilson and Tom Hanks produced this? Seriously? And I was a big fan of the original. It wasn't Citizen Kane, but it was just fun.  Pretty insufferable movie until Cher sang...a TON of Auto-tune in this film, which automatically makes me crazy in a bad way (think: fingernails down a blackboard).  Odd she's supposed to be Meryl's mother when Cher is 3 years older than her.               ****SPOILER*** WHY is Donna/Meryl dead in this movie??? I feel Cher and Meryl's singing are the least messed with digitally.  I think if you don't want to learn to sing right yourself, you ought to step aside and let someone who knows what they're doing do it for you."^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "320"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgxXn4ZE29x7UkjjK7p4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/366> ns1:Comment "Yes finally"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "321"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugzjw_VtxD3vDUBfosN4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/367> ns1:Comment "Beautiful donna"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "322"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugwlb9aqRBpjRJ9kZjR4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/368> ns1:Comment "I cried so hard while watching it on the theater."^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "323"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgwwyLTsCRwcNYKgwkt4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/369> ns1:Comment "RIP Donna <3"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "324"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgwEXZCgzFcSI06Blfp4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/37> ns1:Comment "Not bad movie but using boxxy software made it fucking cool!!! Free service, awersome subtitles and what more – boxxy has big collection of movies and series for different tastes!"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "30"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugw1m3qK-pxIhLcd8mx4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/370> ns1:Comment "yaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaas ITS FINALLY OUT ???? ???? ????"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "325"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgzeQl2YNIRLE-g6f-t4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/371> ns1:Comment "Yes, I'm going to cry. Totally. I'm already crying"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "326"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugwl6_XiiIMz6BgW7Hh4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/372> ns1:Comment "No offense, but is this predominantly what they call a \"Chick Flick?\""^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "327"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgxhU0z74SmlU1kL7I54AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/373> ns1:Comment "1:57  who else heard the gasping meme sound?"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "328"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgwmpmQX76LK-jCBfaF4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/374> ns1:Comment "I've seen this in the premiere showing.  DONNA DIED ?? ?? ??"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "329"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgwT7L72pkWVseU4hER4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/375> ns1:Comment "she's with jesus now aww men"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgwT7L72pkWVseU4hER4AaABAg"^^xsd:string ;
+    ns1:SubId "329-1"^^xsd:string .
+
+<https://iisg.amsterdam/376> ns1:Comment "Idk if I want this."^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "330"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgyTt7vnps8pJ6_fFo14AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/377> ns1:Comment "Excuse me, where is meryl streep?"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "331"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugw5OS5N91aVi4CeIdd4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/378> ns1:Comment "barbie guide Donna died..."^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugw5OS5N91aVi4CeIdd4AaABAg"^^xsd:string ;
+    ns1:SubId "331-1"^^xsd:string .
+
+<https://iisg.amsterdam/379> ns1:Comment "Do you guys recommend me this film ? I never got the chance to watch the first one"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "332"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgzigNLaQ5R1BqSxhMx4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/38> ns1:Comment "Prevara"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "31"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugy4MzVDs-X96Umfxdd4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/380> ns1:Comment "kruta"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "333"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugw52x8EEpjumwOktQ14AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/381> ns1:Comment "lieliski"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "334"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugw9RiBVsuRDhkJTzrZ4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/382> ns1:Comment "Omygawd thank you lord!! I love mama mia so much and im sooooo excited for this one.. i meryl streep!!"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "335"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgyEsr4qh0sGS2eZacN4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/383> ns1:Comment "I cried like a child at the end... like big crocodile tears ?? amazing movie... both of them!"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "336"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugx0CESXmeYPByz9mI54AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/384> ns1:Comment "so who's her father again? lol"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "337"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugxa1BPAxFO1BhxP8dt4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/385> ns1:Comment "Drop a like if you saw the extra scene at the end of the credits!"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "338"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgwpB79nUI-uAd0EAbJ4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/386> ns1:Comment "loved the film. can you guys help. in some of the crowd scenes is it some other actor playing fernando, because it does not look like andy garcia in some crowd scenes to me"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "339"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugxn-BGaCDmolG6fUWx4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/387> ns1:Comment "Wow"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "340"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgwPT3mwC32oaG_gVuF4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/388> ns1:Comment "This looks so fun and heartfelt. Can't wait!"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "341"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgwB-5_3LUzzVjKmC5F4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/389> ns1:Comment "Very nice movies mama mia i alweys watch this since 2008?"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "342"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgxbtSarT-zx8JTVQMd4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/39> ns1:Comment "Movie takes place in 2015 when Sophie is 25. It shows Donna first went to the island in 1979. (The movie clearly shows in the same summer, she got pregnant) yet in order for Sophie to be 25 in 2015, she would have to be born in 1990 and Donna would have to get pregnant 11 years after she was with Bill Harry and Sam. I’m upset that they could figure out the actual time line of this movie."^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "32"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugw3JjCIc0p0Mn5Dg554AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/390> ns1:Comment "looks bad to me I havent watch the first one but this looks really bad"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "343"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgwETnFnI0-jI8W8PwV4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/391> ns1:Comment "I'm really tired of getting ads for this.??"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "344"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugz7ouNX_z34xnQATS14AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/392> ns1:Comment "Pretty good movie but I always wondered if Sophie was obviously born and raised on a Greek island why does she talk and act like a Valley Girl bimbo from Huntington Beach California, or even speak perfect English in the first place???? LOL."^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "345"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugz5BurTfp4mVmlE5kd4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/393> ns1:Comment "Just Wat he'd the movie today and it was AWESOME!!!   i loved it"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "346"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgwzB4jam9IWn3S9Xh14AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/394> ns1:Comment "the first movie sucked so let’s see if this one is any better"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "347"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugy1RPyBmZ1xf4t5xuV4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/395> ns1:Comment "The mam dies"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "348"^^xsd:string ;
+    ns1:Likes 1 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgxlEAQ1TJOOCKzysOR4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/396> ns1:Comment "i saw it today I LOVE"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "349"^^xsd:string ;
+    ns1:Likes 6 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgzfAvYCj5sNshwXmQJ4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/397> ns1:Comment "Lily James ruins everything. She ruined Cinderella"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "350"^^xsd:string ;
+    ns1:Likes 1 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgxwlObhVh9NQeje9s14AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/398> ns1:Comment "should I watch the first movie before this?"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "351"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgxWzUXzDLwFh9eKUCh4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/399> ns1:Comment "yes"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgxWzUXzDLwFh9eKUCh4AaABAg"^^xsd:string ;
+    ns1:SubId "351-1"^^xsd:string .
+
+<https://iisg.amsterdam/4> ns1:Comment "Why is a movie like this coming to IMAX theaters"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "5"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugwkgmia5fmmCLCIgr94AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/40> ns1:Comment "I hope this answers your question and the timeline. The trailer sets Donna (Meryl Streep)'s pregnancy in 1979, and the birth of Sophie as 1980, which sets Mamma Mia! (2008) around 2000, as Sophie is 20. The movie is set 5 years after the first film, which would make this 2005."^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugw3JjCIc0p0Mn5Dg554AaABAg"^^xsd:string ;
+    ns1:SubId "32-1"^^xsd:string .
+
+<https://iisg.amsterdam/400> ns1:Comment "Gee, truly horrible humans become good characters in movies and are still real life truly horrible people. go figure"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "352"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgwP2oO3KVcndcyM_yZ4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/401> ns1:Comment "Is Donna........dead? Never mind I just looked at the cast and Meryl Streep is there!  deep sigh of relief"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "353"^^xsd:string ;
+    ns1:Likes 2 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgysuQpL-n87epsi82Z4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/402> ns1:Comment "Lol i watched it tonight and shes dead. She was only in it for the last song :("^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgysuQpL-n87epsi82Z4AaABAg"^^xsd:string ;
+    ns1:SubId "353-1"^^xsd:string .
+
+<https://iisg.amsterdam/403> ns1:Comment "Seda noooooo!!! She’s dead!?! Also, I just got a major spoil alert??????"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgysuQpL-n87epsi82Z4AaABAg"^^xsd:string ;
+    ns1:SubId "353-2"^^xsd:string .
+
+<https://iisg.amsterdam/404> ns1:Comment "Sorry lol"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgysuQpL-n87epsi82Z4AaABAg"^^xsd:string ;
+    ns1:SubId "353-3"^^xsd:string .
+
+<https://iisg.amsterdam/405> ns1:Comment "Re make??"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "354"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgwP9-YW3fw_s7325Jh4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/406> ns1:Comment "\"I told many many people.\"  Died of laughing. This is why i love Colin Firth"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "355"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgyPg-d6SM6aCCBJbpx4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/407> ns1:Comment "does dis movie cure anal cancer / erectile disfunction, plz help"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "356"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgyiCI_P8eabbIyOGnt4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/408> ns1:Comment "karen!!!"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "357"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgxamqA3B3QEG6T7xvZ4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/409> ns1:Comment "So diverse just like the first one."^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "358"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgwAUnU6CfjDgqtvK1N4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/41> ns1:Comment "Kevin G the trailer shows that it takes place in 2015 though. Either way I enjoyed the movie, they just didn’t put that much thought into the time line."^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugw3JjCIc0p0Mn5Dg554AaABAg"^^xsd:string ;
+    ns1:SubId "32-2"^^xsd:string .
+
+<https://iisg.amsterdam/410> ns1:Comment "I keep seeing this billboards all over L.A.  Tried to watch this trailer but gave up halfway."^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "359"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugw1V5RYH262m1U27lt4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/411> ns1:Comment "im so pumped!!!!!!!!!!!!!!!!!!"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "360"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgygKpGuKbcAUOvn9lV4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/412> ns1:Comment "AND FUCK MAN YOU CANT LET DONNA DIE!"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "361"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugxim6PyDlhQA0Y14s54AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/413> ns1:Comment "request who might balance weigh ghost order operating music greatest."^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "362"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgwnAONtykJCnm44G8h4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/414> ns1:Comment "Sailor.moon want  us.to  know she.the.moon princess.occupy.t.v..show doggie days  any.pro  brotherhood.if the assshole.."^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "363"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgwW9cOIli_s64VdOM14AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/415> ns1:Comment "And all this time, I always wondering where was Donna?  ?? And....oh my god!  I'm crying rigth now ?????? I didn't see yet the movie!"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "364"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugyu94ebYhuo6Tr5lwJ4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/416> ns1:Comment "I'd take my girls to see this only if Streep was not in at all."^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "365"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgwfuXp8ldPVGmmSlbR4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/417> ns1:Comment "i love this"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "366"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgzLxPkBerH9poS7cep4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/418> ns1:Comment "Croatia is so beautiful!"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "367"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugzz8OLpLnc2DqSfUvl4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/419> ns1:Comment "I miss meryl streep ?"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "368"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgzcZuoIRIHzyM9aZ-h4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/42> ns1:Comment "SPOILER ALERT: I watched this movie recently and as much as I enjoyed it I found many flaws with this movie that I feel must be said: 1.Where are the daughter’s friends?  2.Why does the flashback fathers look nothing like the pictures and hallucinations we get of what the fathers looked like back then in the original? 3.Wasn’t the grandmother a nun? Although yes this answer could be answered pretty simply but still  4. In a flashback we see Donna complaining about how she got her feelings hurt by a boy and then one of her friends makes a joke saying which one, in the original movie the friends had no idea they were other boys except for Sam until Donna told her so?"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "33"^^xsd:string ;
+    ns1:Likes 1 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgykXTiwMHlqTrR2Xvd4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/420> ns1:Comment "Is thatJessie...???"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "369"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgytuI808ah3aOhCEaJ4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/421> ns1:Comment "Was that frakin 'PREACHER'?!?!"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "370"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgxCtK4nh1huntfXg5N4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/422> ns1:Comment "i just watched it. i bawled my eyes out the entire movie."^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "371"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugyoc6Y-WrJ9ZROGp_t4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/423> ns1:Comment "Dont waste your money CRAP"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "372"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgxGwZXIAm3efZcTH6B4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/424> ns1:Comment "Such a great movie. Just watched it tonight!! Lily James is a perfect Donna"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "373"^^xsd:string ;
+    ns1:Likes 1 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgwYqxaJarrED05XNHN4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/425> ns1:Comment "As the end of the movie it seems the third movie will be about the grandchild I can’t wait!!!"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "374"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgzEzsY9Ay3Y1Rdt3PV4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/426> ns1:Comment "Just saw this last night! beautiful movie"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "375"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgwoWNm-Ta-1ZHrIMl94AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/427> ns1:Comment "2:02  mean girls cast person"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "376"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgynDIJ2-u4KOBMlyzR4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/428> ns1:Comment "I was honestly confused with the first trailer, I thought they were replacing the actors with new ones, haha, this one cleared it up for me"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "377"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgyRUS_ejC8AzC-Tmml4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/429> ns1:Comment "this is gonna be stupid."^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "378"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugxn-IYVDx6O7AKfRE54AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/43> ns1:Comment "Karen!"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "34"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgyYPh3BZlHn7Zs3ysN4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/430> ns1:Comment "not as good as the first, but it’s expected. still a wonderful movie :) heart breaking tho"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "379"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgzDqpE-alvJIG6i1D54AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/431> ns1:Comment "hope the quality will meet expectations."^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "380"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgweAmTKGdu_mcgKdmR4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/432> ns1:Comment "So what happened to Sophie's best friends Ali and Lisa?"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "381"^^xsd:string ;
+    ns1:Likes 2 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgxpGHV4mC3jhtY64ml4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/433> ns1:Comment "They are in the movie"^^xsd:string ;
+    ns1:Date "28.05.19 12:12:41"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgxpGHV4mC3jhtY64ml4AaABAg"^^xsd:string ;
+    ns1:SubId "381-1"^^xsd:string .
+
+<https://iisg.amsterdam/434> ns1:Comment "Can't wait to see it. Mamma Mia!"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "382"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgwKI_fYea6Ilvr-edh4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/435> ns1:Comment "I went to see this 9 times in cinema and when i buy the dvd on monday im gonna play it so many times"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "383"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgySRzAWZliLLC0Mz654AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/436> ns1:Comment "is amanda seyfried even aging"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "384"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgyJwJBQ-t5wR29_DAR4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/437> ns1:Comment "So excited"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "385"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgxuxOyyPMjwPXy4TnF4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/438> ns1:Comment "A mama mia Add was on this video"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "386"^^xsd:string ;
+    ns1:Likes 1 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgwCviIwustWTP-afkV4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/439> ns1:Comment "i got an ad with a girl named mia, is watching a movie trailer with a girl who’s named mia, and my name is mia"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "387"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgzuhzbXcnTt3PCJh2J4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/44> ns1:Comment "And they will send you to the sea stuck for ever for the punishment"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "35"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgzX6RsB_CreQvh1T6t4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/440> ns1:Comment "Just came home watching this! Such a good movie y'all, I sang along and cried and clapped. Also Lily James in high-waisted jeans was something I never knew I needed in my life. edit: btw you know you're in a room full of Swedes when the whole theater erupted in a sing-along when a certain Dancing Queen started playing…"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "388"^^xsd:string ;
+    ns1:Likes 8 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgwHZc53MmVbovLTYMh4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/441> ns1:Comment "I can't wait to see this"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "389"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgwGFvwskxTwW2OBxi94AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/442> ns1:Comment "I've uploaded the full movie!!  https://youtu.be/j7DQ6IY73e0  here's the link! Enjoy! :)"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "390"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgyXoT96tLneH74b3y54AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/443> ns1:Comment "This movie is a great replacement for those in need of sleeping pills. After 15 minutes into the movie, my wife and I were already falling asleep."^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "391"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugw-jCz_yuSrLivEGFR4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/444> ns1:Comment "A question is Donna dead? Her mum? I'm confused at that part?"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "392"^^xsd:string ;
+    ns1:Likes 1 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgzrxMYaDwCFY-vm6LN4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/445> ns1:Comment "Yes she is dead, but they never explained how she died"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 1 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgzrxMYaDwCFY-vm6LN4AaABAg"^^xsd:string ;
+    ns1:SubId "392-1"^^xsd:string .
+
+<https://iisg.amsterdam/446> ns1:Comment "Alix Raphaelson oh okay thanks"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgzrxMYaDwCFY-vm6LN4AaABAg"^^xsd:string ;
+    ns1:SubId "392-2"^^xsd:string .
+
+<https://iisg.amsterdam/447> ns1:Comment "I don't usually watch musicals but I loved this if defo watch it again! ??"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "393"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgxmMh2fKDnSJx1iOTt4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/448> ns1:Comment "Wait, so will this movie mostly be about her moms past life?"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "394"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugy12NN7rKGnHWbBEit4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/449> ns1:Comment "Oddly enough I wanna watch this movie and I hate myself for it"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "395"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugy83vvWN7C8PxWYi6t4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/45> ns1:Comment "Do not watch that movie they are mermaids"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "36"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgxVu_0VLIfJX8jjEi94AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/450> ns1:Comment "Should me and my girlfriend watch this in the cinemas???"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "396"^^xsd:string ;
+    ns1:Likes 1 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgxRtmIFSG-LROrzVCh4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/451> ns1:Comment "Didn't Donna's mother die?"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "397"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgxSR3M3hoBeMLx_j4x4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/452> ns1:Comment "So Donna is dead after all......ugh"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "398"^^xsd:string ;
+    ns1:Likes 1 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgwJkBWo40Tnas7aXhh4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/453> ns1:Comment "Yeah didnt enjoy it knowing she was now dead... but she does come in at the end for the last song and when the whole cast sings together."^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgwJkBWo40Tnas7aXhh4AaABAg"^^xsd:string ;
+    ns1:SubId "398-1"^^xsd:string .
+
+<https://iisg.amsterdam/454> ns1:Comment "Best film Ever go watch it amazing"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "399"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgwCKqUmJYdiQm6l-ph4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/455> ns1:Comment "When I saw this trailer I thought it was a mario movie"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "400"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgwKuMx2St6NqLiVVe54AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/456> ns1:Comment "I just watched this and it's AMAZING"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "401"^^xsd:string ;
+    ns1:Likes 1 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugww_GaCFouJrmsogCV4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/457> ns1:Comment "Oh she’s the girl who made the movie Little red riding hood!"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "402"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgwWTF1sE15jQrHGGNJ4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/458> ns1:Comment "So they couldn’t afford for Meryl Streep"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "403"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgzsgMbq0PLfyha1GRJ4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/459> ns1:Comment "I got an ad for this movie before the vid"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "404"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgwubJufa1VUL-bqu3R4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/46> ns1:Comment "Mama Mia is trash than you mom"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "37"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugz-skEGxbm7oel8-PB4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/460> ns1:Comment "Karen Smith is SHOOK"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "405"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgyXSoii47jtQRLPuSt4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/461> ns1:Comment "I will watch this movie in August 8th."^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "406"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgwxYurSTu2hIUWNfo94AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/462> ns1:Comment "Omg I cant believe mamma mia is back. When time goes back to 1979 my heart is moved"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "407"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugy-KNuGn5U1JhZzZWd4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/463> ns1:Comment "I watched this so good!"^^xsd:string ;
+    ns1:Date "28.12.18 12:12:41"^^xsd:string ;
+    ns1:Id "408"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugxp27JVbrMak6rUMih4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/464> ns1:Comment "They should’ve added one song to the soundtrack: thank u next ????????????"^^xsd:string ;
+    ns1:Date "28.12.18 12:12:41"^^xsd:string ;
+    ns1:Id "409"^^xsd:string ;
+    ns1:Likes 5 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgwA6Gd0LmvG-nmrVPN4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/465> ns1:Comment "AHHHHHHHHHHHHHHHH I NEED TO WATCH THIS!"^^xsd:string ;
+    ns1:Date "28.12.18 12:12:41"^^xsd:string ;
+    ns1:Id "410"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugy93IrdnGZlnAdiBlt4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/466> ns1:Comment "saw the movie and i think i solved two things one SAM is Sophie biological dad , Donna wears a butterfly necklace only with SAM and then at Sophie's baptism ,later at Sophie's baby baptism shes wearing a dress with butterfly's on it. second thing is i think Fernando is Donna's father Sophie's grandpa. its mentioned to much not to be true i feel . message me in comments what you think."^^xsd:string ;
+    ns1:Date "28.12.18 12:12:41"^^xsd:string ;
+    ns1:Id "411"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgzyThsjVPvs1Vw-kXN4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/467> ns1:Comment "did not enjoy it ?"^^xsd:string ;
+    ns1:Date "28.12.18 12:12:41"^^xsd:string ;
+    ns1:Id "412"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgwomAU16mJSZFnfVhB4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/468> ns1:Comment "Make No Mistake About it That Mamma Mia! Here We Go Again Is Truly A Musical Masterpiece Next To The First Mamma Mia! The Movie No Doubt About It"^^xsd:string ;
+    ns1:Date "28.12.18 12:12:41"^^xsd:string ;
+    ns1:Id "413"^^xsd:string ;
+    ns1:Likes 1 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgzSoobPKR7P4zuQSm94AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/469> ns1:Comment "This plays all the time at Walmart and legit I can't get it out of my head."^^xsd:string ;
+    ns1:Date "28.12.18 12:12:41"^^xsd:string ;
+    ns1:Id "414"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgzrAfJXm5H8mrKVemF4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/47> ns1:Comment "They predent to be a human I am getting revenge on this move"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "38"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgxwdYL2ZjdOqX0BlBh4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/470> ns1:Comment "Queens"^^xsd:string ;
+    ns1:Date "28.12.18 12:12:41"^^xsd:string ;
+    ns1:Id "415"^^xsd:string ;
+    ns1:Likes 1 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgxD6qaeoyQiqRa5CB54AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/471> ns1:Comment "I only hold pure and utter hatred toward the disgustly dumb, senceless, inhuman, unreal, cynical and cringe-worthy feel of this movie, which is just a platform for ABBA-songs."^^xsd:string ;
+    ns1:Date "28.01.19 12:12:41"^^xsd:string ;
+    ns1:Id "416"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgwI5YgQYhQ2tRn1bpZ4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/472> ns1:Comment "2:12  LMAO \"I just told Bill. Yeah and I told Harry. I told many, many people.\""^^xsd:string ;
+    ns1:Date "28.01.19 12:12:41"^^xsd:string ;
+    ns1:Id "417"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugxjga5VDHZ0X-46vPV4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/473> ns1:Comment "Mama Mia was filmed in Croatia and not in Greece (I’m Greek and that’s not a greek  Island) no offense,I still love mama Mia movies but only the first was filmed in Greece!!!"^^xsd:string ;
+    ns1:Date "28.01.19 12:12:41"^^xsd:string ;
+    ns1:Id "418"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgzBfA_L-rVAIkHi2kB4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/474> ns1:Comment "Beautiful location...Croatia"^^xsd:string ;
+    ns1:Date "28.01.19 12:12:41"^^xsd:string ;
+    ns1:Id "419"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgxSAkMcVsJf6JCtdah4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/475> ns1:Comment "Her grandma is dead, remember when donna said \"someone up there has got it for me... it's my mum I tell you\""^^xsd:string ;
+    ns1:Date "28.01.19 12:12:41"^^xsd:string ;
+    ns1:Id "420"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgySacVD7cvbU3EnHWh4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/476> ns1:Comment "I had a great time watching this film with friends. Even better than the first (which I loved)! Can't wait to buy on DVD or stream on an online platform."^^xsd:string ;
+    ns1:Date "28.03.19 12:12:41"^^xsd:string ;
+    ns1:Id "421"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugy2BpMJCwM8sODdt8d4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/477> ns1:Comment "Is the mother dead?"^^xsd:string ;
+    ns1:Date "28.03.19 12:12:41"^^xsd:string ;
+    ns1:Id "422"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgymN4Ktam64mAiKpal4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/478> ns1:Comment "Did u know there was a blooper in the 1 it showed the manas a rockstar when they were and this mama. Mia2 they are not a rockstar ??"^^xsd:string ;
+    ns1:Date "28.03.19 12:12:41"^^xsd:string ;
+    ns1:Id "423"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgwW92T8BBqzcMDd6kl4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/479> ns1:Comment "The actor of Sam is cute the young one????"^^xsd:string ;
+    ns1:Date "28.03.19 12:12:41"^^xsd:string ;
+    ns1:Id "424"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgwLHb6lSkv0-12aZFd4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/48> ns1:Comment "All movie locations filmed in CROATIA on island VIS.Welcome to Croatia! https://www.thesun.co.uk/travel/5196180/mamma-mia-2-filming-locations-vis-croatia/"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "39"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgxF91ypn1d-80mKHJt4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/480> ns1:Comment "Bkwas"^^xsd:string ;
+    ns1:Date "28.03.19 12:12:41"^^xsd:string ;
+    ns1:Id "425"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgzHeKVBwxzNi4N-TuR4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/481> ns1:Comment "You can't tell any body about the baby yet. Sam I told Bill  Bill and I told  Harry Harry and I told many many people????????"^^xsd:string ;
+    ns1:Date "28.11.61 15:56:45"^^xsd:string ;
+    ns1:Id "426"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugw4kvIxWD3uIOGCuzN4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/482> ns1:Comment "Harry looks a little bit different from what I thought"^^xsd:string ;
+    ns1:Date "28.11.61 15:56:45"^^xsd:string ;
+    ns1:Id "427"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugxu5UV3o1NK0vcNxW54AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/483> ns1:Comment "Wait! Where is Donna? Like the old donna! Isnt she supposed to be with sam right now?!"^^xsd:string ;
+    ns1:Date "28.11.61 15:56:45"^^xsd:string ;
+    ns1:Id "428"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgwnB5xyAjT4INoK62R4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/484> ns1:Comment "The movie takes place in 1979, Andante, Andante was NOT released until 1980 on the Super Trouper album, they fucked up."^^xsd:string ;
+    ns1:Date "28.11.61 15:56:45"^^xsd:string ;
+    ns1:Id "429"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugy_0-fAj8cRF383QA94AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/485> ns1:Comment "I actually sort of hated the first one, but Lilly Collins is an amazing actress so we’ll see how this one os"^^xsd:string ;
+    ns1:Date "28.11.61 15:56:45"^^xsd:string ;
+    ns1:Id "430"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugx0_NeEggoN7-waGSB4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/486> ns1:Comment "It was filmed in Croatia ????? i'm so proud"^^xsd:string ;
+    ns1:Date "28.05.19 12:12:41"^^xsd:string ;
+    ns1:Id "431"^^xsd:string ;
+    ns1:Likes 2 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgxAzGLlu4IscRJKeSx4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/487> ns1:Comment "I just watched this on netflix and the scenes where lily james is supposed to be there were nowhere."^^xsd:string ;
+    ns1:Date "28.05.19 12:12:41"^^xsd:string ;
+    ns1:Id "432"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgxApW-ax_AI4pwXG-N4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/488> ns1:Comment "Loved it - just full of happy - happy   - songs and beautiful scenery - and fun actors - loved it"^^xsd:string ;
+    ns1:Date "28.05.19 12:12:41"^^xsd:string ;
+    ns1:Id "433"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgwboaodC7Q_Pk21j4x4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/489> ns1:Comment "Mamma Mia 3 Now I really know Sophie does a DNA test to find out who her real dad is"^^xsd:string ;
+    ns1:Date "28.06.19 12:12:41"^^xsd:string ;
+    ns1:Id "434"^^xsd:string ;
+    ns1:Likes 13 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgzmebgylB-tsCT3YOF4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/49> ns1:Comment "Mama Mia here we go again"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "40"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugzcv0c7VNyQMdHykjl4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/490> ns1:Comment "These movies are basically abba advertisements ??"^^xsd:string ;
+    ns1:Date "28.06.19 12:12:41"^^xsd:string ;
+    ns1:Id "435"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgwuniTHha1Jf3WqpV94AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/491> ns1:Comment "I LOVE this movie but haven't watched in a while because of  THAT  scene that makes me sob."^^xsd:string ;
+    ns1:Date "28.07.19 12:12:41"^^xsd:string ;
+    ns1:Id "436"^^xsd:string ;
+    ns1:Likes 1 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugy2Hcd4gN62RlP4jFd4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/492> ns1:Comment "This movie leaves me with a smile wide open from the start until finish. It just doesn't keep me from not smiling. So love it."^^xsd:string ;
+    ns1:Date "28.08.19 12:12:41"^^xsd:string ;
+    ns1:Id "437"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugxlot_HXEPhHEIWblF4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/493> ns1:Comment "Now tell me, where is the pirate-looking-man named Sam?"^^xsd:string ;
+    ns1:Date "28.08.19 12:12:41"^^xsd:string ;
+    ns1:Id "438"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgxgNctVLayE5Sl6sxp4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/494> ns1:Comment "I know I’m late but in the first movie Donna says “ someone up there ( up there meaning heaven) as got it in for me, I bet it’s my mum.” But in  this movie Donna’s mum turns out to be alive?"^^xsd:string ;
+    ns1:Date "28.08.19 12:12:41"^^xsd:string ;
+    ns1:Id "439"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgzZWPW6PpS0dEukkfp4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/495> ns1:Comment "Not again NOT AGAIN"^^xsd:string ;
+    ns1:Date "28.10.19 12:12:41"^^xsd:string ;
+    ns1:Id "440"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgxpBZnAkZN8zrdqCml4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/496> ns1:Comment "I think we are going back into our meeting and then we’ll see how you are feeling and what"^^xsd:string ;
+    ns1:Date "28.10.19 12:12:41"^^xsd:string ;
+    ns1:Id "441"^^xsd:string ;
+    ns1:Likes 1 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugx8DSsN2ic7uf1cSdV4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/497> ns1:Comment "Mamma mia"^^xsd:string ;
+    ns1:Date "28.10.19 12:12:41"^^xsd:string ;
+    ns1:Id "442"^^xsd:string ;
+    ns1:Likes 1 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgwmD09olyiTFJX0QnJ4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/498> ns1:Comment "This is one year after the movie was released and I still cry about it.. for some reason mamma mia 1 was a big part of my childhood and just to see that end hurt me"^^xsd:string ;
+    ns1:Date "28.10.19 12:12:41"^^xsd:string ;
+    ns1:Id "443"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgyIpxM-4ej0CwtzXTx4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/499> ns1:Comment "???? ??????"^^xsd:string ;
+    ns1:Date "14.11.19 12:12:41"^^xsd:string ;
+    ns1:Id "444"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugz5P9HdjxxDgQsz10V4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/5> ns1:Comment "I am in love with mamma mia 2 and 1"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "6"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgwP5TXuaVEDQehgjip4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/50> ns1:Comment "I am so SICK OF SEEING MAMA MIA ADS EVERYWHERE. I CANNOT GO ANYWHERE OR WATCH ANY CHANNEL ON TV OR YOUTUBE WITHOUT BEING ASSAULTED BY MAMA MIA ADS. I DO NOT WANT TO SEE IT., OK??!! I ACTUALLY USED TO ENJOY ABBA ON MY OWN BUT NOT ANYMORE! BECAUSE OF THE CONSTANT BARRAGE OF DANCING QUEEN AND MAMA MIA!!!!! I WILL DIE HAPPY IF I NEVER HEAR DANCING QUEEN AGAIN!!!! sorry I just needed to vent that, I’ve been seeing that stuff nonstop for like 2 weeks. I just want to watch big brother and YouTube vids in peace, y’all. like I used to love abba songs but now they are in my head constantly and I feel like this movie is trying to brainwash me but it’s repelling me so hardcore. Usually I love musicals but I just can’t. It’s pushing me to hard and I just have to rebel. I will do everything in my power not to watch this movie lol"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "41"^^xsd:string ;
+    ns1:Likes 1 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugzb-9Bg_4GyAvuyVAd4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/500> ns1:Comment ""^^xsd:string ;
+    ns1:Date ""^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes ""^^xsd:integer ;
+    ns1:Link ""^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/51> ns1:Comment "Feel like i will cry"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "42"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugw5RcsU_7BNJE9OtXp4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/52> ns1:Comment "What happend to sophies 2 friends who were her bridesmaids???"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "43"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgzpQ7l_piHYKKm7med4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/53> ns1:Comment "NOOOOOOOO Fucking hell. The first film was shit and it ruined the James Bond I grew up with! Why do another piece of shit!?!?"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "44"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgwQltahku1-gnZ7EeR4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/54> ns1:Comment "SPOILER ALERT— SOOOOO disappointed... they killed Donna and she does not appear in the movie ;("^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "45"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgyuqaHj2Si_z4fBxJt4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/55> ns1:Comment "But Donna’s mom is dead in the first film so where does Cher come into this"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "46"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgylwnCtxp7doFsKMdV4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/56> ns1:Comment "This movie is so good and beautiful ????"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "47"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugw8aQPrr2Z_n-fU0fh4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/57> ns1:Comment "Why does she wanna go see this? ?? i said slender man but why this ??"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "48"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugx4E0PWdM898ay5IRx4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/58> ns1:Comment "Awesome film! Who else saw an early screening of this!?"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "49"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgxA7tI5fbeqBw2iNk94AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/59> ns1:Comment "Is donna alive or dead"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "50"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugz5zAavT-4YziSEhOd4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/6> ns1:Comment "How ironic it comes out at 2018 and the first one came out on 2008 which is 10 years ago"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "7"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgzdyVQU4bhfTPJG-9h4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/60> ns1:Comment "????? ????? ???!!!!! ??'? ???? ????????"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "51"^^xsd:string ;
+    ns1:Likes 1 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgzvwGViFtRQAyfpASl4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/61> ns1:Comment "They didnt have the young Harry Sam or Bill look how they looked in the first movie when Donna first sees them in the attic. (long hair, moustache, etc)"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "52"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgySa4zSRX50d_ZMjiJ4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/62> ns1:Comment "If a sequel didn't work for Grease, what makes them think it will work for this?"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "53"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgxjD2pSlE_y7UgwbYB4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/63> ns1:Comment "I just told bill,I told Harry,I told many many people ??????"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "54"^^xsd:string ;
+    ns1:Likes 4 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgweEmrzZ6LLnQ1IGNx4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/64> ns1:Comment "why does it flash back to 1979? the first movie came out in 2008 and the daughter  was 20, so the flashback should be in 1989"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "55"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgzpuTSt4pxQ7LcnG6p4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/65> ns1:Comment "Wasn’t Donna’s mother dead?????"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "56"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugxo4YMS_rru_WpRu-B4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/66> ns1:Comment "Imma watch this movie in the theaters ????? I LOVE IT SO MUCH"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "57"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgzC6IrVE5h2pmP3QPx4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/67> ns1:Comment "Wheres Donna?!??!"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "58"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugx_o6fXqURu51kYkUB4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/68> ns1:Comment "Catelyn Duran dead"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugx_o6fXqURu51kYkUB4AaABAg"^^xsd:string ;
+    ns1:SubId "58-1"^^xsd:string .
+
+<https://iisg.amsterdam/69> ns1:Comment "I'm seeing it tomorrow"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "59"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgyZSTXGW9RIA1nQzsF4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/7> ns1:Comment "Ga naar de film! En kijk de trailer niet voordat je gaat. Dan is het zóveel leuker!"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "8"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugw4VhkFh-M1FR64T5Z4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/70> ns1:Comment "Fatal película horrible no sirve dicen que la segunda parte nunca servir terrible música vista matan , solo disfrute las palomitas"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "60"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugy9iQaiETb2q5R8Ukx4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/71> ns1:Comment "OMGGG I’m so excited rn????"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "61"^^xsd:string ;
+    ns1:Likes 2 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgxitbJsERJmiTnnn-14AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/72> ns1:Comment "I never liked the first one that much but I really enjoyed this movie"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "62"^^xsd:string ;
+    ns1:Likes 1 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugxl80_c4up1-RRU_Vt4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/73> ns1:Comment "I’m seeing this tonight"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "63"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugw8a2EgKszHG0rnfsZ4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/74> ns1:Comment "The day Mamma Mia comes out is my birthday and the first one was the year I was born!"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "64"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugx0BBvGHJb68Bmbmlh4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/75> ns1:Comment "PLEASE STOP PLAYING THIS FOR EVERY GODDAMN AD I'M NOT GOING TO GO SEE SO PLEASE STOP."^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "65"^^xsd:string ;
+    ns1:Likes 1 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgxGQdp3NNQxWSrL24R4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/76> ns1:Comment "There's  never any black or Mexican people in it, so sad"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "66"^^xsd:string ;
+    ns1:Likes 1 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgzxJ0j4CVLWZFPmirZ4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/77> ns1:Comment "Watched this last night and WOW!!!  What a WONDERFUL film!!!!  So funny. So sad. So totally brilliant!  I deliberately did NOT watch trailers before seeing it as I didn't want to know anything about it.  Mama Mia team - thank you!!! ??"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "67"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugxs12ipn-bVZgz6IoF4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/78> ns1:Comment "Wish my mum could've seen it as she LOVED the first one and would've loved this just as much if not more! ?????? ?? genius film!"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "68"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgyR7SbifbXlbayRti14AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/79> ns1:Comment "I’m seeing it today I’m so happy??"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "69"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugz67ZR4PYMRosL8qJN4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/8> ns1:Comment "Gotta love how in the first movie, it ended with the daughter being all: \"Let's just NOT get married. Let's go out and see the world!\" Yadda-yadda-yadda. Next movie? Fucking pregnant xD"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "9"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugw24cBAqKtzP-tWuBR4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/80> ns1:Comment "It's funny how feel good this movie is and heartbreaking at the same time. I saw it in theaters today. ??????"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "70"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgxRB3DpgJgiebMNcRZ4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/81> ns1:Comment "Omg, why does this even exist????? D:"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "71"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugwj6iSNHCbtbYWGh6N4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/82> ns1:Comment "I just watched this movie!!! So amazing!!!!"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "72"^^xsd:string ;
+    ns1:Likes 1 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgzYilohaKvARpJCK7x4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/83> ns1:Comment "I still can't believe that Donna Sheridan has died! ????????"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "73"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgyXzZDAdAKixLtCFUB4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/84> ns1:Comment "gets ad for Mamma Mia before trailer plays"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "74"^^xsd:string ;
+    ns1:Likes 39 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgzZ-6ovS5FMEbFbbbV4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/85> ns1:Comment "Same XD"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgzZ-6ovS5FMEbFbbbV4AaABAg"^^xsd:string ;
+    ns1:SubId "74-1"^^xsd:string .
+
+<https://iisg.amsterdam/86> ns1:Comment "Mamma mia. Was"^^xsd:string ;
+    ns1:Date "28.10.19 12:12:41"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgzZ-6ovS5FMEbFbbbV4AaABAg"^^xsd:string ;
+    ns1:SubId "74-2"^^xsd:string .
+
+<https://iisg.amsterdam/87> ns1:Comment "I cried. ??????????"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "75"^^xsd:string ;
+    ns1:Likes 2 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgxPWu9vcr0R_Pyvqvl4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/88> ns1:Comment "If Harry was gay then why did he sleep with Donna?"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "76"^^xsd:string ;
+    ns1:Likes 1 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugy9lYCQGVkqrttElcN4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/89> ns1:Comment "Mamma Mia sang the ABBA songs way better."^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "77"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgyTsFMLpQCWsDCRr9N4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/9> ns1:Comment "Brought to you by Weinsteins casting couch.  Meryl Streep and Cheer's adventures over the years."^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "10"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugz1uUTqM14VdBQO8gl4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/90> ns1:Comment "\"I'm pregnant in the same place mom was.\" what a weird line...?"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "78"^^xsd:string ;
+    ns1:Likes 2 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgzSohFhggAI22AVWm14AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/91> ns1:Comment "Elvis got a lot of stick for making movies like this 50 years ago and he could sing better than any of this lot AND he was a better than any of them."^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "79"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgzNHXzEc4bP3AE1E6t4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/92> ns1:Comment "You ever smoke to much crack you start traveling through time?"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "80"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugxzf7t3D-eZV8KS9th4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/93> ns1:Comment "I like how this movie says its ok to be with three different guys pretty much all at once lol I mean I like how it doesn’t judge her character or anything - it’s just something that happened. I think that’s important for ppl to see"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "81"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugw7gGvLbiX4dv2Sj2F4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/94> ns1:Comment "Sequels usually fail but this one was fantastic!  Well done!"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "82"^^xsd:string ;
+    ns1:Likes 47 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgyfRvjmtFmXRjIkTIZ4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/95> ns1:Comment "Howard Stark? ??"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "83"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=Ugw7HuUlCBGmzgbhNq54AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/96> ns1:Comment "Ten years later and Amanda didn’t change..! ??"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "84"^^xsd:string ;
+    ns1:Likes 1 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgzXMONvPY2N_ZmXHYl4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/97> ns1:Comment "Better than the first part!! WORTH WATCHING FOR ??????"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "85"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgxCow13xE8XbalsCal4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/98> ns1:Comment "Looks like tripe for teenaged airheads."^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "86"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgwefQWCwgqi1xVFHTF4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/99> ns1:Comment "Panos Mouzourakis is the best"^^xsd:string ;
+    ns1:Date "28.11.61 15:43:40"^^xsd:string ;
+    ns1:Id "87"^^xsd:string ;
+    ns1:Likes 0 ;
+    ns1:Link "https://www.youtube.com/watch?v=pM4Ou4T3s_I&lc=UgwtsvCOEZEf8YmE55R4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/Mamma_Mia_2/nanopublication/5d8a689c/2019-12-13T10:24> a ns5:Nanopublication ;
+    ns5:hasAssertion <https://iisg.amsterdam/Mamma_Mia_2/assertion/5d8a689c/2019-12-13T10:24> ;
+    ns5:hasProvenance <https://iisg.amsterdam/Mamma_Mia_2/provenance/5d8a689c/2019-12-13T10:24> ;
+    ns5:hasPublicationInfo <https://iisg.amsterdam/Mamma_Mia_2/pubinfo/5d8a689c/2019-12-13T10:24> ;
+    ns2:generatedAtTime "2019-12-13T10:24:00"^^xsd:dateTime ;
+    ns2:wasGeneratedBy <https://github.com/CLARIAH/wp4-converters> .
+
+<https://iisg.amsterdam/5d8a689c78fa4b190a131b04005fe79fad84a464> ns1:path "/tmp/DFTI9HFF4L/web_interface/7b04dca51ceaf4d38a48151818b5b2f7/Mamma_Mia_2.csv"^^xsd:string ;
+    ns1:sha1_hash "5d8a689c78fa4b190a131b04005fe79fad84a464"^^xsd:string .
+
+<https://iisg.amsterdam/Mamma_Mia_2.csv> ns4:license <http://opendefinition.org/licenses/cc-by/> ;
+    ns4:modified "2019-12-13"^^xsd:date ;
+    ns4:publisher [ ns6:name "CLARIAH Structured Data Hub - Datalegend"@en ;
+            ns6:url <http://datalegend.net/> ] ;
+    ns4:title "Mamma_Mia_2.csv"@en ;
+    ns3:dialect [ ns3:delimiter ";" ;
+            ns3:encoding "Windows-1252" ;
+            ns3:quoteChar "\"" ] ;
+    ns3:tableSchema [ ns3:aboutUrl <https://iisg.amsterdam/__row_> ;
+            ns3:column [ rdf:first <https://iisg.amsterdam/Mamma_Mia_2.csv/column/Id> ;
+                    rdf:rest ( <https://iisg.amsterdam/Mamma_Mia_2.csv/column/SubId> <https://iisg.amsterdam/Mamma_Mia_2.csv/column/Name_(click_to_view_profile)> <https://iisg.amsterdam/Mamma_Mia_2.csv/column/Date> <https://iisg.amsterdam/Mamma_Mia_2.csv/column/Likes> <https://iisg.amsterdam/Mamma_Mia_2.csv/column/Comment> <https://iisg.amsterdam/Mamma_Mia_2.csv/column/Link> ),
+                        () ] ;
+            ns3:primaryKey "Id" ] ;
+    ns3:url "Mamma_Mia_2.csv"^^xsd:anyURI .
+
+<https://iisg.amsterdam/Mamma_Mia_2.csv/column/Comment> ns4:description "Comment"@en ;
+    ns3:datatype xsd:string ;
+    ns3:name "Comment" ;
+    ns3:title "Comment"@en .
+
+<https://iisg.amsterdam/Mamma_Mia_2.csv/column/Date> ns4:description "Date"@en ;
+    ns3:datatype xsd:string ;
+    ns3:name "Date" ;
+    ns3:title "Date"@en .
+
+<https://iisg.amsterdam/Mamma_Mia_2.csv/column/Id> ns4:description "Id"@en ;
+    ns3:datatype xsd:string ;
+    ns3:name "Id" ;
+    ns3:title "Id"@en .
+
+<https://iisg.amsterdam/Mamma_Mia_2.csv/column/Likes> ns4:description "Likes"@en ;
+    ns3:datatype xsd:integer ;
+    ns3:name "Likes" ;
+    ns3:title "Likes"@en .
+
+<https://iisg.amsterdam/Mamma_Mia_2.csv/column/Link> ns4:description "Link"@en ;
+    ns3:datatype xsd:string ;
+    ns3:name "Link" ;
+    ns3:title "Link"@en .
+
+<https://iisg.amsterdam/Mamma_Mia_2.csv/column/Name_(click_to_view_profile)> ns4:description "Name (click to view profile)"@en ;
+    ns3:datatype xsd:string ;
+    ns3:name "Name (click to view profile)" ;
+    ns3:title "Name (click to view profile)"@en .
+
+<https://iisg.amsterdam/Mamma_Mia_2.csv/column/SubId> ns4:description "SubId"@en ;
+    ns3:datatype xsd:string ;
+    ns3:name "SubId" ;
+    ns3:title "SubId"@en .
+
+<https://iisg.amsterdam/Mamma_Mia_2/assertion/5d8a689c/2019-12-13T10:24> a ns5:Assertion ;
+    ns2:generatedAtTime "2019-12-13T10:24:00"^^xsd:dateTime ;
+    ns2:wasDerivedFrom <https://iisg.amsterdam/5d8a689c78fa4b190a131b04005fe79fad84a464>,
+        <https://iisg.amsterdam/Mamma_Mia_2.csv> .
+
+<https://iisg.amsterdam/Mamma_Mia_2/provenance/5d8a689c/2019-12-13T10:24> a ns5:Provenance .
+
+<https://iisg.amsterdam/Mamma_Mia_2/pubinfo/5d8a689c/2019-12-13T10:24> a ns5:PublicationInfo .
+
+<https://iisg.amsterdam/__row_> ns2:wasDerivedFrom "https://iisg.amsterdam/{_row}"^^xsd:string .
+
