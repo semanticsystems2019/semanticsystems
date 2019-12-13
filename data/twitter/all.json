@@ -1,0 +1,3171 @@
+[
+    {
+        "created_at": "Thu Mar 14 15:31:27 +0000 2019",
+        "id": 1106216276408651782,
+        "id_str": "1106216276408651782",
+        "text": "@Avengers I am so stoked for this film. Hype level 1,000,000,000,000,000,000. #AvengersEndgame https:\/\/t.co\/iV2fK6QxIn",
+        "truncated": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "AvengersEndgame",
+              "indices": [
+                78,
+                94
+              ]
+            }
+          ],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "Avengers",
+              "name": "The Avengers",
+              "id": 393852070,
+              "id_str": "393852070",
+              "indices": [
+                0,
+                9
+              ]
+            }
+          ],
+          "urls": [],
+          "media": [
+            {
+              "id": 1106216270163251200,
+              "id_str": "1106216270163251200",
+              "indices": [
+                95,
+                118
+              ],
+              "media_url": "http:\/\/pbs.twimg.com\/tweet_video_thumb\/D1oR1jPWkAAK5Eu.jpg",
+              "media_url_https": "https:\/\/pbs.twimg.com\/tweet_video_thumb\/D1oR1jPWkAAK5Eu.jpg",
+              "url": "https:\/\/t.co\/iV2fK6QxIn",
+              "display_url": "pic.twitter.com\/iV2fK6QxIn",
+              "expanded_url": "https:\/\/twitter.com\/HxC_RELENTLESS\/status\/1106216276408651782\/photo\/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "small": {
+                  "w": 498,
+                  "h": 256,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 498,
+                  "h": 256,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 498,
+                  "h": 256,
+                  "resize": "fit"
+                }
+              },
+              "features": {}
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 1106216270163251200,
+              "id_str": "1106216270163251200",
+              "indices": [
+                95,
+                118
+              ],
+              "media_url": "http:\/\/pbs.twimg.com\/tweet_video_thumb\/D1oR1jPWkAAK5Eu.jpg",
+              "media_url_https": "https:\/\/pbs.twimg.com\/tweet_video_thumb\/D1oR1jPWkAAK5Eu.jpg",
+              "url": "https:\/\/t.co\/iV2fK6QxIn",
+              "display_url": "pic.twitter.com\/iV2fK6QxIn",
+              "expanded_url": "https:\/\/twitter.com\/HxC_RELENTLESS\/status\/1106216276408651782\/photo\/1",
+              "type": "animated_gif",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "small": {
+                  "w": 498,
+                  "h": 256,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 498,
+                  "h": 256,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 498,
+                  "h": 256,
+                  "resize": "fit"
+                }
+              },
+              "video_info": {
+                "aspect_ratio": [
+                  249,
+                  128
+                ],
+                "variants": [
+                  {
+                    "bitrate": 0,
+                    "content_type": "video\/mp4",
+                    "url": "https:\/\/video.twimg.com\/tweet_video\/D1oR1jPWkAAK5Eu.mp4"
+                  }
+                ]
+              },
+              "features": {}
+            }
+          ]
+        },
+        "source": "<a href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\">Twitter for iPhone<\/a>",
+        "in_reply_to_status_id": 1106164791813554176,
+        "in_reply_to_status_id_str": "1106164791813554176",
+        "in_reply_to_user_id": 393852070,
+        "in_reply_to_user_id_str": "393852070",
+        "in_reply_to_screen_name": "Avengers",
+        "user": {
+          "id": 781673779114147840,
+          "id_str": "781673779114147840",
+          "name": "Steven Williamson",
+          "screen_name": "HxC_RELENTLESS",
+          "location": "Tennessee, USA",
+          "description": "27 I Former Gamer I Aspiring Golfer I Father of 3 girls I @carson_newman_u Alumni | Bachelor of Arts-History",
+          "url": "https:\/\/t.co\/exNZ8s7Z7P",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https:\/\/t.co\/exNZ8s7Z7P",
+                  "expanded_url": "http:\/\/www.twitch.tv\/hxc_relentless",
+                  "display_url": "twitch.tv\/hxc_relentless",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 49,
+          "friends_count": 184,
+          "listed_count": 0,
+          "created_at": "Fri Sep 30 01:55:26 +0000 2016",
+          "favourites_count": 4623,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 2045,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "000000",
+          "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+          "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1158385061349285889\/VPOPZXD9_normal.jpg",
+          "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1158385061349285889\/VPOPZXD9_normal.jpg",
+          "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/781673779114147840\/1546363394",
+          "profile_link_color": "1B95E0",
+          "profile_sidebar_border_color": "000000",
+          "profile_sidebar_fill_color": "000000",
+          "profile_text_color": "000000",
+          "profile_use_background_image": false,
+          "has_extended_profile": true,
+          "default_profile": false,
+          "default_profile_image": false,
+          "can_media_tag": true,
+          "followed_by": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 23,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": true,
+        "possibly_sensitive_appealable": false,
+        "lang": "en"
+      },
+      {
+        "created_at": "Thu Mar 14 12:45:52 +0000 2019",
+        "id": 1106174606006804480,
+        "id_str": "1106174606006804480",
+        "text": "@Avengers @CodsDesigns Im so excited!!! https:\/\/t.co\/PLELg9F0PB",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "Avengers",
+              "name": "The Avengers",
+              "id": 393852070,
+              "id_str": "393852070",
+              "indices": [
+                0,
+                9
+              ]
+            },
+            {
+              "screen_name": "CodsDesigns",
+              "name": "FaZe Cuds",
+              "id": 628642640,
+              "id_str": "628642640",
+              "indices": [
+                10,
+                22
+              ]
+            }
+          ],
+          "urls": [],
+          "media": [
+            {
+              "id": 1106174590055788545,
+              "id_str": "1106174590055788545",
+              "indices": [
+                40,
+                63
+              ],
+              "media_url": "http:\/\/pbs.twimg.com\/tweet_video_thumb\/D1nr7cvWsAEMpZ4.jpg",
+              "media_url_https": "https:\/\/pbs.twimg.com\/tweet_video_thumb\/D1nr7cvWsAEMpZ4.jpg",
+              "url": "https:\/\/t.co\/PLELg9F0PB",
+              "display_url": "pic.twitter.com\/PLELg9F0PB",
+              "expanded_url": "https:\/\/twitter.com\/YummyAlpha\/status\/1106174606006804480\/photo\/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "large": {
+                  "w": 500,
+                  "h": 280,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 500,
+                  "h": 280,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 500,
+                  "h": 280,
+                  "resize": "fit"
+                }
+              },
+              "features": {}
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 1106174590055788545,
+              "id_str": "1106174590055788545",
+              "indices": [
+                40,
+                63
+              ],
+              "media_url": "http:\/\/pbs.twimg.com\/tweet_video_thumb\/D1nr7cvWsAEMpZ4.jpg",
+              "media_url_https": "https:\/\/pbs.twimg.com\/tweet_video_thumb\/D1nr7cvWsAEMpZ4.jpg",
+              "url": "https:\/\/t.co\/PLELg9F0PB",
+              "display_url": "pic.twitter.com\/PLELg9F0PB",
+              "expanded_url": "https:\/\/twitter.com\/YummyAlpha\/status\/1106174606006804480\/photo\/1",
+              "type": "animated_gif",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "large": {
+                  "w": 500,
+                  "h": 280,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 500,
+                  "h": 280,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 500,
+                  "h": 280,
+                  "resize": "fit"
+                }
+              },
+              "video_info": {
+                "aspect_ratio": [
+                  25,
+                  14
+                ],
+                "variants": [
+                  {
+                    "bitrate": 0,
+                    "content_type": "video\/mp4",
+                    "url": "https:\/\/video.twimg.com\/tweet_video\/D1nr7cvWsAEMpZ4.mp4"
+                  }
+                ]
+              },
+              "features": {}
+            }
+          ]
+        },
+        "source": "<a href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\">Twitter for Android<\/a>",
+        "in_reply_to_status_id": 1106164791813554176,
+        "in_reply_to_status_id_str": "1106164791813554176",
+        "in_reply_to_user_id": 393852070,
+        "in_reply_to_user_id_str": "393852070",
+        "in_reply_to_screen_name": "Avengers",
+        "user": {
+          "id": 1025406722456924161,
+          "id_str": "1025406722456924161",
+          "name": "Alpha 👻",
+          "screen_name": "YummyAlpha",
+          "location": "Use Code \"Yummy\" In The Shop!",
+          "description": "Youtuber and Artist who likes to do dumb stuff ^-^ \nhttps:\/\/t.co\/aQFPqb61oS\n                                \n\nFor Business : AlphaPowerBusiness@gmail",
+          "url": "https:\/\/t.co\/7xzsmamVYf",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https:\/\/t.co\/7xzsmamVYf",
+                  "expanded_url": "https:\/\/www.youtube.com\/c\/alphathefirst",
+                  "display_url": "youtube.com\/c\/alphathefirst",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": [
+                {
+                  "url": "https:\/\/t.co\/aQFPqb61oS",
+                  "expanded_url": "http:\/\/youtube.com\/c\/alphathefirst",
+                  "display_url": "youtube.com\/c\/alphathefirst",
+                  "indices": [
+                    52,
+                    75
+                  ]
+                }
+              ]
+            }
+          },
+          "protected": false,
+          "followers_count": 15843,
+          "friends_count": 117,
+          "listed_count": 10,
+          "created_at": "Fri Aug 03 15:43:08 +0000 2018",
+          "favourites_count": 5208,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 9825,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "000000",
+          "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+          "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1184929525349650433\/qGXaxnqF_normal.jpg",
+          "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1184929525349650433\/qGXaxnqF_normal.jpg",
+          "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/1025406722456924161\/1542316646",
+          "profile_link_color": "1B95E0",
+          "profile_sidebar_border_color": "000000",
+          "profile_sidebar_fill_color": "000000",
+          "profile_text_color": "000000",
+          "profile_use_background_image": false,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "can_media_tag": true,
+          "followed_by": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 7,
+        "favorite_count": 185,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "lang": "en"
+      },
+      {
+        "created_at": "Thu Mar 14 12:19:51 +0000 2019",
+        "id": 1106168058127618049,
+        "id_str": "1106168058127618049",
+        "text": "@Avengers One of the Best movie of the Decade is Coming.....🔥\n#AvengersEndgame",
+        "truncated": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "AvengersEndgame",
+              "indices": [
+                62,
+                78
+              ]
+            }
+          ],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "Avengers",
+              "name": "The Avengers",
+              "id": 393852070,
+              "id_str": "393852070",
+              "indices": [
+                0,
+                9
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\">Twitter for Android<\/a>",
+        "in_reply_to_status_id": 1106164791813554176,
+        "in_reply_to_status_id_str": "1106164791813554176",
+        "in_reply_to_user_id": 393852070,
+        "in_reply_to_user_id_str": "393852070",
+        "in_reply_to_screen_name": "Avengers",
+        "user": {
+          "id": 712898770002780160,
+          "id_str": "712898770002780160",
+          "name": "Rushikesh",
+          "screen_name": "rushi9rc",
+          "location": "Kolhapur, India",
+          "description": "*⃣Engineer..🌏\n#⃣VIRAT Kohli's Fan..1⃣8⃣\n🚩Kolhapur",
+          "url": null,
+          "entities": {
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 51,
+          "friends_count": 166,
+          "listed_count": 0,
+          "created_at": "Thu Mar 24 07:08:06 +0000 2016",
+          "favourites_count": 12255,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 491,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "F5F8FA",
+          "profile_background_image_url": null,
+          "profile_background_image_url_https": null,
+          "profile_background_tile": false,
+          "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1193768415053246465\/umA8D7PN_normal.jpg",
+          "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1193768415053246465\/umA8D7PN_normal.jpg",
+          "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/712898770002780160\/1565498520",
+          "profile_link_color": "1DA1F2",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": true,
+          "default_profile": true,
+          "default_profile_image": false,
+          "can_media_tag": true,
+          "followed_by": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 62,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      {
+        "created_at": "Thu Mar 14 12:07:34 +0000 2019",
+        "id": 1106164968842498048,
+        "id_str": "1106164968842498048",
+        "text": "@Avengers TRAILER OUTTA NOWHERE https:\/\/t.co\/7Y6DOEqlTk",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "Avengers",
+              "name": "The Avengers",
+              "id": 393852070,
+              "id_str": "393852070",
+              "indices": [
+                0,
+                9
+              ]
+            }
+          ],
+          "urls": [],
+          "media": [
+            {
+              "id": 1106164961422860290,
+              "id_str": "1106164961422860290",
+              "indices": [
+                32,
+                55
+              ],
+              "media_url": "http:\/\/pbs.twimg.com\/tweet_video_thumb\/D1njK_SX4AIXVG-.jpg",
+              "media_url_https": "https:\/\/pbs.twimg.com\/tweet_video_thumb\/D1njK_SX4AIXVG-.jpg",
+              "url": "https:\/\/t.co\/7Y6DOEqlTk",
+              "display_url": "pic.twitter.com\/7Y6DOEqlTk",
+              "expanded_url": "https:\/\/twitter.com\/JoeDignan\/status\/1106164968842498048\/photo\/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "large": {
+                  "w": 498,
+                  "h": 242,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 498,
+                  "h": 242,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 498,
+                  "h": 242,
+                  "resize": "fit"
+                }
+              },
+              "features": {}
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 1106164961422860290,
+              "id_str": "1106164961422860290",
+              "indices": [
+                32,
+                55
+              ],
+              "media_url": "http:\/\/pbs.twimg.com\/tweet_video_thumb\/D1njK_SX4AIXVG-.jpg",
+              "media_url_https": "https:\/\/pbs.twimg.com\/tweet_video_thumb\/D1njK_SX4AIXVG-.jpg",
+              "url": "https:\/\/t.co\/7Y6DOEqlTk",
+              "display_url": "pic.twitter.com\/7Y6DOEqlTk",
+              "expanded_url": "https:\/\/twitter.com\/JoeDignan\/status\/1106164968842498048\/photo\/1",
+              "type": "animated_gif",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "large": {
+                  "w": 498,
+                  "h": 242,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 498,
+                  "h": 242,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 498,
+                  "h": 242,
+                  "resize": "fit"
+                }
+              },
+              "video_info": {
+                "aspect_ratio": [
+                  249,
+                  121
+                ],
+                "variants": [
+                  {
+                    "bitrate": 0,
+                    "content_type": "video\/mp4",
+                    "url": "https:\/\/video.twimg.com\/tweet_video\/D1njK_SX4AIXVG-.mp4"
+                  }
+                ]
+              },
+              "features": {}
+            }
+          ]
+        },
+        "source": "<a href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\">Twitter for iPhone<\/a>",
+        "in_reply_to_status_id": 1106164791813554176,
+        "in_reply_to_status_id_str": "1106164791813554176",
+        "in_reply_to_user_id": 393852070,
+        "in_reply_to_user_id_str": "393852070",
+        "in_reply_to_screen_name": "Avengers",
+        "user": {
+          "id": 84616233,
+          "id_str": "84616233",
+          "name": "Joseph Dignan",
+          "screen_name": "JoeDignan",
+          "location": "Birmingham, UK. ",
+          "description": "Life is all so crazy and god must be thoroughly entertained by all our little dances. Instagram - JoeDignan",
+          "url": null,
+          "entities": {
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 2682,
+          "friends_count": 1623,
+          "listed_count": 15,
+          "created_at": "Fri Oct 23 15:25:10 +0000 2009",
+          "favourites_count": 5192,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 34113,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "9AE4E8",
+          "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme16\/bg.gif",
+          "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme16\/bg.gif",
+          "profile_background_tile": true,
+          "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1188864650311585792\/GMuQxopI_normal.jpg",
+          "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1188864650311585792\/GMuQxopI_normal.jpg",
+          "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/84616233\/1388508060",
+          "profile_link_color": "0084B4",
+          "profile_sidebar_border_color": "BDDCAD",
+          "profile_sidebar_fill_color": "DDFFCC",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": true,
+          "default_profile": false,
+          "default_profile_image": false,
+          "can_media_tag": true,
+          "followed_by": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 78,
+        "favorite_count": 932,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "lang": "en"
+      },
+      {
+        "created_at": "Thu Mar 14 12:16:50 +0000 2019",
+        "id": 1106167301219459072,
+        "id_str": "1106167301219459072",
+        "text": "@Avengers WHO ELSE WASNT PREPARED https:\/\/t.co\/coPCBvcUXg",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "Avengers",
+              "name": "The Avengers",
+              "id": 393852070,
+              "id_str": "393852070",
+              "indices": [
+                0,
+                9
+              ]
+            }
+          ],
+          "urls": [],
+          "media": [
+            {
+              "id": 1106167292356972546,
+              "id_str": "1106167292356972546",
+              "indices": [
+                34,
+                57
+              ],
+              "media_url": "http:\/\/pbs.twimg.com\/tweet_video_thumb\/D1nlSqsX0AIzcWJ.jpg",
+              "media_url_https": "https:\/\/pbs.twimg.com\/tweet_video_thumb\/D1nlSqsX0AIzcWJ.jpg",
+              "url": "https:\/\/t.co\/coPCBvcUXg",
+              "display_url": "pic.twitter.com\/coPCBvcUXg",
+              "expanded_url": "https:\/\/twitter.com\/HannahCowton\/status\/1106167301219459072\/photo\/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "large": {
+                  "w": 250,
+                  "h": 186,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 250,
+                  "h": 186,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 250,
+                  "h": 186,
+                  "resize": "fit"
+                }
+              },
+              "features": {}
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 1106167292356972546,
+              "id_str": "1106167292356972546",
+              "indices": [
+                34,
+                57
+              ],
+              "media_url": "http:\/\/pbs.twimg.com\/tweet_video_thumb\/D1nlSqsX0AIzcWJ.jpg",
+              "media_url_https": "https:\/\/pbs.twimg.com\/tweet_video_thumb\/D1nlSqsX0AIzcWJ.jpg",
+              "url": "https:\/\/t.co\/coPCBvcUXg",
+              "display_url": "pic.twitter.com\/coPCBvcUXg",
+              "expanded_url": "https:\/\/twitter.com\/HannahCowton\/status\/1106167301219459072\/photo\/1",
+              "type": "animated_gif",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "large": {
+                  "w": 250,
+                  "h": 186,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 250,
+                  "h": 186,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 250,
+                  "h": 186,
+                  "resize": "fit"
+                }
+              },
+              "video_info": {
+                "aspect_ratio": [
+                  125,
+                  93
+                ],
+                "variants": [
+                  {
+                    "bitrate": 0,
+                    "content_type": "video\/mp4",
+                    "url": "https:\/\/video.twimg.com\/tweet_video\/D1nlSqsX0AIzcWJ.mp4"
+                  }
+                ]
+              },
+              "features": {}
+            }
+          ]
+        },
+        "source": "<a href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\">Twitter for Android<\/a>",
+        "in_reply_to_status_id": 1106164791813554176,
+        "in_reply_to_status_id_str": "1106164791813554176",
+        "in_reply_to_user_id": 393852070,
+        "in_reply_to_user_id_str": "393852070",
+        "in_reply_to_screen_name": "Avengers",
+        "user": {
+          "id": 900081988761260033,
+          "id_str": "900081988761260033",
+          "name": "Hannah Cowton",
+          "screen_name": "TheLondonGeek",
+          "location": "London, England",
+          "description": "Staff Writer for @TechAdvisorUK and @MacworldUK | Geek lifestyle blogger  | Writer | Former editor of @debutcareers Insights",
+          "url": "https:\/\/t.co\/zp8mv8vvLl",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https:\/\/t.co\/zp8mv8vvLl",
+                  "expanded_url": "https:\/\/www.thelondongeek.co.uk\/",
+                  "display_url": "thelondongeek.co.uk",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 732,
+          "friends_count": 850,
+          "listed_count": 7,
+          "created_at": "Tue Aug 22 19:47:23 +0000 2017",
+          "favourites_count": 4912,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 1109,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "000000",
+          "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+          "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1096383643566641152\/rzC1nW1B_normal.jpg",
+          "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1096383643566641152\/rzC1nW1B_normal.jpg",
+          "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/900081988761260033\/1503525773",
+          "profile_link_color": "7FDBB6",
+          "profile_sidebar_border_color": "000000",
+          "profile_sidebar_fill_color": "000000",
+          "profile_text_color": "000000",
+          "profile_use_background_image": false,
+          "has_extended_profile": true,
+          "default_profile": false,
+          "default_profile_image": false,
+          "can_media_tag": true,
+          "followed_by": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 17,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "lang": "en"
+      }
+][
+    {
+        "created_at": "Tue Apr 24 02:01:46 +0000 2018",
+        "id": 988598846686093313,
+        "id_str": "988598846686093313",
+        "text": "@CrazyRichMovie Is it me or august 17th feels like a thousand years apart cus im DYING to watch this. AND THEY BETT… https:\/\/t.co\/kmPkxZmrhb",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "CrazyRichMovie",
+              "name": "Crazy Rich Asians",
+              "id": 874401319171178496,
+              "id_str": "874401319171178496",
+              "indices": [
+                0,
+                15
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https:\/\/t.co\/kmPkxZmrhb",
+              "expanded_url": "https:\/\/twitter.com\/i\/web\/status\/988598846686093313",
+              "display_url": "twitter.com\/i\/web\/status\/9…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\">Twitter for iPhone<\/a>",
+        "in_reply_to_status_id": 988492703225626624,
+        "in_reply_to_status_id_str": "988492703225626624",
+        "in_reply_to_user_id": 874401319171178496,
+        "in_reply_to_user_id_str": "874401319171178496",
+        "in_reply_to_screen_name": "CrazyRichMovie",
+        "user": {
+          "id": 77442114,
+          "id_str": "77442114",
+          "name": "𝘧𝘦𝘭𝘪𝘹",
+          "screen_name": "celfhrist",
+          "location": "🇮🇩",
+          "description": "23. bless this mess.",
+          "url": null,
+          "entities": {
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 920,
+          "friends_count": 776,
+          "listed_count": 8,
+          "created_at": "Sat Sep 26 10:01:58 +0000 2009",
+          "favourites_count": 1683,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 82716,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "1A1B1F",
+          "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme9\/bg.gif",
+          "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme9\/bg.gif",
+          "profile_background_tile": false,
+          "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1199412683616837632\/33D7f3bZ_normal.jpg",
+          "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1199412683616837632\/33D7f3bZ_normal.jpg",
+          "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/77442114\/1574797393",
+          "profile_link_color": "2FC2EF",
+          "profile_sidebar_border_color": "181A1E",
+          "profile_sidebar_fill_color": "252429",
+          "profile_text_color": "666666",
+          "profile_use_background_image": true,
+          "has_extended_profile": true,
+          "default_profile": false,
+          "default_profile_image": false,
+          "can_media_tag": false,
+          "followed_by": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 9,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      {
+        "created_at": "Tue Apr 24 13:56:40 +0000 2018",
+        "id": 988778753231745024,
+        "id_str": "988778753231745024",
+        "text": "@CrazyRichMovie Yellow on the outside, white on the inside lmao",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "CrazyRichMovie",
+              "name": "Crazy Rich Asians",
+              "id": 874401319171178496,
+              "id_str": "874401319171178496",
+              "indices": [
+                0,
+                15
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\">Twitter for Android<\/a>",
+        "in_reply_to_status_id": 988492703225626624,
+        "in_reply_to_status_id_str": "988492703225626624",
+        "in_reply_to_user_id": 874401319171178496,
+        "in_reply_to_user_id_str": "874401319171178496",
+        "in_reply_to_screen_name": "CrazyRichMovie",
+        "user": {
+          "id": 166060903,
+          "id_str": "166060903",
+          "name": "𝒟",
+          "screen_name": "mebeingdumb",
+          "location": "Bandung, Jawa Barat",
+          "description": "Am I doing this life thing right?",
+          "url": "https:\/\/t.co\/lqe5i0A9Di",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https:\/\/t.co\/lqe5i0A9Di",
+                  "expanded_url": "https:\/\/open.spotify.com\/user\/21m6g4m3mgxcvscnzf5gjrg5q\/playlist\/4DJvib2AGbscgzBnniCfP9",
+                  "display_url": "open.spotify.com\/user\/21m6g4m3m…",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 2367,
+          "friends_count": 559,
+          "listed_count": 2,
+          "created_at": "Tue Jul 13 06:30:22 +0000 2010",
+          "favourites_count": 4408,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 54357,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "022330",
+          "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme15\/bg.png",
+          "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme15\/bg.png",
+          "profile_background_tile": true,
+          "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1192465409363984384\/WT8fmXQM_normal.jpg",
+          "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1192465409363984384\/WT8fmXQM_normal.jpg",
+          "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/166060903\/1545284093",
+          "profile_link_color": "ED3B4A",
+          "profile_sidebar_border_color": "FFFFFF",
+          "profile_sidebar_fill_color": "C0DFEC",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": true,
+          "default_profile": false,
+          "default_profile_image": false,
+          "can_media_tag": false,
+          "followed_by": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "regular"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 16,
+        "favorite_count": 298,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },{
+        "created_at": "Mon Apr 23 21:33:05 +0000 2018",
+        "id": 988531226272260099,
+        "id_str": "988531226272260099",
+        "text": "@emiIeeg @CrazyRichMovie Step 1: Be Asian\nStep 2: Get rich\nStep 3: ???????\nStep 4: Profit",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "CrazyRichMovie",
+              "name": "Crazy Rich Asians",
+              "id": 874401319171178496,
+              "id_str": "874401319171178496",
+              "indices": [
+                9,
+                24
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\">Twitter for Android<\/a>",
+        "in_reply_to_status_id": 988523723543244800,
+        "in_reply_to_status_id_str": "988523723543244800",
+        "in_reply_to_user_id": 447744191,
+        "in_reply_to_user_id_str": "447744191",
+        "in_reply_to_screen_name": "emiIeeee_",
+        "user": {
+          "id": 2614640707,
+          "id_str": "2614640707",
+          "name": "Parimal Vyas",
+          "screen_name": "VyasParimal",
+          "location": "",
+          "description": "Illinois State University Alum | Acacia Fraternity he\/him",
+          "url": null,
+          "entities": {
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 217,
+          "friends_count": 270,
+          "listed_count": 0,
+          "created_at": "Thu Jul 10 02:20:42 +0000 2014",
+          "favourites_count": 20510,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 2144,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "C0DEED",
+          "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+          "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1051970903079309312\/8EnmrJ6m_normal.jpg",
+          "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1051970903079309312\/8EnmrJ6m_normal.jpg",
+          "profile_link_color": "1DA1F2",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": true,
+          "default_profile": true,
+          "default_profile_image": false,
+          "can_media_tag": true,
+          "followed_by": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 7,
+        "favorite_count": 130,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },{
+        "created_at": "Fri Apr 27 00:34:22 +0000 2018",
+        "id": 989664012743913473,
+        "id_str": "989664012743913473",
+        "text": "@CrazyRichMovie Beautiful Asian women, handsome Asian men AND COMEDY RICHNESS ROMANCE???? ALL IN ONE MOVIE. I’m so… https:\/\/t.co\/c4jfxSEEYD",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "CrazyRichMovie",
+              "name": "Crazy Rich Asians",
+              "id": 874401319171178496,
+              "id_str": "874401319171178496",
+              "indices": [
+                0,
+                15
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https:\/\/t.co\/c4jfxSEEYD",
+              "expanded_url": "https:\/\/twitter.com\/i\/web\/status\/989664012743913473",
+              "display_url": "twitter.com\/i\/web\/status\/9…",
+              "indices": [
+                116,
+                139
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\">Twitter for iPhone<\/a>",
+        "in_reply_to_status_id": 988492703225626624,
+        "in_reply_to_status_id_str": "988492703225626624",
+        "in_reply_to_user_id": 874401319171178496,
+        "in_reply_to_user_id_str": "874401319171178496",
+        "in_reply_to_screen_name": "CrazyRichMovie",
+        "user": {
+          "id": 1057277342,
+          "id_str": "1057277342",
+          "name": "mom",
+          "screen_name": "trippmeow_",
+          "location": "DTX",
+          "description": "loves it",
+          "url": "https:\/\/t.co\/9ryRcMhFQG",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https:\/\/t.co\/9ryRcMhFQG",
+                  "expanded_url": "https:\/\/www.instagram.com\/ohmalaya\/",
+                  "display_url": "instagram.com\/ohmalaya\/",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 1480,
+          "friends_count": 927,
+          "listed_count": 5,
+          "created_at": "Thu Jan 03 08:56:26 +0000 2013",
+          "favourites_count": 23525,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 92941,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "000000",
+          "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+          "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+          "profile_background_tile": true,
+          "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1067126316342874112\/9ao2mhlf_normal.jpg",
+          "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1067126316342874112\/9ao2mhlf_normal.jpg",
+          "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/1057277342\/1541619053",
+          "profile_link_color": "F58EA8",
+          "profile_sidebar_border_color": "000000",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": true,
+          "default_profile": false,
+          "default_profile_image": false,
+          "can_media_tag": false,
+          "followed_by": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 8,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      {
+        "created_at": "Tue Apr 24 17:10:49 +0000 2018",
+        "id": 988827615724294145,
+        "id_str": "988827615724294145",
+        "text": "@CrazyRichMovie How about moderate middle-class ones?",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "CrazyRichMovie",
+              "name": "Crazy Rich Asians",
+              "id": 874401319171178496,
+              "id_str": "874401319171178496",
+              "indices": [
+                0,
+                15
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\">Twitter for iPhone<\/a>",
+        "in_reply_to_status_id": 988492703225626624,
+        "in_reply_to_status_id_str": "988492703225626624",
+        "in_reply_to_user_id": 874401319171178496,
+        "in_reply_to_user_id_str": "874401319171178496",
+        "in_reply_to_screen_name": "CrazyRichMovie",
+        "user": {
+          "id": 14084639,
+          "id_str": "14084639",
+          "name": "Yom",
+          "screen_name": "moymoy",
+          "location": "",
+          "description": "Reduce, reuse, recycle. Introvert. Don’t follow me.",
+          "url": null,
+          "entities": {
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 22,
+          "friends_count": 29,
+          "listed_count": 4,
+          "created_at": "Wed Mar 05 19:36:26 +0000 2008",
+          "favourites_count": 2731,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 27488,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "0099B9",
+          "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme4\/bg.gif",
+          "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme4\/bg.gif",
+          "profile_background_tile": false,
+          "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/51555732\/minSafHal01_normal.jpg",
+          "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/51555732\/minSafHal01_normal.jpg",
+          "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/14084639\/1464741807",
+          "profile_link_color": "0099B9",
+          "profile_sidebar_border_color": "5ED4DC",
+          "profile_sidebar_fill_color": "95E8EC",
+          "profile_text_color": "3C3940",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "can_media_tag": false,
+          "followed_by": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 5,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      }
+][
+    {
+        "created_at": "Thu Jan 04 20:02:05 +0000 2018",
+        "id": 949008049158594560,
+        "id_str": "949008049158594560",
+        "text": "@FiftyShades Is this movie about how intense 2 ppl f***ing? What's so great about this movie?",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "FiftyShades",
+              "name": "Fifty Shades Freed",
+              "id": 634706405,
+              "id_str": "634706405",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\">Twitter for Android<\/a>",
+        "in_reply_to_status_id": 927566277798801409,
+        "in_reply_to_status_id_str": "927566277798801409",
+        "in_reply_to_user_id": 634706405,
+        "in_reply_to_user_id_str": "634706405",
+        "in_reply_to_screen_name": "FiftyShades",
+        "user": {
+          "id": 1552182733,
+          "id_str": "1552182733",
+          "name": "Related",
+          "screen_name": "relatedelegance",
+          "location": "",
+          "description": "",
+          "url": null,
+          "entities": {
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 1599,
+          "friends_count": 1366,
+          "listed_count": 6,
+          "created_at": "Fri Jun 28 04:06:11 +0000 2013",
+          "favourites_count": 375,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 59938,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "C0DEED",
+          "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+          "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/963947103436251136\/clrSAh0J_normal.jpg",
+          "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/963947103436251136\/clrSAh0J_normal.jpg",
+          "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/1552182733\/1372473777",
+          "profile_link_color": "1DA1F2",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": true,
+          "default_profile": true,
+          "default_profile_image": false,
+          "can_media_tag": true,
+          "followed_by": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 5,
+        "favorite_count": 2,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Mon Nov 06 16:09:53 +0000 2017",
+        "id": 927568731173261314,
+        "id_str": "927568731173261314",
+        "text": "@FiftyShades MY BLOOD PRESSURE ROSE TO 200!! THE CLUB SCENCE, MRS. GREY, THE CAR CHASE, EVERYTHING SEEMS JUST LIKE… https:\/\/t.co\/V7Ax36mfGl",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "FiftyShades",
+              "name": "Fifty Shades Freed",
+              "id": 634706405,
+              "id_str": "634706405",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https:\/\/t.co\/V7Ax36mfGl",
+              "expanded_url": "https:\/\/twitter.com\/i\/web\/status\/927568731173261314",
+              "display_url": "twitter.com\/i\/web\/status\/9…",
+              "indices": [
+                116,
+                139
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\">Twitter for iPhone<\/a>",
+        "in_reply_to_status_id": 927566277798801409,
+        "in_reply_to_status_id_str": "927566277798801409",
+        "in_reply_to_user_id": 634706405,
+        "in_reply_to_user_id_str": "634706405",
+        "in_reply_to_screen_name": "FiftyShades",
+        "user": {
+          "id": 156281082,
+          "id_str": "156281082",
+          "name": "jennie🎄",
+          "screen_name": "jenniemahone",
+          "location": "Texas, USA",
+          "description": "they all warned us about times like these",
+          "url": null,
+          "entities": {
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 4356,
+          "friends_count": 57,
+          "listed_count": 71,
+          "created_at": "Wed Jun 16 14:13:57 +0000 2010",
+          "favourites_count": 3028,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 121076,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "000000",
+          "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme11\/bg.gif",
+          "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme11\/bg.gif",
+          "profile_background_tile": true,
+          "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1194077703529488384\/9vsLlZ3U_normal.jpg",
+          "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1194077703529488384\/9vsLlZ3U_normal.jpg",
+          "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/156281082\/1573525358",
+          "profile_link_color": "F58EA8",
+          "profile_sidebar_border_color": "FFFFFF",
+          "profile_sidebar_fill_color": "E5507E",
+          "profile_text_color": "362720",
+          "profile_use_background_image": true,
+          "has_extended_profile": true,
+          "default_profile": false,
+          "default_profile_image": false,
+          "can_media_tag": false,
+          "followed_by": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 3,
+        "favorite_count": 37,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Sun Nov 12 17:54:07 +0000 2017",
+        "id": 929769288780664832,
+        "id_str": "929769288780664832",
+        "text": "@FiftyShades @KingRebellious @Juss_Neeyo when this comes out we are going, it's a date.",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "FiftyShades",
+              "name": "Fifty Shades Freed",
+              "id": 634706405,
+              "id_str": "634706405",
+              "indices": [
+                0,
+                12
+              ]
+            },
+            {
+              "screen_name": "KingRebellious",
+              "name": "xoRebelliousKing",
+              "id": 973414154676703232,
+              "id_str": "973414154676703232",
+              "indices": [
+                13,
+                28
+              ]
+            },
+            {
+              "screen_name": "Juss_Neeyo",
+              "name": "Neo🌻",
+              "id": 797726923,
+              "id_str": "797726923",
+              "indices": [
+                29,
+                40
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\">Twitter for Android<\/a>",
+        "in_reply_to_status_id": 927566277798801409,
+        "in_reply_to_status_id_str": "927566277798801409",
+        "in_reply_to_user_id": 634706405,
+        "in_reply_to_user_id_str": "634706405",
+        "in_reply_to_screen_name": "FiftyShades",
+        "user": {
+          "id": 780767720333725697,
+          "id_str": "780767720333725697",
+          "name": "Ndzalama.",
+          "screen_name": "ndzalichabalala",
+          "location": "South Africa",
+          "description": "the sun, working on her flowers🖤.",
+          "url": null,
+          "entities": {
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 1748,
+          "friends_count": 572,
+          "listed_count": 3,
+          "created_at": "Tue Sep 27 13:55:05 +0000 2016",
+          "favourites_count": 378,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 11899,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "F5F8FA",
+          "profile_background_image_url": null,
+          "profile_background_image_url_https": null,
+          "profile_background_tile": false,
+          "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1199434051926536193\/WNRKm7lq_normal.jpg",
+          "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1199434051926536193\/WNRKm7lq_normal.jpg",
+          "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/780767720333725697\/1574802317",
+          "profile_link_color": "1DA1F2",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": true,
+          "default_profile": true,
+          "default_profile_image": false,
+          "can_media_tag": false,
+          "followed_by": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 2,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Thu Jan 04 07:16:55 +0000 2018",
+        "id": 948815491371556865,
+        "id_str": "948815491371556865",
+        "text": "@FiftyShades I BETTER HAVE A NIGGA BY VALENTINES DAY TO GO WATCH THIS SHIT WITH !!!",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "FiftyShades",
+              "name": "Fifty Shades Freed",
+              "id": 634706405,
+              "id_str": "634706405",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\">Twitter for iPhone<\/a>",
+        "in_reply_to_status_id": 927566277798801409,
+        "in_reply_to_status_id_str": "927566277798801409",
+        "in_reply_to_user_id": 634706405,
+        "in_reply_to_user_id_str": "634706405",
+        "in_reply_to_screen_name": "FiftyShades",
+        "user": {
+          "id": 3235501309,
+          "id_str": "3235501309",
+          "name": "araia :)",
+          "screen_name": "araiagarcia",
+          "location": "sa,tx",
+          "description": "sc:araiahope ig:uhhhrayyyuhhh",
+          "url": null,
+          "entities": {
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 538,
+          "friends_count": 511,
+          "listed_count": 0,
+          "created_at": "Wed Jun 03 21:47:24 +0000 2015",
+          "favourites_count": 29774,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 13835,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "C0DEED",
+          "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+          "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1192571922795712515\/5IrmOixJ_normal.jpg",
+          "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1192571922795712515\/5IrmOixJ_normal.jpg",
+          "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/3235501309\/1574447460",
+          "profile_link_color": "1DA1F2",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": true,
+          "default_profile": true,
+          "default_profile_image": false,
+          "can_media_tag": false,
+          "followed_by": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 2,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Tue Nov 07 00:23:01 +0000 2017",
+        "id": 927692831229140992,
+        "id_str": "927692831229140992",
+        "text": "@FiftyShades @BaileyWill82 \nWe need to see this",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "FiftyShades",
+              "name": "Fifty Shades Freed",
+              "id": 634706405,
+              "id_str": "634706405",
+              "indices": [
+                0,
+                12
+              ]
+            },
+            {
+              "screen_name": "BaileyWill82",
+              "name": "Bailey",
+              "id": 739111640814125056,
+              "id_str": "739111640814125056",
+              "indices": [
+                13,
+                26
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\">Twitter for Android<\/a>",
+        "in_reply_to_status_id": 927566277798801409,
+        "in_reply_to_status_id_str": "927566277798801409",
+        "in_reply_to_user_id": 634706405,
+        "in_reply_to_user_id_str": "634706405",
+        "in_reply_to_screen_name": "FiftyShades",
+        "user": {
+          "id": 738836822084718592,
+          "id_str": "738836822084718592",
+          "name": "Cherokee Mercedes",
+          "screen_name": "Cherokeewill19",
+          "location": "",
+          "description": "Bailey Chance ❤| Proverbs 31:25. 🌸",
+          "url": null,
+          "entities": {
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 115,
+          "friends_count": 421,
+          "listed_count": 0,
+          "created_at": "Fri Jun 03 20:56:40 +0000 2016",
+          "favourites_count": 14478,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 1184,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "F5F8FA",
+          "profile_background_image_url": null,
+          "profile_background_image_url_https": null,
+          "profile_background_tile": false,
+          "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1134553794791071745\/oN3otPaS_normal.jpg",
+          "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1134553794791071745\/oN3otPaS_normal.jpg",
+          "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/738836822084718592\/1558262208",
+          "profile_link_color": "1DA1F2",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": true,
+          "default_profile": true,
+          "default_profile_image": false,
+          "can_media_tag": true,
+          "followed_by": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 2,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    }
+][
+    {
+        "created_at": "Wed Apr 03 14:44:38 +0000 2019",
+        "id": 1113452251673026561,
+        "id_str": "1113452251673026561",
+        "text": "@jokermovie This looks awesome",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "jokermovie",
+              "name": "Joker Movie",
+              "id": 1038128227485532160,
+              "id_str": "1038128227485532160",
+              "indices": [
+                0,
+                11
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\">Twitter for iPhone<\/a>",
+        "in_reply_to_status_id": 1113425942574034945,
+        "in_reply_to_status_id_str": "1113425942574034945",
+        "in_reply_to_user_id": 1038128227485532160,
+        "in_reply_to_user_id_str": "1038128227485532160",
+        "in_reply_to_screen_name": "jokermovie",
+        "user": {
+          "id": 24735658,
+          "id_str": "24735658",
+          "name": "dmg04",
+          "screen_name": "A_dmg04",
+          "location": "Seattle, WA",
+          "description": "Community Manager at Bungie. He\/Him. For Help Articles and Guided Support, please visit:",
+          "url": "https:\/\/t.co\/BxYSj7iDN3",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https:\/\/t.co\/BxYSj7iDN3",
+                  "expanded_url": "https:\/\/help.bungie.net\/",
+                  "display_url": "help.bungie.net",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 92938,
+          "friends_count": 1626,
+          "listed_count": 425,
+          "created_at": "Mon Mar 16 17:55:49 +0000 2009",
+          "favourites_count": 28652,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 15273,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "131516",
+          "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme14\/bg.gif",
+          "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme14\/bg.gif",
+          "profile_background_tile": true,
+          "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1198783956788768768\/qgz3pD0Q_normal.jpg",
+          "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1198783956788768768\/qgz3pD0Q_normal.jpg",
+          "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/24735658\/1565909222",
+          "profile_link_color": "FAB81E",
+          "profile_sidebar_border_color": "000000",
+          "profile_sidebar_fill_color": "EFEFEF",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": true,
+          "default_profile": false,
+          "default_profile_image": false,
+          "can_media_tag": false,
+          "followed_by": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 159,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Wed Apr 03 19:53:30 +0000 2019",
+        "id": 1113529980716244993,
+        "id_str": "1113529980716244993",
+        "text": "@TheFFRealist @jokermovie No performance of joker will ever come close to dark knight",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "TheFFRealist",
+              "name": "Michael Hauff",
+              "id": 2971353131,
+              "id_str": "2971353131",
+              "indices": [
+                0,
+                13
+              ]
+            },
+            {
+              "screen_name": "jokermovie",
+              "name": "Joker Movie",
+              "id": 1038128227485532160,
+              "id_str": "1038128227485532160",
+              "indices": [
+                14,
+                25
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\">Twitter for iPhone<\/a>",
+        "in_reply_to_status_id": 1113426151568023553,
+        "in_reply_to_status_id_str": "1113426151568023553",
+        "in_reply_to_user_id": 2971353131,
+        "in_reply_to_user_id_str": "2971353131",
+        "in_reply_to_screen_name": "TheFFRealist",
+        "user": {
+          "id": 1710365509,
+          "id_str": "1710365509",
+          "name": "Taylor schmidt",
+          "screen_name": "tschmidt1212",
+          "location": "",
+          "description": "",
+          "url": null,
+          "entities": {
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 108,
+          "friends_count": 191,
+          "listed_count": 1,
+          "created_at": "Thu Aug 29 15:40:39 +0000 2013",
+          "favourites_count": 6122,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 1035,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "C0DEED",
+          "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+          "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/978032460511391744\/KQYYkEBm_normal.jpg",
+          "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/978032460511391744\/KQYYkEBm_normal.jpg",
+          "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/1710365509\/1571472148",
+          "profile_link_color": "1DA1F2",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": true,
+          "default_profile": true,
+          "default_profile_image": false,
+          "can_media_tag": true,
+          "followed_by": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 50,
+        "favorite_count": 964,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Wed Apr 03 13:44:21 +0000 2019",
+        "id": 1113437080724680704,
+        "id_str": "1113437080724680704",
+        "text": "@jokermovie This doesn't really feel like a Joker movie...that aspect feels tacked on compared to what we're shown.… https:\/\/t.co\/xIZylCVAEd",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "jokermovie",
+              "name": "Joker Movie",
+              "id": 1038128227485532160,
+              "id_str": "1038128227485532160",
+              "indices": [
+                0,
+                11
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https:\/\/t.co\/xIZylCVAEd",
+              "expanded_url": "https:\/\/twitter.com\/i\/web\/status\/1113437080724680704",
+              "display_url": "twitter.com\/i\/web\/status\/1…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\">Twitter for Android<\/a>",
+        "in_reply_to_status_id": 1113425942574034945,
+        "in_reply_to_status_id_str": "1113425942574034945",
+        "in_reply_to_user_id": 1038128227485532160,
+        "in_reply_to_user_id_str": "1038128227485532160",
+        "in_reply_to_screen_name": "jokermovie",
+        "user": {
+          "id": 2204420810,
+          "id_str": "2204420810",
+          "name": "abril alejandra",
+          "screen_name": "hisrebelblue",
+          "location": "",
+          "description": "🦎🦎🦎",
+          "url": null,
+          "entities": {
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 59,
+          "friends_count": 138,
+          "listed_count": 0,
+          "created_at": "Wed Nov 20 06:58:34 +0000 2013",
+          "favourites_count": 9980,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 8123,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "000000",
+          "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+          "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1195886896024576000\/9AhN4Z38_normal.jpg",
+          "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1195886896024576000\/9AhN4Z38_normal.jpg",
+          "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/2204420810\/1529288117",
+          "profile_link_color": "F5ABB5",
+          "profile_sidebar_border_color": "000000",
+          "profile_sidebar_fill_color": "000000",
+          "profile_text_color": "000000",
+          "profile_use_background_image": false,
+          "has_extended_profile": true,
+          "default_profile": false,
+          "default_profile_image": false,
+          "can_media_tag": false,
+          "followed_by": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 22,
+        "favorite_count": 492,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Wed Apr 03 16:08:11 +0000 2019",
+        "id": 1113473276766875648,
+        "id_str": "1113473276766875648",
+        "text": "@jokermovie WOW",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "jokermovie",
+              "name": "Joker Movie",
+              "id": 1038128227485532160,
+              "id_str": "1038128227485532160",
+              "indices": [
+                0,
+                11
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\">Twitter for iPhone<\/a>",
+        "in_reply_to_status_id": 1113425942574034945,
+        "in_reply_to_status_id_str": "1113425942574034945",
+        "in_reply_to_user_id": 1038128227485532160,
+        "in_reply_to_user_id_str": "1038128227485532160",
+        "in_reply_to_screen_name": "jokermovie",
+        "user": {
+          "id": 2920014210,
+          "id_str": "2920014210",
+          "name": "Ben Barnes",
+          "screen_name": "benbarnes",
+          "location": "",
+          "description": "Film, TV & Theatre actor. @ThePunisher Season 2 is on @Netflix, ‘Golddigger’ is coming to @BBCone in 2019. @WestworldHBO is on @HBO",
+          "url": "https:\/\/t.co\/pmCSSrZE3h",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https:\/\/t.co\/pmCSSrZE3h",
+                  "expanded_url": "https:\/\/www.facebook.com\/BenBarnesOfficial",
+                  "display_url": "facebook.com\/BenBarnesOffic…",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 136181,
+          "friends_count": 295,
+          "listed_count": 502,
+          "created_at": "Sat Dec 06 00:00:52 +0000 2014",
+          "favourites_count": 5939,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": false,
+          "verified": true,
+          "statuses_count": 1339,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "C0DEED",
+          "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+          "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1098511947480195072\/2205rEww_normal.jpg",
+          "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1098511947480195072\/2205rEww_normal.jpg",
+          "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/2920014210\/1570449286",
+          "profile_link_color": "1DA1F2",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": true,
+          "default_profile_image": false,
+          "can_media_tag": true,
+          "followed_by": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 140,
+        "favorite_count": 2025,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "und"
+    },
+    {
+        "created_at": "Wed Apr 03 13:16:01 +0000 2019",
+        "id": 1113429948902137856,
+        "id_str": "1113429948902137856",
+        "text": "@jokermovie Congrats to Todd Philips. I can't wait for this film! https:\/\/t.co\/fFMYj6ySCn",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "jokermovie",
+              "name": "Joker Movie",
+              "id": 1038128227485532160,
+              "id_str": "1038128227485532160",
+              "indices": [
+                0,
+                11
+              ]
+            }
+          ],
+          "urls": [],
+          "media": [
+            {
+              "id": 1113429940958048256,
+              "id_str": "1113429940958048256",
+              "indices": [
+                66,
+                89
+              ],
+              "media_url": "http:\/\/pbs.twimg.com\/tweet_video_thumb\/D3OyodEWsAASeUj.jpg",
+              "media_url_https": "https:\/\/pbs.twimg.com\/tweet_video_thumb\/D3OyodEWsAASeUj.jpg",
+              "url": "https:\/\/t.co\/fFMYj6ySCn",
+              "display_url": "pic.twitter.com\/fFMYj6ySCn",
+              "expanded_url": "https:\/\/twitter.com\/ReaperOnCinema\/status\/1113429948902137856\/photo\/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "small": {
+                  "w": 374,
+                  "h": 404,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 374,
+                  "h": 404,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 374,
+                  "h": 404,
+                  "resize": "fit"
+                }
+              },
+              "features": {}
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 1113429940958048256,
+              "id_str": "1113429940958048256",
+              "indices": [
+                66,
+                89
+              ],
+              "media_url": "http:\/\/pbs.twimg.com\/tweet_video_thumb\/D3OyodEWsAASeUj.jpg",
+              "media_url_https": "https:\/\/pbs.twimg.com\/tweet_video_thumb\/D3OyodEWsAASeUj.jpg",
+              "url": "https:\/\/t.co\/fFMYj6ySCn",
+              "display_url": "pic.twitter.com\/fFMYj6ySCn",
+              "expanded_url": "https:\/\/twitter.com\/ReaperOnCinema\/status\/1113429948902137856\/photo\/1",
+              "type": "animated_gif",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "small": {
+                  "w": 374,
+                  "h": 404,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 374,
+                  "h": 404,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 374,
+                  "h": 404,
+                  "resize": "fit"
+                }
+              },
+              "video_info": {
+                "aspect_ratio": [
+                  187,
+                  202
+                ],
+                "variants": [
+                  {
+                    "bitrate": 0,
+                    "content_type": "video\/mp4",
+                    "url": "https:\/\/video.twimg.com\/tweet_video\/D3OyodEWsAASeUj.mp4"
+                  }
+                ]
+              },
+              "features": {}
+            }
+          ]
+        },
+        "source": "<a href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\">Twitter for Android<\/a>",
+        "in_reply_to_status_id": 1113425942574034945,
+        "in_reply_to_status_id_str": "1113425942574034945",
+        "in_reply_to_user_id": 1038128227485532160,
+        "in_reply_to_user_id_str": "1038128227485532160",
+        "in_reply_to_screen_name": "jokermovie",
+        "user": {
+          "id": 4185456253,
+          "id_str": "4185456253",
+          "name": "Mr.Reaper",
+          "screen_name": "ReaperHorror",
+          "location": "Reaperville",
+          "description": "The home to the bone man himself, all tweets are considered #Reapermoments",
+          "url": null,
+          "entities": {
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 487,
+          "friends_count": 1755,
+          "listed_count": 6,
+          "created_at": "Tue Nov 10 02:01:22 +0000 2015",
+          "favourites_count": 1186,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 8955,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "C0DEED",
+          "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+          "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1153840040222445568\/x_1pAzIm_normal.jpg",
+          "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1153840040222445568\/x_1pAzIm_normal.jpg",
+          "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/4185456253\/1564283342",
+          "profile_link_color": "1DA1F2",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": true,
+          "default_profile": true,
+          "default_profile_image": false,
+          "can_media_tag": false,
+          "followed_by": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 4,
+        "favorite_count": 126,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "lang": "en"
+    }
+][
+{
+    "created_at": "Thu Jul 25 18:03:14 +0000 2019",
+    "id": 1154452059652890624,
+    "id_str": "1154452059652890624",
+    "text": "@Zombieland 10 years later 😩 so fucking excited",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "Zombieland",
+          "name": "Zombieland: Double Tap",
+          "id": 20651402,
+          "id_str": "20651402",
+          "indices": [
+            0,
+            11
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\">Twitter for Android<\/a>",
+    "in_reply_to_status_id": 1154421046444875778,
+    "in_reply_to_status_id_str": "1154421046444875778",
+    "in_reply_to_user_id": 20651402,
+    "in_reply_to_user_id_str": "20651402",
+    "in_reply_to_screen_name": "Zombieland",
+    "user": {
+      "id": 85218024,
+      "id_str": "85218024",
+      "name": "𝙙ɹ𝙣𝙯𝙯əʎ",
+      "screen_name": "yezzzurp",
+      "location": "LV426",
+      "description": "𓆣𝙚𝙫𝙚𝙧𝙮𝙤𝙣𝙚 𝙞𝙨 𝙬𝙚𝙡𝙘𝙤𝙢𝙚𓆣\n\n               𓁼𓃠𓃰",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 25384,
+      "friends_count": 25655,
+      "listed_count": 37,
+      "created_at": "Mon Oct 26 02:21:13 +0000 2009",
+      "favourites_count": 42008,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 38739,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "00AAFF",
+      "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme15\/bg.png",
+      "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme15\/bg.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1193320852630073344\/kzY3apKC_normal.jpg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1193320852630073344\/kzY3apKC_normal.jpg",
+      "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/85218024\/1574325325",
+      "profile_link_color": "00A6FF",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "EDEDED",
+      "profile_text_color": "04CF2D",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "can_media_tag": true,
+      "followed_by": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 119,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+},
+{
+    "created_at": "Thu Jul 25 16:45:55 +0000 2019",
+    "id": 1154432602088103936,
+    "id_str": "1154432602088103936",
+    "text": "@Zombieland @AGramuglia Haven’t watched the first movie, but I’ve gotta say.\n\nThis looks enjoyable, I think I’ll mi… https:\/\/t.co\/a3CYpEMhMm",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "Zombieland",
+          "name": "Zombieland: Double Tap",
+          "id": 20651402,
+          "id_str": "20651402",
+          "indices": [
+            0,
+            11
+          ]
+        },
+        {
+          "screen_name": "AGramuglia",
+          "name": "Ant is Doing NaNoWriMo...",
+          "id": 619959481,
+          "id_str": "619959481",
+          "indices": [
+            12,
+            23
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https:\/\/t.co\/a3CYpEMhMm",
+          "expanded_url": "https:\/\/twitter.com\/i\/web\/status\/1154432602088103936",
+          "display_url": "twitter.com\/i\/web\/status\/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\">Twitter for iPhone<\/a>",
+    "in_reply_to_status_id": 1154421046444875778,
+    "in_reply_to_status_id_str": "1154421046444875778",
+    "in_reply_to_user_id": 20651402,
+    "in_reply_to_user_id_str": "20651402",
+    "in_reply_to_screen_name": "Zombieland",
+    "user": {
+      "id": 952604999527358466,
+      "id_str": "952604999527358466",
+      "name": "The Arabian Eagle🦅",
+      "screen_name": "KingFahad360",
+      "location": "",
+      "description": "19| Bisexual| Lover Of Film and Animation. Loves to draw Fan Art| #ActuallyAutistic. This account sometimes tweets stuff that is NSFW. Girlfriend is @SashaSFW",
+      "url": "https:\/\/t.co\/jHGHaqiI1w",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https:\/\/t.co\/jHGHaqiI1w",
+              "expanded_url": "https:\/\/psnprofiles.com\/Soviet_Albania",
+              "display_url": "psnprofiles.com\/Soviet_Albania",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1203,
+      "friends_count": 1164,
+      "listed_count": 13,
+      "created_at": "Sun Jan 14 18:15:05 +0000 2018",
+      "favourites_count": 35903,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 52855,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1190045852204781569\/cHh3zdbN_normal.jpg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1190045852204781569\/cHh3zdbN_normal.jpg",
+      "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/952604999527358466\/1573669157",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "can_media_tag": false,
+      "followed_by": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 15,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+{
+    "created_at": "Thu Jul 25 16:13:53 +0000 2019",
+    "id": 1154424542804291589,
+    "id_str": "1154424542804291589",
+    "text": "@Zombieland Hell yes.",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "Zombieland",
+          "name": "Zombieland: Double Tap",
+          "id": 20651402,
+          "id_str": "20651402",
+          "indices": [
+            0,
+            11
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"https:\/\/mobile.twitter.com\" rel=\"nofollow\">Twitter Web App<\/a>",
+    "in_reply_to_status_id": 1154421046444875778,
+    "in_reply_to_status_id_str": "1154421046444875778",
+    "in_reply_to_user_id": 20651402,
+    "in_reply_to_user_id_str": "20651402",
+    "in_reply_to_screen_name": "Zombieland",
+    "user": {
+      "id": 123574362,
+      "id_str": "123574362",
+      "name": "FANGORIA",
+      "screen_name": "FANGORIA",
+      "location": "",
+      "description": "The First in Fright since 1979, celebrating forty years of horror.",
+      "url": "https:\/\/t.co\/hJ4v006aL6",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https:\/\/t.co\/hJ4v006aL6",
+              "expanded_url": "http:\/\/www.FANGORIA.com",
+              "display_url": "FANGORIA.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 169355,
+      "friends_count": 600,
+      "listed_count": 1805,
+      "created_at": "Tue Mar 16 14:29:18 +0000 2010",
+      "favourites_count": 31306,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 12503,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "1A1B1F",
+      "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme9\/bg.gif",
+      "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme9\/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1196522833897312256\/Lne2xtgT_normal.jpg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1196522833897312256\/Lne2xtgT_normal.jpg",
+      "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/123574362\/1574108249",
+      "profile_link_color": "000000",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "252429",
+      "profile_text_color": "666666",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "can_media_tag": false,
+      "followed_by": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 74,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+{
+    "created_at": "Thu Jul 25 16:05:21 +0000 2019",
+    "id": 1154422392523034624,
+    "id_str": "1154422392523034624",
+    "text": "@Zombieland i’m so fkkin happy https:\/\/t.co\/ZmIRiZDzrK",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "Zombieland",
+          "name": "Zombieland: Double Tap",
+          "id": 20651402,
+          "id_str": "20651402",
+          "indices": [
+            0,
+            11
+          ]
+        }
+      ],
+      "urls": [],
+      "media": [
+        {
+          "id": 1154422386810339329,
+          "id_str": "1154422386810339329",
+          "indices": [
+            31,
+            54
+          ],
+          "media_url": "http:\/\/pbs.twimg.com\/tweet_video_thumb\/EAVVC16WwAElJY2.jpg",
+          "media_url_https": "https:\/\/pbs.twimg.com\/tweet_video_thumb\/EAVVC16WwAElJY2.jpg",
+          "url": "https:\/\/t.co\/ZmIRiZDzrK",
+          "display_url": "pic.twitter.com\/ZmIRiZDzrK",
+          "expanded_url": "https:\/\/twitter.com\/AlexLeeNowak\/status\/1154422392523034624\/photo\/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 160,
+              "h": 180,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 160,
+              "h": 180,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 160,
+              "h": 180,
+              "resize": "fit"
+            }
+          },
+          "features": {}
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1154422386810339329,
+          "id_str": "1154422386810339329",
+          "indices": [
+            31,
+            54
+          ],
+          "media_url": "http:\/\/pbs.twimg.com\/tweet_video_thumb\/EAVVC16WwAElJY2.jpg",
+          "media_url_https": "https:\/\/pbs.twimg.com\/tweet_video_thumb\/EAVVC16WwAElJY2.jpg",
+          "url": "https:\/\/t.co\/ZmIRiZDzrK",
+          "display_url": "pic.twitter.com\/ZmIRiZDzrK",
+          "expanded_url": "https:\/\/twitter.com\/AlexLeeNowak\/status\/1154422392523034624\/photo\/1",
+          "type": "animated_gif",
+          "sizes": {
+            "small": {
+              "w": 160,
+              "h": 180,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 160,
+              "h": 180,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 160,
+              "h": 180,
+              "resize": "fit"
+            }
+          },
+          "video_info": {
+            "aspect_ratio": [
+              8,
+              9
+            ],
+            "variants": [
+              {
+                "bitrate": 0,
+                "content_type": "video\/mp4",
+                "url": "https:\/\/video.twimg.com\/tweet_video\/EAVVC16WwAElJY2.mp4"
+              }
+            ]
+          },
+          "features": {}
+        }
+      ]
+    },
+    "source": "<a href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\">Twitter for iPhone<\/a>",
+    "in_reply_to_status_id": 1154421046444875778,
+    "in_reply_to_status_id_str": "1154421046444875778",
+    "in_reply_to_user_id": 20651402,
+    "in_reply_to_user_id_str": "20651402",
+    "in_reply_to_screen_name": "Zombieland",
+    "user": {
+      "id": 311027736,
+      "id_str": "311027736",
+      "name": "Alex Lee",
+      "screen_name": "AlexLeeNowak",
+      "location": "atlanta, ga",
+      "description": "\"yIKES\" -my catchphrase and my motto",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 203,
+      "friends_count": 153,
+      "listed_count": 0,
+      "created_at": "Sat Jun 04 19:31:46 +0000 2011",
+      "favourites_count": 10069,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 5064,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "009999",
+      "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme14\/bg.gif",
+      "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme14\/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1199469715149742080\/wW5RyLmD_normal.jpg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1199469715149742080\/wW5RyLmD_normal.jpg",
+      "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/311027736\/1528669652",
+      "profile_link_color": "9D6B84",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "252429",
+      "profile_text_color": "666666",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "can_media_tag": false,
+      "followed_by": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 53,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "lang": "en"
+  },
+{
+    "created_at": "Thu Jul 25 16:05:21 +0000 2019",
+    "id": 1154422392523034624,
+    "id_str": "1154422392523034624",
+    "text": "@Zombieland i’m so fkkin happy https:\/\/t.co\/ZmIRiZDzrK",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "Zombieland",
+          "name": "Zombieland: Double Tap",
+          "id": 20651402,
+          "id_str": "20651402",
+          "indices": [
+            0,
+            11
+          ]
+        }
+      ],
+      "urls": [],
+      "media": [
+        {
+          "id": 1154422386810339329,
+          "id_str": "1154422386810339329",
+          "indices": [
+            31,
+            54
+          ],
+          "media_url": "http:\/\/pbs.twimg.com\/tweet_video_thumb\/EAVVC16WwAElJY2.jpg",
+          "media_url_https": "https:\/\/pbs.twimg.com\/tweet_video_thumb\/EAVVC16WwAElJY2.jpg",
+          "url": "https:\/\/t.co\/ZmIRiZDzrK",
+          "display_url": "pic.twitter.com\/ZmIRiZDzrK",
+          "expanded_url": "https:\/\/twitter.com\/AlexLeeNowak\/status\/1154422392523034624\/photo\/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 160,
+              "h": 180,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 160,
+              "h": 180,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 160,
+              "h": 180,
+              "resize": "fit"
+            }
+          },
+          "features": {}
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1154422386810339329,
+          "id_str": "1154422386810339329",
+          "indices": [
+            31,
+            54
+          ],
+          "media_url": "http:\/\/pbs.twimg.com\/tweet_video_thumb\/EAVVC16WwAElJY2.jpg",
+          "media_url_https": "https:\/\/pbs.twimg.com\/tweet_video_thumb\/EAVVC16WwAElJY2.jpg",
+          "url": "https:\/\/t.co\/ZmIRiZDzrK",
+          "display_url": "pic.twitter.com\/ZmIRiZDzrK",
+          "expanded_url": "https:\/\/twitter.com\/AlexLeeNowak\/status\/1154422392523034624\/photo\/1",
+          "type": "animated_gif",
+          "sizes": {
+            "small": {
+              "w": 160,
+              "h": 180,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 160,
+              "h": 180,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 160,
+              "h": 180,
+              "resize": "fit"
+            }
+          },
+          "video_info": {
+            "aspect_ratio": [
+              8,
+              9
+            ],
+            "variants": [
+              {
+                "bitrate": 0,
+                "content_type": "video\/mp4",
+                "url": "https:\/\/video.twimg.com\/tweet_video\/EAVVC16WwAElJY2.mp4"
+              }
+            ]
+          },
+          "features": {}
+        }
+      ]
+    },
+    "source": "<a href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\">Twitter for iPhone<\/a>",
+    "in_reply_to_status_id": 1154421046444875778,
+    "in_reply_to_status_id_str": "1154421046444875778",
+    "in_reply_to_user_id": 20651402,
+    "in_reply_to_user_id_str": "20651402",
+    "in_reply_to_screen_name": "Zombieland",
+    "user": {
+      "id": 311027736,
+      "id_str": "311027736",
+      "name": "Alex Lee",
+      "screen_name": "AlexLeeNowak",
+      "location": "atlanta, ga",
+      "description": "\"yIKES\" -my catchphrase and my motto",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 203,
+      "friends_count": 153,
+      "listed_count": 0,
+      "created_at": "Sat Jun 04 19:31:46 +0000 2011",
+      "favourites_count": 10069,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 5064,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "009999",
+      "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme14\/bg.gif",
+      "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme14\/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1199469715149742080\/wW5RyLmD_normal.jpg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1199469715149742080\/wW5RyLmD_normal.jpg",
+      "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/311027736\/1528669652",
+      "profile_link_color": "9D6B84",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "252429",
+      "profile_text_color": "666666",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "can_media_tag": false,
+      "followed_by": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 53,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "lang": "en"
+  }
+]
