@@ -1,0 +1,3582 @@
+@prefix ns1: <https://iisg.amsterdam/vocab/> .
+@prefix ns2: <http://purl.org/dc/terms/> .
+@prefix ns3: <http://www.w3.org/ns/csvw#> .
+@prefix ns4: <http://www.w3.org/ns/prov#> .
+@prefix ns5: <http://schema.org/> .
+@prefix ns6: <http://www.nanopub.org/nschema#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://iisg.amsterdam/0> ns1:Comment "Just watched the movie it's amazing specially ending"^^xsd:string ;
+    ns1:Date "22.02.19 09:53:04"^^xsd:string ;
+    ns1:Id "1"^^xsd:string ;
+    ns1:Likes "2"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgwK7J0MczzL6CqJquB4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/1> ns1:Comment "The X force beats the X men! I swear."^^xsd:string ;
+    ns1:Date "22.02.19 09:53:04"^^xsd:string ;
+    ns1:Id "2"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugzroh1YwjCDjxFhn_d4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/10> ns1:Comment "ibfooitbup"^^xsd:string ;
+    ns1:Date "22.02.19 09:53:04"^^xsd:string ;
+    ns1:Id "11"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugz8P3QLAx6upa_uqt54AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/100> ns1:Comment "best 2 hours of 5’11 Thanos playing as the winter soldier trying to kill a boy plus size of Star Fire"^^xsd:string ;
+    ns1:Date "22.03.19 09:53:04"^^xsd:string ;
+    ns1:Id "80"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgyhY5VGf2vSL-EYhYl4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/101> ns1:Comment "Well done. Your video is currently ranking #2 for the keyword: 'deadpool 2'. I can show you what other keywords you rank for. Would you like to know?"^^xsd:string ;
+    ns1:Date "22.03.19 09:53:04"^^xsd:string ;
+    ns1:Id "81"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgwBi5lzBZOXMKAWN0B4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/102> ns1:Comment "Yeah We all need Deadpool 3."^^xsd:string ;
+    ns1:Date "22.03.19 09:53:04"^^xsd:string ;
+    ns1:Id "82"^^xsd:string ;
+    ns1:Likes "1"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugx3KRQ8v4S_XJwdpxp4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/103> ns1:Comment "dutxin m yas queen"^^xsd:string ;
+    ns1:Date "22.03.19 09:53:04"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugx3KRQ8v4S_XJwdpxp4AaABAg"^^xsd:string ;
+    ns1:SubId "82-1"^^xsd:string .
+
+<https://iisg.amsterdam/104> ns1:Comment "Phill lord and Chris Miller should direct mcu deadpool"^^xsd:string ;
+    ns1:Date "22.03.19 09:53:04"^^xsd:string ;
+    ns1:Id "83"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugx0tOMk_CwofpKZuMN4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/105> ns1:Comment "Is this supposed to be funny?... Oh, sorry. Ha. Ha. Ha. I'm dyin'."^^xsd:string ;
+    ns1:Date "22.03.19 09:53:04"^^xsd:string ;
+    ns1:Id "84"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugx1k9jIguhvFuActat4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/106> ns1:Comment "???? ??? ????"^^xsd:string ;
+    ns1:Date "22.03.19 09:53:04"^^xsd:string ;
+    ns1:Id "85"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgyYpOU802rw1x0IzYR4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/107> ns1:Comment "Anyone heard Pikachu sound?"^^xsd:string ;
+    ns1:Date "22.04.19 09:53:04"^^xsd:string ;
+    ns1:Id "86"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugzr-v_57TpB8oRRWyV4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/108> ns1:Comment "That's Lee from gotham"^^xsd:string ;
+    ns1:Date "22.04.19 09:53:04"^^xsd:string ;
+    ns1:Id "87"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgxOqwSs5v1Es0OZul14AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/109> ns1:Comment "Deadpool sounds like Pikachu!"^^xsd:string ;
+    ns1:Date "22.04.19 09:53:04"^^xsd:string ;
+    ns1:Id "88"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgzjVIrVflBZkbVtfi54AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/11> ns1:Comment "ievybvxlof"^^xsd:string ;
+    ns1:Date "22.02.19 09:53:04"^^xsd:string ;
+    ns1:Id "12"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgyPO-sGzXvluqsnpSt4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/110> ns1:Comment "DC fans: pfft marvel not that good DC fans: ok its not that bad"^^xsd:string ;
+    ns1:Date "22.04.19 09:53:04"^^xsd:string ;
+    ns1:Id "89"^^xsd:string ;
+    ns1:Likes "1"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugx8cn2DPGfQ5JbPzI94AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/111> ns1:Comment "Kiss me like you miss me"^^xsd:string ;
+    ns1:Date "22.04.19 09:53:04"^^xsd:string ;
+    ns1:Id "90"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgxzFC1oOmuyVYNyXSt4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/112> ns1:Comment "Hi Wade! Hi Yukio! <3"^^xsd:string ;
+    ns1:Date "22.04.19 09:53:04"^^xsd:string ;
+    ns1:Id "91"^^xsd:string ;
+    ns1:Likes "2"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgzdKv5fdu44IHqhBOV4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/113> ns1:Comment "it looks like better than Disney Marvel movies."^^xsd:string ;
+    ns1:Date "22.04.19 09:53:04"^^xsd:string ;
+    ns1:Id "92"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgxPZFQJTbm5Hl7ZRgB4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/114> ns1:Comment "what is the first song pls ??"^^xsd:string ;
+    ns1:Date "22.04.19 09:53:04"^^xsd:string ;
+    ns1:Id "93"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgysHXot9NkxQzh0hNF4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/115> ns1:Comment "I like this"^^xsd:string ;
+    ns1:Date "22.04.19 09:53:04"^^xsd:string ;
+    ns1:Id "94"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugw8iNb7rp7UiNsvjJJ4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/116> ns1:Comment "Wait deadpool is marval right but he is on dc why please replie back"^^xsd:string ;
+    ns1:Date "22.04.19 09:53:04"^^xsd:string ;
+    ns1:Id "95"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgwZDPmSmbXpr69OUAZ4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/117> ns1:Comment "something tells me you don't know what jokes are"^^xsd:string ;
+    ns1:Date "22.06.19 09:53:04"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgwZDPmSmbXpr69OUAZ4AaABAg"^^xsd:string ;
+    ns1:SubId "95-1"^^xsd:string .
+
+<https://iisg.amsterdam/118> ns1:Comment "From the Studio that brought you 27 Dresses 2019?"^^xsd:string ;
+    ns1:Date "22.04.19 09:53:04"^^xsd:string ;
+    ns1:Id "96"^^xsd:string ;
+    ns1:Likes "32"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgyM1wCZgaFCpTUZiC94AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/119> ns1:Comment "Nailed it."^^xsd:string ;
+    ns1:Date "22.04.19 09:53:04"^^xsd:string ;
+    ns1:Id "97"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgwsgsDIGgKLWS6S7np4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/12> ns1:Comment "lnphowtqeu"^^xsd:string ;
+    ns1:Date "22.02.19 09:53:04"^^xsd:string ;
+    ns1:Id "13"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgwaHxdIHL4PI-5tbUh4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/120> ns1:Comment "Funny ????"^^xsd:string ;
+    ns1:Date "22.04.19 09:53:04"^^xsd:string ;
+    ns1:Id "98"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgwaMcX8IPR9OPmEed14AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/121> ns1:Comment "I hate Ryan Reynolds....."^^xsd:string ;
+    ns1:Date "22.04.19 09:53:04"^^xsd:string ;
+    ns1:Id "99"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgxD6ECPM9Qpzsi4lM14AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/122> ns1:Comment "( ?° ?? ?°)"^^xsd:string ;
+    ns1:Date "22.04.19 09:53:04"^^xsd:string ;
+    ns1:Id "100"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgwswmD8t0Jy5QNP_4p4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/123> ns1:Comment "Has anyone else noticed that the first second in the  song at the start of the movie is exactly the same as in logan ? :D :D"^^xsd:string ;
+    ns1:Date "22.04.19 09:53:04"^^xsd:string ;
+    ns1:Id "101"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgzIfxsUxCRlHYt0Z894AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/124> ns1:Comment "I swear i first thought that deadpools girlfriend is lee! Gordon got betrayed. :D"^^xsd:string ;
+    ns1:Date "22.04.19 09:53:04"^^xsd:string ;
+    ns1:Id "102"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgzSQDvdIf8--25XQap4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/125> ns1:Comment "blriepnwoi"^^xsd:string ;
+    ns1:Date "22.04.19 09:53:04"^^xsd:string ;
+    ns1:Id "103"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgxZF5quTYmAcDishRN4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/126> ns1:Comment "cohjsrlbnk"^^xsd:string ;
+    ns1:Date "22.04.19 09:53:04"^^xsd:string ;
+    ns1:Id "104"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgyF7C_Tfpr9jq9nHpZ4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/127> ns1:Comment "dsmaeorruq"^^xsd:string ;
+    ns1:Date "22.04.19 09:53:04"^^xsd:string ;
+    ns1:Id "105"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgwV_VCgK5US8SJqedt4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/128> ns1:Comment "dussxbolep"^^xsd:string ;
+    ns1:Date "22.04.19 09:53:04"^^xsd:string ;
+    ns1:Id "106"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugy1q04rm44RrMhPk4Z4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/129> ns1:Comment "fhuzkutiqx"^^xsd:string ;
+    ns1:Date "22.04.19 09:53:04"^^xsd:string ;
+    ns1:Id "107"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugy4LuBG95EIr7IEBG14AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/13> ns1:Comment "ufleiswkez"^^xsd:string ;
+    ns1:Date "22.02.19 09:53:04"^^xsd:string ;
+    ns1:Id "14"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgyOOkkSUmuK3Z436_l4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/130> ns1:Comment "finifipsxe"^^xsd:string ;
+    ns1:Date "22.04.19 09:53:04"^^xsd:string ;
+    ns1:Id "108"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgwkMFj3c0fbQh-6k_d4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/131> ns1:Comment "gxelckgcgp"^^xsd:string ;
+    ns1:Date "22.04.19 09:53:04"^^xsd:string ;
+    ns1:Id "109"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgzHY2I3iQJhgDgNLYJ4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/132> ns1:Comment "gztybqiehy"^^xsd:string ;
+    ns1:Date "22.04.19 09:53:04"^^xsd:string ;
+    ns1:Id "110"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugy-r_chW6HBT-6Z7n14AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/133> ns1:Comment "hrtevwepit"^^xsd:string ;
+    ns1:Date "22.04.19 09:53:04"^^xsd:string ;
+    ns1:Id "111"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgzhDt9BlZIAGb-udfJ4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/134> ns1:Comment "inhfekesxw"^^xsd:string ;
+    ns1:Date "22.04.19 09:53:04"^^xsd:string ;
+    ns1:Id "112"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgyCkWHUPE5CwmblALV4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/135> ns1:Comment "irekfjimvs"^^xsd:string ;
+    ns1:Date "22.04.19 09:53:04"^^xsd:string ;
+    ns1:Id "113"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgzKvCXbvhx80tRPP6N4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/136> ns1:Comment "javzhhpyok"^^xsd:string ;
+    ns1:Date "22.04.19 09:53:04"^^xsd:string ;
+    ns1:Id "114"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugwk0G2YRwFo45Ukznl4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/137> ns1:Comment "jixozgzaoz"^^xsd:string ;
+    ns1:Date "22.04.19 09:53:04"^^xsd:string ;
+    ns1:Id "115"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugy7eDBQAzQC7Q8LmId4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/138> ns1:Comment "jmpbirytrb"^^xsd:string ;
+    ns1:Date "22.04.19 09:53:04"^^xsd:string ;
+    ns1:Id "116"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugw9jBP960wAR5e9gdJ4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/139> ns1:Comment "jxrcytzpfi"^^xsd:string ;
+    ns1:Date "22.04.19 09:53:04"^^xsd:string ;
+    ns1:Id "117"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugy8lgG_0fweuDvYJe54AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/14> ns1:Comment "xbjanlodnb"^^xsd:string ;
+    ns1:Date "22.02.19 09:53:04"^^xsd:string ;
+    ns1:Id "15"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgxdF5MWl7HdybqukRl4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/140> ns1:Comment "jzuksctkis"^^xsd:string ;
+    ns1:Date "22.04.19 09:53:04"^^xsd:string ;
+    ns1:Id "118"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugy_T3g-vcw1CbwPnb54AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/141> ns1:Comment "kiegtevuqr"^^xsd:string ;
+    ns1:Date "22.04.19 09:53:04"^^xsd:string ;
+    ns1:Id "119"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgwZDAih0VTALyB1bg14AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/142> ns1:Comment "lloefofrtx"^^xsd:string ;
+    ns1:Date "22.04.19 09:53:04"^^xsd:string ;
+    ns1:Id "120"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgwD45ytVmhAYQLUxjd4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/143> ns1:Comment "mubgtzmcih"^^xsd:string ;
+    ns1:Date "22.04.19 09:53:04"^^xsd:string ;
+    ns1:Id "121"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgwBrNCM73OA7JUKGfZ4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/144> ns1:Comment "niyorbxetq"^^xsd:string ;
+    ns1:Date "22.04.19 09:53:04"^^xsd:string ;
+    ns1:Id "122"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugy4m8y5XAQ9bqPpfMB4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/145> ns1:Comment "nzdamaxifk"^^xsd:string ;
+    ns1:Date "22.04.19 09:53:04"^^xsd:string ;
+    ns1:Id "123"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgzGfq8vazvFT2ZrZ5d4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/146> ns1:Comment "olftsudxhx"^^xsd:string ;
+    ns1:Date "22.04.19 09:53:04"^^xsd:string ;
+    ns1:Id "124"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgyCI4BaDJ_AIfe5bGh4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/147> ns1:Comment "rmmpsvafup"^^xsd:string ;
+    ns1:Date "22.04.19 09:53:04"^^xsd:string ;
+    ns1:Id "125"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugwwmwed4ayMLz3pGsh4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/148> ns1:Comment "rxlzwbawok"^^xsd:string ;
+    ns1:Date "22.04.19 09:53:04"^^xsd:string ;
+    ns1:Id "126"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugziw44F5ekM-VJnNJ54AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/149> ns1:Comment "sumsghbdyv"^^xsd:string ;
+    ns1:Date "22.04.19 09:53:04"^^xsd:string ;
+    ns1:Id "127"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgySLJ2C7iOCjtoE_XB4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/15> ns1:Comment "Blake Lively married the best person ever!"^^xsd:string ;
+    ns1:Date "22.02.19 09:53:04"^^xsd:string ;
+    ns1:Id "16"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgysoZ3_gyaqBc7KMtF4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/150> ns1:Comment "toawzfuehg"^^xsd:string ;
+    ns1:Date "22.04.19 09:53:04"^^xsd:string ;
+    ns1:Id "128"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugx9vDis27srsRLQ6fF4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/151> ns1:Comment "vmpfgsvakg"^^xsd:string ;
+    ns1:Date "22.04.19 09:53:04"^^xsd:string ;
+    ns1:Id "129"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgzQf94TkmK-GWfgcBV4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/152> ns1:Comment "wovhphuyyd"^^xsd:string ;
+    ns1:Date "22.04.19 09:53:04"^^xsd:string ;
+    ns1:Id "130"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugz4ZQ1j2it1FYHuTyx4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/153> ns1:Comment "xdjgptgmbe"^^xsd:string ;
+    ns1:Date "22.04.19 09:53:04"^^xsd:string ;
+    ns1:Id "131"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugwr3hF-lRM-oHriICx4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/154> ns1:Comment "ybagustouf"^^xsd:string ;
+    ns1:Date "22.04.19 09:53:04"^^xsd:string ;
+    ns1:Id "132"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugy05CPGRy3PLdz-ZVB4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/155> ns1:Comment "yfilvqvhfu"^^xsd:string ;
+    ns1:Date "22.04.19 09:53:04"^^xsd:string ;
+    ns1:Id "133"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgwA6HLhzZx3BdpEGGZ4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/156> ns1:Comment "zbxgrthukl"^^xsd:string ;
+    ns1:Date "22.04.19 09:53:04"^^xsd:string ;
+    ns1:Id "134"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugx37_waWJOBd7Qps994AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/157> ns1:Comment "zvzmkotcno"^^xsd:string ;
+    ns1:Date "22.04.19 09:53:04"^^xsd:string ;
+    ns1:Id "135"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgyOD1MwJvbnhY0YWPR4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/158> ns1:Comment "This was one of the best superhero movies I've seen ever, way better than the first Deadpool, and it was full of action and amazingly funny."^^xsd:string ;
+    ns1:Date "22.04.19 09:53:04"^^xsd:string ;
+    ns1:Id "136"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugzu1qDukhlZYAHVm2t4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/159> ns1:Comment "Ll cool j"^^xsd:string ;
+    ns1:Date "22.04.19 09:53:04"^^xsd:string ;
+    ns1:Id "137"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgzfdwdAAcMrsaTTG7R4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/16> ns1:Comment "I prefer my action movies to be less romance and stupid comedy and more intelligence and action."^^xsd:string ;
+    ns1:Date "22.02.19 09:53:04"^^xsd:string ;
+    ns1:Id "17"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgyN2M5ajkdBjOV7g9h4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/160> ns1:Comment "Is gordon ramsay in this movie?"^^xsd:string ;
+    ns1:Date "22.04.19 09:53:04"^^xsd:string ;
+    ns1:Id "138"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugy3TiW9L2ePt2f24Vx4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/161> ns1:Comment "Ilove deatpool"^^xsd:string ;
+    ns1:Date "22.04.19 09:53:04"^^xsd:string ;
+    ns1:Id "139"^^xsd:string ;
+    ns1:Likes "1"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgwmZtkM8r178H8si4h4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/162> ns1:Comment "Kok deatpool ciuman geli tau"^^xsd:string ;
+    ns1:Date "22.04.19 09:53:04"^^xsd:string ;
+    ns1:Id "140"^^xsd:string ;
+    ns1:Likes "1"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgwOvjwpkc8SczW36E14AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/163> ns1:Comment "0:24  what did he said"^^xsd:string ;
+    ns1:Date "22.04.19 09:53:04"^^xsd:string ;
+    ns1:Id "141"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgwMAvAAt4rP8ijshyt4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/164> ns1:Comment "Seening the movie name I thought it would be very furious  But after watching trailer it was very funny????"^^xsd:string ;
+    ns1:Date "22.04.19 09:53:04"^^xsd:string ;
+    ns1:Id "142"^^xsd:string ;
+    ns1:Likes "2"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgykwXE9Pg1zHui25Px4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/165> ns1:Comment "watch it here in full length @t  https://anotepad.com/notes/ryne49"^^xsd:string ;
+    ns1:Date "22.04.19 09:53:04"^^xsd:string ;
+    ns1:Id "143"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgzAnJ99ZKN7S_Fpz_B4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/166> ns1:Comment "Looks like too much of the same crap."^^xsd:string ;
+    ns1:Date "22.04.19 09:53:04"^^xsd:string ;
+    ns1:Id "144"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgwWd5WI_Vg-Fdy8YbR4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/167> ns1:Comment "It looks and sounds like the recorded sperate scenes JUST for the trailer"^^xsd:string ;
+    ns1:Date "22.04.19 09:53:04"^^xsd:string ;
+    ns1:Id "145"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgzmVh6meX8CNQ1hWUt4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/168> ns1:Comment "Still watching trailer in 2019"^^xsd:string ;
+    ns1:Date "22.04.19 09:53:04"^^xsd:string ;
+    ns1:Id "146"^^xsd:string ;
+    ns1:Likes "2"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgwUX9K3xKaDtw7yagx4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/169> ns1:Comment "Rest In Peace Stan lee"^^xsd:string ;
+    ns1:Date "22.04.19 09:53:04"^^xsd:string ;
+    ns1:Id "147"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugzouuxu5DAtMMrVQiB4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/17> ns1:Comment "Ok"^^xsd:string ;
+    ns1:Date "22.03.19 09:53:04"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgyN2M5ajkdBjOV7g9h4AaABAg"^^xsd:string ;
+    ns1:SubId "17-1"^^xsd:string .
+
+<https://iisg.amsterdam/170> ns1:Comment "deadpool 2"^^xsd:string ;
+    ns1:Date "22.04.19 09:53:04"^^xsd:string ;
+    ns1:Id "148"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugw1qjwe2fJI-J9l6PR4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/171> ns1:Comment "When is Deadpool 3"^^xsd:string ;
+    ns1:Date "22.04.19 09:53:04"^^xsd:string ;
+    ns1:Id "149"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugxs5ltIwtkpl2ehllh4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/172> ns1:Comment "The film is so childish with nonsense...even Green Lantern was far better than this..."^^xsd:string ;
+    ns1:Date "22.11.84 15:58:51"^^xsd:string ;
+    ns1:Id "150"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgyIeRHHtcSefBOPNzh4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/173> ns1:Comment "1:40  did anyone notice  the actor for penny wise I background"^^xsd:string ;
+    ns1:Date "22.11.84 15:58:51"^^xsd:string ;
+    ns1:Id "151"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgzH8ZaxiSwgkO4DWRd4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/174> ns1:Comment "Good but super boring!!!!!! ????"^^xsd:string ;
+    ns1:Date "22.11.84 15:58:51"^^xsd:string ;
+    ns1:Id "152"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugwm5-wMFOTMkBKILnJ4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/175> ns1:Comment "Deadpool 3 ??"^^xsd:string ;
+    ns1:Date "22.11.84 15:58:51"^^xsd:string ;
+    ns1:Id "153"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugzs84j-kJH5hOTxQtV4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/176> ns1:Comment "Wiro sableng"^^xsd:string ;
+    ns1:Date "22.11.84 15:58:51"^^xsd:string ;
+    ns1:Id "154"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugz5gWOsHCCNPzj2XCV4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/177> ns1:Comment "Hey watch Deadpool 2 post credit scenes in which Logan /Wolverine Appears https://youtu.be/0haLLEXJ2dU"^^xsd:string ;
+    ns1:Date "22.11.84 15:58:51"^^xsd:string ;
+    ns1:Id "155"^^xsd:string ;
+    ns1:Likes "1"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgyMet1oB9G3q_6J2Sh4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/178> ns1:Comment "0:41"^^xsd:string ;
+    ns1:Date "22.11.84 15:58:51"^^xsd:string ;
+    ns1:Id "156"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgyY4-0dAFOFXfsmnMF4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/179> ns1:Comment "Loved that Reynolds threw  in a Sisterhood of the Traveling Pants reference; his wife was one of the original wearers of the pants, (Blake Lively)."^^xsd:string ;
+    ns1:Date "22.11.84 15:58:51"^^xsd:string ;
+    ns1:Id "157"^^xsd:string ;
+    ns1:Likes "1"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgwZKjkvqLst03r3uv14AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/18> ns1:Comment "Raise your hand if you think Deadpool 1 is better than this?"^^xsd:string ;
+    ns1:Date "22.03.19 09:53:04"^^xsd:string ;
+    ns1:Id "18"^^xsd:string ;
+    ns1:Likes "1"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugz_mntruJKTAgzBQWR4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/180> ns1:Comment "People always say that the sequel is never as good as the original... well I guess they haven’t seen this movie"^^xsd:string ;
+    ns1:Date "22.11.84 15:58:51"^^xsd:string ;
+    ns1:Id "158"^^xsd:string ;
+    ns1:Likes "1"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgwiH1376F-tyfZjSIx4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/181> ns1:Comment "Domino was my favorite I think she deserves her own movie"^^xsd:string ;
+    ns1:Date "22.11.84 15:58:51"^^xsd:string ;
+    ns1:Id "159"^^xsd:string ;
+    ns1:Likes "3"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgyqwSrDBasy-r9op094AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/182> ns1:Comment "Thanks to Endgame, this and X-Men: Days of Future Past are considered bull crap after what Professor Hulk said about time traveling."^^xsd:string ;
+    ns1:Date "22.11.84 15:58:51"^^xsd:string ;
+    ns1:Id "160"^^xsd:string ;
+    ns1:Likes "1"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgzxxTtT8L5ezJ1iBy14AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/183> ns1:Comment "Also tomorow 1years ago movie  ????I’m from Turkey  And,I’m Marvel fan ??"^^xsd:string ;
+    ns1:Date "22.11.84 15:58:51"^^xsd:string ;
+    ns1:Id "161"^^xsd:string ;
+    ns1:Likes "2"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugzug7-7USTypKNV2Td4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/184> ns1:Comment "Detective Pikachu...?"^^xsd:string ;
+    ns1:Date "22.11.84 15:58:51"^^xsd:string ;
+    ns1:Id "162"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugx2EKefUH8_jwUOqrR4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/185> ns1:Comment "uhh what is thanos doing here?"^^xsd:string ;
+    ns1:Date "22.11.84 15:58:51"^^xsd:string ;
+    ns1:Id "163"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgwBhD_MChkEe6yTN1h4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/186> ns1:Comment "One of the best films ever made"^^xsd:string ;
+    ns1:Date "22.11.84 15:58:51"^^xsd:string ;
+    ns1:Id "164"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgzxeZaM2oUEmqXwqpV4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/187> ns1:Comment "ebanqseklp"^^xsd:string ;
+    ns1:Date "22.11.84 15:58:51"^^xsd:string ;
+    ns1:Id "165"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgxtNFIeE7EVMDfZpOp4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/188> ns1:Comment "epgmyofbwk"^^xsd:string ;
+    ns1:Date "22.11.84 15:58:51"^^xsd:string ;
+    ns1:Id "166"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugz_MhX3dwVR9iZm5QR4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/189> ns1:Comment "eywpmagheo"^^xsd:string ;
+    ns1:Date "22.11.84 15:58:51"^^xsd:string ;
+    ns1:Id "167"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgzJGAJn1-Qsu4fQ_-p4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/19> ns1:Comment "Is there a solid reason why people disliked this movie so much Was it bad in terms of quality"^^xsd:string ;
+    ns1:Date "22.03.19 09:53:04"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugz_mntruJKTAgzBQWR4AaABAg"^^xsd:string ;
+    ns1:SubId "18-1"^^xsd:string .
+
+<https://iisg.amsterdam/190> ns1:Comment "jiseobfudp"^^xsd:string ;
+    ns1:Date "22.11.84 15:58:51"^^xsd:string ;
+    ns1:Id "168"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgwU7Ud0TZ452nM8ahZ4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/191> ns1:Comment "lcixmmuuit"^^xsd:string ;
+    ns1:Date "22.11.84 15:58:51"^^xsd:string ;
+    ns1:Id "169"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgytKm-_YdZIpvZdOKR4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/192> ns1:Comment "mbimjjrvvl"^^xsd:string ;
+    ns1:Date "22.11.84 15:58:51"^^xsd:string ;
+    ns1:Id "170"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugy38WlQ87kyf7Pk8yp4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/193> ns1:Comment "ntqvaxicvi"^^xsd:string ;
+    ns1:Date "22.11.84 15:58:51"^^xsd:string ;
+    ns1:Id "171"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugy9ssqSRbV8_pL3aiN4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/194> ns1:Comment "rnuqwwegta"^^xsd:string ;
+    ns1:Date "22.11.84 15:58:51"^^xsd:string ;
+    ns1:Id "172"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugw97WDvifTir3sUzAl4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/195> ns1:Comment "shuarcwktj"^^xsd:string ;
+    ns1:Date "22.11.84 15:58:51"^^xsd:string ;
+    ns1:Id "173"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgzKFpj9nzbA1N5Ntjt4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/196> ns1:Comment "skilebynta"^^xsd:string ;
+    ns1:Date "22.11.84 15:58:51"^^xsd:string ;
+    ns1:Id "174"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugypd5bilZ--lCpn6VJ4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/197> ns1:Comment "tywaqlrpph"^^xsd:string ;
+    ns1:Date "22.11.84 15:58:51"^^xsd:string ;
+    ns1:Id "175"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgwIu9WpffTcFApVhgR4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/198> ns1:Comment "ukvofqjois"^^xsd:string ;
+    ns1:Date "22.11.84 15:58:51"^^xsd:string ;
+    ns1:Id "176"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgwHNXm_oW7-r8vfywl4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/199> ns1:Comment "ulgjkavhmb"^^xsd:string ;
+    ns1:Date "22.11.84 15:58:51"^^xsd:string ;
+    ns1:Id "177"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugw6aNb2-RY3ddPc6Np4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/2> ns1:Comment "anhtsxsflu"^^xsd:string ;
+    ns1:Date "22.02.19 09:53:04"^^xsd:string ;
+    ns1:Id "3"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgwwgdRo6USKyhMyc_B4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/20> ns1:Comment "Love that Indian drive ?? we Indian are beautiful!!"^^xsd:string ;
+    ns1:Date "22.03.19 09:53:04"^^xsd:string ;
+    ns1:Id "19"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgzgjVtv-nft9-lRMhx4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/200> ns1:Comment "uwgsaaotie"^^xsd:string ;
+    ns1:Date "22.11.84 15:58:51"^^xsd:string ;
+    ns1:Id "178"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgyXMnX12_J2Z0Cumpp4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/201> ns1:Comment "uyrfukkaai"^^xsd:string ;
+    ns1:Date "22.11.84 15:58:51"^^xsd:string ;
+    ns1:Id "179"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgxNtULamIhQfrujIVV4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/202> ns1:Comment "vgjblioypl"^^xsd:string ;
+    ns1:Date "22.11.84 15:58:51"^^xsd:string ;
+    ns1:Id "180"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgxGqJSZhg37llEwmhV4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/203> ns1:Comment "vikjbtsifg"^^xsd:string ;
+    ns1:Date "22.11.84 15:58:51"^^xsd:string ;
+    ns1:Id "181"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgyIk5Ao1sOlK2_5VDl4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/204> ns1:Comment "vorsrtczhj"^^xsd:string ;
+    ns1:Date "22.11.84 15:58:51"^^xsd:string ;
+    ns1:Id "182"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgwDh9A0fXS6bXYZg594AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/205> ns1:Comment "wcojkyonog"^^xsd:string ;
+    ns1:Date "22.11.84 15:58:51"^^xsd:string ;
+    ns1:Id "183"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgyThjFgTJQEAVMvPup4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/206> ns1:Comment "wqkqeopdob"^^xsd:string ;
+    ns1:Date "22.11.84 15:58:51"^^xsd:string ;
+    ns1:Id "184"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugz7cR-58z9s5JcPhaZ4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/207> ns1:Comment "wvekismlyl"^^xsd:string ;
+    ns1:Date "22.11.84 15:58:51"^^xsd:string ;
+    ns1:Id "185"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgynI1ODZFdHlAothPp4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/208> ns1:Comment "yrmoniavic"^^xsd:string ;
+    ns1:Date "22.11.84 15:58:51"^^xsd:string ;
+    ns1:Id "186"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgwYxNC64OLtd2guNsZ4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/209> ns1:Comment "zfrpnfwgum"^^xsd:string ;
+    ns1:Date "22.11.84 15:58:51"^^xsd:string ;
+    ns1:Id "187"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgwQspFN0aB82exuJLB4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/21> ns1:Comment "Top ten saddest anime deaths #1 Sugarbear"^^xsd:string ;
+    ns1:Date "22.03.19 09:53:04"^^xsd:string ;
+    ns1:Id "20"^^xsd:string ;
+    ns1:Likes "3"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugyo_x2K9CrCZJTkW4V4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/210> ns1:Comment "SHUT UP THANOS!"^^xsd:string ;
+    ns1:Date "22.11.84 15:58:51"^^xsd:string ;
+    ns1:Id "188"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgxDp7ePuJ7CgwzR0VN4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/211> ns1:Comment "1:59  3rd person from right..... Tony Stark"^^xsd:string ;
+    ns1:Date "22.11.84 15:58:51"^^xsd:string ;
+    ns1:Id "189"^^xsd:string ;
+    ns1:Likes "23"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgxIwyz4-7gc7uBbsMl4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/212> ns1:Comment "No loll"^^xsd:string ;
+    ns1:Date "22.11.84 15:58:51"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgxIwyz4-7gc7uBbsMl4AaABAg"^^xsd:string ;
+    ns1:SubId "189-1"^^xsd:string .
+
+<https://iisg.amsterdam/213> ns1:Comment "@A43AN YT  Yes ,ROFL"^^xsd:string ;
+    ns1:Date "22.11.84 15:58:51"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgxIwyz4-7gc7uBbsMl4AaABAg"^^xsd:string ;
+    ns1:SubId "189-2"^^xsd:string .
+
+<https://iisg.amsterdam/214> ns1:Comment "Who else wants to see a jim carrey and deadpool conversation in DP-3????"^^xsd:string ;
+    ns1:Date "22.11.84 15:58:51"^^xsd:string ;
+    ns1:Id "190"^^xsd:string ;
+    ns1:Likes "11"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugw3Wac9BPBGjZNA5Bt4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/215> ns1:Comment "No offence but the Hindi trailer is so relatable and more funny."^^xsd:string ;
+    ns1:Date "22.11.84 15:58:51"^^xsd:string ;
+    ns1:Id "191"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgzK8SfG2D1sS01vUdN4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/216> ns1:Comment "The fights r hard"^^xsd:string ;
+    ns1:Date "22.11.84 15:58:51"^^xsd:string ;
+    ns1:Id "192"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugyo7TXBQHxgaK2srWJ4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/217> ns1:Comment "?? ?? ?? ??"^^xsd:string ;
+    ns1:Date "22.11.84 15:58:51"^^xsd:string ;
+    ns1:Id "193"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgwAS-QUV5tBwtY71G94AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/218> ns1:Comment "There are Lincoln and Obama, not only Olivia and Meredith (Taylor Swift's cats)  1:27"^^xsd:string ;
+    ns1:Date "22.11.84 15:58:51"^^xsd:string ;
+    ns1:Id "194"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgxcIh4DYiJLTYo52uZ4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/219> ns1:Comment "the kid-some fat jew"^^xsd:string ;
+    ns1:Date "22.11.84 15:58:51"^^xsd:string ;
+    ns1:Id "195"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgzKeUYc96tVbXrzsWx4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/22> ns1:Comment "That taxi driver  is so funny lmao"^^xsd:string ;
+    ns1:Date "22.03.19 09:53:04"^^xsd:string ;
+    ns1:Id "21"^^xsd:string ;
+    ns1:Likes "5"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgzatNuDs9nDtZO0Wip4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/220> ns1:Comment "disney marvel kill fox marvel. fox marvel is over. kevin feige want had said. \"get me that x-men and fantastic four now!\" \"fantastic four and x-men is all of the marvel. namor become member of the avengers half human half atlantis not a mutant. namor join into the marvel cinematic universe.\" that mcu beat to deadpool and x-men."^^xsd:string ;
+    ns1:Date "22.11.84 15:58:51"^^xsd:string ;
+    ns1:Id "196"^^xsd:string ;
+    ns1:Likes "1"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugx-p-tyEnjgvjpCL_Z4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/221> ns1:Comment "Deadpool 1 was much better than the politicaly Deadpool 2"^^xsd:string ;
+    ns1:Date "22.06.19 09:53:04"^^xsd:string ;
+    ns1:Id "197"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugy6rC0Vg1Q29wHdy754AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/222> ns1:Comment "I know why he don't have a Hair??? Like Baldi Only have a 1 streen lel.....honestly someone have a shape ship and bullets doesn't do to someone???"^^xsd:string ;
+    ns1:Date "22.06.19 09:53:04"^^xsd:string ;
+    ns1:Id "198"^^xsd:string ;
+    ns1:Likes "2"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgyWuyCXmDamAONKOE94AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/223> ns1:Comment "Tannos is that you??"^^xsd:string ;
+    ns1:Date "22.06.19 09:53:04"^^xsd:string ;
+    ns1:Id "199"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgyctcvLLawtkL0UPIJ4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/224> ns1:Comment "Cable's daughter her name is hope. Future leader of the X force in the comics. With the time machine, you bet they'd be travelling to the future"^^xsd:string ;
+    ns1:Date "22.06.19 09:53:04"^^xsd:string ;
+    ns1:Id "200"^^xsd:string ;
+    ns1:Likes "4"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugw988pWO8fj0ouy7194AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/225> ns1:Comment "Fuckin spoiler"^^xsd:string ;
+    ns1:Date "22.06.19 09:53:04"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes "1"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugw988pWO8fj0ouy7194AaABAg"^^xsd:string ;
+    ns1:SubId "200-1"^^xsd:string .
+
+<https://iisg.amsterdam/226> ns1:Comment "Can you shut up? Movies out for over a year pal"^^xsd:string ;
+    ns1:Date "22.07.19 09:53:04"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugw988pWO8fj0ouy7194AaABAg"^^xsd:string ;
+    ns1:SubId "200-2"^^xsd:string .
+
+<https://iisg.amsterdam/227> ns1:Comment "My little brother when he was 7 his mom let him watch it! I'm 13 and not allowed to watch it!"^^xsd:string ;
+    ns1:Date "22.06.19 09:53:04"^^xsd:string ;
+    ns1:Id "201"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgxczFQsM1RLNAkfVFp4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/228> ns1:Comment "0:57  ñoño from El Chavo"^^xsd:string ;
+    ns1:Date "22.06.19 09:53:04"^^xsd:string ;
+    ns1:Id "202"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugy07A2vbscKXjsaqCF4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/229> ns1:Comment "X-force"^^xsd:string ;
+    ns1:Date "22.06.19 09:53:04"^^xsd:string ;
+    ns1:Id "203"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugw7ckwVai-8tGJ0Dlp4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/23> ns1:Comment "Exactly a year ago this trailer came out"^^xsd:string ;
+    ns1:Date "22.03.19 09:53:04"^^xsd:string ;
+    ns1:Id "22"^^xsd:string ;
+    ns1:Likes "1"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugy6FbfPz7wdXkfTO-l4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/230> ns1:Comment "Best movie in x men series."^^xsd:string ;
+    ns1:Date "22.06.19 09:53:04"^^xsd:string ;
+    ns1:Id "204"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugws5R3N4A28E5mlopZ4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/231> ns1:Comment "Mueller ????????????????????????????????????????????"^^xsd:string ;
+    ns1:Date "22.06.19 09:53:04"^^xsd:string ;
+    ns1:Id "205"^^xsd:string ;
+    ns1:Likes "2"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugy9tnhnnRSSG7k15dF4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/232> ns1:Comment "I liked Deadpool 2 more than Deadpool 1."^^xsd:string ;
+    ns1:Date "22.06.19 09:53:04"^^xsd:string ;
+    ns1:Id "206"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgzgTYVPJdf96YWt1lx4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/233> ns1:Comment "Who's in 2019????"^^xsd:string ;
+    ns1:Date "22.06.19 09:53:04"^^xsd:string ;
+    ns1:Id "207"^^xsd:string ;
+    ns1:Likes "2"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgxGEMpuSuYg7E3x-0R4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/234> ns1:Comment "I love this movie <3"^^xsd:string ;
+    ns1:Date "22.06.19 09:53:04"^^xsd:string ;
+    ns1:Id "208"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugw41Vxy9KWg7cG803h4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/235> ns1:Comment "I love this movie <3"^^xsd:string ;
+    ns1:Date "22.06.19 09:53:04"^^xsd:string ;
+    ns1:Id "209"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgyqG0AOCyQJh1tsaQZ4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/236> ns1:Comment "Where wiro"^^xsd:string ;
+    ns1:Date "22.06.19 09:53:04"^^xsd:string ;
+    ns1:Id "210"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgyoUwQuONp9StFkNRx4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/237> ns1:Comment "Deadpool-dont call it come back Godzilla-Hold my beer"^^xsd:string ;
+    ns1:Date "22.06.19 09:53:04"^^xsd:string ;
+    ns1:Id "211"^^xsd:string ;
+    ns1:Likes "2"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgwU-EJQ_rA3SvoDapF4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/238> ns1:Comment "fhqdmytlad"^^xsd:string ;
+    ns1:Date "22.06.19 09:53:04"^^xsd:string ;
+    ns1:Id "212"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugx3c8XClK0nPop2lsx4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/239> ns1:Comment "hagtbacjbf"^^xsd:string ;
+    ns1:Date "22.06.19 09:53:04"^^xsd:string ;
+    ns1:Id "213"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgxLYgTddobiXjHPJyd4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/24> ns1:Comment "Dopinder!, Start the f u c k i n g c a r"^^xsd:string ;
+    ns1:Date "22.03.19 09:53:04"^^xsd:string ;
+    ns1:Id "23"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugwpk8TcgfsjLufanRp4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/240> ns1:Comment "hursgchpxq"^^xsd:string ;
+    ns1:Date "22.06.19 09:53:04"^^xsd:string ;
+    ns1:Id "214"^^xsd:string ;
+    ns1:Likes "2"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgwInvJx-vCGunyzSNZ4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/241> ns1:Comment "joshzaalgm"^^xsd:string ;
+    ns1:Date "22.06.19 09:53:04"^^xsd:string ;
+    ns1:Id "215"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugw8T9hU76v5R0dFcAV4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/242> ns1:Comment "kffojxuost"^^xsd:string ;
+    ns1:Date "22.06.19 09:53:04"^^xsd:string ;
+    ns1:Id "216"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgxrPrGezyZqJtlOwu14AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/243> ns1:Comment "kjytrzppxe"^^xsd:string ;
+    ns1:Date "22.06.19 09:53:04"^^xsd:string ;
+    ns1:Id "217"^^xsd:string ;
+    ns1:Likes "2"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgwMgMdQUFQTckUeoJt4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/244> ns1:Comment "kqdfjundib"^^xsd:string ;
+    ns1:Date "22.06.19 09:53:04"^^xsd:string ;
+    ns1:Id "218"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgzGes-98GVCaoR7B5h4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/245> ns1:Comment "lybecmabbh"^^xsd:string ;
+    ns1:Date "22.06.19 09:53:04"^^xsd:string ;
+    ns1:Id "219"^^xsd:string ;
+    ns1:Likes "2"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgxrLdiOAWa_n-UQhgd4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/246> ns1:Comment "ohxiaeweso"^^xsd:string ;
+    ns1:Date "22.06.19 09:53:04"^^xsd:string ;
+    ns1:Id "220"^^xsd:string ;
+    ns1:Likes "2"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugy1El4TiWui-NR2VlZ4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/247> ns1:Comment "omudtsfpof"^^xsd:string ;
+    ns1:Date "22.06.19 09:53:04"^^xsd:string ;
+    ns1:Id "221"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgzcmNGgrBY5vd9J6514AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/248> ns1:Comment "orzrkyaiwo"^^xsd:string ;
+    ns1:Date "22.06.19 09:53:04"^^xsd:string ;
+    ns1:Id "222"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgwRksYo4pWdhW7cO_h4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/249> ns1:Comment "rhesnuzfpa"^^xsd:string ;
+    ns1:Date "22.06.19 09:53:04"^^xsd:string ;
+    ns1:Id "223"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugxa8g9PbdzAUfmu9_t4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/25> ns1:Comment "I'M ROCKIN' MA PANTS!!"^^xsd:string ;
+    ns1:Date "22.03.19 09:53:04"^^xsd:string ;
+    ns1:Id "24"^^xsd:string ;
+    ns1:Likes "1"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugyy7dZKj7BAj2_NcSR4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/250> ns1:Comment "rsebmcropa"^^xsd:string ;
+    ns1:Date "22.06.19 09:53:04"^^xsd:string ;
+    ns1:Id "224"^^xsd:string ;
+    ns1:Likes "2"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgxofM9OWxUo8lxLna54AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/251> ns1:Comment "uizddggegr"^^xsd:string ;
+    ns1:Date "22.06.19 09:53:04"^^xsd:string ;
+    ns1:Id "225"^^xsd:string ;
+    ns1:Likes "2"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgyIFqhaUHczvQpfibh4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/252> ns1:Comment "uvwjdofdkb"^^xsd:string ;
+    ns1:Date "22.06.19 09:53:04"^^xsd:string ;
+    ns1:Id "226"^^xsd:string ;
+    ns1:Likes "2"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugz5-VLpkwfr18KZgU54AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/253> ns1:Comment "vpjrsshehy"^^xsd:string ;
+    ns1:Date "22.06.19 09:53:04"^^xsd:string ;
+    ns1:Id "227"^^xsd:string ;
+    ns1:Likes "2"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgzEhrXWc-_APkX652Z4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/254> ns1:Comment "xumjphgagg"^^xsd:string ;
+    ns1:Date "22.06.19 09:53:04"^^xsd:string ;
+    ns1:Id "228"^^xsd:string ;
+    ns1:Likes "2"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugz3dSfOc0aF78We6L14AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/255> ns1:Comment "xvfllmlnob"^^xsd:string ;
+    ns1:Date "22.06.19 09:53:04"^^xsd:string ;
+    ns1:Id "229"^^xsd:string ;
+    ns1:Likes "2"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugyg1O2d9A8LU8vgiRJ4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/256> ns1:Comment "ybyabzxjdv"^^xsd:string ;
+    ns1:Date "22.06.19 09:53:04"^^xsd:string ;
+    ns1:Id "230"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgxCqGMOJqa_O2NsN994AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/257> ns1:Comment "yigczitkbi"^^xsd:string ;
+    ns1:Date "22.06.19 09:53:04"^^xsd:string ;
+    ns1:Id "231"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgyntUavJYKDaekN-PV4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/258> ns1:Comment "ylcvbcdasc"^^xsd:string ;
+    ns1:Date "22.06.19 09:53:04"^^xsd:string ;
+    ns1:Id "232"^^xsd:string ;
+    ns1:Likes "2"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgzaSEPmwev9AU-PW9x4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/259> ns1:Comment "zagpgpfjah"^^xsd:string ;
+    ns1:Date "22.06.19 09:53:04"^^xsd:string ;
+    ns1:Id "233"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgwS0kjnKVZ8OmR9Wu94AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/26> ns1:Comment "Im all a love"^^xsd:string ;
+    ns1:Date "22.03.19 09:53:04"^^xsd:string ;
+    ns1:Id "25"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgwF9l28pOLpTNdm80R4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/260> ns1:Comment "zdnalefgse"^^xsd:string ;
+    ns1:Date "22.06.19 09:53:04"^^xsd:string ;
+    ns1:Id "234"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgzR_UBil5Vl2sqG3kJ4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/261> ns1:Comment "OMFG... \"Domino\" has hairy pits at  1:03:58 , WTF? I'm not gonna be any more insensitive and go into what that's all about?  Movie's great, though."^^xsd:string ;
+    ns1:Date "22.06.19 09:53:04"^^xsd:string ;
+    ns1:Id "235"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgzpcEejDz-9OJKgjjZ4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/262> ns1:Comment "Godzilla did it better"^^xsd:string ;
+    ns1:Date "22.06.19 09:53:04"^^xsd:string ;
+    ns1:Id "236"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugxss_P2xPoggXZeUSJ4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/263> ns1:Comment "Who came here after the new Godzilla 2 trailer?"^^xsd:string ;
+    ns1:Date "22.06.19 09:53:04"^^xsd:string ;
+    ns1:Id "237"^^xsd:string ;
+    ns1:Likes "1"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgzpCTFvc4moHnohui54AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/264> ns1:Comment "Me lol"^^xsd:string ;
+    ns1:Date "22.06.19 09:53:04"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgzpCTFvc4moHnohui54AaABAg"^^xsd:string ;
+    ns1:SubId "237-1"^^xsd:string .
+
+<https://iisg.amsterdam/265> ns1:Comment "best movie"^^xsd:string ;
+    ns1:Date "22.06.19 09:53:04"^^xsd:string ;
+    ns1:Id "238"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgxmANai_VgS_UslKhh4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/266> ns1:Comment "I'm batman"^^xsd:string ;
+    ns1:Date "22.06.19 09:53:04"^^xsd:string ;
+    ns1:Id "239"^^xsd:string ;
+    ns1:Likes "1"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgxXAmVFSjLf9GMWFCh4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/267> ns1:Comment "Most useless movie I have ever seen in my life...it was waste of time"^^xsd:string ;
+    ns1:Date "22.06.19 09:53:04"^^xsd:string ;
+    ns1:Id "240"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgxlThg1pdi9NXVbjLN4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/268> ns1:Comment "Who else want MICHAEL PENNIA and DEADPOOL in DEADPOOL - 3"^^xsd:string ;
+    ns1:Date "22.06.19 09:53:04"^^xsd:string ;
+    ns1:Id "241"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugxy-gSIUaWarrgKTKh4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/269> ns1:Comment "What annoyed me more about this movie was not the annoying stereotypical Indian guy but the fact that nobody spoke about him at all like it was ignorant af. No Indian relate to him Americans relate to him more I am sure since only they understand an Indian guy like this one we haven't really come across such exaggerated, head bopping, weird Indian guys who look like they're retarded."^^xsd:string ;
+    ns1:Date "22.06.19 09:53:04"^^xsd:string ;
+    ns1:Id "242"^^xsd:string ;
+    ns1:Likes "2"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugy_Xdr-YABQkvH9QxZ4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/27> ns1:Comment "Please make a third one, I’m begging you"^^xsd:string ;
+    ns1:Date "22.03.19 09:53:04"^^xsd:string ;
+    ns1:Id "26"^^xsd:string ;
+    ns1:Likes "1"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgzQmvLe2BpDOHX2xIB4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/270> ns1:Comment "so, time travel huh ?"^^xsd:string ;
+    ns1:Date "22.06.19 09:53:04"^^xsd:string ;
+    ns1:Id "243"^^xsd:string ;
+    ns1:Likes "2"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugy5FAQmXDFCMtJDJCl4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/271> ns1:Comment "stupid"^^xsd:string ;
+    ns1:Date "22.07.19 09:53:04"^^xsd:string ;
+    ns1:Id "244"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgzZMLZQ5YIMqVdo7AR4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/272> ns1:Comment "Give him Oskar"^^xsd:string ;
+    ns1:Date "22.07.19 09:53:04"^^xsd:string ;
+    ns1:Id "245"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgzLULsOmVNJPRcXxoh4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/273> ns1:Comment "Maybe Deadpool will find a way to travel to the MCU in his own ways."^^xsd:string ;
+    ns1:Date "22.07.19 09:53:04"^^xsd:string ;
+    ns1:Id "246"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgwgX51-3ZfbO3sX-eV4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/274> ns1:Comment "Fortune ?"^^xsd:string ;
+    ns1:Date "22.07.19 09:53:04"^^xsd:string ;
+    ns1:Id "247"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgzvlYRELK4PWHvgAJF4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/275> ns1:Comment "bbenmofmxu"^^xsd:string ;
+    ns1:Date "22.07.19 09:53:04"^^xsd:string ;
+    ns1:Id "248"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgxWdav-BdJD8Q-4m294AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/276> ns1:Comment "chcmsuysam"^^xsd:string ;
+    ns1:Date "22.07.19 09:53:04"^^xsd:string ;
+    ns1:Id "249"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgwUGd4HEEXh1Oz1fGV4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/277> ns1:Comment "cnddipdbes"^^xsd:string ;
+    ns1:Date "22.07.19 09:53:04"^^xsd:string ;
+    ns1:Id "250"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgxOYiLXZhjXXQX-n254AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/278> ns1:Comment "fuzrbmmjet"^^xsd:string ;
+    ns1:Date "22.07.19 09:53:04"^^xsd:string ;
+    ns1:Id "251"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgwGgHZ6VAcG64WQxw94AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/279> ns1:Comment "fvlvpwnond"^^xsd:string ;
+    ns1:Date "22.07.19 09:53:04"^^xsd:string ;
+    ns1:Id "252"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgwMzt1D3FyOyNxnO-54AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/28> ns1:Comment "Mcu"^^xsd:string ;
+    ns1:Date "22.03.19 09:53:04"^^xsd:string ;
+    ns1:Id "27"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugz0hQReWXksoLqdyPR4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/280> ns1:Comment "gaihvynogx"^^xsd:string ;
+    ns1:Date "22.07.19 09:53:04"^^xsd:string ;
+    ns1:Id "253"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgwECbGLmy_vQppnDPV4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/281> ns1:Comment "Panbot Bot are you ok"^^xsd:string ;
+    ns1:Date "22.07.19 09:53:04"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgwECbGLmy_vQppnDPV4AaABAg"^^xsd:string ;
+    ns1:SubId "253-1"^^xsd:string .
+
+<https://iisg.amsterdam/282> ns1:Comment "huupzodeqq"^^xsd:string ;
+    ns1:Date "22.07.19 09:53:04"^^xsd:string ;
+    ns1:Id "254"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgyODKsrRsAEisUGsqF4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/283> ns1:Comment "jokeudhdvs"^^xsd:string ;
+    ns1:Date "22.07.19 09:53:04"^^xsd:string ;
+    ns1:Id "255"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgxLeIZlqm1aQc0bJVh4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/284> ns1:Comment "jomjosgfei"^^xsd:string ;
+    ns1:Date "22.07.19 09:53:04"^^xsd:string ;
+    ns1:Id "256"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgzErXm-r5zuaNDuBuh4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/285> ns1:Comment "ksidolciip"^^xsd:string ;
+    ns1:Date "22.07.19 09:53:04"^^xsd:string ;
+    ns1:Id "257"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgzTsvLypdukikX5OTh4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/286> ns1:Comment "kxihknalur"^^xsd:string ;
+    ns1:Date "22.07.19 09:53:04"^^xsd:string ;
+    ns1:Id "258"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugz_jvs1RAvaHUqx7Xp4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/287> ns1:Comment "onshhwrgfb"^^xsd:string ;
+    ns1:Date "22.07.19 09:53:04"^^xsd:string ;
+    ns1:Id "259"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugz7wbvaadJ_MZG-fkd4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/288> ns1:Comment "razpnqsody"^^xsd:string ;
+    ns1:Date "22.07.19 09:53:04"^^xsd:string ;
+    ns1:Id "260"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugyu2ZOEi40CJCbd5F94AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/289> ns1:Comment "rdfhzpmimo"^^xsd:string ;
+    ns1:Date "22.07.19 09:53:04"^^xsd:string ;
+    ns1:Id "261"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugzt4ysRhDwKwVQO_eJ4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/29> ns1:Comment "1:46  where we dropping boys???"^^xsd:string ;
+    ns1:Date "22.03.19 09:53:04"^^xsd:string ;
+    ns1:Id "28"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgyD0uZgNLzSEaeNa614AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/290> ns1:Comment "spuwiyhuru"^^xsd:string ;
+    ns1:Date "22.07.19 09:53:04"^^xsd:string ;
+    ns1:Id "262"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgzBsUTXUao_uvhW3Xx4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/291> ns1:Comment "sszdsejuyf"^^xsd:string ;
+    ns1:Date "22.07.19 09:53:04"^^xsd:string ;
+    ns1:Id "263"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugw-Blmcu3SbF7eZ4up4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/292> ns1:Comment "synnnhhitl"^^xsd:string ;
+    ns1:Date "22.07.19 09:53:04"^^xsd:string ;
+    ns1:Id "264"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugw7yd3HR9pB-42p6Mh4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/293> ns1:Comment "vfsnehrlul"^^xsd:string ;
+    ns1:Date "22.07.19 09:53:04"^^xsd:string ;
+    ns1:Id "265"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgwOzykvWmAFOukJ4UF4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/294> ns1:Comment "vlzuiyuphr"^^xsd:string ;
+    ns1:Date "22.07.19 09:53:04"^^xsd:string ;
+    ns1:Id "266"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgzOm9vsAqaNHoqWtmR4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/295> ns1:Comment "Deadpool is a Cesspool."^^xsd:string ;
+    ns1:Date "22.07.19 09:53:04"^^xsd:string ;
+    ns1:Id "267"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgzNjKSfOTgUb9Y5kxh4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/296> ns1:Comment "Read the description ??"^^xsd:string ;
+    ns1:Date "22.07.19 09:53:04"^^xsd:string ;
+    ns1:Id "268"^^xsd:string ;
+    ns1:Likes "4"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgwCbPOqmS6M_F0inyt4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/297> ns1:Comment "I the 2nd one is more better then the 1st to me"^^xsd:string ;
+    ns1:Date "22.07.19 09:53:04"^^xsd:string ;
+    ns1:Id "269"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugz0OMisrutdUB5kMbR4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/298> ns1:Comment "Dopinda is ma G"^^xsd:string ;
+    ns1:Date "22.07.19 09:53:04"^^xsd:string ;
+    ns1:Id "270"^^xsd:string ;
+    ns1:Likes "2"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugw4QvHAp_TK41YffEZ4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/299> ns1:Comment "Did you know that. Then the trailer came out After the movie"^^xsd:string ;
+    ns1:Date "22.07.19 09:53:04"^^xsd:string ;
+    ns1:Id "271"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgwcnrO1YDDylKru6yB4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/3> ns1:Comment "bozwceewnf"^^xsd:string ;
+    ns1:Date "22.02.19 09:53:04"^^xsd:string ;
+    ns1:Id "4"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgwhlAaH57eH7rmDPY14AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/30> ns1:Comment "People : Movie sequels are always worse than the original Deadpool 2 :  Hold my beer"^^xsd:string ;
+    ns1:Date "22.03.19 09:53:04"^^xsd:string ;
+    ns1:Id "29"^^xsd:string ;
+    ns1:Likes "905"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgwNkAYhiYqKeYbdA9h4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/300> ns1:Comment "bagus"^^xsd:string ;
+    ns1:Date "22.07.19 09:53:04"^^xsd:string ;
+    ns1:Id "272"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgzPgww_LtwzdZvIPMp4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/301> ns1:Comment "Marvel Deadpool México 2019"^^xsd:string ;
+    ns1:Date "22.07.19 09:53:04"^^xsd:string ;
+    ns1:Id "273"^^xsd:string ;
+    ns1:Likes "1"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgxTy2raX57WRH7dgSd4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/302> ns1:Comment "This is a great funny movies. woke asf the left should adopt this kind of liberal sound bite crap instead of assuring Trump 2020 MAGA baby."^^xsd:string ;
+    ns1:Date "22.07.19 09:53:04"^^xsd:string ;
+    ns1:Id "274"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgwIKgcXP1ZQXUW593R4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/303> ns1:Comment "Blacks are black  Blues are blue  Don't be racist  This movie is inside me too."^^xsd:string ;
+    ns1:Date "22.08.19 09:53:04"^^xsd:string ;
+    ns1:Id "275"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgwIFrcgVIhBs9gyOzZ4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/304> ns1:Comment "I can’t believe it’s been a year since the movie hit theaters"^^xsd:string ;
+    ns1:Date "22.08.19 09:53:04"^^xsd:string ;
+    ns1:Id "276"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgyE2AiQPWRWh3KuUzt4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/305> ns1:Comment "Ryan Renolds Is Not Playing The Role Of DeadPool. Ryan Renolds Is DeadPool"^^xsd:string ;
+    ns1:Date "22.08.19 09:53:04"^^xsd:string ;
+    ns1:Id "277"^^xsd:string ;
+    ns1:Likes "7"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugzp0U1oQ3kcNnxeVB94AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/306> ns1:Comment "What in the fucksickle is this?"^^xsd:string ;
+    ns1:Date "22.08.19 09:53:04"^^xsd:string ;
+    ns1:Id "278"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgwjmUgpAg4jfNBJGRJ4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/307> ns1:Comment "We miss some characters like feral and boom-boom Feral:maria callasantos Boom-boom:tabitha smith"^^xsd:string ;
+    ns1:Date "22.08.19 09:53:04"^^xsd:string ;
+    ns1:Id "279"^^xsd:string ;
+    ns1:Likes "2"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgzHe-PJasIGCEuJaUN4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/308> ns1:Comment "Pg 13? No thanks"^^xsd:string ;
+    ns1:Date "22.08.19 09:53:04"^^xsd:string ;
+    ns1:Id "280"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgxPdSjJViuE2DoODBd4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/309> ns1:Comment "If you watch this trailer in reverse  then my friend you have seen the whole movie ??"^^xsd:string ;
+    ns1:Date "22.08.19 09:53:04"^^xsd:string ;
+    ns1:Id "281"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugx7zJBYgrs9I9ScfzV4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/31> ns1:Comment "Spiderman far from home Ant man and the wasp Avengers endgame"^^xsd:string ;
+    ns1:Date "22.07.19 09:53:04"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes "5"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgwNkAYhiYqKeYbdA9h4AaABAg"^^xsd:string ;
+    ns1:SubId "29-1"^^xsd:string .
+
+<https://iisg.amsterdam/310> ns1:Comment "My favorite superhero ????? ????"^^xsd:string ;
+    ns1:Date "22.08.19 09:53:04"^^xsd:string ;
+    ns1:Id "282"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgxtL9xrsF2L6h3yxOB4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/311> ns1:Comment "Doctor Strange and the Multiverse of Madness will bring Deadpool into the MCU. Change my mind."^^xsd:string ;
+    ns1:Date "22.08.19 09:53:04"^^xsd:string ;
+    ns1:Id "283"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgzDj9VN0uMcGgspoHt4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/312> ns1:Comment "That movie comes out when I turn 16!!! If Deadpool is in it, oh boy what a birthday"^^xsd:string ;
+    ns1:Date "22.08.19 09:53:04"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgzDj9VN0uMcGgspoHt4AaABAg"^^xsd:string ;
+    ns1:SubId "283-1"^^xsd:string .
+
+<https://iisg.amsterdam/313> ns1:Comment "Deadpool is the one who got me interested in serious comic hook reading and I thank him for that."^^xsd:string ;
+    ns1:Date "22.08.19 09:53:04"^^xsd:string ;
+    ns1:Id "284"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugyeq-Q5FNxm9ZaG1i54AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/314> ns1:Comment "Both films were my favourite"^^xsd:string ;
+    ns1:Date "22.08.19 09:53:04"^^xsd:string ;
+    ns1:Id "285"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugyv2F6T5lcyvkQ3b854AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/315> ns1:Comment "for the 3rd installment they should do something like a post credit scene where cable helps deadpool get his wife back like they did for cable in the second movie that would be amazing"^^xsd:string ;
+    ns1:Date "22.08.19 09:53:04"^^xsd:string ;
+    ns1:Id "286"^^xsd:string ;
+    ns1:Likes "3"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgxP07Io3qPGXoRn2JR4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/316> ns1:Comment "i can’t wait for a 3rd installation though to see how there life turned out together and everything"^^xsd:string ;
+    ns1:Date "22.08.19 09:53:04"^^xsd:string ;
+    ns1:Id "287"^^xsd:string ;
+    ns1:Likes "1"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgwNAy-5ibt1OmstGDt4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/317> ns1:Comment "okay ever kind i. stupid i just never saw the post credit seen"^^xsd:string ;
+    ns1:Date "22.08.19 09:53:04"^^xsd:string ;
+    ns1:Id "288"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgyUjQ42pIxIkmQnYY54AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/318> ns1:Comment "Godzilla Vs Dedpool"^^xsd:string ;
+    ns1:Date "22.08.19 09:53:04"^^xsd:string ;
+    ns1:Id "289"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgyPXmp1B-AyJpSCfKB4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/319> ns1:Comment "Deadpool 2 was far better than the original. I still like the first movie but I can’t help feel it’s already aged a bit since a lot of it seemed like the writers, etc seeing just what they could get away with. This movie on the other hand hit the sweet spot and was the funniest movie of 2018 imo."^^xsd:string ;
+    ns1:Date "22.08.19 09:53:04"^^xsd:string ;
+    ns1:Id "290"^^xsd:string ;
+    ns1:Likes "3"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgzOgAQfGZit_2u3Cq54AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/32> ns1:Comment "Toy Story 2? The Dark Knight?"^^xsd:string ;
+    ns1:Date "22.07.19 09:53:04"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes "5"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgwNkAYhiYqKeYbdA9h4AaABAg"^^xsd:string ;
+    ns1:SubId "29-2"^^xsd:string .
+
+<https://iisg.amsterdam/320> ns1:Comment "Agree it's best sadly Disney is going to turning into friendly normal violence  PG13 less bloodly violent than R-rated"^^xsd:string ;
+    ns1:Date "22.08.19 09:53:04"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes "1"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgzOgAQfGZit_2u3Cq54AaABAg"^^xsd:string ;
+    ns1:SubId "290-1"^^xsd:string .
+
+<https://iisg.amsterdam/321> ns1:Comment "0:09  Me when I leave work to watch Deadpool 2"^^xsd:string ;
+    ns1:Date "22.08.19 09:53:04"^^xsd:string ;
+    ns1:Id "291"^^xsd:string ;
+    ns1:Likes "13"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgxYK1mVurEwCCwcYuF4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/322> ns1:Comment "????????same"^^xsd:string ;
+    ns1:Date "22.08.19 09:53:04"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes "1"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgxYK1mVurEwCCwcYuF4AaABAg"^^xsd:string ;
+    ns1:SubId "291-1"^^xsd:string .
+
+<https://iisg.amsterdam/323> ns1:Comment "????????"^^xsd:string ;
+    ns1:Date "22.08.19 09:53:04"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgxYK1mVurEwCCwcYuF4AaABAg"^^xsd:string ;
+    ns1:SubId "291-2"^^xsd:string .
+
+<https://iisg.amsterdam/324> ns1:Comment "R.I.P STAN LEE??"^^xsd:string ;
+    ns1:Date "22.08.19 09:53:04"^^xsd:string ;
+    ns1:Id "292"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgxlY9Hef39mGkyZ-gB4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/325> ns1:Comment "aminqdvjxq"^^xsd:string ;
+    ns1:Date "22.08.19 09:53:04"^^xsd:string ;
+    ns1:Id "293"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgzD2vf7I2j5tfGi1P14AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/326> ns1:Comment "bpellzpwgk"^^xsd:string ;
+    ns1:Date "22.08.19 09:53:04"^^xsd:string ;
+    ns1:Id "294"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgwFpvBQYGkomT91Xpl4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/327> ns1:Comment "bvpcayzpie"^^xsd:string ;
+    ns1:Date "22.08.19 09:53:04"^^xsd:string ;
+    ns1:Id "295"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgxEYDfIf23dswTR5Vd4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/328> ns1:Comment "bwglmiunud"^^xsd:string ;
+    ns1:Date "22.08.19 09:53:04"^^xsd:string ;
+    ns1:Id "296"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgxwwqH_7EBl1KnKHTh4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/329> ns1:Comment "chengfhqty"^^xsd:string ;
+    ns1:Date "22.08.19 09:53:04"^^xsd:string ;
+    ns1:Id "297"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgwG_Z8pNxFI1w0DkZN4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/33> ns1:Comment "Ye it was even cooler"^^xsd:string ;
+    ns1:Date "22.07.19 09:53:04"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes "1"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgwNkAYhiYqKeYbdA9h4AaABAg"^^xsd:string ;
+    ns1:SubId "29-3"^^xsd:string .
+
+<https://iisg.amsterdam/330> ns1:Comment "dkgihvekby"^^xsd:string ;
+    ns1:Date "22.08.19 09:53:04"^^xsd:string ;
+    ns1:Id "298"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugy3hS6OCdYj4Dt27yt4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/331> ns1:Comment "dvniridojq"^^xsd:string ;
+    ns1:Date "22.08.19 09:53:04"^^xsd:string ;
+    ns1:Id "299"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgysgKiR6vS6SrrKmSZ4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/332> ns1:Comment "efwlqoporn"^^xsd:string ;
+    ns1:Date "22.08.19 09:53:04"^^xsd:string ;
+    ns1:Id "300"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugwxanh-qDqZ6BBkLoR4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/333> ns1:Comment "hziwmdglgn"^^xsd:string ;
+    ns1:Date "22.08.19 09:53:04"^^xsd:string ;
+    ns1:Id "301"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugwx0jsEpB6w2W3e0t94AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/334> ns1:Comment "iaxmzizqhk"^^xsd:string ;
+    ns1:Date "22.08.19 09:53:04"^^xsd:string ;
+    ns1:Id "302"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgzYsZ-vHeMOCF3mqM54AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/335> ns1:Comment "iyncaqhcoh"^^xsd:string ;
+    ns1:Date "22.08.19 09:53:04"^^xsd:string ;
+    ns1:Id "303"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugzj7O1qb7Ou9VdM0wB4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/336> ns1:Comment "jhbkojuvjc"^^xsd:string ;
+    ns1:Date "22.08.19 09:53:04"^^xsd:string ;
+    ns1:Id "304"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgyvhGb2s8mKfHpTHjR4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/337> ns1:Comment "kvjbwcchko"^^xsd:string ;
+    ns1:Date "22.08.19 09:53:04"^^xsd:string ;
+    ns1:Id "305"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgxVj7Jl0aBfHqmkGOt4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/338> ns1:Comment "lccnfdhuzl"^^xsd:string ;
+    ns1:Date "22.08.19 09:53:04"^^xsd:string ;
+    ns1:Id "306"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgzFGaLg8HfA8MtcWXF4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/339> ns1:Comment "lkblaquigg"^^xsd:string ;
+    ns1:Date "22.08.19 09:53:04"^^xsd:string ;
+    ns1:Id "307"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgzLyTJtngkK5MJRrnd4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/34> ns1:Comment "Godzilla King Of The Monsters, Endgame, Ant Man and The Wasp, Spider-Man Far From Home, Empire Strikes Back, The Dark Knight: Hold our motherfucking beers"^^xsd:string ;
+    ns1:Date "22.07.19 09:53:04"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes "3"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgwNkAYhiYqKeYbdA9h4AaABAg"^^xsd:string ;
+    ns1:SubId "29-4"^^xsd:string .
+
+<https://iisg.amsterdam/340> ns1:Comment "nkukmniqcw"^^xsd:string ;
+    ns1:Date "22.08.19 09:53:04"^^xsd:string ;
+    ns1:Id "308"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgyAZ6_lCzZsswaf6hx4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/341> ns1:Comment "nlolixjzvr"^^xsd:string ;
+    ns1:Date "22.08.19 09:53:04"^^xsd:string ;
+    ns1:Id "309"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgzeHnH8AJ0t_BNCO8F4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/342> ns1:Comment "omikjalnqt"^^xsd:string ;
+    ns1:Date "22.08.19 09:53:04"^^xsd:string ;
+    ns1:Id "310"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgwzTWOKBesV0ir7ST14AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/343> ns1:Comment "rhoqdetmop"^^xsd:string ;
+    ns1:Date "22.08.19 09:53:04"^^xsd:string ;
+    ns1:Id "311"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgztII5CL0QalFMdLml4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/344> ns1:Comment "sggsiuvwoc"^^xsd:string ;
+    ns1:Date "22.08.19 09:53:04"^^xsd:string ;
+    ns1:Id "312"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgwfpRZqrDLMfQOqRzJ4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/345> ns1:Comment "wlifazqvwg"^^xsd:string ;
+    ns1:Date "22.08.19 09:53:04"^^xsd:string ;
+    ns1:Id "313"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgyVqe07XXr9VFPWWep4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/346> ns1:Comment "wwahanrfek"^^xsd:string ;
+    ns1:Date "22.08.19 09:53:04"^^xsd:string ;
+    ns1:Id "314"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugz-wA9E5tbFPykJBUh4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/347> ns1:Comment "yuxtroagdh"^^xsd:string ;
+    ns1:Date "22.08.19 09:53:04"^^xsd:string ;
+    ns1:Id "315"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugz__zmMb35QS2rLXeh4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/348> ns1:Comment "zfaacrewac"^^xsd:string ;
+    ns1:Date "22.08.19 09:53:04"^^xsd:string ;
+    ns1:Id "316"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgzGJvIHZgQGpgFnWex4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/349> ns1:Comment "is that the new zealand drug driving kid???????? OMG YES"^^xsd:string ;
+    ns1:Date "22.08.19 09:53:04"^^xsd:string ;
+    ns1:Id "317"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgwGbe92Uw2449_sNWp4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/35> ns1:Comment "Yaki homecoming was way better than far from home."^^xsd:string ;
+    ns1:Date "22.08.19 09:53:04"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes "2"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgwNkAYhiYqKeYbdA9h4AaABAg"^^xsd:string ;
+    ns1:SubId "29-5"^^xsd:string .
+
+<https://iisg.amsterdam/350> ns1:Comment "I absolutely loved the fact that they made a very big deal out of the X-Force and then killed all of them in 5 minutes :D"^^xsd:string ;
+    ns1:Date "22.08.19 09:53:04"^^xsd:string ;
+    ns1:Id "318"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgwB0PeyRRualX_mnQx4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/351> ns1:Comment "What if Deadpool is Noobmaster69?"^^xsd:string ;
+    ns1:Date "22.08.19 09:53:04"^^xsd:string ;
+    ns1:Id "319"^^xsd:string ;
+    ns1:Likes "91"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugycj08OXw8REg66XAB4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/352> ns1:Comment "Plot Twist. May be possible tho. The X-Men are inside the MCU (technically)"^^xsd:string ;
+    ns1:Date "22.10.19 09:53:04"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes "2"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugycj08OXw8REg66XAB4AaABAg"^^xsd:string ;
+    ns1:SubId "319-1"^^xsd:string .
+
+<https://iisg.amsterdam/353> ns1:Comment "ao know men"^^xsd:string ;
+    ns1:Date "22.08.19 09:53:04"^^xsd:string ;
+    ns1:Id "320"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgymS8uUmt9n8pwfFsJ4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/354> ns1:Comment "Some body in 2019"^^xsd:string ;
+    ns1:Date "22.09.19 09:53:04"^^xsd:string ;
+    ns1:Id "321"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgySXEXTusl9r3zx7zp4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/355> ns1:Comment "I am wait for Deadpool 3 release"^^xsd:string ;
+    ns1:Date "22.09.19 09:53:04"^^xsd:string ;
+    ns1:Id "322"^^xsd:string ;
+    ns1:Likes "1"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgyqNxgdjjJaCyjMDdZ4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/356> ns1:Comment "ne ho visti di film ma questo è in assoluto il peggiore, pieno di gratuita violenza e di stupidissime battute ben oltrepassando il ridicolo. Ho sperato che si riprendesse un pò ma non ce l'ho fatta, ho dovuto smettere di vederlo. Santa maria com'è caduta in basso la Marvel!"^^xsd:string ;
+    ns1:Date "22.09.19 09:53:04"^^xsd:string ;
+    ns1:Id "323"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgxoxMW8faQtPkyRjg14AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/357> ns1:Comment "Who read the video caption ????"^^xsd:string ;
+    ns1:Date "22.09.19 09:53:04"^^xsd:string ;
+    ns1:Id "324"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgwmFBPh35vVAv_fjaJ4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/358> ns1:Comment "X-Force?"^^xsd:string ;
+    ns1:Date "22.09.19 09:53:04"^^xsd:string ;
+    ns1:Id "325"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgyyKshSAeu8k4LUo5l4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/359> ns1:Comment "Deadpool is copied from slade"^^xsd:string ;
+    ns1:Date "22.09.19 09:53:04"^^xsd:string ;
+    ns1:Id "326"^^xsd:string ;
+    ns1:Likes "3"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugw1j-12GXdgy8XhE6F4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/36> ns1:Comment "The Godfather Part II"^^xsd:string ;
+    ns1:Date "22.09.19 09:53:04"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes "1"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgwNkAYhiYqKeYbdA9h4AaABAg"^^xsd:string ;
+    ns1:SubId "29-6"^^xsd:string .
+
+<https://iisg.amsterdam/360> ns1:Comment "Some what can’t remember if I watched this movie"^^xsd:string ;
+    ns1:Date "22.09.19 09:53:04"^^xsd:string ;
+    ns1:Id "327"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgwX_Gc7GCDxMMAY2KZ4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/361> ns1:Comment "Kevin Feige better not recast Deadpool"^^xsd:string ;
+    ns1:Date "22.09.19 09:53:04"^^xsd:string ;
+    ns1:Id "328"^^xsd:string ;
+    ns1:Likes "2"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgxxMGLQoB2tXdFeOKh4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/362> ns1:Comment "Godzilla trailer theme"^^xsd:string ;
+    ns1:Date "22.09.19 09:53:04"^^xsd:string ;
+    ns1:Id "329"^^xsd:string ;
+    ns1:Likes "1"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugy9yKuKLdWAgbE_VLV4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/363> ns1:Comment "aqoyoaamib"^^xsd:string ;
+    ns1:Date "22.09.19 09:53:04"^^xsd:string ;
+    ns1:Id "330"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugz6VgfsxUMjr3k6B1h4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/364> ns1:Comment "bnhtqrazjp"^^xsd:string ;
+    ns1:Date "22.09.19 09:53:04"^^xsd:string ;
+    ns1:Id "331"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgxLwbGi-uiSm61R1_F4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/365> ns1:Comment "bowjoqpiqr"^^xsd:string ;
+    ns1:Date "22.09.19 09:53:04"^^xsd:string ;
+    ns1:Id "332"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugx2UTR06ICYye29e2B4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/366> ns1:Comment "bpkvitdebf"^^xsd:string ;
+    ns1:Date "22.09.19 09:53:04"^^xsd:string ;
+    ns1:Id "333"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugze0E2dcSO1otCfgMB4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/367> ns1:Comment "dgrmwuydtc"^^xsd:string ;
+    ns1:Date "22.09.19 09:53:04"^^xsd:string ;
+    ns1:Id "334"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgyR6luMClee0trjdkF4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/368> ns1:Comment "efmfamyukw"^^xsd:string ;
+    ns1:Date "22.09.19 09:53:04"^^xsd:string ;
+    ns1:Id "335"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgwaTW5U5SBJHVPe4tF4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/369> ns1:Comment "ejsrbsosdt"^^xsd:string ;
+    ns1:Date "22.09.19 09:53:04"^^xsd:string ;
+    ns1:Id "336"^^xsd:string ;
+    ns1:Likes "1"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgwjxDOgQGiPCoXzRcB4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/37> ns1:Comment "Dark knight :hold my joker"^^xsd:string ;
+    ns1:Date "22.09.19 09:53:04"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes "1"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgwNkAYhiYqKeYbdA9h4AaABAg"^^xsd:string ;
+    ns1:SubId "29-7"^^xsd:string .
+
+<https://iisg.amsterdam/370> ns1:Comment "fhjogstmjq"^^xsd:string ;
+    ns1:Date "22.09.19 09:53:04"^^xsd:string ;
+    ns1:Id "337"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugx2mR-gY51wq3sUAEd4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/371> ns1:Comment "hbzvtjtsab"^^xsd:string ;
+    ns1:Date "22.09.19 09:53:04"^^xsd:string ;
+    ns1:Id "338"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugxt-SlpmRXRhs4T2EF4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/372> ns1:Comment "hjwoaabjvo"^^xsd:string ;
+    ns1:Date "22.09.19 09:53:04"^^xsd:string ;
+    ns1:Id "339"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugw-V7avdOgj0nomPDd4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/373> ns1:Comment "G glad to Go home lll"^^xsd:string ;
+    ns1:Date "22.10.19 09:53:04"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugw-V7avdOgj0nomPDd4AaABAg"^^xsd:string ;
+    ns1:SubId "339-1"^^xsd:string .
+
+<https://iisg.amsterdam/374> ns1:Comment "hmuzedywvl"^^xsd:string ;
+    ns1:Date "22.09.19 09:53:04"^^xsd:string ;
+    ns1:Id "340"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgzilCtcgg0Hi1pO1HN4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/375> ns1:Comment "F and feel l"^^xsd:string ;
+    ns1:Date "22.10.19 09:53:04"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgzilCtcgg0Hi1pO1HN4AaABAg"^^xsd:string ;
+    ns1:SubId "340-1"^^xsd:string .
+
+<https://iisg.amsterdam/376> ns1:Comment "homztauebm"^^xsd:string ;
+    ns1:Date "22.09.19 09:53:04"^^xsd:string ;
+    ns1:Id "341"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgzFOUPDHL-i2F4gX5Z4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/377> ns1:Comment "hxsflhxpuu"^^xsd:string ;
+    ns1:Date "22.09.19 09:53:04"^^xsd:string ;
+    ns1:Id "342"^^xsd:string ;
+    ns1:Likes "1"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugxke35ERL25ASABIll4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/378> ns1:Comment "hymwwarsxd"^^xsd:string ;
+    ns1:Date "22.09.19 09:53:04"^^xsd:string ;
+    ns1:Id "343"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgxKoLhlvh47X88iLa54AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/379> ns1:Comment "idyooxvpxu"^^xsd:string ;
+    ns1:Date "22.09.19 09:53:04"^^xsd:string ;
+    ns1:Id "344"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgwFJdjzXtMSRuhCzAF4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/38> ns1:Comment "The angry birds 2"^^xsd:string ;
+    ns1:Date "22.09.19 09:53:04"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgwNkAYhiYqKeYbdA9h4AaABAg"^^xsd:string ;
+    ns1:SubId "29-8"^^xsd:string .
+
+<https://iisg.amsterdam/380> ns1:Comment "kpnnydskva"^^xsd:string ;
+    ns1:Date "22.09.19 09:53:04"^^xsd:string ;
+    ns1:Id "345"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgzMGMrAe3Tf7B5QbGZ4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/381> ns1:Comment "mqwstfcfal"^^xsd:string ;
+    ns1:Date "22.09.19 09:53:04"^^xsd:string ;
+    ns1:Id "346"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugymh4PhYfWy7KMCHnt4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/382> ns1:Comment "nnqjlddixm"^^xsd:string ;
+    ns1:Date "22.09.19 09:53:04"^^xsd:string ;
+    ns1:Id "347"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgxXxgqrycdmVR1u5AJ4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/383> ns1:Comment "oxfswezqwl"^^xsd:string ;
+    ns1:Date "22.09.19 09:53:04"^^xsd:string ;
+    ns1:Id "348"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgyOD9hUBMI9gMFmn3R4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/384> ns1:Comment "qebzwlvauh"^^xsd:string ;
+    ns1:Date "22.09.19 09:53:04"^^xsd:string ;
+    ns1:Id "349"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgyyKvZ1wGFRv5EUwRh4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/385> ns1:Comment "qpyhrzicda"^^xsd:string ;
+    ns1:Date "22.09.19 09:53:04"^^xsd:string ;
+    ns1:Id "350"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgyW2U3f3-qfl3alC0p4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/386> ns1:Comment "svoqjnpmsr"^^xsd:string ;
+    ns1:Date "22.09.19 09:53:04"^^xsd:string ;
+    ns1:Id "351"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugy7dipdVjXxv72tro94AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/387> ns1:Comment "?????? My to cmh"^^xsd:string ;
+    ns1:Date "22.10.19 09:53:04"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugy7dipdVjXxv72tro94AaABAg"^^xsd:string ;
+    ns1:SubId "351-1"^^xsd:string .
+
+<https://iisg.amsterdam/388> ns1:Comment "teenjtbinh"^^xsd:string ;
+    ns1:Date "22.09.19 09:53:04"^^xsd:string ;
+    ns1:Id "352"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugwd75HHwz25XiuMRWx4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/389> ns1:Comment "tpffjtgool"^^xsd:string ;
+    ns1:Date "22.09.19 09:53:04"^^xsd:string ;
+    ns1:Id "353"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgxD6zZlRA-LHS2Wk3d4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/39> ns1:Comment "The fear of the true real law is the first sign of wisdom amongst those who would love to say sinful actions"^^xsd:string ;
+    ns1:Date "22.10.19 09:53:04"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes "1"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgwNkAYhiYqKeYbdA9h4AaABAg"^^xsd:string ;
+    ns1:SubId "29-9"^^xsd:string .
+
+<https://iisg.amsterdam/390> ns1:Comment "uxyghecsog"^^xsd:string ;
+    ns1:Date "22.09.19 09:53:04"^^xsd:string ;
+    ns1:Id "354"^^xsd:string ;
+    ns1:Likes "1"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugx5CZn9-4z_sSZc2LZ4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/391> ns1:Comment "yyaywucrio"^^xsd:string ;
+    ns1:Date "22.09.19 09:53:04"^^xsd:string ;
+    ns1:Id "355"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgwrcnkqLVlkqbN9KRR4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/392> ns1:Comment "zxnaoauuaf"^^xsd:string ;
+    ns1:Date "22.09.19 09:53:04"^^xsd:string ;
+    ns1:Id "356"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugw37jrpykIR3-sVLxJ4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/393> ns1:Comment "\"God, I wish I finished college\"  -me everyday I wake up before work"^^xsd:string ;
+    ns1:Date "22.09.19 09:53:04"^^xsd:string ;
+    ns1:Id "357"^^xsd:string ;
+    ns1:Likes "2"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugwxz2HfsyRk6h046GB4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/394> ns1:Comment "So you think you wouldnt have to work after finishing college? ??"^^xsd:string ;
+    ns1:Date "22.09.19 09:53:04"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugwxz2HfsyRk6h046GB4AaABAg"^^xsd:string ;
+    ns1:SubId "357-1"^^xsd:string .
+
+<https://iisg.amsterdam/395> ns1:Comment "@iare19  Might have been living in a Bernie Sanders world"^^xsd:string ;
+    ns1:Date "22.09.19 09:53:04"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugwxz2HfsyRk6h046GB4AaABAg"^^xsd:string ;
+    ns1:SubId "357-2"^^xsd:string .
+
+<https://iisg.amsterdam/396> ns1:Comment "Wasnt that bill skarsgård at  1:40  behind domino"^^xsd:string ;
+    ns1:Date "22.09.19 09:53:04"^^xsd:string ;
+    ns1:Id "358"^^xsd:string ;
+    ns1:Likes "6"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgwS7IlbzRSusS0b7ut4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/397> ns1:Comment "Yeah"^^xsd:string ;
+    ns1:Date "22.10.19 09:53:04"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgwS7IlbzRSusS0b7ut4AaABAg"^^xsd:string ;
+    ns1:SubId "358-1"^^xsd:string .
+
+<https://iisg.amsterdam/398> ns1:Comment "Bill Skarsgard ???"^^xsd:string ;
+    ns1:Date "01.11.19 09:53:04"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes "1"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgwS7IlbzRSusS0b7ut4AaABAg"^^xsd:string ;
+    ns1:SubId "358-2"^^xsd:string .
+
+<https://iisg.amsterdam/399> ns1:Comment "God I hope Disney will keep it R-Rated or rather I am done with MCU"^^xsd:string ;
+    ns1:Date "22.09.19 09:53:04"^^xsd:string ;
+    ns1:Id "359"^^xsd:string ;
+    ns1:Likes "1"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgzzskZBRwzkm4jUQIZ4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/4> ns1:Comment "bumxbdaswo"^^xsd:string ;
+    ns1:Date "22.02.19 09:53:04"^^xsd:string ;
+    ns1:Id "5"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgycEMUadk5dBZrAHox4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/40> ns1:Comment "The dark Knight"^^xsd:string ;
+    ns1:Date "15.11.19 09:53:04"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgwNkAYhiYqKeYbdA9h4AaABAg"^^xsd:string ;
+    ns1:SubId "29-10"^^xsd:string .
+
+<https://iisg.amsterdam/400> ns1:Comment "It's the return of Deadpool wallbreaker"^^xsd:string ;
+    ns1:Date "22.09.19 09:53:04"^^xsd:string ;
+    ns1:Id "360"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugw9cTBcMcVxUhpqqiB4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/401> ns1:Comment "This comment is young"^^xsd:string ;
+    ns1:Date "22.09.19 09:53:04"^^xsd:string ;
+    ns1:Id "361"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugxa4-rmmI8qPSWxX7x4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/402> ns1:Comment "\"Kiss me like you miss me\" a whole mood"^^xsd:string ;
+    ns1:Date "22.09.19 09:53:04"^^xsd:string ;
+    ns1:Id "362"^^xsd:string ;
+    ns1:Likes "9"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgzuilJ1DrdhEdFSXSt4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/403> ns1:Comment "whats gonna happen now that disney owns deadpool?"^^xsd:string ;
+    ns1:Date "22.09.19 09:53:04"^^xsd:string ;
+    ns1:Id "363"^^xsd:string ;
+    ns1:Likes "2"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugya9YxMsDjOZyBNrCx4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/404> ns1:Comment "1:46  whats the name of the song? Pls?"^^xsd:string ;
+    ns1:Date "22.10.19 09:53:04"^^xsd:string ;
+    ns1:Id "364"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugz3U8v5Z6UQ0R0XKFJ4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/405> ns1:Comment "I keep on rewatching this trailer"^^xsd:string ;
+    ns1:Date "22.10.19 09:53:04"^^xsd:string ;
+    ns1:Id "365"^^xsd:string ;
+    ns1:Likes "1"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgwtA4XCqN9Dx98t20p4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/406> ns1:Comment "good trailer"^^xsd:string ;
+    ns1:Date "22.10.19 09:53:04"^^xsd:string ;
+    ns1:Id "366"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugzj66-LbmajHGMO5E94AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/407> ns1:Comment "After movie everyone wants a lucky power"^^xsd:string ;
+    ns1:Date "22.10.19 09:53:04"^^xsd:string ;
+    ns1:Id "367"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugyx2z8vy_Wcmc_C5ex4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/408> ns1:Comment "Wait...a..second is that Tony stark  1:59"^^xsd:string ;
+    ns1:Date "22.10.19 09:53:04"^^xsd:string ;
+    ns1:Id "368"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgzzhhZ9rFm6UykUgVB4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/409> ns1:Comment "muffin time"^^xsd:string ;
+    ns1:Date "22.10.19 09:53:04"^^xsd:string ;
+    ns1:Id "369"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgyP4dyu_3bgSJo3bml4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/41> ns1:Comment "don't forget Empire Strikes Back dewd"^^xsd:string ;
+    ns1:Date "22.11.84 15:58:51"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes "7"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgwNkAYhiYqKeYbdA9h4AaABAg"^^xsd:string ;
+    ns1:SubId "29-11"^^xsd:string .
+
+<https://iisg.amsterdam/410> ns1:Comment "aonlhnnzib"^^xsd:string ;
+    ns1:Date "22.10.19 09:53:04"^^xsd:string ;
+    ns1:Id "370"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugw2ZG4KAmvH4FR1GIJ4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/411> ns1:Comment "axxhhtsbgy"^^xsd:string ;
+    ns1:Date "22.10.19 09:53:04"^^xsd:string ;
+    ns1:Id "371"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugw5IPnmad1P_w8i08h4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/412> ns1:Comment "blnbcmzrja"^^xsd:string ;
+    ns1:Date "22.10.19 09:53:04"^^xsd:string ;
+    ns1:Id "372"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgwUt-OUQdrmdn0ma654AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/413> ns1:Comment "dhessmbmhr"^^xsd:string ;
+    ns1:Date "22.10.19 09:53:04"^^xsd:string ;
+    ns1:Id "373"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugw2GEDq2Lc7lSKWq2N4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/414> ns1:Comment "djmurcxjyu"^^xsd:string ;
+    ns1:Date "22.10.19 09:53:04"^^xsd:string ;
+    ns1:Id "374"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugy1B4q5BGNd448n7s54AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/415> ns1:Comment "etbopebgwp"^^xsd:string ;
+    ns1:Date "22.10.19 09:53:04"^^xsd:string ;
+    ns1:Id "375"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugw60scOk7s4NdOBGvZ4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/416> ns1:Comment "Gggggghghhhhhheezzzzxecam33"^^xsd:string ;
+    ns1:Date "22.10.19 09:53:04"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugw60scOk7s4NdOBGvZ4AaABAg"^^xsd:string ;
+    ns1:SubId "375-1"^^xsd:string .
+
+<https://iisg.amsterdam/417> ns1:Comment "ezyipirhjt"^^xsd:string ;
+    ns1:Date "22.10.19 09:53:04"^^xsd:string ;
+    ns1:Id "376"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgxW2mabdzVyct8Ok-F4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/418> ns1:Comment "fsvgivzmsc"^^xsd:string ;
+    ns1:Date "22.10.19 09:53:04"^^xsd:string ;
+    ns1:Id "377"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgweyVoHxiXUR2_FYwp4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/419> ns1:Comment "gkqvwaibke"^^xsd:string ;
+    ns1:Date "22.10.19 09:53:04"^^xsd:string ;
+    ns1:Id "378"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgyGMNd-RiDqW2RQM1V4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/42> ns1:Comment "*hold my chimichanga"^^xsd:string ;
+    ns1:Date "22.06.19 09:53:04"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes "5"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgwNkAYhiYqKeYbdA9h4AaABAg"^^xsd:string ;
+    ns1:SubId "29-12"^^xsd:string .
+
+<https://iisg.amsterdam/420> ns1:Comment "gkqvwaibke fudge nuckles."^^xsd:string ;
+    ns1:Date "22.10.19 09:53:04"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgyGMNd-RiDqW2RQM1V4AaABAg"^^xsd:string ;
+    ns1:SubId "378-1"^^xsd:string .
+
+<https://iisg.amsterdam/421> ns1:Comment "gnllafvhyv"^^xsd:string ;
+    ns1:Date "22.10.19 09:53:04"^^xsd:string ;
+    ns1:Id "379"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgwKtaR78UF0trrshK14AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/422> ns1:Comment "iacfozhctu"^^xsd:string ;
+    ns1:Date "22.10.19 09:53:04"^^xsd:string ;
+    ns1:Id "380"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgxLFU9ZG2LBDw5y7dJ4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/423> ns1:Comment "ighovmrzcm"^^xsd:string ;
+    ns1:Date "22.10.19 09:53:04"^^xsd:string ;
+    ns1:Id "381"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugy8_CYxJ_D4ZWk2clh4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/424> ns1:Comment "igodpjmfcg"^^xsd:string ;
+    ns1:Date "22.10.19 09:53:04"^^xsd:string ;
+    ns1:Id "382"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgwxNkLRDB5vtgn2grJ4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/425> ns1:Comment "ipvpqbppla"^^xsd:string ;
+    ns1:Date "22.10.19 09:53:04"^^xsd:string ;
+    ns1:Id "383"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgzwMuRY2KKZKzew3St4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/426> ns1:Comment "ivnleffryg"^^xsd:string ;
+    ns1:Date "22.10.19 09:53:04"^^xsd:string ;
+    ns1:Id "384"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgxZ3mmsikLuh3ICyph4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/427> ns1:Comment "kkjfrmfikf"^^xsd:string ;
+    ns1:Date "22.10.19 09:53:04"^^xsd:string ;
+    ns1:Id "385"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgxPu46CNMbgiGzOkeV4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/428> ns1:Comment "mmdgthbugz"^^xsd:string ;
+    ns1:Date "22.10.19 09:53:04"^^xsd:string ;
+    ns1:Id "386"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugy_i7AaJMEq0UutV694AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/429> ns1:Comment "mshlloxcty"^^xsd:string ;
+    ns1:Date "22.10.19 09:53:04"^^xsd:string ;
+    ns1:Id "387"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgxeYgfRmrJ3i4Huo8B4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/43> ns1:Comment "Tell that to Endgame ??"^^xsd:string ;
+    ns1:Date "22.06.19 09:53:04"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes "9"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgwNkAYhiYqKeYbdA9h4AaABAg"^^xsd:string ;
+    ns1:SubId "29-13"^^xsd:string .
+
+<https://iisg.amsterdam/430> ns1:Comment "mwzcwgchha"^^xsd:string ;
+    ns1:Date "22.10.19 09:53:04"^^xsd:string ;
+    ns1:Id "388"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgzR_QHmRwhwaEb5lKd4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/431> ns1:Comment "nnlfspaekt"^^xsd:string ;
+    ns1:Date "22.10.19 09:53:04"^^xsd:string ;
+    ns1:Id "389"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgycFBW--OdOuRY23Jh4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/432> ns1:Comment "pfsctflkbi"^^xsd:string ;
+    ns1:Date "22.10.19 09:53:04"^^xsd:string ;
+    ns1:Id "390"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgzPPoflj9JKKrKmBEF4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/433> ns1:Comment ")_()5+()& do yo Lee do n c"^^xsd:string ;
+    ns1:Date "22.10.19 09:53:04"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgzPPoflj9JKKrKmBEF4AaABAg"^^xsd:string ;
+    ns1:SubId "390-1"^^xsd:string .
+
+<https://iisg.amsterdam/434> ns1:Comment "qupynprdij"^^xsd:string ;
+    ns1:Date "22.10.19 09:53:04"^^xsd:string ;
+    ns1:Id "391"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgyZDy0ClX9dNzzZD7J4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/435> ns1:Comment "rewrnqjbmg"^^xsd:string ;
+    ns1:Date "22.10.19 09:53:04"^^xsd:string ;
+    ns1:Id "392"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgzrogSzednOC9D8qbR4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/436> ns1:Comment "Zzzzxxxxxxxxxdddahgwlu those"^^xsd:string ;
+    ns1:Date "22.10.19 09:53:04"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgzrogSzednOC9D8qbR4AaABAg"^^xsd:string ;
+    ns1:SubId "392-1"^^xsd:string .
+
+<https://iisg.amsterdam/437> ns1:Comment "rezikwangn"^^xsd:string ;
+    ns1:Date "22.10.19 09:53:04"^^xsd:string ;
+    ns1:Id "393"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugy2EG8p5i0bOC0EObN4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/438> ns1:Comment "sylihdukyy"^^xsd:string ;
+    ns1:Date "22.10.19 09:53:04"^^xsd:string ;
+    ns1:Id "394"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgynKdOe2QhjKiY2W3l4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/439> ns1:Comment "tugqnvplyu"^^xsd:string ;
+    ns1:Date "22.10.19 09:53:04"^^xsd:string ;
+    ns1:Id "395"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgzwWxMZ3_y66j_LL0V4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/44> ns1:Comment "No??? Alot of sequels are better than the original (and yes , you can woooosh me now)"^^xsd:string ;
+    ns1:Date "22.06.19 09:53:04"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes "9"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgwNkAYhiYqKeYbdA9h4AaABAg"^^xsd:string ;
+    ns1:SubId "29-14"^^xsd:string .
+
+<https://iisg.amsterdam/440> ns1:Comment "uhsnuazbmc"^^xsd:string ;
+    ns1:Date "22.10.19 09:53:04"^^xsd:string ;
+    ns1:Id "396"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgwOYB_FFYeZIvuyRsJ4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/441> ns1:Comment "uvrqwdivip"^^xsd:string ;
+    ns1:Date "22.10.19 09:53:04"^^xsd:string ;
+    ns1:Id "397"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgztnmKz26mVoV03ANh4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/442> ns1:Comment "vawxfihrid"^^xsd:string ;
+    ns1:Date "22.10.19 09:53:04"^^xsd:string ;
+    ns1:Id "398"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugy1xzLMgDNiUKQvMnR4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/443> ns1:Comment "wemboiyccp"^^xsd:string ;
+    ns1:Date "22.10.19 09:53:04"^^xsd:string ;
+    ns1:Id "399"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugzau6q1_eXps2ohpjF4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/444> ns1:Comment "wpyfigarrc"^^xsd:string ;
+    ns1:Date "22.10.19 09:53:04"^^xsd:string ;
+    ns1:Id "400"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugy9MY-pU-Nx1sCuAjp4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/445> ns1:Comment "yegizffsyo"^^xsd:string ;
+    ns1:Date "22.10.19 09:53:04"^^xsd:string ;
+    ns1:Id "401"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgyQdzP38I_q-rWJe814AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/446> ns1:Comment "zmlfcooyds"^^xsd:string ;
+    ns1:Date "22.10.19 09:53:04"^^xsd:string ;
+    ns1:Id "402"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgyJZH3Tf_66TDGqQJF4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/447> ns1:Comment "MakesdayAngie look at the goat"^^xsd:string ;
+    ns1:Date "22.10.19 09:53:04"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgyJZH3Tf_66TDGqQJF4AaABAg"^^xsd:string ;
+    ns1:SubId "402-1"^^xsd:string .
+
+<https://iisg.amsterdam/448> ns1:Comment "0:10  START THE CAR!!!"^^xsd:string ;
+    ns1:Date "22.10.19 09:53:04"^^xsd:string ;
+    ns1:Id "403"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgxSnGnuok2NPsbfLTJ4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/449> ns1:Comment "Where is \"The Spawn\" belong to?"^^xsd:string ;
+    ns1:Date "22.10.19 09:53:04"^^xsd:string ;
+    ns1:Id "404"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugwz0NqNOmZh7nF8Acl4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/45> ns1:Comment "@Zeen Zones  r/woosh there you go"^^xsd:string ;
+    ns1:Date "22.06.19 09:53:04"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgwNkAYhiYqKeYbdA9h4AaABAg"^^xsd:string ;
+    ns1:SubId "29-15"^^xsd:string .
+
+<https://iisg.amsterdam/450> ns1:Comment "The 16k dislikes are dc fans"^^xsd:string ;
+    ns1:Date "22.10.19 09:53:04"^^xsd:string ;
+    ns1:Id "405"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgzxiQSNBXPVSpF7VeF4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/451> ns1:Comment "idjudgkgdf"^^xsd:string ;
+    ns1:Date "25.10.19 09:53:04"^^xsd:string ;
+    ns1:Id "406"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgzGs6_QZ6BF5bC0hnN4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/452> ns1:Comment "kdayczrozw"^^xsd:string ;
+    ns1:Date "25.10.19 09:53:04"^^xsd:string ;
+    ns1:Id "407"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgxhtxJ8BNSnt740-m54AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/453> ns1:Comment "wsofggpegs"^^xsd:string ;
+    ns1:Date "25.10.19 09:53:04"^^xsd:string ;
+    ns1:Id "408"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgzD7iJctx33RGXQI_Z4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/454> ns1:Comment "anwutugqug"^^xsd:string ;
+    ns1:Date "01.11.19 09:53:04"^^xsd:string ;
+    ns1:Id "409"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgypfG78NFXoHrUVED14AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/455> ns1:Comment "btjejptlso"^^xsd:string ;
+    ns1:Date "01.11.19 09:53:04"^^xsd:string ;
+    ns1:Id "410"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgwrR30NrYfDmcUBur14AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/456> ns1:Comment "eygifeozlo"^^xsd:string ;
+    ns1:Date "01.11.19 09:53:04"^^xsd:string ;
+    ns1:Id "411"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgywpI6FiUzKDPUj2CR4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/457> ns1:Comment "fohluceuhl"^^xsd:string ;
+    ns1:Date "01.11.19 09:53:04"^^xsd:string ;
+    ns1:Id "412"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgzKTcmV-s9ZxKsYc_54AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/458> ns1:Comment "hhzsfozzky"^^xsd:string ;
+    ns1:Date "01.11.19 09:53:04"^^xsd:string ;
+    ns1:Id "413"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgxjL6m7KYGPm6apRl54AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/459> ns1:Comment "jaurnyeuht"^^xsd:string ;
+    ns1:Date "01.11.19 09:53:04"^^xsd:string ;
+    ns1:Id "414"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgxGQK68RUTc8_ZQnqh4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/46> ns1:Comment "@Zeen Zones  for example, and the best one perhaps, SHREK 2"^^xsd:string ;
+    ns1:Date "22.06.19 09:53:04"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes "10"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgwNkAYhiYqKeYbdA9h4AaABAg"^^xsd:string ;
+    ns1:SubId "29-16"^^xsd:string .
+
+<https://iisg.amsterdam/460> ns1:Comment "qlzujfzcan"^^xsd:string ;
+    ns1:Date "01.11.19 09:53:04"^^xsd:string ;
+    ns1:Id "415"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugw6GYnZxTsJ_yecLaN4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/461> ns1:Comment "zuuseoeubj"^^xsd:string ;
+    ns1:Date "01.11.19 09:53:04"^^xsd:string ;
+    ns1:Id "416"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgykWsR2vFkihbEXuWx4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/462> ns1:Comment "Nope"^^xsd:string ;
+    ns1:Date "01.11.19 09:53:04"^^xsd:string ;
+    ns1:Id "417"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgxJMzvrrehWwnJ2GvN4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/463> ns1:Comment "God i wished i finished college"^^xsd:string ;
+    ns1:Date "01.11.19 09:53:04"^^xsd:string ;
+    ns1:Id "418"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugy2R7F9Khb5gPeCBAJ4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/464> ns1:Comment "ejmcdtjrlt"^^xsd:string ;
+    ns1:Date "08.11.19 09:53:04"^^xsd:string ;
+    ns1:Id "419"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugye7NAF_P-QwsApHn54AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/465> ns1:Comment "gmqjniynyl"^^xsd:string ;
+    ns1:Date "08.11.19 09:53:04"^^xsd:string ;
+    ns1:Id "420"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgzD1BnMCToJgMRlOVF4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/466> ns1:Comment "hthaxncjoh"^^xsd:string ;
+    ns1:Date "08.11.19 09:53:04"^^xsd:string ;
+    ns1:Id "421"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgyyBuTK7dlGB4eBLkp4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/467> ns1:Comment "kyyaukozpo"^^xsd:string ;
+    ns1:Date "08.11.19 09:53:04"^^xsd:string ;
+    ns1:Id "422"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgxEQw-VxL07WrFOmqp4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/468> ns1:Comment "mufleytufr"^^xsd:string ;
+    ns1:Date "08.11.19 09:53:04"^^xsd:string ;
+    ns1:Id "423"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugy6lwj5YcWmzyfnFGZ4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/469> ns1:Comment "ugvgbszuky"^^xsd:string ;
+    ns1:Date "08.11.19 09:53:04"^^xsd:string ;
+    ns1:Id "424"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgxsroeMyow5mf_vH594AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/47> ns1:Comment "@AbcDeFgh z  and another example is httyd 2"^^xsd:string ;
+    ns1:Date "22.06.19 09:53:04"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes "1"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgwNkAYhiYqKeYbdA9h4AaABAg"^^xsd:string ;
+    ns1:SubId "29-17"^^xsd:string .
+
+<https://iisg.amsterdam/470> ns1:Comment "wdotjyhsuk"^^xsd:string ;
+    ns1:Date "08.11.19 09:53:04"^^xsd:string ;
+    ns1:Id "425"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugw-urTEgVpV39R88xV4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/471> ns1:Comment "yoakhpoufy"^^xsd:string ;
+    ns1:Date "08.11.19 09:53:04"^^xsd:string ;
+    ns1:Id "426"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgxqNcCP7ybyZdGZYKh4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/472> ns1:Comment "zybmjhcgoc"^^xsd:string ;
+    ns1:Date "08.11.19 09:53:04"^^xsd:string ;
+    ns1:Id "427"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgwVACQ9gNuOdR0xg954AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/473> ns1:Comment "Cable? No thanks!  Dish Network please!"^^xsd:string ;
+    ns1:Date "15.11.19 09:53:04"^^xsd:string ;
+    ns1:Id "428"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgxB4t2AUxbZNrgkd794AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/474> ns1:Comment "ewiuadvpkt"^^xsd:string ;
+    ns1:Date "15.11.19 09:53:04"^^xsd:string ;
+    ns1:Id "429"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgxMv5bNR9klWqvhfPF4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/475> ns1:Comment "ezhfgvsjtm"^^xsd:string ;
+    ns1:Date "15.11.19 09:53:04"^^xsd:string ;
+    ns1:Id "430"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgzVir7wkbzLqF8U6d14AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/476> ns1:Comment "fnngvisjlk"^^xsd:string ;
+    ns1:Date "15.11.19 09:53:04"^^xsd:string ;
+    ns1:Id "431"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgzkrQkbH1GvUxxe9Od4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/477> ns1:Comment "fteriupdzb"^^xsd:string ;
+    ns1:Date "15.11.19 09:53:04"^^xsd:string ;
+    ns1:Id "432"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgyExf_U-YkFKPUvCnt4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/478> ns1:Comment "ghavicjdtb"^^xsd:string ;
+    ns1:Date "15.11.19 09:53:04"^^xsd:string ;
+    ns1:Id "433"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugym_It8-HBM-vxg6xt4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/479> ns1:Comment "gwwiokoicx"^^xsd:string ;
+    ns1:Date "15.11.19 09:53:04"^^xsd:string ;
+    ns1:Id "434"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugx9Qpps9NCFSj6HRvx4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/48> ns1:Comment "Thor   can i drink it"^^xsd:string ;
+    ns1:Date "22.06.19 09:53:04"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgwNkAYhiYqKeYbdA9h4AaABAg"^^xsd:string ;
+    ns1:SubId "29-18"^^xsd:string .
+
+<https://iisg.amsterdam/480> ns1:Comment "mdadcizfgg"^^xsd:string ;
+    ns1:Date "15.11.19 09:53:04"^^xsd:string ;
+    ns1:Id "435"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgyoXwnKAT-HjP5ueNN4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/481> ns1:Comment "mmmennmioe"^^xsd:string ;
+    ns1:Date "15.11.19 09:53:04"^^xsd:string ;
+    ns1:Id "436"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgzTTB82Oqx9L7zLvhV4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/482> ns1:Comment "pwqyxtlnit"^^xsd:string ;
+    ns1:Date "15.11.19 09:53:04"^^xsd:string ;
+    ns1:Id "437"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugx059kBfeVy96e8eiR4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/483> ns1:Comment "sawxnssikm"^^xsd:string ;
+    ns1:Date "15.11.19 09:53:04"^^xsd:string ;
+    ns1:Id "438"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgzSIYiKJ3ZpsPwBKuZ4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/484> ns1:Comment "sudvqnvdch"^^xsd:string ;
+    ns1:Date "15.11.19 09:53:04"^^xsd:string ;
+    ns1:Id "439"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgwrgLaRDN0gkbLrwjp4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/485> ns1:Comment "wbipomluua"^^xsd:string ;
+    ns1:Date "15.11.19 09:53:04"^^xsd:string ;
+    ns1:Id "440"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgyXzcAwRhpwLNMv_l14AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/486> ns1:Comment "Olaaaaa@aaaaaa@aaaaaaaaaaaaaa comooooooooooooooooooo estaaaaaaaaaannnnnnnnnnnnnnnnnnnn"^^xsd:string ;
+    ns1:Date "15.11.19 09:53:04"^^xsd:string ;
+    ns1:Id "441"^^xsd:string ;
+    ns1:Likes "1"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugz9DQNkm3l4NUBN5A94AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/487> ns1:Comment "dgbkirsbcx"^^xsd:string ;
+    ns1:Date "16.11.19 09:53:04"^^xsd:string ;
+    ns1:Id "442"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgzUEAc7RtHM6YimMNl4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/488> ns1:Comment "kjkovzcned"^^xsd:string ;
+    ns1:Date "17.11.19 09:53:04"^^xsd:string ;
+    ns1:Id "443"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugzx4xJxOgKdU3VVMQF4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/489> ns1:Comment "I swear the grave scene never happened"^^xsd:string ;
+    ns1:Date "18.11.19 09:53:04"^^xsd:string ;
+    ns1:Id "444"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgxqfNTwj_YxhmWG_6J4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/49> ns1:Comment "It's actually frustrating to see how fools do not realize that this is another New World Order propaganda movie of sionistic Hollywood. On second thought who gives a rodent's rectum about the mob, enjoy the brainwashing."^^xsd:string ;
+    ns1:Date "22.03.19 09:53:04"^^xsd:string ;
+    ns1:Id "30"^^xsd:string ;
+    ns1:Likes "1"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgyoGoDoSKvng3-ULvZ4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/490> ns1:Comment "duuckaberv"^^xsd:string ;
+    ns1:Date "19.11.19 09:53:04"^^xsd:string ;
+    ns1:Id "445"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgzRnK7JVvkIT1qTkS54AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/491> ns1:Comment "lluypdhndm"^^xsd:string ;
+    ns1:Date "19.11.19 09:53:04"^^xsd:string ;
+    ns1:Id "446"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugw87isjewIc2VU-nEB4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/492> ns1:Comment "qtqwbylifh"^^xsd:string ;
+    ns1:Date "19.11.19 09:53:04"^^xsd:string ;
+    ns1:Id "447"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgzqW83yFtIkLcdNNod4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/493> ns1:Comment "nrsmetpdnc"^^xsd:string ;
+    ns1:Date "20.11.19 09:53:04"^^xsd:string ;
+    ns1:Id "448"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugwdoye5nZ1oq_JzMBR4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/494> ns1:Comment "unzyipahpi"^^xsd:string ;
+    ns1:Date "20.11.19 09:53:04"^^xsd:string ;
+    ns1:Id "449"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugwe5j6qN56VkLEEZMd4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/495> ns1:Comment "I love deadpool"^^xsd:string ;
+    ns1:Date "21.11.19 09:53:04"^^xsd:string ;
+    ns1:Id "450"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugx5PG61xm39PA7hR3J4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/496> ns1:Comment "atusemdiog"^^xsd:string ;
+    ns1:Date "21.11.19 09:53:04"^^xsd:string ;
+    ns1:Id "451"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgyTpjoEOrokzNwSKiR4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/497> ns1:Comment "cpjczurler"^^xsd:string ;
+    ns1:Date "21.11.19 09:53:04"^^xsd:string ;
+    ns1:Id "452"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgyLtOah1TOaI25nKEB4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/498> ns1:Comment "nnntauwvqe"^^xsd:string ;
+    ns1:Date "21.11.19 09:53:04"^^xsd:string ;
+    ns1:Id "453"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgzcanbbDfPKXInXPMt4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/499> ns1:Comment "kqjylbpxil"^^xsd:string ;
+    ns1:Date "21.11.19 17:53:04"^^xsd:string ;
+    ns1:Id "454"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgyAnGI4uNJzG_qcyuJ4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/5> ns1:Comment "cfdugynmaz"^^xsd:string ;
+    ns1:Date "22.02.19 09:53:04"^^xsd:string ;
+    ns1:Id "6"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgzXRjK97JkCb7UOQ5p4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/50> ns1:Comment "First part was much better"^^xsd:string ;
+    ns1:Date "22.03.19 09:53:04"^^xsd:string ;
+    ns1:Id "31"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugym569TG5QyFbJWdlR4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/51> ns1:Comment "What's wrong with this one ?"^^xsd:string ;
+    ns1:Date "22.03.19 09:53:04"^^xsd:string ;
+    ns1:Id ""^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugym569TG5QyFbJWdlR4AaABAg"^^xsd:string ;
+    ns1:SubId "31-1"^^xsd:string .
+
+<https://iisg.amsterdam/52> ns1:Comment "arzjdocwyw"^^xsd:string ;
+    ns1:Date "22.03.19 09:53:04"^^xsd:string ;
+    ns1:Id "32"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugygye69-giusGROz4R4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/53> ns1:Comment "clampvlhmi"^^xsd:string ;
+    ns1:Date "22.03.19 09:53:04"^^xsd:string ;
+    ns1:Id "33"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgwyOt1ZC83nWsmIQxJ4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/54> ns1:Comment "dvcpntrkce"^^xsd:string ;
+    ns1:Date "22.03.19 09:53:04"^^xsd:string ;
+    ns1:Id "34"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgzwOsYCSTEV0NI7YX94AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/55> ns1:Comment "ecsoreniwz"^^xsd:string ;
+    ns1:Date "22.03.19 09:53:04"^^xsd:string ;
+    ns1:Id "35"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugy3ALqEbMpBbhgEVK54AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/56> ns1:Comment "edvztnajle"^^xsd:string ;
+    ns1:Date "22.03.19 09:53:04"^^xsd:string ;
+    ns1:Id "36"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugypqxb1xF0lwKhh_vZ4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/57> ns1:Comment "eklufavdkd"^^xsd:string ;
+    ns1:Date "22.03.19 09:53:04"^^xsd:string ;
+    ns1:Id "37"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgxVr1JOidu3yOMKCq14AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/58> ns1:Comment "emlhnamyeu"^^xsd:string ;
+    ns1:Date "22.03.19 09:53:04"^^xsd:string ;
+    ns1:Id "38"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgxQ0RrD40VTGF7VI7F4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/59> ns1:Comment "famtwquzif"^^xsd:string ;
+    ns1:Date "22.03.19 09:53:04"^^xsd:string ;
+    ns1:Id "39"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugwr-699gurSEhIUFZV4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/6> ns1:Comment "dtausrzwkm"^^xsd:string ;
+    ns1:Date "22.02.19 09:53:04"^^xsd:string ;
+    ns1:Id "7"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgycpYqGnqct97VYlMx4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/60> ns1:Comment "fiaolbluft"^^xsd:string ;
+    ns1:Date "22.03.19 09:53:04"^^xsd:string ;
+    ns1:Id "40"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgxoYgD_fQc4-9JicZ94AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/61> ns1:Comment "fllvxprelw"^^xsd:string ;
+    ns1:Date "22.03.19 09:53:04"^^xsd:string ;
+    ns1:Id "41"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugxo5y4F8ncrECrBJFp4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/62> ns1:Comment "fskafnuvtg"^^xsd:string ;
+    ns1:Date "22.03.19 09:53:04"^^xsd:string ;
+    ns1:Id "42"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugz-8ij4eIWCs5q_a2Z4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/63> ns1:Comment "fxxspihsmy"^^xsd:string ;
+    ns1:Date "22.03.19 09:53:04"^^xsd:string ;
+    ns1:Id "43"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgyO9HZxnozgFOCpkbN4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/64> ns1:Comment "gjevmazmlw"^^xsd:string ;
+    ns1:Date "22.03.19 09:53:04"^^xsd:string ;
+    ns1:Id "44"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgzfqMpYFaXY5MFhpyp4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/65> ns1:Comment "khrhswtysi"^^xsd:string ;
+    ns1:Date "22.03.19 09:53:04"^^xsd:string ;
+    ns1:Id "45"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgxokBBuAhAynbpmgc94AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/66> ns1:Comment "kugsmxjbps"^^xsd:string ;
+    ns1:Date "22.03.19 09:53:04"^^xsd:string ;
+    ns1:Id "46"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgxTEkGMTQzCVj5RGwR4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/67> ns1:Comment "loqlcaxnjs"^^xsd:string ;
+    ns1:Date "22.03.19 09:53:04"^^xsd:string ;
+    ns1:Id "47"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugw4R5vXuP_hD3W3nCx4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/68> ns1:Comment "ninsaiptaa"^^xsd:string ;
+    ns1:Date "22.03.19 09:53:04"^^xsd:string ;
+    ns1:Id "48"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgwZBCQokz3a9nfq5qx4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/69> ns1:Comment "nmugooosiw"^^xsd:string ;
+    ns1:Date "22.03.19 09:53:04"^^xsd:string ;
+    ns1:Id "49"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugza2yD4uiejCJXETpl4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/7> ns1:Comment "exumirmnba"^^xsd:string ;
+    ns1:Date "22.02.19 09:53:04"^^xsd:string ;
+    ns1:Id "8"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgyD4_LzCmFNYxg7YdZ4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/70> ns1:Comment "ohsgllsamq"^^xsd:string ;
+    ns1:Date "22.03.19 09:53:04"^^xsd:string ;
+    ns1:Id "50"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgxYeJNQ9np_kwGei4F4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/71> ns1:Comment "ptopzgjzep"^^xsd:string ;
+    ns1:Date "22.03.19 09:53:04"^^xsd:string ;
+    ns1:Id "51"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugy9FeRKbi1xu2_Z-Lt4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/72> ns1:Comment "qgndrnbayk"^^xsd:string ;
+    ns1:Date "22.03.19 09:53:04"^^xsd:string ;
+    ns1:Id "52"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugza3PrmSk27cJD4ZSl4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/73> ns1:Comment "qhdxlabedc"^^xsd:string ;
+    ns1:Date "22.03.19 09:53:04"^^xsd:string ;
+    ns1:Id "53"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugw2glZTr7QigiqPE2J4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/74> ns1:Comment "ratypvhzky"^^xsd:string ;
+    ns1:Date "22.03.19 09:53:04"^^xsd:string ;
+    ns1:Id "54"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugw2q1GdHzE8-_SWfe94AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/75> ns1:Comment "rdoffwdljr"^^xsd:string ;
+    ns1:Date "22.03.19 09:53:04"^^xsd:string ;
+    ns1:Id "55"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgyxpQCaE9S_e_tE0gN4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/76> ns1:Comment "rzsxcekmdc"^^xsd:string ;
+    ns1:Date "22.03.19 09:53:04"^^xsd:string ;
+    ns1:Id "56"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgwdLrGYCzqo4VlMcad4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/77> ns1:Comment "skoiubbpwa"^^xsd:string ;
+    ns1:Date "22.03.19 09:53:04"^^xsd:string ;
+    ns1:Id "57"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgzwVSyq1IioEGWe9M14AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/78> ns1:Comment "tllpizopwa"^^xsd:string ;
+    ns1:Date "22.03.19 09:53:04"^^xsd:string ;
+    ns1:Id "58"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgwRN0HeYVXz3GjoUqZ4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/79> ns1:Comment "tqhjalczxh"^^xsd:string ;
+    ns1:Date "22.03.19 09:53:04"^^xsd:string ;
+    ns1:Id "59"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgyfQ6TZ3SuNNJSMmCl4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/8> ns1:Comment "gmueiomcmy"^^xsd:string ;
+    ns1:Date "22.02.19 09:53:04"^^xsd:string ;
+    ns1:Id "9"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgwqqiQC6h1hCrhvtaJ4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/80> ns1:Comment "tthnoymfdf"^^xsd:string ;
+    ns1:Date "22.03.19 09:53:04"^^xsd:string ;
+    ns1:Id "60"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugz3AbLGg-4LkFhyG694AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/81> ns1:Comment "txrdorotxg"^^xsd:string ;
+    ns1:Date "22.03.19 09:53:04"^^xsd:string ;
+    ns1:Id "61"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgxxTHcdYJUeYFjpySl4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/82> ns1:Comment "ufmzngflex"^^xsd:string ;
+    ns1:Date "22.03.19 09:53:04"^^xsd:string ;
+    ns1:Id "62"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugx8dQxmCSz3BQinVkF4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/83> ns1:Comment "vevfrlwuoi"^^xsd:string ;
+    ns1:Date "22.03.19 09:53:04"^^xsd:string ;
+    ns1:Id "63"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgxJmA-2e2auxv7EWVB4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/84> ns1:Comment "voovcoplon"^^xsd:string ;
+    ns1:Date "22.03.19 09:53:04"^^xsd:string ;
+    ns1:Id "64"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugz1UEeReVZq-e09ssp4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/85> ns1:Comment "wwiivpaoce"^^xsd:string ;
+    ns1:Date "22.03.19 09:53:04"^^xsd:string ;
+    ns1:Id "65"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgwYibOHt2cjRcl0jVx4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/86> ns1:Comment "xeeyiizyza"^^xsd:string ;
+    ns1:Date "22.03.19 09:53:04"^^xsd:string ;
+    ns1:Id "66"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgyRo8EahXg1xm-4NbN4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/87> ns1:Comment "yecibrhdxz"^^xsd:string ;
+    ns1:Date "22.03.19 09:53:04"^^xsd:string ;
+    ns1:Id "67"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugw3PrPJB_JT42thYax4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/88> ns1:Comment "yjvslddurm"^^xsd:string ;
+    ns1:Date "22.03.19 09:53:04"^^xsd:string ;
+    ns1:Id "68"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgyZrWWx9rX5FjoIWcV4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/89> ns1:Comment "yruncoiyrt"^^xsd:string ;
+    ns1:Date "22.03.19 09:53:04"^^xsd:string ;
+    ns1:Id "69"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgxzABHd3SMeo9dkLTN4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/9> ns1:Comment "gnrotamcdb"^^xsd:string ;
+    ns1:Date "22.02.19 09:53:04"^^xsd:string ;
+    ns1:Id "10"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgyjUWOIWaI3CH6LeSt4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/90> ns1:Comment "zlkdryikvi"^^xsd:string ;
+    ns1:Date "22.03.19 09:53:04"^^xsd:string ;
+    ns1:Id "70"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgwDL1eGzJa7sy3woyN4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/91> ns1:Comment "zqnyulnxiz"^^xsd:string ;
+    ns1:Date "22.03.19 09:53:04"^^xsd:string ;
+    ns1:Id "71"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugz_O-lzOurBhSqfhnV4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/92> ns1:Comment "https://youtu.be/vsmLN9rnBwg"^^xsd:string ;
+    ns1:Date "22.03.19 09:53:04"^^xsd:string ;
+    ns1:Id "72"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgyocdiL9Pd0BVShb_V4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/93> ns1:Comment "just take Russell to Charles Xaviers"^^xsd:string ;
+    ns1:Date "22.03.19 09:53:04"^^xsd:string ;
+    ns1:Id "73"^^xsd:string ;
+    ns1:Likes "1"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgwOLHsAHzcAhecLSsx4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/94> ns1:Comment "I want deadpool 3..."^^xsd:string ;
+    ns1:Date "22.03.19 09:53:04"^^xsd:string ;
+    ns1:Id "74"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgxC-OiWt3dhneTexfl4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/95> ns1:Comment "Luv for hindi dubbing????????????????????????????"^^xsd:string ;
+    ns1:Date "22.03.19 09:53:04"^^xsd:string ;
+    ns1:Id "75"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugw1JgdiSgxzNBwfFOB4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/96> ns1:Comment "Read the description"^^xsd:string ;
+    ns1:Date "22.03.19 09:53:04"^^xsd:string ;
+    ns1:Id "76"^^xsd:string ;
+    ns1:Likes "2"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgwcHdt0PL8HZ8B7z0B4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/97> ns1:Comment "why does he always try to say something and be funny but its never funny."^^xsd:string ;
+    ns1:Date "22.03.19 09:53:04"^^xsd:string ;
+    ns1:Id "77"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgzyYLmPd-1Mv8EsTN94AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/98> ns1:Comment "What is the song in this"^^xsd:string ;
+    ns1:Date "22.03.19 09:53:04"^^xsd:string ;
+    ns1:Id "78"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=UgzNGUTqfLwblvV1HWF4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/99> ns1:Comment "#DP  forever"^^xsd:string ;
+    ns1:Date "22.03.19 09:53:04"^^xsd:string ;
+    ns1:Id "79"^^xsd:string ;
+    ns1:Likes "0"^^xsd:string ;
+    ns1:Link "https://www.youtube.com/watch?v=D86RtevtfrA&lc=Ugy0ncLW1tuXc3fF5bN4AaABAg"^^xsd:string ;
+    ns1:SubId ""^^xsd:string .
+
+<https://iisg.amsterdam/Deadpool_2/nanopublication/bec01b2d/2019-12-13T10:04> a ns6:Nanopublication ;
+    ns6:hasAssertion <https://iisg.amsterdam/Deadpool_2/assertion/bec01b2d/2019-12-13T10:04> ;
+    ns6:hasProvenance <https://iisg.amsterdam/Deadpool_2/provenance/bec01b2d/2019-12-13T10:04> ;
+    ns6:hasPublicationInfo <https://iisg.amsterdam/Deadpool_2/pubinfo/bec01b2d/2019-12-13T10:04> ;
+    ns4:generatedAtTime "2019-12-13T10:04:00"^^xsd:dateTime ;
+    ns4:wasGeneratedBy <https://github.com/CLARIAH/wp4-converters> .
+
+<https://iisg.amsterdam/Deadpool_2.csv> ns2:license <http://opendefinition.org/licenses/cc-by/> ;
+    ns2:modified "2019-12-13"^^xsd:date ;
+    ns2:publisher [ ns5:name "CLARIAH Structured Data Hub - Datalegend"@en ;
+            ns5:url <http://datalegend.net/> ] ;
+    ns2:title "Deadpool_2.csv"@en ;
+    ns3:dialect [ ns3:delimiter ";" ;
+            ns3:encoding "Windows-1252" ;
+            ns3:quoteChar "\"" ] ;
+    ns3:tableSchema [ ns3:aboutUrl <https://iisg.amsterdam/__row_> ;
+            ns3:column [ rdf:first <https://iisg.amsterdam/Deadpool_2.csv/column/Id> ;
+                    rdf:rest ( <https://iisg.amsterdam/Deadpool_2.csv/column/SubId> <https://iisg.amsterdam/Deadpool_2.csv/column/Name_(click_to_view_profile)> <https://iisg.amsterdam/Deadpool_2.csv/column/Date> <https://iisg.amsterdam/Deadpool_2.csv/column/Likes> <https://iisg.amsterdam/Deadpool_2.csv/column/Comment> <https://iisg.amsterdam/Deadpool_2.csv/column/Link> ),
+                        () ] ;
+            ns3:primaryKey "Id" ] ;
+    ns3:url "Deadpool_2.csv"^^xsd:anyURI .
+
+<https://iisg.amsterdam/Deadpool_2.csv/column/Comment> ns2:description "Comment"@en ;
+    ns3:datatype xsd:string ;
+    ns3:name "Comment" ;
+    ns3:title "Comment"@en .
+
+<https://iisg.amsterdam/Deadpool_2.csv/column/Date> ns2:description "Date"@en ;
+    ns3:datatype xsd:string ;
+    ns3:name "Date" ;
+    ns3:title "Date"@en .
+
+<https://iisg.amsterdam/Deadpool_2.csv/column/Id> ns2:description "Id"@en ;
+    ns3:datatype xsd:string ;
+    ns3:name "Id" ;
+    ns3:title "Id"@en .
+
+<https://iisg.amsterdam/Deadpool_2.csv/column/Likes> ns2:description "Likes"@en ;
+    ns3:datatype xsd:string ;
+    ns3:name "Likes" ;
+    ns3:title "Likes"@en .
+
+<https://iisg.amsterdam/Deadpool_2.csv/column/Link> ns2:description "Link"@en ;
+    ns3:datatype xsd:string ;
+    ns3:name "Link" ;
+    ns3:title "Link"@en .
+
+<https://iisg.amsterdam/Deadpool_2.csv/column/Name_(click_to_view_profile)> ns2:description "Name (click to view profile)"@en ;
+    ns3:datatype xsd:string ;
+    ns3:name "Name (click to view profile)" ;
+    ns3:title "Name (click to view profile)"@en .
+
+<https://iisg.amsterdam/Deadpool_2.csv/column/SubId> ns2:description "SubId"@en ;
+    ns3:datatype xsd:string ;
+    ns3:name "SubId" ;
+    ns3:title "SubId"@en .
+
+<https://iisg.amsterdam/Deadpool_2/assertion/bec01b2d/2019-12-13T10:04> a ns6:Assertion ;
+    ns4:generatedAtTime "2019-12-13T10:04:00"^^xsd:dateTime ;
+    ns4:wasDerivedFrom <https://iisg.amsterdam/Deadpool_2.csv>,
+        <https://iisg.amsterdam/bec01b2d60b2723c5535056df622c1d705c54ac5> .
+
+<https://iisg.amsterdam/Deadpool_2/provenance/bec01b2d/2019-12-13T10:04> a ns6:Provenance .
+
+<https://iisg.amsterdam/Deadpool_2/pubinfo/bec01b2d/2019-12-13T10:04> a ns6:PublicationInfo .
+
+<https://iisg.amsterdam/__row_> ns4:wasDerivedFrom "https://iisg.amsterdam/{_row}"^^xsd:string .
+
+<https://iisg.amsterdam/bec01b2d60b2723c5535056df622c1d705c54ac5> ns1:path "/tmp/2VJOKCGBU3/web_interface/26a5e241912b0be8138f7aa15ccbd0f5/Deadpool_2.csv"^^xsd:string ;
+    ns1:sha1_hash "bec01b2d60b2723c5535056df622c1d705c54ac5"^^xsd:string .
+
