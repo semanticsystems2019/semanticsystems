@@ -1,5 +1,8 @@
 package group18;
 
+import org.eclipse.rdf4j.model.Model;
+
+import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.IOException;
 
@@ -7,7 +10,7 @@ public interface Tutorial {
 
     void createRepository();
 
-    void createInstances();
+    void createInstances(Model model);
 
     void modifyInstances();
 
@@ -17,7 +20,7 @@ public interface Tutorial {
 
     void constructQuery(String queryFile);
 
-    void loadRdfFile(String inputFile) throws FileNotFoundException, IOException;
+    Model loadRdfFile(File inputFile) throws FileNotFoundException, IOException;
 
     void writeRdfFile(String outputFile) throws FileNotFoundException, IOException;
 
