@@ -903,8 +903,7 @@
         "possibly_sensitive": false,
         "possibly_sensitive_appealable": false,
         "lang": "en"
-      }
-][
+      },
     {
         "created_at": "Tue Apr 24 02:01:46 +0000 2018",
         "id": 988598846686093313,
@@ -1397,8 +1396,7 @@
         "favorited": false,
         "retweeted": false,
         "lang": "en"
-      }
-][
+      },
     {
         "created_at": "Thu Jan 04 20:02:05 +0000 2018",
         "id": 949008049158594560,
@@ -1888,8 +1886,7 @@
         "favorited": false,
         "retweeted": false,
         "lang": "en"
-    }
-][
+    },
     {
         "created_at": "Wed Apr 03 14:44:38 +0000 2019",
         "id": 1113452251673026561,
@@ -2480,9 +2477,8 @@
         "possibly_sensitive": false,
         "possibly_sensitive_appealable": false,
         "lang": "en"
-    }
-][
-{
+    },
+  {
     "created_at": "Thu Jul 25 18:03:14 +0000 2019",
     "id": 1154452059652890624,
     "id_str": "1154452059652890624",
