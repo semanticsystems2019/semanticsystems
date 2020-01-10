@@ -5,6 +5,8 @@ import org.json.JSONArray;
 import org.json.JSONObject;
 import org.json.simple.parser.JSONParser;
 import org.json.simple.parser.ParseException;
+
+import javax.print.DocFlavor;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
@@ -38,15 +40,41 @@ public class TwitterParser{
         for (int i = 0; i < fullJSON.length(); i++) {
 
             JSONObject currJSON = fullJSON.getJSONObject(i);
+            JSONObject user = currJSON.getJSONObject("user");
             JSONObject reducedJSON = new JSONObject();
-            reducedJSON.put("id", currJSON.get("id"));
-            reducedJSON.put("")
+            String refersTo = movieResolver((String) currJSON.get(("in_reply_to_user_id_str")));
+
+            reducedJSON.put("id", currJSON.get("id_str"));
+            reducedJSON.put("text", currJSON.get("text"));
+            reducedJSON.put("lang", currJSON.get("lang"));
+            reducedJSON.put("source", "twitter");
+            reducedJSON.put("user_name", user.get("name"));
+            reducedJSON.put("user_id", user.get("id_str"));
+            reducedJSON.put("refersTo", refersTo);
 
             ret.put(reducedJSON);
         }
 
         System.out.println(ret.toString());
         return ret;
+    }
+
+    private String movieResolver(String movie_id){
+        String movieName = "";
+
+        // movie_id translates to "in_reply_to_user_id_str"
+        if (movie_id.equals("393852070")){
+            movieName = "Avengers: Endgame"; }
+        else if (movie_id.equals("874401319171178496")) {
+            movieName = "Crazy Rich Asians"; }
+        else if (movie_id.equals("634706405")) {
+            movieName = "Fifty Shades Freed"; }
+        else if (movie_id.equals("1038128227485532160")) {
+            movieName = "The Joker"; }
+        else if (movie_id.equals("20651402")) {
+            movieName = "Zombieland: Double Tap"; }
+
+        return movieName;
     }
 
 }
