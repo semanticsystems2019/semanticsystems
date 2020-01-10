@@ -12,6 +12,7 @@ import javax.print.DocFlavor;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
+import java.util.Random;
 
 /**
  *	?tweet a movies:Tweet ;
@@ -44,7 +45,6 @@ public class TwitterParser{
             JSONObject currJSON = fullJSON.getJSONObject(i);
             JSONObject user = currJSON.getJSONObject("user");
             JSONObject reducedJSON = new JSONObject();
-            String refersTo = movieResolver((String) currJSON.get(("in_reply_to_user_id_str")));
 
             reducedJSON.put("id", currJSON.get("id_str"));
             reducedJSON.put("text", currJSON.get("text"));
@@ -52,7 +52,8 @@ public class TwitterParser{
             reducedJSON.put("source", "twitter");
             reducedJSON.put("user_name", user.get("name"));
             reducedJSON.put("user_id", user.get("id_str"));
-            reducedJSON.put("refersTo", refersTo);
+            reducedJSON.put("refersTo", movieResolver((String) currJSON.get(("in_reply_to_user_id_str"))));
+            reducedJSON.put("emotion", simpleEmotionResolver());
 
             ret.put(reducedJSON);
         }
@@ -77,9 +78,24 @@ public class TwitterParser{
         return movieName;
     }
 
+    private String simpleEmotionResolver(){
+        Random rnd = new Random();
+        int c = rnd.nextInt(3);
+        if (c == 0)
+            return "Positive";
+        else if (c == 1)
+            return "Indifferent";
+        else if (c == 2)
+            return "Negative";
+        else
+            return "";
+    }
+
     public void initialize() throws IOException, ParseException {
         JSONArray tweets = parser();
-
         System.out.println(tweets.toString());
+
+
+
     }
 }
