@@ -5,6 +5,8 @@ import org.json.JSONArray;
 import org.json.JSONObject;
 import org.json.simple.parser.JSONParser;
 import org.json.simple.parser.ParseException;
+import org.noggit.JSONUtil;
+import sun.lwawt.macosx.CSystemTray;
 
 import javax.print.DocFlavor;
 import java.io.FileNotFoundException;
@@ -54,15 +56,13 @@ public class TwitterParser{
 
             ret.put(reducedJSON);
         }
-
-        System.out.println(ret.toString());
         return ret;
     }
 
     private String movieResolver(String movie_id){
         String movieName = "";
 
-        // movie_id translates to "in_reply_to_user_id_str"
+        // movie_id translates to "in_reply_to_user_id_str" of original tweet
         if (movie_id.equals("393852070")){
             movieName = "Avengers: Endgame"; }
         else if (movie_id.equals("874401319171178496")) {
@@ -77,4 +77,9 @@ public class TwitterParser{
         return movieName;
     }
 
+    public void initialize() throws IOException, ParseException {
+        JSONArray tweets = parser();
+
+        System.out.println(tweets.toString());
+    }
 }
