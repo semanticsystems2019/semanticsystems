@@ -1,458 +1,209 @@
-<?xml version="1.0"?>
-<rdf:RDF xmlns="http://www.semanticweb.org/raphael/ontologies/2019/10/untitled-ontology-2#"
-     xml:base="http://www.semanticweb.org/raphael/ontologies/2019/10/untitled-ontology-2"
-     xmlns:owl="http://www.w3.org/2002/07/owl#"
-     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-     xmlns:xml="http://www.w3.org/XML/1998/namespace"
-     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
-     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
-    <owl:Ontology rdf:about="http://www.semanticweb.org/raphael/ontologies/2019/10/untitled-ontology-2"/>
-    
-
-
-    <!-- 
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Object Properties
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-     -->
-
-    
-
-
-    <!-- http://www.semanticweb.org/raphael/ontologies/2019/10/untitled-ontology-2#createdBy -->
-
-    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/raphael/ontologies/2019/10/untitled-ontology-2#createdBy">
-        <rdfs:domain>
-            <owl:Class>
-                <owl:unionOf rdf:parseType="Collection">
-                    <rdf:Description rdf:about="http://www.semanticweb.org/raphael/ontologies/2019/10/untitled-ontology-2#Comment"/>
-                    <rdf:Description rdf:about="http://www.semanticweb.org/raphael/ontologies/2019/10/untitled-ontology-2#Post"/>
-                </owl:unionOf>
-            </owl:Class>
-        </rdfs:domain>
-        <rdfs:range rdf:resource="http://www.semanticweb.org/raphael/ontologies/2019/10/untitled-ontology-2#User"/>
-    </owl:ObjectProperty>
-    
-
-
-    <!-- http://www.semanticweb.org/raphael/ontologies/2019/10/untitled-ontology-2#hasEmotion -->
-
-    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/raphael/ontologies/2019/10/untitled-ontology-2#hasEmotion">
-        <rdfs:domain>
-            <owl:Class>
-                <owl:unionOf rdf:parseType="Collection">
-                    <rdf:Description rdf:about="http://www.semanticweb.org/raphael/ontologies/2019/10/untitled-ontology-2#Comment"/>
-                    <rdf:Description rdf:about="http://www.semanticweb.org/raphael/ontologies/2019/10/untitled-ontology-2#Post"/>
-                </owl:unionOf>
-            </owl:Class>
-        </rdfs:domain>
-        <rdfs:range rdf:resource="http://www.semanticweb.org/raphael/ontologies/2019/10/untitled-ontology-2#Emotion"/>
-    </owl:ObjectProperty>
-    
-
-
-    <!-- http://www.semanticweb.org/raphael/ontologies/2019/10/untitled-ontology-2#hasSource -->
-
-    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/raphael/ontologies/2019/10/untitled-ontology-2#hasSource">
-        <rdfs:domain rdf:resource="http://www.semanticweb.org/raphael/ontologies/2019/10/untitled-ontology-2#Post"/>
-        <rdfs:range rdf:resource="http://www.semanticweb.org/raphael/ontologies/2019/10/untitled-ontology-2#Source"/>
-    </owl:ObjectProperty>
-    
-
-
-    <!-- http://www.semanticweb.org/raphael/ontologies/2019/10/untitled-ontology-2#isCommentOn -->
-
-    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/raphael/ontologies/2019/10/untitled-ontology-2#isCommentOn">
-        <rdfs:domain rdf:resource="http://www.semanticweb.org/raphael/ontologies/2019/10/untitled-ontology-2#Comment"/>
-        <rdfs:range>
-            <owl:Class>
-                <owl:unionOf rdf:parseType="Collection">
-                    <rdf:Description rdf:about="http://www.semanticweb.org/raphael/ontologies/2019/10/untitled-ontology-2#Comment"/>
-                    <rdf:Description rdf:about="http://www.semanticweb.org/raphael/ontologies/2019/10/untitled-ontology-2#Post"/>
-                </owl:unionOf>
-            </owl:Class>
-        </rdfs:range>
-    </owl:ObjectProperty>
-    
-
-
-    <!-- http://www.semanticweb.org/raphael/ontologies/2019/10/untitled-ontology-2#isOriginalPosterOfPost -->
-
-    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/raphael/ontologies/2019/10/untitled-ontology-2#isOriginalPosterOfPost">
-        <rdfs:domain rdf:resource="http://www.semanticweb.org/raphael/ontologies/2019/10/untitled-ontology-2#User"/>
-        <rdfs:range rdf:resource="http://www.semanticweb.org/raphael/ontologies/2019/10/untitled-ontology-2#Post"/>
-    </owl:ObjectProperty>
-    
-
-
-    <!-- http://www.semanticweb.org/raphael/ontologies/2019/10/untitled-ontology-2#refersToMovie -->
-
-    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/raphael/ontologies/2019/10/untitled-ontology-2#refersToMovie">
-        <rdfs:domain rdf:resource="http://www.semanticweb.org/raphael/ontologies/2019/10/untitled-ontology-2#Post"/>
-        <rdfs:range rdf:resource="http://www.semanticweb.org/raphael/ontologies/2019/10/untitled-ontology-2#Movie"/>
-    </owl:ObjectProperty>
-    
-
-
-    <!-- 
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Data properties
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-     -->
-
-    
-
-
-    <!-- http://www.semanticweb.org/raphael/ontologies/2019/10/untitled-ontology-2#hasDate -->
-
-    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/raphael/ontologies/2019/10/untitled-ontology-2#hasDate">
-        <rdfs:domain>
-            <owl:Class>
-                <owl:unionOf rdf:parseType="Collection">
-                    <rdf:Description rdf:about="http://www.semanticweb.org/raphael/ontologies/2019/10/untitled-ontology-2#Comment"/>
-                    <rdf:Description rdf:about="http://www.semanticweb.org/raphael/ontologies/2019/10/untitled-ontology-2#Post"/>
-                </owl:unionOf>
-            </owl:Class>
-        </rdfs:domain>
-        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#dateTimeStamp"/>
-    </owl:DatatypeProperty>
-    
-
-
-    <!-- http://www.semanticweb.org/raphael/ontologies/2019/10/untitled-ontology-2#hasId -->
-
-    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/raphael/ontologies/2019/10/untitled-ontology-2#hasId">
-        <rdfs:domain>
-            <owl:Class>
-                <owl:unionOf rdf:parseType="Collection">
-                    <rdf:Description rdf:about="http://www.semanticweb.org/raphael/ontologies/2019/10/untitled-ontology-2#RedditPost"/>
-                    <rdf:Description rdf:about="http://www.semanticweb.org/raphael/ontologies/2019/10/untitled-ontology-2#Tweet"/>
-                    <rdf:Description rdf:about="http://www.semanticweb.org/raphael/ontologies/2019/10/untitled-ontology-2#User"/>
-                </owl:unionOf>
-            </owl:Class>
-        </rdfs:domain>
-        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
-    </owl:DatatypeProperty>
-    
-
-
-    <!-- http://www.semanticweb.org/raphael/ontologies/2019/10/untitled-ontology-2#hasLikes -->
-
-    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/raphael/ontologies/2019/10/untitled-ontology-2#hasLikes">
-        <rdfs:domain>
-            <owl:Class>
-                <owl:unionOf rdf:parseType="Collection">
-                    <rdf:Description rdf:about="http://www.semanticweb.org/raphael/ontologies/2019/10/untitled-ontology-2#Comment"/>
-                    <rdf:Description rdf:about="http://www.semanticweb.org/raphael/ontologies/2019/10/untitled-ontology-2#Post"/>
-                </owl:unionOf>
-            </owl:Class>
-        </rdfs:domain>
-        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#integer"/>
-    </owl:DatatypeProperty>
-    
-
-
-    <!-- http://www.semanticweb.org/raphael/ontologies/2019/10/untitled-ontology-2#hasRetweet -->
-
-    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/raphael/ontologies/2019/10/untitled-ontology-2#hasRetweet">
-        <rdfs:domain rdf:resource="http://www.semanticweb.org/raphael/ontologies/2019/10/untitled-ontology-2#Tweet"/>
-        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#integer"/>
-    </owl:DatatypeProperty>
-    
-
-
-    <!-- http://www.semanticweb.org/raphael/ontologies/2019/10/untitled-ontology-2#hasText -->
-
-    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/raphael/ontologies/2019/10/untitled-ontology-2#hasText">
-        <rdfs:domain>
-            <owl:Class>
-                <owl:unionOf rdf:parseType="Collection">
-                    <rdf:Description rdf:about="http://www.semanticweb.org/raphael/ontologies/2019/10/untitled-ontology-2#Comment"/>
-                    <rdf:Description rdf:about="http://www.semanticweb.org/raphael/ontologies/2019/10/untitled-ontology-2#Post"/>
-                </owl:unionOf>
-            </owl:Class>
-        </rdfs:domain>
-        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
-    </owl:DatatypeProperty>
-    
+Prefix(:=<http://www.semanticweb.org/group18/movie-ontology#>)
+Prefix(owl:=<http://www.w3.org/2002/07/owl#>)
+Prefix(rdf:=<http://www.w3.org/1999/02/22-rdf-syntax-ns#>)
+Prefix(xml:=<http://www.w3.org/XML/1998/namespace>)
+Prefix(xsd:=<http://www.w3.org/2001/XMLSchema#>)
+Prefix(rdfs:=<http://www.w3.org/2000/01/rdf-schema#>)
 
 
-    <!-- http://www.semanticweb.org/raphael/ontologies/2019/10/untitled-ontology-2#hasTitle -->
+Ontology(<http://www.semanticweb.org/group18/movie-ontology>
 
-    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/raphael/ontologies/2019/10/untitled-ontology-2#hasTitle">
-        <rdfs:domain>
-            <owl:Class>
-                <owl:unionOf rdf:parseType="Collection">
-                    <rdf:Description rdf:about="http://www.semanticweb.org/raphael/ontologies/2019/10/untitled-ontology-2#RedditPost"/>
-                    <rdf:Description rdf:about="http://www.semanticweb.org/raphael/ontologies/2019/10/untitled-ontology-2#YoutubePost"/>
-                </owl:unionOf>
-            </owl:Class>
-        </rdfs:domain>
-        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
-    </owl:DatatypeProperty>
-    
+Declaration(Class(:Action))
+Declaration(Class(:Comment))
+Declaration(Class(:Drama))
+Declaration(Class(:Emotion))
+Declaration(Class(:Horror))
+Declaration(Class(:Indifferent))
+Declaration(Class(:InstaPost))
+Declaration(Class(:Instagram))
+Declaration(Class(:Kids))
+Declaration(Class(:Movie))
+Declaration(Class(:Negative))
+Declaration(Class(:Positive))
+Declaration(Class(:Post))
+Declaration(Class(:Reddit))
+Declaration(Class(:RedditPost))
+Declaration(Class(:Romance))
+Declaration(Class(:Source))
+Declaration(Class(:Tweet))
+Declaration(Class(:Twitter))
+Declaration(Class(:User))
+Declaration(Class(:Youtube))
+Declaration(Class(:YoutubePost))
+Declaration(ObjectProperty(:createdBy))
+Declaration(ObjectProperty(:hasEmotion))
+Declaration(ObjectProperty(:hasSource))
+Declaration(ObjectProperty(:isCommentOn))
+Declaration(ObjectProperty(:isOriginalPosterOfPost))
+Declaration(ObjectProperty(:refersToMovie))
+Declaration(DataProperty(:hasDate))
+Declaration(DataProperty(:hasId))
+Declaration(DataProperty(:hasLikes))
+Declaration(DataProperty(:hasRetweet))
+Declaration(DataProperty(:hasText))
+Declaration(DataProperty(:hasTitle))
+Declaration(DataProperty(:hasUsername))
+############################
+#   Object Properties
+############################
 
+# Object Property: :createdBy (:createdBy)
 
-    <!-- http://www.semanticweb.org/raphael/ontologies/2019/10/untitled-ontology-2#hasUsername -->
+ObjectPropertyDomain(:createdBy ObjectUnionOf(:Comment :Post))
+ObjectPropertyRange(:createdBy :User)
 
-    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/raphael/ontologies/2019/10/untitled-ontology-2#hasUsername">
-        <rdfs:domain rdf:resource="http://www.semanticweb.org/raphael/ontologies/2019/10/untitled-ontology-2#User"/>
-        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
-    </owl:DatatypeProperty>
-    
+# Object Property: :hasEmotion (:hasEmotion)
 
+ObjectPropertyDomain(:hasEmotion ObjectUnionOf(:Comment :Post))
+ObjectPropertyRange(:hasEmotion :Emotion)
 
-    <!-- 
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Classes
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-     -->
+# Object Property: :hasSource (:hasSource)
 
-    
+ObjectPropertyDomain(:hasSource :Post)
+ObjectPropertyRange(:hasSource :Source)
 
+# Object Property: :isCommentOn (:isCommentOn)
 
-    <!-- http://www.semanticweb.org/raphael/ontologies/2019/10/untitled-ontology-2#Action -->
+ObjectPropertyDomain(:isCommentOn :Comment)
+ObjectPropertyRange(:isCommentOn ObjectUnionOf(:Comment :Post))
 
-    <owl:Class rdf:about="http://www.semanticweb.org/raphael/ontologies/2019/10/untitled-ontology-2#Action">
-        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/raphael/ontologies/2019/10/untitled-ontology-2#Movie"/>
-    </owl:Class>
-    
+# Object Property: :isOriginalPosterOfPost (:isOriginalPosterOfPost)
 
+ObjectPropertyDomain(:isOriginalPosterOfPost :User)
+ObjectPropertyRange(:isOriginalPosterOfPost :Post)
 
-    <!-- http://www.semanticweb.org/raphael/ontologies/2019/10/untitled-ontology-2#Comment -->
+# Object Property: :refersToMovie (:refersToMovie)
 
-    <owl:Class rdf:about="http://www.semanticweb.org/raphael/ontologies/2019/10/untitled-ontology-2#Comment">
-        <rdfs:subClassOf>
-            <owl:Restriction>
-                <owl:onProperty rdf:resource="http://www.semanticweb.org/raphael/ontologies/2019/10/untitled-ontology-2#createdBy"/>
-                <owl:qualifiedCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1</owl:qualifiedCardinality>
-                <owl:onClass rdf:resource="http://www.semanticweb.org/raphael/ontologies/2019/10/untitled-ontology-2#User"/>
-            </owl:Restriction>
-        </rdfs:subClassOf>
-        <rdfs:subClassOf>
-            <owl:Restriction>
-                <owl:onProperty rdf:resource="http://www.semanticweb.org/raphael/ontologies/2019/10/untitled-ontology-2#hasEmotion"/>
-                <owl:qualifiedCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1</owl:qualifiedCardinality>
-                <owl:onClass rdf:resource="http://www.semanticweb.org/raphael/ontologies/2019/10/untitled-ontology-2#Emotion"/>
-            </owl:Restriction>
-        </rdfs:subClassOf>
-        <owl:disjointWith rdf:resource="http://www.semanticweb.org/raphael/ontologies/2019/10/untitled-ontology-2#Post"/>
-    </owl:Class>
-    
+ObjectPropertyDomain(:refersToMovie :Post)
+ObjectPropertyRange(:refersToMovie :Movie)
 
 
-    <!-- http://www.semanticweb.org/raphael/ontologies/2019/10/untitled-ontology-2#Drama -->
+############################
+#   Data Properties
+############################
 
-    <owl:Class rdf:about="http://www.semanticweb.org/raphael/ontologies/2019/10/untitled-ontology-2#Drama">
-        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/raphael/ontologies/2019/10/untitled-ontology-2#Movie"/>
-    </owl:Class>
-    
+# Data Property: :hasDate (:hasDate)
 
+DataPropertyDomain(:hasDate ObjectUnionOf(:Comment :Post))
+DataPropertyRange(:hasDate xsd:dateTimeStamp)
 
-    <!-- http://www.semanticweb.org/raphael/ontologies/2019/10/untitled-ontology-2#Emotion -->
-
-    <owl:Class rdf:about="http://www.semanticweb.org/raphael/ontologies/2019/10/untitled-ontology-2#Emotion"/>
-    
+# Data Property: :hasId (:hasId)
 
+DataPropertyDomain(:hasId ObjectUnionOf(:RedditPost :Tweet :User))
+DataPropertyRange(:hasId xsd:string)
 
-    <!-- http://www.semanticweb.org/raphael/ontologies/2019/10/untitled-ontology-2#Horror -->
+# Data Property: :hasLikes (:hasLikes)
 
-    <owl:Class rdf:about="http://www.semanticweb.org/raphael/ontologies/2019/10/untitled-ontology-2#Horror">
-        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/raphael/ontologies/2019/10/untitled-ontology-2#Movie"/>
-    </owl:Class>
-    
+DataPropertyDomain(:hasLikes ObjectUnionOf(:Comment :Post))
+DataPropertyRange(:hasLikes xsd:integer)
 
+# Data Property: :hasRetweet (:hasRetweet)
 
-    <!-- http://www.semanticweb.org/raphael/ontologies/2019/10/untitled-ontology-2#Indifferent -->
+DataPropertyDomain(:hasRetweet :Tweet)
+DataPropertyRange(:hasRetweet xsd:integer)
 
-    <owl:Class rdf:about="http://www.semanticweb.org/raphael/ontologies/2019/10/untitled-ontology-2#Indifferent">
-        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/raphael/ontologies/2019/10/untitled-ontology-2#Emotion"/>
-    </owl:Class>
-    
+# Data Property: :hasText (:hasText)
 
+DataPropertyDomain(:hasText ObjectUnionOf(:Comment :Post))
+DataPropertyRange(:hasText xsd:string)
 
-    <!-- http://www.semanticweb.org/raphael/ontologies/2019/10/untitled-ontology-2#InstaPost -->
+# Data Property: :hasTitle (:hasTitle)
 
-    <owl:Class rdf:about="http://www.semanticweb.org/raphael/ontologies/2019/10/untitled-ontology-2#InstaPost">
-        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/raphael/ontologies/2019/10/untitled-ontology-2#Post"/>
-    </owl:Class>
-    
+DataPropertyDomain(:hasTitle ObjectUnionOf(:RedditPost :YoutubePost))
+DataPropertyRange(:hasTitle xsd:string)
 
+# Data Property: :hasUsername (:hasUsername)
 
-    <!-- http://www.semanticweb.org/raphael/ontologies/2019/10/untitled-ontology-2#Instagram -->
+DataPropertyDomain(:hasUsername :User)
+DataPropertyRange(:hasUsername xsd:string)
 
-    <owl:Class rdf:about="http://www.semanticweb.org/raphael/ontologies/2019/10/untitled-ontology-2#Instagram">
-        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/raphael/ontologies/2019/10/untitled-ontology-2#Source"/>
-    </owl:Class>
-    
 
 
-    <!-- http://www.semanticweb.org/raphael/ontologies/2019/10/untitled-ontology-2#Kids -->
+############################
+#   Classes
+############################
 
-    <owl:Class rdf:about="http://www.semanticweb.org/raphael/ontologies/2019/10/untitled-ontology-2#Kids">
-        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/raphael/ontologies/2019/10/untitled-ontology-2#Movie"/>
-    </owl:Class>
-    
+# Class: :Action (:Action)
 
+SubClassOf(:Action :Movie)
 
-    <!-- http://www.semanticweb.org/raphael/ontologies/2019/10/untitled-ontology-2#Movie -->
+# Class: :Comment (:Comment)
 
-    <owl:Class rdf:about="http://www.semanticweb.org/raphael/ontologies/2019/10/untitled-ontology-2#Movie"/>
-    
+SubClassOf(:Comment ObjectExactCardinality(1 :createdBy :User))
+SubClassOf(:Comment ObjectExactCardinality(1 :hasEmotion :Emotion))
+DisjointClasses(:Comment :Post)
 
+# Class: :Drama (:Drama)
 
-    <!-- http://www.semanticweb.org/raphael/ontologies/2019/10/untitled-ontology-2#Negative -->
+SubClassOf(:Drama :Movie)
 
-    <owl:Class rdf:about="http://www.semanticweb.org/raphael/ontologies/2019/10/untitled-ontology-2#Negative">
-        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/raphael/ontologies/2019/10/untitled-ontology-2#Emotion"/>
-    </owl:Class>
-    
+# Class: :Horror (:Horror)
 
+SubClassOf(:Horror :Movie)
 
-    <!-- http://www.semanticweb.org/raphael/ontologies/2019/10/untitled-ontology-2#Positive -->
+# Class: :Indifferent (:Indifferent)
 
-    <owl:Class rdf:about="http://www.semanticweb.org/raphael/ontologies/2019/10/untitled-ontology-2#Positive">
-        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/raphael/ontologies/2019/10/untitled-ontology-2#Emotion"/>
-    </owl:Class>
-    
+SubClassOf(:Indifferent :Emotion)
 
+# Class: :InstaPost (:InstaPost)
 
-    <!-- http://www.semanticweb.org/raphael/ontologies/2019/10/untitled-ontology-2#Post -->
+SubClassOf(:InstaPost :Post)
 
-    <owl:Class rdf:about="http://www.semanticweb.org/raphael/ontologies/2019/10/untitled-ontology-2#Post">
-        <rdfs:subClassOf>
-            <owl:Restriction>
-                <owl:onProperty rdf:resource="http://www.semanticweb.org/raphael/ontologies/2019/10/untitled-ontology-2#createdBy"/>
-                <owl:qualifiedCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1</owl:qualifiedCardinality>
-                <owl:onClass rdf:resource="http://www.semanticweb.org/raphael/ontologies/2019/10/untitled-ontology-2#User"/>
-            </owl:Restriction>
-        </rdfs:subClassOf>
-        <rdfs:subClassOf>
-            <owl:Restriction>
-                <owl:onProperty rdf:resource="http://www.semanticweb.org/raphael/ontologies/2019/10/untitled-ontology-2#hasEmotion"/>
-                <owl:qualifiedCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1</owl:qualifiedCardinality>
-                <owl:onClass rdf:resource="http://www.semanticweb.org/raphael/ontologies/2019/10/untitled-ontology-2#Emotion"/>
-            </owl:Restriction>
-        </rdfs:subClassOf>
-        <rdfs:subClassOf>
-            <owl:Restriction>
-                <owl:onProperty rdf:resource="http://www.semanticweb.org/raphael/ontologies/2019/10/untitled-ontology-2#hasSource"/>
-                <owl:qualifiedCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1</owl:qualifiedCardinality>
-                <owl:onClass rdf:resource="http://www.semanticweb.org/raphael/ontologies/2019/10/untitled-ontology-2#Source"/>
-            </owl:Restriction>
-        </rdfs:subClassOf>
-        <rdfs:subClassOf>
-            <owl:Restriction>
-                <owl:onProperty rdf:resource="http://www.semanticweb.org/raphael/ontologies/2019/10/untitled-ontology-2#refersToMovie"/>
-                <owl:qualifiedCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1</owl:qualifiedCardinality>
-                <owl:onClass rdf:resource="http://www.semanticweb.org/raphael/ontologies/2019/10/untitled-ontology-2#Movie"/>
-            </owl:Restriction>
-        </rdfs:subClassOf>
-    </owl:Class>
-    
+# Class: :Instagram (:Instagram)
 
+SubClassOf(:Instagram :Source)
 
-    <!-- http://www.semanticweb.org/raphael/ontologies/2019/10/untitled-ontology-2#Reddit -->
+# Class: :Kids (:Kids)
 
-    <owl:Class rdf:about="http://www.semanticweb.org/raphael/ontologies/2019/10/untitled-ontology-2#Reddit">
-        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/raphael/ontologies/2019/10/untitled-ontology-2#Source"/>
-    </owl:Class>
-    
+SubClassOf(:Kids :Movie)
 
+# Class: :Negative (:Negative)
 
-    <!-- http://www.semanticweb.org/raphael/ontologies/2019/10/untitled-ontology-2#RedditPost -->
+SubClassOf(:Negative :Emotion)
 
-    <owl:Class rdf:about="http://www.semanticweb.org/raphael/ontologies/2019/10/untitled-ontology-2#RedditPost">
-        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/raphael/ontologies/2019/10/untitled-ontology-2#Post"/>
-    </owl:Class>
-    
+# Class: :Positive (:Positive)
 
+SubClassOf(:Positive :Emotion)
 
-    <!-- http://www.semanticweb.org/raphael/ontologies/2019/10/untitled-ontology-2#Romance -->
+# Class: :Post (:Post)
 
-    <owl:Class rdf:about="http://www.semanticweb.org/raphael/ontologies/2019/10/untitled-ontology-2#Romance">
-        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/raphael/ontologies/2019/10/untitled-ontology-2#Movie"/>
-    </owl:Class>
-    
+SubClassOf(:Post ObjectExactCardinality(1 :createdBy :User))
+SubClassOf(:Post ObjectExactCardinality(1 :hasEmotion :Emotion))
+SubClassOf(:Post ObjectExactCardinality(1 :hasSource :Source))
+SubClassOf(:Post ObjectExactCardinality(1 :refersToMovie :Movie))
 
+# Class: :Reddit (:Reddit)
 
-    <!-- http://www.semanticweb.org/raphael/ontologies/2019/10/untitled-ontology-2#Source -->
+SubClassOf(:Reddit :Source)
 
-    <owl:Class rdf:about="http://www.semanticweb.org/raphael/ontologies/2019/10/untitled-ontology-2#Source"/>
-    
+# Class: :RedditPost (:RedditPost)
 
+SubClassOf(:RedditPost :Post)
 
-    <!-- http://www.semanticweb.org/raphael/ontologies/2019/10/untitled-ontology-2#Tweet -->
+# Class: :Romance (:Romance)
 
-    <owl:Class rdf:about="http://www.semanticweb.org/raphael/ontologies/2019/10/untitled-ontology-2#Tweet">
-        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/raphael/ontologies/2019/10/untitled-ontology-2#Post"/>
-    </owl:Class>
-    
+SubClassOf(:Romance :Movie)
 
+# Class: :Tweet (:Tweet)
 
-    <!-- http://www.semanticweb.org/raphael/ontologies/2019/10/untitled-ontology-2#Twitter -->
+SubClassOf(:Tweet :Post)
 
-    <owl:Class rdf:about="http://www.semanticweb.org/raphael/ontologies/2019/10/untitled-ontology-2#Twitter">
-        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/raphael/ontologies/2019/10/untitled-ontology-2#Source"/>
-    </owl:Class>
-    
+# Class: :Twitter (:Twitter)
 
+SubClassOf(:Twitter :Source)
 
-    <!-- http://www.semanticweb.org/raphael/ontologies/2019/10/untitled-ontology-2#User -->
+# Class: :User (:User)
 
-    <owl:Class rdf:about="http://www.semanticweb.org/raphael/ontologies/2019/10/untitled-ontology-2#User">
-        <rdfs:subClassOf>
-            <owl:Restriction>
-                <owl:onProperty rdf:resource="http://www.semanticweb.org/raphael/ontologies/2019/10/untitled-ontology-2#isOriginalPosterOfPost"/>
-                <owl:minQualifiedCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">0</owl:minQualifiedCardinality>
-                <owl:onClass rdf:resource="http://www.semanticweb.org/raphael/ontologies/2019/10/untitled-ontology-2#Post"/>
-            </owl:Restriction>
-        </rdfs:subClassOf>
-    </owl:Class>
-    
+SubClassOf(:User ObjectMinCardinality(0 :isOriginalPosterOfPost :Post))
 
+# Class: :Youtube (:Youtube)
 
-    <!-- http://www.semanticweb.org/raphael/ontologies/2019/10/untitled-ontology-2#Youtube -->
+SubClassOf(:Youtube :Source)
 
-    <owl:Class rdf:about="http://www.semanticweb.org/raphael/ontologies/2019/10/untitled-ontology-2#Youtube">
-        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/raphael/ontologies/2019/10/untitled-ontology-2#Source"/>
-    </owl:Class>
-    
+# Class: :YoutubePost (:YoutubePost)
 
+SubClassOf(:YoutubePost :Post)
 
-    <!-- http://www.semanticweb.org/raphael/ontologies/2019/10/untitled-ontology-2#YoutubePost -->
 
-    <owl:Class rdf:about="http://www.semanticweb.org/raphael/ontologies/2019/10/untitled-ontology-2#YoutubePost">
-        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/raphael/ontologies/2019/10/untitled-ontology-2#Post"/>
-    </owl:Class>
-    
-
-
-    <!-- 
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // General axioms
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-     -->
-
-    <rdf:Description>
-        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AllDisjointClasses"/>
-        <owl:members rdf:parseType="Collection">
-            <rdf:Description rdf:about="http://www.semanticweb.org/raphael/ontologies/2019/10/untitled-ontology-2#Indifferent"/>
-            <rdf:Description rdf:about="http://www.semanticweb.org/raphael/ontologies/2019/10/untitled-ontology-2#Negative"/>
-            <rdf:Description rdf:about="http://www.semanticweb.org/raphael/ontologies/2019/10/untitled-ontology-2#Positive"/>
-        </owl:members>
-    </rdf:Description>
-</rdf:RDF>
-
-
-
-<!-- Generated by the OWL API (version 4.5.9.2019-02-01T07:24:44Z) https://github.com/owlcs/owlapi -->
-
+DisjointClasses(:Indifferent :Negative :Positive)
+)
