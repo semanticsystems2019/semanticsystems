@@ -1,12 +1,17 @@
 package group18;
 
+import org.eclipse.rdf4j.model.IRI;
+import org.eclipse.rdf4j.model.Model;
+import org.eclipse.rdf4j.model.Value;
+import org.eclipse.rdf4j.model.ValueFactory;
+import org.eclipse.rdf4j.model.vocabulary.RDF;
+import org.eclipse.rdf4j.repository.Repository;
+import org.eclipse.rdf4j.repository.RepositoryConnection;
 import org.json.JSONArray;
 import org.json.JSONObject;
 import org.json.simple.parser.JSONParser;
 import org.json.simple.parser.ParseException;
 import org.noggit.JSONUtil;
-import sun.lwawt.macosx.CSystemTray;
-
 import java.io.FileReader;
 import java.io.IOException;
 import java.util.Random;
@@ -88,11 +93,27 @@ public class TwitterParser{
             return "";
     }
 
-    public void initialize() throws IOException, ParseException {
-        JSONArray tweets = parser();
-        System.out.println(tweets.toString());
+    public void initialize(Repository repo, Model model) {
+        JSONArray tweets;
+        ValueFactory valueFactory = repo.getValueFactory();
+        Value commentType = model.objects().stream().filter(o -> o.stringValue().contains("Post")).findFirst().get();
+        int counter = 0;
 
+        try {
+            tweets = parser();
+            System.out.println(tweets.toString());
+            RepositoryConnection conn = repo.getConnection();
+            for (int i = 0; i < tweets.length(); i++) {
+                IRI commentIri = valueFactory.createIRI(Util.NS, "post" + (counter+i));
 
+                conn.add(commentIri, RDF.TYPE, commentType);
 
+            }
+
+        } catch (IOException e) {
+            e.printStackTrace();
+        } catch (ParseException e) {
+            e.printStackTrace();
+        }
     }
 }

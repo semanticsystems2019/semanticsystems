@@ -16,6 +16,7 @@ public class Rdf4jHandler implements Tutorial {
 
     private Repository repo;
     private InstaYoutubeParser instaYoutubeParser = new InstaYoutubeParser();
+    private TwitterParser twitterParser = new TwitterParser();
 
     public Rdf4jHandler() {
         createRepository();
@@ -30,8 +31,8 @@ public class Rdf4jHandler implements Tutorial {
     @Override
     public void createInstances(Model model) {
         instaYoutubeParser.parse(repo, model);
+        twitterParser.initialize(repo, model);
     }
-
     @Override
     public void modifyInstances() {
 
