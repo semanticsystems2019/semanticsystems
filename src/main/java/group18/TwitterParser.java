@@ -1,6 +1,5 @@
 package group18;
 
-import com.fasterxml.jackson.core.JsonParser;
 import org.json.JSONArray;
 import org.json.JSONObject;
 import org.json.simple.parser.JSONParser;
@@ -8,8 +7,6 @@ import org.json.simple.parser.ParseException;
 import org.noggit.JSONUtil;
 import sun.lwawt.macosx.CSystemTray;
 
-import javax.print.DocFlavor;
-import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
 import java.util.Random;
@@ -37,7 +34,7 @@ public class TwitterParser{
 
         JSONArray ret = new JSONArray();
         JSONParser parser = new JSONParser();
-        Object obj = parser.parse(new FileReader("data/twitter/all.json"));
+        Object obj = parser.parse(new FileReader("twitter/all.json"));
         JSONArray fullJSON = new JSONArray(obj.toString());
 
         for (int i = 0; i < fullJSON.length(); i++) {
