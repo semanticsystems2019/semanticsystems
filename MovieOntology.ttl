@@ -1,0 +1,286 @@
+@prefix : <http://www.semanticweb.org/group18/movie-ontology#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@base <http://www.semanticweb.org/group18/movie-ontology> .
+
+<http://www.semanticweb.org/group18/movie-ontology> rdf:type owl:Ontology .
+
+#################################################################
+#    Object Properties
+#################################################################
+
+###  http://www.semanticweb.org/group18/movie-ontology#createdBy
+:createdBy rdf:type owl:ObjectProperty ;
+           rdfs:domain [ rdf:type owl:Class ;
+                         owl:unionOf ( :Comment
+                                       :Post
+                                     )
+                       ] ;
+           rdfs:range :User .
+
+
+###  http://www.semanticweb.org/group18/movie-ontology#hasEmotion
+:hasEmotion rdf:type owl:ObjectProperty ;
+            rdfs:domain [ rdf:type owl:Class ;
+                          owl:unionOf ( :Comment
+                                        :Post
+                                      )
+                        ] ;
+            rdfs:range :Emotion .
+
+
+###  http://www.semanticweb.org/group18/movie-ontology#hasSource
+:hasSource rdf:type owl:ObjectProperty ;
+           rdfs:domain :Post ;
+           rdfs:range :Source .
+
+
+###  http://www.semanticweb.org/group18/movie-ontology#isCommentOn
+:isCommentOn rdf:type owl:ObjectProperty ;
+             rdfs:domain :Comment ;
+             rdfs:range [ rdf:type owl:Class ;
+                          owl:unionOf ( :Comment
+                                        :Post
+                                      )
+                        ] .
+
+
+###  http://www.semanticweb.org/group18/movie-ontology#isOriginalPosterOfPost
+:isOriginalPosterOfPost rdf:type owl:ObjectProperty ;
+                        rdfs:domain :User ;
+                        rdfs:range :Post .
+
+
+###  http://www.semanticweb.org/group18/movie-ontology#refersToMovie
+:refersToMovie rdf:type owl:ObjectProperty ;
+               rdfs:domain :Post ;
+               rdfs:range :Movie .
+
+
+#################################################################
+#    Data properties
+#################################################################
+
+###  http://www.semanticweb.org/group18/movie-ontology#hasDate
+:hasDate rdf:type owl:DatatypeProperty ;
+         rdfs:domain [ rdf:type owl:Class ;
+                       owl:unionOf ( :Comment
+                                     :Post
+                                   )
+                     ] ;
+         rdfs:range xsd:dateTimeStamp .
+
+
+###  http://www.semanticweb.org/group18/movie-ontology#hasId
+:hasId rdf:type owl:DatatypeProperty ;
+       rdfs:domain [ rdf:type owl:Class ;
+                     owl:unionOf ( :RedditPost
+                                   :Tweet
+                                   :User
+                                 )
+                   ] ;
+       rdfs:range xsd:string .
+
+
+###  http://www.semanticweb.org/group18/movie-ontology#hasLikes
+:hasLikes rdf:type owl:DatatypeProperty ;
+          rdfs:domain [ rdf:type owl:Class ;
+                        owl:unionOf ( :Comment
+                                      :Post
+                                    )
+                      ] ;
+          rdfs:range xsd:integer .
+
+
+###  http://www.semanticweb.org/group18/movie-ontology#hasRetweet
+:hasRetweet rdf:type owl:DatatypeProperty ;
+            rdfs:domain :Tweet ;
+            rdfs:range xsd:integer .
+
+
+###  http://www.semanticweb.org/group18/movie-ontology#hasText
+:hasText rdf:type owl:DatatypeProperty ;
+         rdfs:domain [ rdf:type owl:Class ;
+                       owl:unionOf ( :Comment
+                                     :Post
+                                   )
+                     ] ;
+         rdfs:range xsd:string .
+
+
+###  http://www.semanticweb.org/group18/movie-ontology#hasTitle
+:hasTitle rdf:type owl:DatatypeProperty ;
+          rdfs:domain [ rdf:type owl:Class ;
+                        owl:unionOf ( :RedditPost
+                                      :YoutubePost
+                                    )
+                      ] ;
+          rdfs:range xsd:string .
+
+
+###  http://www.semanticweb.org/group18/movie-ontology#hasUsername
+:hasUsername rdf:type owl:DatatypeProperty ;
+             rdfs:domain :User ;
+             rdfs:range xsd:string .
+
+
+#################################################################
+#    Classes
+#################################################################
+
+###  http://www.semanticweb.org/group18/movie-ontology#Action
+:Action rdf:type owl:Class ;
+        rdfs:subClassOf :Movie .
+
+
+###  http://www.semanticweb.org/group18/movie-ontology#Comment
+:Comment rdf:type owl:Class ;
+         rdfs:subClassOf [ rdf:type owl:Restriction ;
+                           owl:onProperty :createdBy ;
+                           owl:qualifiedCardinality "1"^^xsd:nonNegativeInteger ;
+                           owl:onClass :User
+                         ] ,
+                         [ rdf:type owl:Restriction ;
+                           owl:onProperty :hasEmotion ;
+                           owl:qualifiedCardinality "1"^^xsd:nonNegativeInteger ;
+                           owl:onClass :Emotion
+                         ] ;
+         owl:disjointWith :Post .
+
+
+###  http://www.semanticweb.org/group18/movie-ontology#Drama
+:Drama rdf:type owl:Class ;
+       rdfs:subClassOf :Movie .
+
+
+###  http://www.semanticweb.org/group18/movie-ontology#Emotion
+:Emotion rdf:type owl:Class .
+
+
+###  http://www.semanticweb.org/group18/movie-ontology#Horror
+:Horror rdf:type owl:Class ;
+        rdfs:subClassOf :Movie .
+
+
+###  http://www.semanticweb.org/group18/movie-ontology#Indifferent
+:Indifferent rdf:type owl:Class ;
+             rdfs:subClassOf :Emotion .
+
+
+###  http://www.semanticweb.org/group18/movie-ontology#InstaPost
+:InstaPost rdf:type owl:Class ;
+           rdfs:subClassOf :Post .
+
+
+###  http://www.semanticweb.org/group18/movie-ontology#Instagram
+:Instagram rdf:type owl:Class ;
+           rdfs:subClassOf :Source .
+
+
+###  http://www.semanticweb.org/group18/movie-ontology#Kids
+:Kids rdf:type owl:Class ;
+      rdfs:subClassOf :Movie .
+
+
+###  http://www.semanticweb.org/group18/movie-ontology#Movie
+:Movie rdf:type owl:Class .
+
+
+###  http://www.semanticweb.org/group18/movie-ontology#Negative
+:Negative rdf:type owl:Class ;
+          rdfs:subClassOf :Emotion .
+
+
+###  http://www.semanticweb.org/group18/movie-ontology#Positive
+:Positive rdf:type owl:Class ;
+          rdfs:subClassOf :Emotion .
+
+
+###  http://www.semanticweb.org/group18/movie-ontology#Post
+:Post rdf:type owl:Class ;
+      rdfs:subClassOf [ rdf:type owl:Restriction ;
+                        owl:onProperty :createdBy ;
+                        owl:qualifiedCardinality "1"^^xsd:nonNegativeInteger ;
+                        owl:onClass :User
+                      ] ,
+                      [ rdf:type owl:Restriction ;
+                        owl:onProperty :hasEmotion ;
+                        owl:qualifiedCardinality "1"^^xsd:nonNegativeInteger ;
+                        owl:onClass :Emotion
+                      ] ,
+                      [ rdf:type owl:Restriction ;
+                        owl:onProperty :hasSource ;
+                        owl:qualifiedCardinality "1"^^xsd:nonNegativeInteger ;
+                        owl:onClass :Source
+                      ] ,
+                      [ rdf:type owl:Restriction ;
+                        owl:onProperty :refersToMovie ;
+                        owl:qualifiedCardinality "1"^^xsd:nonNegativeInteger ;
+                        owl:onClass :Movie
+                      ] .
+
+
+###  http://www.semanticweb.org/group18/movie-ontology#Reddit
+:Reddit rdf:type owl:Class ;
+        rdfs:subClassOf :Source .
+
+
+###  http://www.semanticweb.org/group18/movie-ontology#RedditPost
+:RedditPost rdf:type owl:Class ;
+            rdfs:subClassOf :Post .
+
+
+###  http://www.semanticweb.org/group18/movie-ontology#Romance
+:Romance rdf:type owl:Class ;
+         rdfs:subClassOf :Movie .
+
+
+###  http://www.semanticweb.org/group18/movie-ontology#Source
+:Source rdf:type owl:Class .
+
+
+###  http://www.semanticweb.org/group18/movie-ontology#Tweet
+:Tweet rdf:type owl:Class ;
+       rdfs:subClassOf :Post .
+
+
+###  http://www.semanticweb.org/group18/movie-ontology#Twitter
+:Twitter rdf:type owl:Class ;
+         rdfs:subClassOf :Source .
+
+
+###  http://www.semanticweb.org/group18/movie-ontology#User
+:User rdf:type owl:Class ;
+      rdfs:subClassOf [ rdf:type owl:Restriction ;
+                        owl:onProperty :isOriginalPosterOfPost ;
+                        owl:minQualifiedCardinality "0"^^xsd:nonNegativeInteger ;
+                        owl:onClass :Post
+                      ] .
+
+
+###  http://www.semanticweb.org/group18/movie-ontology#Youtube
+:Youtube rdf:type owl:Class ;
+         rdfs:subClassOf :Source .
+
+
+###  http://www.semanticweb.org/group18/movie-ontology#YoutubePost
+:YoutubePost rdf:type owl:Class ;
+             rdfs:subClassOf :Post .
+
+
+#################################################################
+#    General axioms
+#################################################################
+
+[ rdf:type owl:AllDisjointClasses ;
+  owl:members ( :Indifferent
+                :Negative
+                :Positive
+              )
+] .
+
+
+###  Generated by the OWL API (version 4.5.9.2019-02-01T07:24:44Z) https://github.com/owlcs/owlapi
