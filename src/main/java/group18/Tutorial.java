@@ -1,5 +1,6 @@
 package group18;
 
+import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.IOException;
 
@@ -17,7 +18,7 @@ public interface Tutorial {
 
     void constructQuery(String queryFile);
 
-    void loadRdfFile(String inputFile) throws FileNotFoundException, IOException;
+    void loadRdfFile(File inputFile) throws FileNotFoundException, IOException;
 
     void writeRdfFile(String outputFile) throws FileNotFoundException, IOException;
 
