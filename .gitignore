@@ -1,3 +1,5 @@
 .DS_store
 .idea
 target
+src/java/group18/Main.java
+*.iml
