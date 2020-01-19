@@ -41,6 +41,8 @@ public class TwitterParser{
             reducedJSON.put("user_id", user.get("id_str"));
             reducedJSON.put("refersTo", movieResolver((String) currJSON.get(("in_reply_to_user_id_str"))));
             reducedJSON.put("emotion", simpleEmotionResolver());
+            reducedJSON.put("retweetCount", currJSON.get("retweet_count"));
+            reducedJSON.put("favorite_count", currJSON.get("favorite_count"));
 
             ret.put(reducedJSON);
         }
@@ -90,12 +92,33 @@ public class TwitterParser{
             for (int i = 0; i < tweets.length(); i++) {
                 JSONObject thisTweet = tweets.getJSONObject(i);
                 IRI tweetIri = valueFactory.createIRI(Util.NS, "twitter/post#" + (counter+i));
-                System.out.println(iris.get("Tweet"));
+                //System.out.println(iris.get("Tweet"));
                 conn.add(tweetIri, RDF.TYPE, iris.get("Tweet"));
 
                 conn.add(tweetIri,
                         iris.get("createdBy"),
                         valueFactory.createLiteral( thisTweet.getString("user_name") ));
+                conn.add(tweetIri,
+                        iris.get("hasEmotion"),
+                        valueFactory.createLiteral( thisTweet.getString("emotion")));
+                conn.add(tweetIri,
+                        iris.get("hasSource"),
+                        valueFactory.createLiteral(( "Twitter")));
+                conn.add(tweetIri,
+                        iris.get("refersToMovie"),
+                        valueFactory.createLiteral( thisTweet.getString("refersTo")));
+                conn.add(tweetIri,
+                        iris.get("hasId"),
+                        valueFactory.createLiteral( thisTweet.getString("id")));
+                conn.add(tweetIri,
+                        iris.get("hasText"),
+                        valueFactory.createLiteral( thisTweet.getString("text")));
+                conn.add(tweetIri,
+                        iris.get("hasRetweet"),
+                        valueFactory.createLiteral( thisTweet.getInt("retweetCount")));
+                conn.add(tweetIri,
+                        iris.get("hasLikes"),
+                        valueFactory.createLiteral( thisTweet.getInt("favorite_count")));
 
 
             }
