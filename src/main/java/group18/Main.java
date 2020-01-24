@@ -7,7 +7,5 @@ public class Main {
 
         Rdf4jHandler rdf4jHandler = new Rdf4jHandler();
         rdf4jHandler.createInstances();
-//        TwitterParser twp = new TwitterParser();
-//        twp.parser();
     }
 }
