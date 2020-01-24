@@ -49,14 +49,14 @@ public class RedditParser {
 
     public static final List<String> MOVIENAMES = Collections.unmodifiableList(
             new ArrayList<String>() {{
-               add("A quiet place");
-                add("A star is born");
+               add("A Quiet Place");
+                add("A Star is Born");
                 add("Deadpool 2");
                 add("Incredibles 2");
-                add("Joker");
-                add("Mamma mia here we go again");
+                add("The Joker");
+                add("Mamma Mia! Here We Go Again");
                 add("Vice");
-                add("Zombieland");
+                add("Zombieland: Double Tap");
             }});
 
     JSONObject loadJSON(String path) throws IOException, ParseException {
