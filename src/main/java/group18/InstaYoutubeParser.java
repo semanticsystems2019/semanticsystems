@@ -44,7 +44,12 @@ public class InstaYoutubeParser {
                             IRI commentIri = valueFactory.createIRI(Util.NS, source + "/comment#" + counter);
                             conn.add(commentIri, RDF.TYPE, iris.get("Comment"));
 
+                            conn.add(commentIri, iris.get("hasId"), valueFactory.createLiteral(comment.id));
+                            conn.add(commentIri, iris.get("hasUsername"), valueFactory.createLiteral(comment.name));
                             conn.add(commentIri, iris.get("hasDate"), valueFactory.createLiteral(comment.date));
+                            conn.add(commentIri, iris.get("hasLikes"), valueFactory.createLiteral(comment.likes));
+                            conn.add(commentIri, iris.get("hasText"), valueFactory.createLiteral(comment.text));
+                            conn.add(commentIri, iris.get("hasEmotion"), valueFactory.createLiteral(comment.emotion));
                             // TODO
                         }
                     }
@@ -63,18 +68,19 @@ public class InstaYoutubeParser {
 
         final int id;
         final String name;
-        final Date date;
+        // TODO valentin fix date and link
+        // final Date date;
         final int likes;
-        final String comment;
+        final String text;
         final String emotion;
         // final String link;
 
         InstaYoutubeComment(CSVRecord csvRecord) throws ParseException {
             id = Integer.parseInt(csvRecord.get("Id"));
             name = csvRecord.get("Name (click to view profile)");
-            date = DATE_FORMAT.parse(csvRecord.get("Date"));
+            // date = DATE_FORMAT.parse(csvRecord.get("Date"));
             likes = Integer.parseInt(csvRecord.get("Likes"));
-            comment = csvRecord.get("Comment");
+            text = csvRecord.get("Comment");
             emotion = "Positive";
             // link = csvRecord.get("Link");
         }
