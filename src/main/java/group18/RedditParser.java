@@ -119,6 +119,7 @@ public class RedditParser {
         ValueFactory valueFactory = repo.getValueFactory();
         int counter = 0;
         int commentCounter = 0;
+        int userCounter = 0;
         try {
             RepositoryConnection conn = repo.getConnection();
             for (RedditPost post : redditPostArrayList)  {
@@ -136,6 +137,10 @@ public class RedditParser {
                 conn.add(postIRI, iris.get("hasLikes"), valueFactory.createLiteral( post.getUpvotes() ));
 
                 // ADDING POST USER
+                IRI userIRI = valueFactory.createIRI(Util.NS, "reddit/user#" + (counter++));
+                conn.add(userIRI, iris.get("hasUsername"), valueFactory.createLiteral( post.getUsername() ));
+                conn.add(userIRI, iris.get("isOriginalPosterOfPost"), valueFactory.createLiteral( post.getId() ));
+
 
                 // ADDING COMMENTS
                 for (RedditPost comment : post.getComments()){
@@ -153,6 +158,8 @@ public class RedditParser {
                     // conn.add(commentIRI, iris.get("refersToMovie"), valueFactory.createLiteral( comment.getReferenceMovie() ));
 
                     // ADDING COMMENT USER
+                    IRI commentUserIRI = valueFactory.createIRI(Util.NS, "reddit/user#" + (counter++));
+                    conn.add(commentUserIRI, iris.get("hasUsername"), valueFactory.createLiteral( comment.getUsername() ));
                 }
             }
         } catch (Exception e) {
