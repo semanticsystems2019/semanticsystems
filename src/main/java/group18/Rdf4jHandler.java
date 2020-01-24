@@ -7,6 +7,7 @@ import org.eclipse.rdf4j.repository.RepositoryConnection;
 import org.eclipse.rdf4j.repository.http.HTTPRepository;
 import org.eclipse.rdf4j.rio.RDFFormat;
 import org.eclipse.rdf4j.rio.Rio;
+import org.json.simple.parser.ParseException;
 
 import java.io.File;
 import java.io.FileNotFoundException;
@@ -22,6 +23,7 @@ public class Rdf4jHandler implements Tutorial {
     public Map<String, IRI> iris;
     private InstaYoutubeParser instaYoutubeParser = new InstaYoutubeParser();
     private TwitterParser twitterParser = new TwitterParser();
+    private RedditParser redditParser;
 
     public Rdf4jHandler() {
         createRepository();
@@ -31,6 +33,15 @@ public class Rdf4jHandler implements Tutorial {
                 "InstaPost", "Instagram", "Kids", "Movie", "Negative", "Positive", "Post", "Reddit", "RedditPost",
                 "Romance", "Source", "Tweet", "Twitter", "User", "Youtube", "YoutubePost"
         ).collect(Collectors.toMap(iri -> iri, iri -> repo.getValueFactory().createIRI("http://www.semanticweb.org/group18/movie-ontology#" + iri)));
+
+        // init parser
+        try {
+            redditParser = new RedditParser(repo, iris);
+        } catch (IOException e) {
+            e.printStackTrace();
+        } catch (ParseException e) {
+            e.printStackTrace();
+        }
     }
 
     @Override
@@ -41,8 +52,9 @@ public class Rdf4jHandler implements Tutorial {
 
     @Override
     public void createInstances() {
-        instaYoutubeParser.parse(repo, iris);
-        twitterParser.initialize(repo, iris);
+        //instaYoutubeParser.parse(repo, iris);
+        //twitterParser.initialize(repo, iris);
+        redditParser.uploadRedditPosts();
     }
 
     @Override

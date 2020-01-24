@@ -1,7 +1,6 @@
 package group18;
 
 import java.util.ArrayList;
-import java.util.Date;
 
 public class RedditPost {
 
@@ -16,11 +15,43 @@ public class RedditPost {
     String username;
     int date;
     int upvotes;
+
     String source = "reddit";
     ArrayList<RedditPost> comments;
     String parentId;
+    String emotion = "Indifferent"; // TODO
+    String genre = "None";
+    String referenceMovie;
 
     // GETTERS | SETTERS
+
+    public String getReferenceMovie() {
+        return referenceMovie;
+    }
+
+    public void setReferenceMovie(String referenceMovie) {
+        this.referenceMovie = referenceMovie;
+    }
+
+    public String getSource() {
+        return source;
+    }
+
+    public String getGenre() {
+        return genre;
+    }
+
+    public void setGenre(String genre) {
+        this.genre = genre;
+    }
+
+    public String getEmotion() {
+        return emotion;
+    }
+
+    public void setEmotion(String emotion) {
+        this.emotion = emotion;
+    }
 
     public String getParentId() {
         return parentId;
