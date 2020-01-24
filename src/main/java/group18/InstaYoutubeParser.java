@@ -33,6 +33,9 @@ public class InstaYoutubeParser {
                         .withDelimiter(';'));
             ) {
                 for (CSVRecord csvRecord : csvParser) {
+                    if(counter > 50){
+                        break;
+                    }
                     String idString = csvRecord.get("Id");
                     if (idString != null && idString.length() > 0) {
                         try (RepositoryConnection conn = repo.getConnection()) {
@@ -62,6 +65,7 @@ public class InstaYoutubeParser {
         final Date date;
         final int likes;
         final String comment;
+        final String emotion;
         // final String link;
 
         InstaYoutubeComment(CSVRecord csvRecord) throws ParseException {
@@ -70,6 +74,7 @@ public class InstaYoutubeParser {
             date = DATE_FORMAT.parse(csvRecord.get("Date"));
             likes = Integer.parseInt(csvRecord.get("Likes"));
             comment = csvRecord.get("Comment");
+            emotion = "Positive";
             // link = csvRecord.get("Link");
         }
     }
