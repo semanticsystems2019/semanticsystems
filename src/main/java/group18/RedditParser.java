@@ -59,10 +59,26 @@ public class RedditParser {
                 add("Zombieland: Double Tap");
             }});
 
-    JSONObject loadJSON(String path) throws IOException, ParseException {
+    JSONObject loadJSON(String path) {
         File file = new File(path);
-        String content = FileUtils.readFileToString(file, "utf-8");
+        String content = null;
+        try {
+            content = FileUtils.readFileToString(file, "utf-8");
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
         return new JSONObject(content);
+    }
+
+    JSONArray loadJSONArray(String path) {
+        File file = new File(path);
+        String content = null;
+        try {
+            content = FileUtils.readFileToString(file, "utf-8");
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+        return new JSONArray(content);
     }
 
     RedditPost createRedditPost(JSONObject data) throws IOException, ParseException {
@@ -115,11 +131,13 @@ public class RedditParser {
         return redditPost;
     }
 
-    void uploadRedditPosts(){
+    void uploadRedditPosts() {
         ValueFactory valueFactory = repo.getValueFactory();
         int counter = 0;
         int commentCounter = 0;
         int userCounter = 0;
+        JSONObject movieJsonData = loadJSON("src/main/resources/movienames.json");
+
         try {
             RepositoryConnection conn = repo.getConnection();
             for (RedditPost post : redditPostArrayList)  {
@@ -132,12 +150,15 @@ public class RedditParser {
                 conn.add(postIRI, iris.get("createdBy"), valueFactory.createLiteral( post.getUsername() ));
                 conn.add(postIRI, iris.get("hasEmotion"), valueFactory.createLiteral( post.getEmotion() ));
                 conn.add(postIRI, iris.get("hasSource"), valueFactory.createLiteral( post.getSource() ));
-                conn.add(postIRI, iris.get("refersToMovie"), valueFactory.createLiteral( post.getReferenceMovie() ));
                 conn.add(postIRI, iris.get("hasDate"), valueFactory.createLiteral( post.getDate() ));
                 conn.add(postIRI, iris.get("hasLikes"), valueFactory.createLiteral( post.getUpvotes() ));
 
+                // MOVIE DB LINK
+                String movieLink = (String) movieJsonData.toMap().get( post.getReferenceMovie());
+                conn.add(postIRI, iris.get("refersToMovie"), valueFactory.createLiteral( movieLink ));
+
                 // ADDING POST USER
-                IRI userIRI = valueFactory.createIRI(Util.NS, "reddit/user#" + (counter++));
+                IRI userIRI = valueFactory.createIRI(Util.NS, "reddit/user#" + (userCounter++));
                 conn.add(userIRI, iris.get("hasUsername"), valueFactory.createLiteral( post.getUsername() ));
                 conn.add(userIRI, iris.get("isOriginalPosterOfPost"), valueFactory.createLiteral( post.getId() ));
 
@@ -155,10 +176,10 @@ public class RedditParser {
                     conn.add(commentIRI, iris.get("hasDate"), valueFactory.createLiteral( comment.getDate() ));
                     conn.add(commentIRI, iris.get("hasLikes"), valueFactory.createLiteral( comment.getUpvotes() ));
                     conn.add(commentIRI, iris.get("hasText"), valueFactory.createLiteral( comment.getText() ));
-                    // conn.add(commentIRI, iris.get("refersToMovie"), valueFactory.createLiteral( comment.getReferenceMovie() ));
+                    conn.add(commentIRI, iris.get("refersToMovie"), valueFactory.createLiteral( movieLink ));
 
                     // ADDING COMMENT USER
-                    IRI commentUserIRI = valueFactory.createIRI(Util.NS, "reddit/user#" + (counter++));
+                    IRI commentUserIRI = valueFactory.createIRI(Util.NS, "reddit/user#" + (userCounter++));
                     conn.add(commentUserIRI, iris.get("hasUsername"), valueFactory.createLiteral( comment.getUsername() ));
                 }
             }

@@ -1,50 +1,14 @@
-[
 {
-    "name": "A Quiet Place",
-    "movie_id": "https://www.themoviedb.org/movie/447332-a-quiet-place"
-},
-{
-    "name": "A Star is Born",
-    "movie_id": ""
-},
-{
-    "name": "Bohemian Rhapsody",
-    "movie_id": ""
-},
-{
-     "name": "Crazy Rich Asians",
-     "movie_id": ""
-},
-{
-    "name": "Deadpool 2",
-    "movie_id": ""
-},
-{
-    "name": "Fifty Shades Freed",
-    "movie_id": ""
-},
-{
-    "name": "Incredibles 2",
-    "movie_id": ""
-},
-{
-    "name": "The Joker",
-    "movie_id": ""
-},
-{
-    "name": "Mamma Mia! Here We Go Again",
-    "movie_id": ""
-},
-{
-    "name": "Avengers: Endgame",
-    "movie_id": ""
-},
-{
-    "name": "Vice",
-    "movie_id": ""
-},
-{
-    "name": "Zombieland: Double Tap",
-    "movie_id": ""
-},
-]
+"A Quiet Place" : "https://www.themoviedb.org/movie/447332-a-quiet-place",
+"A Star is Born" : "",
+"Bohemian Rhapsody" : "" ,
+"Crazy Rich Asians" : "" ,
+"Deadpool 2" : "" ,
+"Fifty Shades Freed" : "" ,
+"Incredibles 2" : "" ,
+"The Joker" : "" ,
+"Mamma Mia! Here We Go Again" : "" ,
+"Avengers: Endgame" : "" ,
+"Vice" : "" ,
+"Zombieland: Double Tap" : ""
+}
