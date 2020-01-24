@@ -17,6 +17,7 @@ import java.nio.file.Files;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.Date;
+import java.util.HashMap;
 import java.util.Map;
 
 public class InstaYoutubeParser {
@@ -24,6 +25,23 @@ public class InstaYoutubeParser {
     public void parse(Repository repo, Map<String, IRI> iris, String source) {
         ValueFactory valueFactory = repo.getValueFactory();
         File baseDirectory = new File(getClass().getClassLoader().getResource(source + "/csv/").getFile());
+
+        Map<String,String> movieNames = new HashMap<>();
+        movieNames.put("AQuietPlace.csv", "A Quiet Place");
+        movieNames.put("AStarIsBorn.csv", "A Star is Born");
+        movieNames.put("AvengersEndgame.csv", "Avengers: Endgame");
+        movieNames.put("BohemianRhapsody.csv", "Bohemian Rhapsody");
+        movieNames.put("Deadpool2.csv", "Deadpool 2");
+        movieNames.put("FiftyShadesFreed.csv", "Fifty Shades Freed");
+        movieNames.put("Joker.csv", "The Joker");
+        movieNames.put("MammaMia.csv", "Mamma Mia! Here We Go Again");
+        movieNames.put("Mamma Mia 2.csv", "Mamma Mia! Here We Go Again");
+        movieNames.put("TheIncredibles2.csv", "Incredibles 2");
+        movieNames.put("Incredibles 2.csv", "Incredibles 2");
+        movieNames.put("Vice.csv", "Vice");
+        movieNames.put("Zombiland2.csv", "Zombieland: Double Tap");
+        movieNames.put("Crazy Rich Asians.csv", "Crazy Rich Asians");
+
         int counter = 0;
         for (File csvFile : baseDirectory.listFiles()) {
             try (
@@ -50,7 +68,10 @@ public class InstaYoutubeParser {
                             conn.add(commentIri, iris.get("hasLikes"), valueFactory.createLiteral(comment.likes));
                             conn.add(commentIri, iris.get("hasText"), valueFactory.createLiteral(comment.text));
                             conn.add(commentIri, iris.get("hasEmotion"), valueFactory.createLiteral(comment.emotion));
-                            // TODO
+                            conn.add(commentIri, iris.get("hasSource"), valueFactory.createLiteral(source));
+                            // TODO change refersToMovie to refer to movie id from moviedb
+                            conn.add(commentIri, iris.get("refersToMovie"), valueFactory.createLiteral( movieNames.get(csvFile.getName()) ));
+                            // TODO add more stuff?
                         }
                     }
 
@@ -68,7 +89,7 @@ public class InstaYoutubeParser {
 
         final int id;
         final String name;
-        // TODO valentin fix date and link
+        // TODO Valentin fix date and link
         // final Date date;
         final int likes;
         final String text;
