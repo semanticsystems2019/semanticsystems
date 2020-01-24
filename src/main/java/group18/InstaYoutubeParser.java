@@ -32,6 +32,7 @@ public class InstaYoutubeParser {
                         .withFirstRecordAsHeader()
                         .withDelimiter(';'));
             ) {
+                counter = 0;
                 for (CSVRecord csvRecord : csvParser) {
                     if(counter > 50){
                         break;
