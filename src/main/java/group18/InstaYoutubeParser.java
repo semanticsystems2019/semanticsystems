@@ -45,7 +45,7 @@ public class InstaYoutubeParser {
                             conn.add(commentIri, RDF.TYPE, iris.get("Comment"));
 
                             conn.add(commentIri, iris.get("hasId"), valueFactory.createLiteral(comment.id));
-                            conn.add(commentIri, iris.get("hasUsername"), valueFactory.createLiteral(comment.name));
+                            conn.add(commentIri, iris.get("createdBy"), valueFactory.createLiteral(comment.name));
                             //conn.add(commentIri, iris.get("hasDate"), valueFactory.createLiteral(comment.date));
                             conn.add(commentIri, iris.get("hasLikes"), valueFactory.createLiteral(comment.likes));
                             conn.add(commentIri, iris.get("hasText"), valueFactory.createLiteral(comment.text));
