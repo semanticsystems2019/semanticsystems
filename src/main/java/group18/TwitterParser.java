@@ -2,6 +2,8 @@ package group18;
 
 import org.apache.jena.atlas.json.io.JsonWriter;
 import org.eclipse.rdf4j.model.*;
+import org.eclipse.rdf4j.model.IRI;
+import org.eclipse.rdf4j.model.ValueFactory;
 import org.eclipse.rdf4j.model.vocabulary.RDF;
 import org.eclipse.rdf4j.repository.Repository;
 import org.eclipse.rdf4j.repository.RepositoryConnection;
@@ -10,13 +12,9 @@ import org.json.JSONObject;
 import org.json.simple.parser.JSONParser;
 import org.json.simple.parser.ParseException;
 
-import org.noggit.JSONUtil;
-
-import java.io.File;
 import java.io.FileReader;
 import java.io.IOException;
 import java.util.Map;
-import java.util.Random;
 
 
 public class TwitterParser{
@@ -41,7 +39,7 @@ public class TwitterParser{
             reducedJSON.put("user_name", user.get("name"));
             reducedJSON.put("user_id", user.get("id_str"));
             reducedJSON.put("refersTo", movieResolver((String) currJSON.get(("in_reply_to_user_id_str"))));
-            reducedJSON.put("emotion", simpleEmotionResolver());
+            reducedJSON.put("emotion", Util.simpleEmotionResolver());
             reducedJSON.put("retweetCount", currJSON.get("retweet_count"));
             reducedJSON.put("favorite_count", currJSON.get("favorite_count"));
 
@@ -66,19 +64,6 @@ public class TwitterParser{
             movieName = "Zombieland: Double Tap"; }
 
         return movieName;
-    }
-
-    private String simpleEmotionResolver(){
-        Random rnd = new Random();
-        int c = rnd.nextInt(3);
-        if (c == 0)
-            return "Positive";
-        else if (c == 1)
-            return "Indifferent";
-        else if (c == 2)
-            return "Negative";
-        else
-            return "";
     }
 
     public void initialize(Repository repo, Map<String, IRI> iris){
@@ -116,7 +101,7 @@ public class TwitterParser{
                         valueFactory.createLiteral( thisTweet.getString("user_name") ));
                 conn.add(tweetIri,
                         iris.get("hasEmotion"),
-                        valueFactory.createLiteral( thisTweet.getString("emotion")));
+                        valueFactory.createIRI(iris.get("Emotion") + "/" + thisTweet.getString("emotion")));
                 conn.add(tweetIri,
                         iris.get("hasSource"),
                         valueFactory.createLiteral(( "Twitter")));
