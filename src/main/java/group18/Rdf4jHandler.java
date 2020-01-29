@@ -6,6 +6,7 @@ import org.eclipse.rdf4j.model.vocabulary.RDF;
 import org.eclipse.rdf4j.repository.Repository;
 import org.eclipse.rdf4j.repository.RepositoryConnection;
 import org.eclipse.rdf4j.repository.http.HTTPRepository;
+import org.eclipse.rdf4j.repository.sparql.SPARQLRepository;
 import org.eclipse.rdf4j.rio.RDFFormat;
 import org.eclipse.rdf4j.rio.Rio;
 import org.json.simple.parser.ParseException;
@@ -21,6 +22,7 @@ import java.util.stream.Stream;
 public class Rdf4jHandler implements Tutorial {
 
     private Repository repo;
+    private Repository wikiRepo;
     public Map<String, IRI> iris;
     private InstaYoutubeParser instaYoutubeParser = new InstaYoutubeParser();
     private TwitterParser twitterParser = new TwitterParser();
@@ -59,12 +61,14 @@ public class Rdf4jHandler implements Tutorial {
     public void createRepository() {
         repo = new HTTPRepository(Util.SERVER_URL, "semanticsystems");
         repo.init();
+        wikiRepo = new SPARQLRepository("https://query.wikidata.org/sparql");
+        wikiRepo.init();
     }
 
     @Override
     public void createInstances() {
-        instaYoutubeParser.parse(repo, iris, "instagram");
-        instaYoutubeParser.parse(repo, iris, "youtube");
+        instaYoutubeParser.parse(repo, wikiRepo, iris, "instagram");
+        instaYoutubeParser.parse(repo, wikiRepo, iris, "youtube");
         twitterParser.initialize(repo, iris);
         redditParser.uploadRedditPosts();
     }

@@ -1,14 +1,14 @@
 {
-"A Quiet Place" : "https://www.wikidata.org/wiki/Q29580847",
-"A Star is Born" : "https://www.wikidata.org/wiki/Q3286391",
-"Bohemian Rhapsody" : "https://www.wikidata.org/wiki/Q27894574",
-"Crazy Rich Asians" : "https://www.wikidata.org/wiki/Q29588623",
-"Deadpool 2" : "https://www.wikidata.org/wiki/Q25431158",
-"Fifty Shades Freed" : "https://www.wikidata.org/wiki/Q22712210",
-"Incredibles 2" : "https://www.wikidata.org/wiki/Q24832112",
-"The Joker" : "https://www.wikidata.org/wiki/Q42759035",
-"Mamma Mia! Here We Go Again" : "https://www.wikidata.org/wiki/Q36951175",
-"Avengers: Endgame" : "https://www.wikidata.org/wiki/Q23781155",
-"Vice" : "https://www.wikidata.org/wiki/Q39075006",
-"Zombieland: Double Tap" : "https://www.wikidata.org/wiki/Q58879016"
+"A Quiet Place" : "http://www.wikidata.org/entity/Q29580847",
+"A Star is Born" : "http://www.wikidata.org/entity/Q3286391",
+"Bohemian Rhapsody" : "http://www.wikidata.org/entity/Q27894574",
+"Crazy Rich Asians" : "http://www.wikidata.org/entity/Q29588623",
+"Deadpool 2" : "http://www.wikidata.org/entity/Q25431158",
+"Fifty Shades Freed" : "http://www.wikidata.org/entity/Q22712210",
+"Incredibles 2" : "http://www.wikidata.org/entity/Q24832112",
+"The Joker" : "http://www.wikidata.org/entity/Q42759035",
+"Mamma Mia! Here We Go Again" : "http://www.wikidata.org/entity/Q36951175",
+"Avengers: Endgame" : "http://www.wikidata.org/entity/Q23781155",
+"Vice" : "http://www.wikidata.org/entity/Q39075006",
+"Zombieland: Double Tap" : "http://www.wikidata.org/entity/Q58879016"
 }
