@@ -14,6 +14,7 @@ import java.io.File;
 import java.io.IOException;
 import java.util.*;
 
+// TODO add links
 
 public class RedditParser {
     public ArrayList<RedditPost> redditPostArrayList;
@@ -160,7 +161,7 @@ public class RedditParser {
                 // ADDING POST USER
                 IRI userIRI = valueFactory.createIRI(Util.NS, "reddit/user#" + (userCounter++));
                 conn.add(userIRI, iris.get("hasUsername"), valueFactory.createLiteral( post.getUsername() ));
-                conn.add(userIRI, iris.get("isOriginalPosterOfPost"), valueFactory.createLiteral( post.getId() ));
+                // TODO got canceled: conn.add(userIRI, iris.get("isOriginalPosterOfPost"), valueFactory.createLiteral( post.getId() ));
 
 
                 // ADDING COMMENTS
