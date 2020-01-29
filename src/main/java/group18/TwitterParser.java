@@ -1,5 +1,7 @@
 package group18;
 
+import org.apache.jena.atlas.json.io.JsonWriter;
+import org.eclipse.rdf4j.model.*;
 import org.eclipse.rdf4j.model.IRI;
 import org.eclipse.rdf4j.model.ValueFactory;
 import org.eclipse.rdf4j.model.vocabulary.RDF;
@@ -64,15 +66,30 @@ public class TwitterParser{
         return movieName;
     }
 
-    public void initialize(Repository repo, Map<String, IRI> iris) {
+    public void initialize(Repository repo, Map<String, IRI> iris){
+        initializePosts(repo, iris);
+        initializeUsers(repo, iris);
+    }
+
+    private void initializePosts(Repository repo, Map<String, IRI> iris) {
         JSONArray tweets;
         ValueFactory valueFactory = repo.getValueFactory();
         //Value commentType = model.objects().stream().filter(o -> o.stringValue().contains("Post")).findFirst().get();
         int counter = 0;
 
         try {
+            // get movie URIs from file
+            JSONParser parser = new JSONParser();
+            Object obj = parser.parse(new FileReader(getClass().getClassLoader().getResource("movienames.json").getPath()));
+            JSONObject movieNames = new JSONObject(obj.toString());
+
+            // load tweets from file and reduce/rename them
             tweets = parser();
+
+            // repo connection
             RepositoryConnection conn = repo.getConnection();
+
+            // iterate over all tweets and initialize them as posts
             for (int i = 0; i < tweets.length(); i++) {
                 JSONObject thisTweet = tweets.getJSONObject(i);
                 IRI tweetIri = valueFactory.createIRI(Util.NS, "twitter/post#" + (counter+i));
@@ -88,9 +105,13 @@ public class TwitterParser{
                 conn.add(tweetIri,
                         iris.get("hasSource"),
                         valueFactory.createLiteral(( "Twitter")));
+                //conn.add(tweetIri,
+                //        iris.get("refersToMovie"),
+                //        valueFactory.createLiteral( thisTweet.getString("refersTo")));
+                // movieNames
                 conn.add(tweetIri,
                         iris.get("refersToMovie"),
-                        valueFactory.createLiteral( thisTweet.getString("refersTo")));
+                        valueFactory.createIRI( movieNames.get( thisTweet.getString("refersTo")).toString() ));
                 conn.add(tweetIri,
                         iris.get("hasId"),
                         valueFactory.createLiteral( thisTweet.getString("id")));
@@ -103,8 +124,33 @@ public class TwitterParser{
                 conn.add(tweetIri,
                         iris.get("hasLikes"),
                         valueFactory.createLiteral( thisTweet.getInt("favorite_count")));
+            }
 
+        } catch (IOException e) {
+            e.printStackTrace();
+        } catch (ParseException e) {
+            e.printStackTrace();
+        }
+    }
 
+    private void initializeUsers(Repository repo, Map<String, IRI> iris) {
+        JSONArray tweets;
+        ValueFactory valueFactory = repo.getValueFactory();
+        //Value commentType = model.objects().stream().filter(o -> o.stringValue().contains("Post")).findFirst().get();
+        int counter = 0;
+
+        try {
+            tweets = parser();
+            RepositoryConnection conn = repo.getConnection();
+            for (int i = 0; i < tweets.length(); i++) {
+                JSONObject thisTweet = tweets.getJSONObject(i);
+                IRI tweetUserIri = valueFactory.createIRI(Util.NS, "twitter/user#" + (counter+i));
+                //System.out.println(iris.get("Tweet"));
+                conn.add(tweetUserIri, RDF.TYPE, iris.get("User"));
+
+                conn.add(tweetUserIri,
+                        iris.get("hasUsername"),
+                        valueFactory.createLiteral( thisTweet.getString("user_name") ));
             }
 
         } catch (IOException e) {
