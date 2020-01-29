@@ -131,11 +131,6 @@
 #    Classes
 #################################################################
 
-###  http://www.semanticweb.org/group18/movie-ontology#Action
-:Action rdf:type owl:Class ;
-        rdfs:subClassOf :Movie .
-
-
 ###  http://www.semanticweb.org/group18/movie-ontology#Comment
 :Comment rdf:type owl:Class ;
          rdfs:subClassOf [ rdf:type owl:Restriction ;
@@ -151,18 +146,8 @@
          owl:disjointWith :Post .
 
 
-###  http://www.semanticweb.org/group18/movie-ontology#Drama
-:Drama rdf:type owl:Class ;
-       rdfs:subClassOf :Movie .
-
-
 ###  http://www.semanticweb.org/group18/movie-ontology#Emotion
 :Emotion rdf:type owl:Class .
-
-
-###  http://www.semanticweb.org/group18/movie-ontology#Horror
-:Horror rdf:type owl:Class ;
-        rdfs:subClassOf :Movie .
 
 
 ###  http://www.semanticweb.org/group18/movie-ontology#Indifferent
@@ -178,11 +163,6 @@
 ###  http://www.semanticweb.org/group18/movie-ontology#Instagram
 :Instagram rdf:type owl:Class ;
            rdfs:subClassOf :Source .
-
-
-###  http://www.semanticweb.org/group18/movie-ontology#Kids
-:Kids rdf:type owl:Class ;
-      rdfs:subClassOf :Movie .
 
 
 ###  http://www.semanticweb.org/group18/movie-ontology#Movie
@@ -231,11 +211,6 @@
 ###  http://www.semanticweb.org/group18/movie-ontology#RedditPost
 :RedditPost rdf:type owl:Class ;
             rdfs:subClassOf :Post .
-
-
-###  http://www.semanticweb.org/group18/movie-ontology#Romance
-:Romance rdf:type owl:Class ;
-         rdfs:subClassOf :Movie .
 
 
 ###  http://www.semanticweb.org/group18/movie-ontology#Source
