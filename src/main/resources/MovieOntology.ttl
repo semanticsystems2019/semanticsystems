@@ -4,6 +4,7 @@
 @prefix xml: <http://www.w3.org/XML/1998/namespace> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix wiki: <http://www.wikidata.org/wiki/>
 @base <http://www.semanticweb.org/group18/movie-ontology> .
 
 <http://www.semanticweb.org/group18/movie-ontology> rdf:type owl:Ontology .
@@ -51,7 +52,7 @@
 ###  http://www.semanticweb.org/group18/movie-ontology#refersToMovie
 :refersToMovie rdf:type owl:ObjectProperty ;
                rdfs:domain :Post ;
-               rdfs:range :Movie .
+               rdfs:range wiki:Q11424 .
 
 
 #################################################################
