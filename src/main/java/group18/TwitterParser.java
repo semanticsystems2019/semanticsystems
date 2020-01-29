@@ -80,7 +80,12 @@ public class TwitterParser{
             return "";
     }
 
-    public void initialize(Repository repo, Map<String, IRI> iris) {
+    public void initialize(Repository repo, Map<String, IRI> iris){
+        initializePosts(repo, iris);
+        initializeUsers(repo, iris);
+    }
+
+    private void initializePosts(Repository repo, Map<String, IRI> iris) {
         JSONArray tweets;
         ValueFactory valueFactory = repo.getValueFactory();
         //Value commentType = model.objects().stream().filter(o -> o.stringValue().contains("Post")).findFirst().get();
@@ -119,8 +124,33 @@ public class TwitterParser{
                 conn.add(tweetIri,
                         iris.get("hasLikes"),
                         valueFactory.createLiteral( thisTweet.getInt("favorite_count")));
+            }
 
+        } catch (IOException e) {
+            e.printStackTrace();
+        } catch (ParseException e) {
+            e.printStackTrace();
+        }
+    }
 
+    private void initializeUsers(Repository repo, Map<String, IRI> iris) {
+        JSONArray tweets;
+        ValueFactory valueFactory = repo.getValueFactory();
+        //Value commentType = model.objects().stream().filter(o -> o.stringValue().contains("Post")).findFirst().get();
+        int counter = 0;
+
+        try {
+            tweets = parser();
+            RepositoryConnection conn = repo.getConnection();
+            for (int i = 0; i < tweets.length(); i++) {
+                JSONObject thisTweet = tweets.getJSONObject(i);
+                IRI tweetUserIri = valueFactory.createIRI(Util.NS, "twitter/user#" + (counter+i));
+                //System.out.println(iris.get("Tweet"));
+                conn.add(tweetUserIri, RDF.TYPE, iris.get("User"));
+
+                conn.add(tweetUserIri,
+                        iris.get("hasUsername"),
+                        valueFactory.createLiteral( thisTweet.getString("user_name") ));
             }
 
         } catch (IOException e) {
