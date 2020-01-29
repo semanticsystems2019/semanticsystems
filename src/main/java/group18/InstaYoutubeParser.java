@@ -81,7 +81,7 @@ public class InstaYoutubeParser {
                             conn.add(commentIri, iris.get("createdBy"), valueFactory.createLiteral(comment.name));
                             conn.add(commentIri, iris.get("hasEmotion"), valueFactory.createIRI(iris.get("Emotion") + "/" + Util.simpleEmotionResolver()));
                             conn.add(commentIri, iris.get("hasSource"), valueFactory.createLiteral(source));
-                            conn.add(commentIri, iris.get("refersToMovie"), valueFactory.createLiteral(ids.get(movieNames.get(csvFile.getName())).toString()));
+                            conn.add(commentIri, iris.get("refersToMovie"), valueFactory.createIRI(ids.get(movieNames.get(csvFile.getName())).toString()));
 
                             // Data properties
                             conn.add(commentIri, iris.get("hasId"), valueFactory.createLiteral(comment.id));
