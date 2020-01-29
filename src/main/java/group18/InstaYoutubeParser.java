@@ -77,14 +77,17 @@ public class InstaYoutubeParser {
                             IRI commentIri = valueFactory.createIRI(Util.NS, source + "/comment#" + counter);
                             conn.add(commentIri, RDF.TYPE, iris.get("Comment"));
 
-                            conn.add(commentIri, iris.get("hasId"), valueFactory.createLiteral(comment.id));
+                            // Object properties
                             conn.add(commentIri, iris.get("createdBy"), valueFactory.createLiteral(comment.name));
+                            conn.add(commentIri, iris.get("hasEmotion"), valueFactory.createIRI(iris.get("Emotion") + "/" + Util.simpleEmotionResolver()));
+                            conn.add(commentIri, iris.get("hasSource"), valueFactory.createLiteral(source));
+                            conn.add(commentIri, iris.get("refersToMovie"), valueFactory.createLiteral(ids.get(movieNames.get(csvFile.getName())).toString()));
+
+                            // Data properties
+                            conn.add(commentIri, iris.get("hasId"), valueFactory.createLiteral(comment.id));
                             conn.add(commentIri, iris.get("hasDate"), valueFactory.createLiteral(comment.date));
                             conn.add(commentIri, iris.get("hasLikes"), valueFactory.createLiteral(comment.likes));
                             conn.add(commentIri, iris.get("hasText"), valueFactory.createLiteral(comment.text));
-                            conn.add(commentIri, iris.get("hasEmotion"), valueFactory.createLiteral(comment.emotion));
-                            conn.add(commentIri, iris.get("hasSource"), valueFactory.createLiteral(source));
-                            conn.add(commentIri, iris.get("refersToMovie"), valueFactory.createLiteral(ids.get(movieNames.get(csvFile.getName())).toString()));
                             // TODO add more stuff?
                         }
                     }
@@ -103,7 +106,6 @@ public class InstaYoutubeParser {
 
         final int id;
         final String name;
-        // TODO Valentin fix date and link
         final Date date;
         final int likes;
         final String text;

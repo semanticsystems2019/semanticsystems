@@ -2,6 +2,7 @@ package group18;
 
 import org.eclipse.rdf4j.model.IRI;
 import org.eclipse.rdf4j.model.Model;
+import org.eclipse.rdf4j.model.vocabulary.RDF;
 import org.eclipse.rdf4j.repository.Repository;
 import org.eclipse.rdf4j.repository.RepositoryConnection;
 import org.eclipse.rdf4j.repository.http.HTTPRepository;
@@ -33,6 +34,16 @@ public class Rdf4jHandler implements Tutorial {
                 "InstaPost", "Instagram", "Kids", "Movie", "Negative", "Positive", "Post", "Reddit", "RedditPost",
                 "Romance", "Source", "Tweet", "Twitter", "User", "Youtube", "YoutubePost"
         ).collect(Collectors.toMap(iri -> iri, iri -> repo.getValueFactory().createIRI("http://www.semanticweb.org/group18/movie-ontology#" + iri)));
+        try (RepositoryConnection conn = repo.getConnection()) {
+            IRI emotionIri = repo.getValueFactory().createIRI(iris.get("Emotion") + "/Positive");
+            conn.add(emotionIri, RDF.TYPE, iris.get("Emotion"));
+
+            emotionIri = repo.getValueFactory().createIRI(iris.get("Emotion") + "/Negative");
+            conn.add(emotionIri, RDF.TYPE, iris.get("Emotion"));
+
+            emotionIri = repo.getValueFactory().createIRI(iris.get("Emotion") + "/Indifferent");
+            conn.add(emotionIri, RDF.TYPE, iris.get("Emotion"));
+        }
 
         // init parser
         try {

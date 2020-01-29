@@ -1,9 +1,21 @@
 package group18;
 
 import java.io.File;
+import java.util.Random;
 
 public class Util {
     public static final String NS = "http://www.semanticweb.org/group18/movie-ontology/";
     public static final String SERVER_URL = "http://localhost:7200/";
     public static final File ONTOLOGY_FILE = new File(Util.class.getClassLoader().getResource("MovieOntology.ttl").getFile());
+
+    public static String simpleEmotionResolver() {
+        Random random = new Random();
+        int emotion = random.nextInt(3);
+        if (emotion == 0)
+            return "Positive";
+        else if (emotion == 1)
+            return "Negative";
+        else
+            return "Indifferent";
+    }
 }
