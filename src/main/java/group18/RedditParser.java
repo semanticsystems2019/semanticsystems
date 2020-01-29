@@ -156,12 +156,11 @@ public class RedditParser {
 
                 // MOVIE DB LINK
                 String movieLink = (String) movieJsonData.toMap().get( post.getReferenceMovie());
-                conn.add(postIRI, iris.get("refersToMovie"), valueFactory.createLiteral( movieLink ));
+                conn.add(postIRI, iris.get("refersToMovie"), valueFactory.createIRI( movieLink ));
 
                 // ADDING POST USER
                 IRI userIRI = valueFactory.createIRI(Util.NS, "reddit/user#" + (userCounter++));
                 conn.add(userIRI, iris.get("hasUsername"), valueFactory.createLiteral( post.getUsername() ));
-                // TODO got canceled: conn.add(userIRI, iris.get("isOriginalPosterOfPost"), valueFactory.createLiteral( post.getId() ));
 
 
                 // ADDING COMMENTS
@@ -178,6 +177,10 @@ public class RedditParser {
                     conn.add(commentIRI, iris.get("hasLikes"), valueFactory.createLiteral( comment.getUpvotes() ));
                     conn.add(commentIRI, iris.get("hasText"), valueFactory.createLiteral( comment.getText() ));
                     conn.add(commentIRI, iris.get("refersToMovie"), valueFactory.createLiteral( movieLink ));
+
+                    // MOVIE DB LINK
+                    String commentMovieLink = (String) movieJsonData.toMap().get( post.getReferenceMovie());
+                    conn.add(postIRI, iris.get("refersToMovie"), valueFactory.createIRI( movieLink ));
 
                     // ADDING COMMENT USER
                     IRI commentUserIRI = valueFactory.createIRI(Util.NS, "reddit/user#" + (userCounter++));
