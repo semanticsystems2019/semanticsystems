@@ -3,11 +3,13 @@ package group18;
 import org.apache.commons.csv.CSVFormat;
 import org.apache.commons.csv.CSVParser;
 import org.apache.commons.csv.CSVRecord;
+import org.apache.commons.io.FileUtils;
 import org.eclipse.rdf4j.model.IRI;
 import org.eclipse.rdf4j.model.ValueFactory;
 import org.eclipse.rdf4j.model.vocabulary.RDF;
 import org.eclipse.rdf4j.repository.Repository;
 import org.eclipse.rdf4j.repository.RepositoryConnection;
+import org.json.JSONObject;
 
 import java.io.File;
 import java.io.IOException;
@@ -21,6 +23,19 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class InstaYoutubeParser {
+
+    String MOVIENAMES = "src/main/resources/movienames.json";
+
+    JSONObject loadJSON(String path) {
+        File file = new File(path);
+        String content = null;
+        try {
+            content = FileUtils.readFileToString(file, "utf-8");
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+        return new JSONObject(content);
+    }
 
     public void parse(Repository repo, Map<String, IRI> iris, String source) {
         ValueFactory valueFactory = repo.getValueFactory();
@@ -39,6 +54,8 @@ public class InstaYoutubeParser {
         movieNames.put("Vice.csv", "Vice");
         movieNames.put("Zombieland2.csv", "Zombieland: Double Tap");
         movieNames.put("Crazy Rich Asians.csv", "Crazy Rich Asians");
+
+        JSONObject ids = this.loadJSON(this.MOVIENAMES);
 
         int counter = 0;
         for (File csvFile : baseDirectory.listFiles()) {
@@ -67,8 +84,7 @@ public class InstaYoutubeParser {
                             conn.add(commentIri, iris.get("hasText"), valueFactory.createLiteral(comment.text));
                             conn.add(commentIri, iris.get("hasEmotion"), valueFactory.createLiteral(comment.emotion));
                             conn.add(commentIri, iris.get("hasSource"), valueFactory.createLiteral(source));
-                            // TODO change refersToMovie to refer to movie id from moviedb
-                            conn.add(commentIri, iris.get("refersToMovie"), valueFactory.createLiteral( movieNames.get(csvFile.getName()) ));
+                            conn.add(commentIri, iris.get("refersToMovie"), valueFactory.createLiteral(ids.get(movieNames.get(csvFile.getName())).toString()));
                             // TODO add more stuff?
                         }
                     }
