@@ -3,11 +3,13 @@ package group18;
 import org.apache.commons.csv.CSVFormat;
 import org.apache.commons.csv.CSVParser;
 import org.apache.commons.csv.CSVRecord;
+import org.apache.commons.io.FileUtils;
 import org.eclipse.rdf4j.model.IRI;
 import org.eclipse.rdf4j.model.ValueFactory;
 import org.eclipse.rdf4j.model.vocabulary.RDF;
 import org.eclipse.rdf4j.repository.Repository;
 import org.eclipse.rdf4j.repository.RepositoryConnection;
+import org.json.JSONObject;
 
 import java.io.File;
 import java.io.IOException;
@@ -22,6 +24,19 @@ import java.util.Map;
 
 public class InstaYoutubeParser {
 
+    String MOVIENAMES = "src/main/resources/movienames.json";
+
+    JSONObject loadJSON(String path) {
+        File file = new File(path);
+        String content = null;
+        try {
+            content = FileUtils.readFileToString(file, "utf-8");
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+        return new JSONObject(content);
+    }
+
     public void parse(Repository repo, Map<String, IRI> iris, String source) {
         ValueFactory valueFactory = repo.getValueFactory();
         File baseDirectory = new File(getClass().getClassLoader().getResource(source + "/csv/").getFile());
@@ -34,13 +49,13 @@ public class InstaYoutubeParser {
         movieNames.put("Deadpool2.csv", "Deadpool 2");
         movieNames.put("FiftyShadesFreed.csv", "Fifty Shades Freed");
         movieNames.put("Joker.csv", "The Joker");
-        movieNames.put("MammaMia.csv", "Mamma Mia! Here We Go Again");
-        movieNames.put("Mamma Mia 2.csv", "Mamma Mia! Here We Go Again");
+        movieNames.put("MammaMia2.csv", "Mamma Mia! Here We Go Again");
         movieNames.put("TheIncredibles2.csv", "Incredibles 2");
-        movieNames.put("Incredibles 2.csv", "Incredibles 2");
         movieNames.put("Vice.csv", "Vice");
-        movieNames.put("Zombiland2.csv", "Zombieland: Double Tap");
+        movieNames.put("Zombieland2.csv", "Zombieland: Double Tap");
         movieNames.put("Crazy Rich Asians.csv", "Crazy Rich Asians");
+
+        JSONObject ids = this.loadJSON(this.MOVIENAMES);
 
         int counter = 0;
         for (File csvFile : baseDirectory.listFiles()) {
@@ -64,13 +79,12 @@ public class InstaYoutubeParser {
 
                             conn.add(commentIri, iris.get("hasId"), valueFactory.createLiteral(comment.id));
                             conn.add(commentIri, iris.get("createdBy"), valueFactory.createLiteral(comment.name));
-                            //conn.add(commentIri, iris.get("hasDate"), valueFactory.createLiteral(comment.date));
+                            conn.add(commentIri, iris.get("hasDate"), valueFactory.createLiteral(comment.date));
                             conn.add(commentIri, iris.get("hasLikes"), valueFactory.createLiteral(comment.likes));
                             conn.add(commentIri, iris.get("hasText"), valueFactory.createLiteral(comment.text));
                             conn.add(commentIri, iris.get("hasEmotion"), valueFactory.createLiteral(comment.emotion));
                             conn.add(commentIri, iris.get("hasSource"), valueFactory.createLiteral(source));
-                            // TODO change refersToMovie to refer to movie id from moviedb
-                            conn.add(commentIri, iris.get("refersToMovie"), valueFactory.createLiteral( movieNames.get(csvFile.getName()) ));
+                            conn.add(commentIri, iris.get("refersToMovie"), valueFactory.createLiteral(ids.get(movieNames.get(csvFile.getName())).toString()));
                             // TODO add more stuff?
                         }
                     }
@@ -90,7 +104,7 @@ public class InstaYoutubeParser {
         final int id;
         final String name;
         // TODO Valentin fix date and link
-        // final Date date;
+        final Date date;
         final int likes;
         final String text;
         final String emotion;
@@ -99,7 +113,7 @@ public class InstaYoutubeParser {
         InstaYoutubeComment(CSVRecord csvRecord) throws ParseException {
             id = Integer.parseInt(csvRecord.get("Id"));
             name = csvRecord.get("Name (click to view profile)");
-            // date = DATE_FORMAT.parse(csvRecord.get("Date"));
+            date = DATE_FORMAT.parse(csvRecord.get("Date"));
             likes = Integer.parseInt(csvRecord.get("Likes"));
             text = csvRecord.get("Comment");
             emotion = "Positive";
