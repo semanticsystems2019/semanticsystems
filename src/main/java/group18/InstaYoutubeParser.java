@@ -24,19 +24,6 @@ import java.util.Map;
 
 public class InstaYoutubeParser {
 
-    String MOVIENAMES = "src/main/resources/movienames.json";
-
-    JSONObject loadJSON(String path) {
-        File file = new File(path);
-        String content = null;
-        try {
-            content = FileUtils.readFileToString(file, "utf-8");
-        } catch (IOException e) {
-            e.printStackTrace();
-        }
-        return new JSONObject(content);
-    }
-
     public void parse(Repository repo, Map<String, IRI> iris, String source) {
         ValueFactory valueFactory = repo.getValueFactory();
         File baseDirectory = new File(getClass().getClassLoader().getResource(source + "/csv/").getFile());
@@ -55,7 +42,7 @@ public class InstaYoutubeParser {
         movieNames.put("Zombieland2.csv", "Zombieland: Double Tap");
         movieNames.put("Crazy Rich Asians.csv", "Crazy Rich Asians");
 
-        JSONObject ids = this.loadJSON(this.MOVIENAMES);
+        JSONObject ids = Util.loadJSON(Util.MOVIENAMES);
 
         int counter = 0;
         for (File csvFile : baseDirectory.listFiles()) {
