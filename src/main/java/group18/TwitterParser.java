@@ -108,10 +108,10 @@ public class TwitterParser{
                 //conn.add(tweetIri,
                 //        iris.get("refersToMovie"),
                 //        valueFactory.createLiteral( thisTweet.getString("refersTo")));
-                // movieNames
+                String movieName = thisTweet.get("refersTo").toString();
                 conn.add(tweetIri,
                         iris.get("refersToMovie"),
-                        valueFactory.createIRI( movieNames.get( thisTweet.getString("refersTo")).toString() ));
+                        valueFactory.createIRI( movieNames.getString( movieName )));
                 conn.add(tweetIri,
                         iris.get("hasId"),
                         valueFactory.createLiteral( thisTweet.getString("id")));

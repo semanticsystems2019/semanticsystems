@@ -77,10 +77,10 @@ public class Rdf4jHandler implements Tutorial {
 
     @Override
     public void createInstances() {
-        instaYoutubeParser.parse("instagram");
-        instaYoutubeParser.parse("youtube");
+        //instaYoutubeParser.parse("instagram");
+        //instaYoutubeParser.parse("youtube");
         twitterParser.initialize(localRepo, iris);
-        redditParser.uploadRedditPosts();
+        //redditParser.uploadRedditPosts();
     }
 
     @Override
