@@ -1,5 +1,7 @@
 package group18;
 
+import App.QueryResponse;
+
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.IOException;
@@ -14,7 +16,7 @@ public interface Tutorial {
 
     void iteratingRdfData();
 
-    void selectQuery(String queryFile);
+    QueryResponse selectQuery(String queryFile);
 
     void constructQuery(String queryFile);
 

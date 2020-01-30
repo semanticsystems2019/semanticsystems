@@ -1,5 +1,6 @@
 package group18;
 
+import App.QueryResponse;
 import org.eclipse.rdf4j.model.IRI;
 import org.eclipse.rdf4j.model.Model;
 import org.eclipse.rdf4j.model.vocabulary.RDF;
@@ -24,6 +25,8 @@ import java.nio.charset.StandardCharsets;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
+import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.Map;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
@@ -94,18 +97,21 @@ public class Rdf4jHandler implements Tutorial {
     }
 
     @Override
-    public void selectQuery(String queryFile) {
+    public QueryResponse selectQuery(String queryFile) {
+        ArrayList<String> keys = new ArrayList<>();
+        ArrayList<String> values = new ArrayList<>();
         try (RepositoryConnection conn = localRepo.getConnection()) {
             String queryString = readFile(queryFile, StandardCharsets.UTF_8);
             TupleQuery tupleQuery = conn.prepareTupleQuery(queryString);
             try (TupleQueryResult result = tupleQuery.evaluate()) {
                 while (result.hasNext()) {
                     BindingSet bindingSet = result.next();
-                    System.out.println(bindingSet);
+                    keys.add(bindingSet.getValue("name").toString());
+                    values.add(bindingSet.getValue("ratio").toString());
                 }
             }
-            System.out.println("DONE");
         }
+        return new QueryResponse(keys, values);
     }
 
     @Override

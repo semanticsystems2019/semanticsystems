@@ -1,11 +1,16 @@
 package App;
 
+import group18.Rdf4jHandler;
+
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
+
 public class QueryHandler {
 
-    private Object doQuery(String sparql) {
-        //TODO insert RD4JHandler magic
-        //TODO define return type!
-        return null;
+    Rdf4jHandler rdf4jHandler = new Rdf4jHandler();
+
+    private QueryResponse doQuery(String sparqlFile) {
+        return rdf4jHandler.selectQuery(sparqlFile);
     }
 
     /*
@@ -48,10 +53,11 @@ public class QueryHandler {
     Worst ranking Movie Genres
      */
     public void bottomOfThePit() {
-        String sparqlQuery = "empty";
-        Object obj = doQuery(sparqlQuery);
+        String sparqlFile = "bottom_of_the_pit.sparql";
+        QueryResponse map = doQuery(sparqlFile);
 
-        //TODO MANUALLY parse obj to String and print
-        System.out.println("bottomOfThePit is empty");
+        for(int i=0; i<map.getLength(); i++){
+            System.out.println(map.getKeys().get(i).split("\"")[1] + " - " + map.getValues().get(i).split("\"")[1]);
+        }
     }
 }
