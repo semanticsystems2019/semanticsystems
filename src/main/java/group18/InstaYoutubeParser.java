@@ -3,7 +3,6 @@ package group18;
 import org.apache.commons.csv.CSVFormat;
 import org.apache.commons.csv.CSVParser;
 import org.apache.commons.csv.CSVRecord;
-import org.apache.commons.io.FileUtils;
 import org.eclipse.rdf4j.model.IRI;
 import org.eclipse.rdf4j.model.ValueFactory;
 import org.eclipse.rdf4j.model.vocabulary.RDF;
@@ -24,38 +23,35 @@ import java.util.Map;
 
 public class InstaYoutubeParser {
 
-    String MOVIENAMES = "src/main/resources/movienames.json";
+    private Repository localRepo;
+    private Repository wikiRepo;
+    private Map<String, IRI> iris;
 
-    JSONObject loadJSON(String path) {
-        File file = new File(path);
-        String content = null;
-        try {
-            content = FileUtils.readFileToString(file, "utf-8");
-        } catch (IOException e) {
-            e.printStackTrace();
-        }
-        return new JSONObject(content);
+    public InstaYoutubeParser(Repository localRepo, Repository wikiRepo, Map<String, IRI> iris) {
+        this.localRepo = localRepo;
+        this.wikiRepo = wikiRepo;
+        this.iris = iris;
     }
 
-    public void parse(Repository repo, Map<String, IRI> iris, String source) {
-        ValueFactory valueFactory = repo.getValueFactory();
+    public void parse(String source) {
+        ValueFactory localValueFactory = localRepo.getValueFactory();
+        ValueFactory wikiValueFactory = wikiRepo.getValueFactory();
         File baseDirectory = new File(getClass().getClassLoader().getResource(source + "/csv/").getFile());
 
-        Map<String,String> movieNames = new HashMap<>();
-        movieNames.put("AQuietPlace.csv", "A Quiet Place");
-        movieNames.put("AStarIsBorn.csv", "A Star is Born");
-        movieNames.put("AvengersEndgame.csv", "Avengers: Endgame");
-        movieNames.put("BohemianRhapsody.csv", "Bohemian Rhapsody");
-        movieNames.put("Deadpool2.csv", "Deadpool 2");
-        movieNames.put("FiftyShadesFreed.csv", "Fifty Shades Freed");
-        movieNames.put("Joker.csv", "The Joker");
-        movieNames.put("MammaMia2.csv", "Mamma Mia! Here We Go Again");
-        movieNames.put("TheIncredibles2.csv", "Incredibles 2");
-        movieNames.put("Vice.csv", "Vice");
-        movieNames.put("Zombieland2.csv", "Zombieland: Double Tap");
-        movieNames.put("Crazy Rich Asians.csv", "Crazy Rich Asians");
-
-        JSONObject ids = this.loadJSON(this.MOVIENAMES);
+        JSONObject ids = Util.loadJSON(Util.MOVIENAMES);
+        Map<String, IRI> movieNames = new HashMap<>();
+        movieNames.put("AQuietPlace.csv", wikiValueFactory.createIRI(ids.getString("A Quiet Place")));
+        movieNames.put("AStarIsBorn.csv", wikiValueFactory.createIRI(ids.getString("A Star is Born")));
+        movieNames.put("AvengersEndgame.csv", wikiValueFactory.createIRI(ids.getString("Avengers: Endgame")));
+        movieNames.put("BohemianRhapsody.csv", wikiValueFactory.createIRI(ids.getString("Bohemian Rhapsody")));
+        movieNames.put("Deadpool2.csv", wikiValueFactory.createIRI(ids.getString("Deadpool 2")));
+        movieNames.put("FiftyShadesFreed.csv", wikiValueFactory.createIRI(ids.getString("Fifty Shades Freed")));
+        movieNames.put("Joker.csv", wikiValueFactory.createIRI(ids.getString("The Joker")));
+        movieNames.put("MammaMia2.csv", wikiValueFactory.createIRI(ids.getString("Mamma Mia! Here We Go Again")));
+        movieNames.put("TheIncredibles2.csv", wikiValueFactory.createIRI(ids.getString("Incredibles 2")));
+        movieNames.put("Vice.csv", wikiValueFactory.createIRI(ids.getString("Vice")));
+        movieNames.put("Zombieland2.csv", wikiValueFactory.createIRI(ids.getString("Zombieland: Double Tap")));
+        movieNames.put("Crazy Rich Asians.csv", wikiValueFactory.createIRI(ids.getString("Crazy Rich Asians")));
 
         int counter = 0;
         for (File csvFile : baseDirectory.listFiles()) {
@@ -67,27 +63,27 @@ public class InstaYoutubeParser {
             ) {
                 counter = 0;
                 for (CSVRecord csvRecord : csvParser) {
-                    if(counter > 50){
+                    if(counter > 5){
                         break;
                     }
                     String idString = csvRecord.get("Id");
                     if (idString != null && idString.length() > 0) {
-                        try (RepositoryConnection conn = repo.getConnection()) {
+                        try (RepositoryConnection conn = localRepo.getConnection()) {
                             InstaYoutubeComment comment = new InstaYoutubeComment(csvRecord);
-                            IRI commentIri = valueFactory.createIRI(Util.NS, source + "/comment#" + counter);
+                            IRI commentIri = localValueFactory.createIRI(Util.NS, source + "/comment#" + counter);
                             conn.add(commentIri, RDF.TYPE, iris.get("Comment"));
 
                             // Object properties
-                            conn.add(commentIri, iris.get("createdBy"), valueFactory.createLiteral(comment.name));
-                            conn.add(commentIri, iris.get("hasEmotion"), valueFactory.createIRI(iris.get("Emotion") + "/" + Util.simpleEmotionResolver()));
-                            conn.add(commentIri, iris.get("hasSource"), valueFactory.createLiteral(source));
-                            conn.add(commentIri, iris.get("refersToMovie"), valueFactory.createIRI(ids.get(movieNames.get(csvFile.getName())).toString()));
+                            conn.add(commentIri, iris.get("createdBy"), localValueFactory.createLiteral(comment.name));
+                            conn.add(commentIri, iris.get("hasEmotion"), localValueFactory.createIRI(iris.get("Emotion") + "/" + Util.simpleEmotionResolver()));
+                            conn.add(commentIri, iris.get("hasSource"), localValueFactory.createLiteral(source));
+                            conn.add(commentIri, iris.get("refersToMovie"), movieNames.get(csvFile.getName()));
 
                             // Data properties
-                            conn.add(commentIri, iris.get("hasId"), valueFactory.createLiteral(comment.id));
-                            conn.add(commentIri, iris.get("hasDate"), valueFactory.createLiteral(comment.date));
-                            conn.add(commentIri, iris.get("hasLikes"), valueFactory.createLiteral(comment.likes));
-                            conn.add(commentIri, iris.get("hasText"), valueFactory.createLiteral(comment.text));
+                            conn.add(commentIri, iris.get("hasId"), localValueFactory.createLiteral(comment.id));
+                            conn.add(commentIri, iris.get("hasDate"), localValueFactory.createLiteral(comment.date));
+                            conn.add(commentIri, iris.get("hasLikes"), localValueFactory.createLiteral(comment.likes));
+                            conn.add(commentIri, iris.get("hasText"), localValueFactory.createLiteral(comment.text));
                             // TODO add more stuff?
                         }
                     }

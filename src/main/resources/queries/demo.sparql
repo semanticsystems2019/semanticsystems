@@ -1,0 +1,6 @@
+PREFIX :<http://www.semanticweb.org/group18/movie-ontology#>
+
+SELECT ?o
+WHERE {
+    ?s :refersToMovie ?o .
+} LIMIT 10
