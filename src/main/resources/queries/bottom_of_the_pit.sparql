@@ -1,0 +1,20 @@
+PREFIX :<http://www.semanticweb.org/group18/movie-ontology#>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX wd:<http://www.wikidata.org/entity/>
+PREFIX wdp:<http://www.wikidata.org/prop/direct/>
+
+SELECT ?name (ROUND((SUM(?postlikes)+SUM(?commentlikes)) / COUNT(?c)) AS ?ratio)
+    WHERE {
+        ?s :refersToMovie ?movie .
+        ?s rdf:type :Post .
+        ?s :hasLikes ?postlikes .
+        ?c :refersToMovie ?movie .
+        ?c rdf:type :Comment .
+        ?c :hasLikes ?commentlikes.
+
+        { SERVICE <https://query.wikidata.org/sparql> {
+                ?movie wdp:P136 ?genre .
+                ?genre rdfs:label ?name filter (lang(?name) = "en") . }}
+        } GROUP BY ?name } .
+} ORDER BY DESC(?ratio)
