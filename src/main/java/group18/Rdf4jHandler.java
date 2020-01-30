@@ -3,9 +3,9 @@ package group18;
 import org.eclipse.rdf4j.model.IRI;
 import org.eclipse.rdf4j.model.Model;
 import org.eclipse.rdf4j.model.vocabulary.RDF;
-import org.eclipse.rdf4j.query.GraphQuery;
-import org.eclipse.rdf4j.query.GraphQueryResult;
-import org.eclipse.rdf4j.query.QueryResults;
+import org.eclipse.rdf4j.query.BindingSet;
+import org.eclipse.rdf4j.query.TupleQuery;
+import org.eclipse.rdf4j.query.TupleQueryResult;
 import org.eclipse.rdf4j.repository.Repository;
 import org.eclipse.rdf4j.repository.RepositoryConnection;
 import org.eclipse.rdf4j.repository.http.HTTPRepository;
@@ -95,19 +95,21 @@ public class Rdf4jHandler implements Tutorial {
 
     @Override
     public void selectQuery(String queryFile) {
-
+        try (RepositoryConnection conn = localRepo.getConnection()) {
+            String queryString = readFile(queryFile, StandardCharsets.UTF_8);
+            TupleQuery tupleQuery = conn.prepareTupleQuery(queryString);
+            try (TupleQueryResult result = tupleQuery.evaluate()) {
+                while (result.hasNext()) {
+                    BindingSet bindingSet = result.next();
+                    System.out.println(bindingSet);
+                }
+            }
+        }
     }
 
     @Override
     public void constructQuery(String queryFile) {
-        try (RepositoryConnection conn = localRepo.getConnection()) {
-            String queryString = readFile(queryFile, StandardCharsets.UTF_8);
-            GraphQuery query = conn.prepareGraphQuery(queryString);
-            GraphQueryResult queryResult = query.evaluate();
 
-            Model model = QueryResults.asModel(queryResult);
-            Rio.write(model, System.out, RDFFormat.TURTLE);
-        }
     }
 
     private String readFile(String queryFile, Charset encoding) {

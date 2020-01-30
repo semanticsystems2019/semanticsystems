@@ -1,6 +1,12 @@
 PREFIX :<http://www.semanticweb.org/group18/movie-ontology#>
+PREFIX wd:<http://www.wikidata.org/entity/>
 
-SELECT ?o
+SELECT ?o ?p ?o2
 WHERE {
     ?s :refersToMovie ?o .
+    {
+        SERVICE <https://query.wikidata.org/sparql> {
+            ?o ?p ?o2
+        }
+    }
 } LIMIT 10
