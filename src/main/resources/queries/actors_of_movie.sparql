@@ -1,0 +1,13 @@
+PREFIX :<http://www.semanticweb.org/group18/movie-ontology#>
+PREFIX wd:<http://www.wikidata.org/entity/>
+PREFIX wdp:<http://www.wikidata.org/prop/direct/>
+
+SELECT ?o
+WHERE {
+    ?s :refersToMovie wd:Q23781155 .
+    {
+        SERVICE <https://query.wikidata.org/sparql> {
+            wd:Q23781155 wdp:P161 ?o
+        }
+    }
+} LIMIT 5

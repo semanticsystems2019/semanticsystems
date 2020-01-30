@@ -104,6 +104,7 @@ public class Rdf4jHandler implements Tutorial {
                     System.out.println(bindingSet);
                 }
             }
+            System.out.println("DONE");
         }
     }
 

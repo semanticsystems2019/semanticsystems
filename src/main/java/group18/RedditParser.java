@@ -176,11 +176,9 @@ public class RedditParser {
                     conn.add(commentIRI, iris.get("hasDate"), valueFactory.createLiteral( comment.getDate() ));
                     conn.add(commentIRI, iris.get("hasLikes"), valueFactory.createLiteral( comment.getUpvotes() ));
                     conn.add(commentIRI, iris.get("hasText"), valueFactory.createLiteral( comment.getText() ));
-                    conn.add(commentIRI, iris.get("refersToMovie"), valueFactory.createLiteral( movieLink ));
 
                     // MOVIE DB LINK
-                    String commentMovieLink = (String) movieJsonData.toMap().get( post.getReferenceMovie());
-                    conn.add(postIRI, iris.get("refersToMovie"), valueFactory.createIRI( movieLink ));
+                    conn.add(commentIRI, iris.get("refersToMovie"), valueFactory.createIRI( movieLink ));
 
                     // ADDING COMMENT USER
                     IRI commentUserIRI = valueFactory.createIRI(Util.NS, "reddit/user#" + (userCounter++));
