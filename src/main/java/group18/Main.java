@@ -7,6 +7,6 @@ public class Main {
 
         Rdf4jHandler rdf4jHandler = new Rdf4jHandler();
         rdf4jHandler.createInstances();
-//        rdf4jHandler.constructQuery("demo.sparql");
+        rdf4jHandler.selectQuery("demo.sparql");
     }
 }
