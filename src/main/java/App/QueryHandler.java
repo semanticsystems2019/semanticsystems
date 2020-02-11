@@ -2,6 +2,7 @@ package App;
 
 import group18.Rdf4jHandler;
 
+import java.util.HashMap;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
@@ -38,15 +39,28 @@ public class QueryHandler {
     }
 
     /*
-    Comments that received mostly positive feedback
-    mostly = ??? danke oli
+    Comments that received much feedback
      */
     public void theCommonTongue() {
-        String sparqlQuery = "empty";
-        Object obj = doQuery(sparqlQuery);
+        String sparqlFile = "common_tongue.sparql";
+        HashMap<Integer, HashMap<String, String>> result = rdf4jHandler.tongueSelectQuery(sparqlFile);
 
-        //TODO MANUALLY parse obj to String and print
-        System.out.println("theCommonTongue is empty");
+        System.out.println("Rank | Likes |   Movie   |   Platform   | User | Text ");
+        System.out.println("--- Text ");
+        for (int i : result.keySet()) {
+            System.out.print(i + ". | ");
+            System.out.print( result.get(i).get("likes").split("\"")[1]);
+            System.out.print("   |   ");
+            System.out.print( result.get(i).get("title").split("\"")[1]);
+            System.out.print("   |   ");
+            System.out.print( result.get(i).get("source").split("\"")[1]);
+            System.out.print("   |   ");
+            System.out.print( result.get(i).get("user").split("\"")[1]);
+            System.out.println("");
+            System.out.print("--- ");
+            System.out.print( result.get(i).get("text"));
+            System.out.println("");
+        }
     }
 
     /*
@@ -54,6 +68,15 @@ public class QueryHandler {
      */
     public void bottomOfThePit() {
         String sparqlFile = "bottom_of_the_pit.sparql";
+        QueryResponse map = doQuery(sparqlFile);
+
+        for(int i=0; i<map.getLength(); i++){
+            System.out.println(map.getKeys().get(i).split("\"")[1] + " - " + map.getValues().get(i).split("\"")[1]);
+        }
+    }
+
+    public void trendingNow() {
+        String sparqlFile = "trending.sparql";
         QueryResponse map = doQuery(sparqlFile);
 
         for(int i=0; i<map.getLength(); i++){

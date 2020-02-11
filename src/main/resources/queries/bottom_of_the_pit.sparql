@@ -16,4 +16,4 @@ SELECT ?name (ROUND((SUM(?postlikes)+SUM(?commentlikes)) / COUNT(?c)) AS ?ratio)
         { SERVICE <https://query.wikidata.org/sparql> {
                 ?movie wdp:P136 ?genre .
                 ?genre rdfs:label ?name filter (lang(?name) = "en") . }}
-        } GROUP BY ?name ORDER BY DESC(?ratio)
+        } GROUP BY ?name ORDER BY ?ratio LIMIT 5

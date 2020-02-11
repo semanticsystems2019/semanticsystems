@@ -1,5 +1,6 @@
 package group18;
 
+import App.QueryHandler;
 import App.QueryResponse;
 import org.eclipse.rdf4j.model.IRI;
 import org.eclipse.rdf4j.model.Model;
@@ -19,6 +20,7 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
+import java.lang.reflect.Array;
 import java.net.URISyntaxException;
 import java.nio.charset.Charset;
 import java.nio.charset.StandardCharsets;
@@ -27,6 +29,7 @@ import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.util.ArrayList;
 import java.util.HashMap;
+import java.util.List;
 import java.util.Map;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
@@ -84,6 +87,7 @@ public class Rdf4jHandler implements Tutorial {
         instaYoutubeParser.parse("youtube");
         twitterParser.initialize(localRepo, iris);
         redditParser.uploadRedditPosts();
+
     }
 
     @Override
@@ -113,6 +117,33 @@ public class Rdf4jHandler implements Tutorial {
         }
         return new QueryResponse(keys, values);
     }
+
+    public HashMap<Integer, HashMap<String,String>> tongueSelectQuery(String queryFile) {
+        HashMap<Integer, HashMap<String,String>> response = new HashMap<Integer, HashMap<String,String>>();
+
+
+        try (RepositoryConnection conn = localRepo.getConnection()) {
+            String queryString = readFile(queryFile, StandardCharsets.UTF_8);
+            TupleQuery tupleQuery = conn.prepareTupleQuery(queryString);
+            try (TupleQueryResult result = tupleQuery.evaluate()) {
+                int cnt = 1;
+                while (result.hasNext()) {
+                    HashMap<String, String> map = new HashMap<String, String>();
+                    BindingSet bindingSet = result.next();
+                    map.put("text", bindingSet.getValue("text").toString());
+                    map.put("title", bindingSet.getValue("title").toString());
+                    map.put("source", bindingSet.getValue("source").toString());
+                    map.put("user", bindingSet.getValue("user").toString());
+                    map.put("likes", bindingSet.getValue("likes").toString());
+                    response.put(cnt, map);
+                    cnt++;
+                    //System.out.println(bindingSet);
+                }
+            }
+        }
+        return response;
+    }
+
 
     @Override
     public void constructQuery(String queryFile) {

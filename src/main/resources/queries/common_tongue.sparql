@@ -1,0 +1,22 @@
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX : <http://www.semanticweb.org/group18/movie-ontology#>
+PREFIX wd:<http://www.wikidata.org/entity/>
+PREFIX wdp:<http://www.wikidata.org/prop/direct/>
+
+SELECT ?text ?title ?source ?user ?likes
+WHERE {
+    {SELECT * WHERE {
+        ?s :refersToMovie ?movie .
+    	?s :hasText ?text .
+        ?s :hasLikes ?likes .
+        ?s :hasSource ?source .
+        ?s :createdBy ?user .
+        } ORDER BY DESC(?likes) LIMIT 25
+    }
+        { SERVICE <https://query.wikidata.org/sparql> {
+                ?movie wdp:P1476 ?title .
+#                ?title rdfs:label ?name filter (lang(?name) = "en") .
+        }
+    }
+} ORDER BY DESC(?likes)
