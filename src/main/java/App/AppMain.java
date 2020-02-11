@@ -6,25 +6,34 @@ public class AppMain {
     static QueryHandler queryHandler = new QueryHandler();
 
     public static void main(String[] args) {
+        help();
         while (true){
             String s = scanner.next();
 
             switch (s) {
                 case "help" : help(); break;
                 case "quit" : closeProgram(); break;
-                case "hype" : queryHandler.hypeIsRealMovies(); break;
-                case "lame" : queryHandler.notWorthTheWait(); break;
-                case "fame" : queryHandler.theCommonTongue(); break;
-                case "pit" : queryHandler.bottomOfThePit(); break;
-                case "trend" : queryHandler.trendingNow(); break;
-                default: System.out.println("This is not a command!");
+                case "hype" : pleaseWait(); queryHandler.hypeIsRealMovies(); break;
+                case "lame" : pleaseWait(); queryHandler.notWorthTheWait(); break;
+                case "fame" : pleaseWait(); queryHandler.theCommonTongue(); break;
+                case "pit" : pleaseWait(); queryHandler.bottomOfThePit(); break;
+                case "trend" : pleaseWait(); queryHandler.trendingNow(); break;
+                default: System.out.println("This is not a command! Type 'help' for a list of commands.");
             }
         }
     }
 
     private static void help() {
-        System.out.println("I AM HELPING!");
+        System.out.println("The following commands are available:\n" +
+                "- help .. shows this help message\n" +
+                "- hype .. shows movies with the most positive responses\n" +
+                "- lame .. shows movies with the most negative responses\n" +
+                "- fame .. shows most liked comments\n" +
+                "- pit .. shows least liked genres\n" +
+                "- trend .. shows movies with the most comments\n" +
+                "- quit .. quits the program\n");
     }
+    private static void pleaseWait(){ System.out.println("Please wait while the query is processed.."); }
 
     private static void closeProgram(){
         scanner.close();
