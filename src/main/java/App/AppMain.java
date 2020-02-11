@@ -16,6 +16,7 @@ public class AppMain {
                 case "lame" : queryHandler.notWorthTheWait(); break;
                 case "fame" : queryHandler.theCommonTongue(); break;
                 case "pit" : queryHandler.bottomOfThePit(); break;
+                case "trend" : queryHandler.trendingNow(); break;
                 default: System.out.println("This is not a command!");
             }
         }

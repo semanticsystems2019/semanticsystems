@@ -60,4 +60,13 @@ public class QueryHandler {
             System.out.println(map.getKeys().get(i).split("\"")[1] + " - " + map.getValues().get(i).split("\"")[1]);
         }
     }
+
+    public void trendingNow() {
+        String sparqlFile = "trending.sparql";
+        QueryResponse map = doQuery(sparqlFile);
+
+        for(int i=0; i<map.getLength(); i++){
+            System.out.println(map.getKeys().get(i).split("\"")[1] + " - " + map.getValues().get(i).split("\"")[1]);
+        }
+    }
 }
