@@ -6,7 +6,6 @@ public class Main {
         tutorial.loadRdfFile(Util.ONTOLOGY_FILE);
 
         Rdf4jHandler rdf4jHandler = new Rdf4jHandler();
-        //rdf4jHandler.createInstances();
-        rdf4jHandler.selectQuery("bottom_of_the_pit.sparql");
+        rdf4jHandler.createInstances();
     }
 }
