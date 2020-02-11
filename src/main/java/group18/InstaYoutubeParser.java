@@ -53,7 +53,7 @@ public class InstaYoutubeParser {
         movieNames.put("Zombieland2.csv", wikiValueFactory.createIRI(ids.getString("Zombieland: Double Tap")));
         movieNames.put("Crazy Rich Asians.csv", wikiValueFactory.createIRI(ids.getString("Crazy Rich Asians")));
 
-        int counter = 0;
+        int counter = -1;
         for (File csvFile : baseDirectory.listFiles()) {
             try (
                 Reader reader = Files.newBufferedReader(csvFile.toPath(), Charset.forName("windows-1252"));
@@ -61,8 +61,9 @@ public class InstaYoutubeParser {
                         .withFirstRecordAsHeader()
                         .withDelimiter(';'));
             ) {
+                counter ++;
                 for (CSVRecord csvRecord : csvParser) {
-                    if(counter % 5 == 0){
+                    if(counter % 50 == 0){
                         break;
                     }
                     String idString = csvRecord.get("Id");
