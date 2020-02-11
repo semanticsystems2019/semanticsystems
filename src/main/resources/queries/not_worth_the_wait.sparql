@@ -6,7 +6,7 @@ PREFIX wdp:<http://www.wikidata.org/prop/direct/>
 PREFIX emotion:<http://www.semanticweb.org/group18/movie-ontology#Emotion/>
 PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
 
-SELECT ?title (((COUNT(DISTINCT ?c1)) / (COUNT(DISTINCT ?c2))) AS ?positive_ratio)
+SELECT ?name (((COUNT(DISTINCT ?c1)) / (COUNT(DISTINCT ?c2))) AS ?ratio)
     WHERE {
     	?c1 rdf:type :Comment .
         ?c1 :refersToMovie ?movie .
@@ -15,7 +15,8 @@ SELECT ?title (((COUNT(DISTINCT ?c1)) / (COUNT(DISTINCT ?c2))) AS ?positive_rati
     	?c2 :refersToMovie ?movie .
 
         { SERVICE <https://query.wikidata.org/sparql> {
-            ?movie wdp:P1476 ?title .
+            ?movie wdp:P1476 ?name .
         }}
-} GROUP BY ?title
+} GROUP BY ?name
 ORDER BY DESC(?ratio)
+LIMIT 3

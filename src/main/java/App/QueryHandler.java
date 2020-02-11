@@ -2,6 +2,7 @@ package App;
 
 import group18.Rdf4jHandler;
 
+import java.text.DecimalFormat;
 import java.util.HashMap;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
@@ -9,21 +10,23 @@ import java.util.regex.Pattern;
 public class QueryHandler {
 
     Rdf4jHandler rdf4jHandler = new Rdf4jHandler();
+    DecimalFormat df = new DecimalFormat("#.#");
 
     private QueryResponse doQuery(String sparqlFile) {
         return rdf4jHandler.selectQuery(sparqlFile);
     }
-
+    
     /*
     Returns Movies with mostly positive responses.
     mostly = 60% likes;
      */
     public void hypeIsRealMovies() {
         String sparqlQuery = "hype_is_real.sparql";
-        Object obj = doQuery(sparqlQuery);
-
-        //TODO MANUALLY parse obj to String and print
-        System.out.println("hypeIsRealMovies is empty");
+        QueryResponse map = doQuery(sparqlQuery);
+    
+        for(int i=0; i<map.getLength(); i++){
+            System.out.println(map.getKeys().get(i).split("\"")[1] + " - " + df.format(Float.parseFloat(map.getValues().get(i).split("\"")[1])*100) + "% positive");
+        }
     }
 
     /*
@@ -32,10 +35,11 @@ public class QueryHandler {
      */
     public void notWorthTheWait() {
         String sparqlQuery = "not_worth_the_wait.sparql";
-        Object obj = doQuery(sparqlQuery);
-
-        //TODO MANUALLY parse obj to String and print
-        System.out.println("notWorthTheWait is empty");
+        QueryResponse map = doQuery(sparqlQuery);
+    
+        for(int i=0; i<map.getLength(); i++){
+            System.out.println(map.getKeys().get(i).split("\"")[1] + " - " + df.format(Float.parseFloat(map.getValues().get(i).split("\"")[1])*100) + "% negative");
+        }
     }
 
     /*
