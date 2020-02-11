@@ -38,15 +38,15 @@ public class QueryHandler {
     }
 
     /*
-    Comments that received mostly positive feedback
-    mostly = ??? danke oli
+    Comments that received much feedback
      */
     public void theCommonTongue() {
-        String sparqlQuery = "empty";
-        Object obj = doQuery(sparqlQuery);
+        String sparqlFile = "common_tongue.sparql";
+        QueryResponse map = doQuery(sparqlFile);
 
         //TODO MANUALLY parse obj to String and print
-        System.out.println("theCommonTongue is empty");
+        System.out.println(map);
+        //System.out.println("theCommonTongue is empty");
     }
 
     /*
