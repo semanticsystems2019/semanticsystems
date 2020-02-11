@@ -2,6 +2,7 @@ package App;
 
 import group18.Rdf4jHandler;
 
+import java.util.HashMap;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
@@ -42,10 +43,10 @@ public class QueryHandler {
      */
     public void theCommonTongue() {
         String sparqlFile = "common_tongue.sparql";
-        QueryResponse map = doQuery(sparqlFile);
+        HashMap<Integer, HashMap<String, String>> result = rdf4jHandler.tongueSelectQuery(sparqlFile);
 
-        //TODO MANUALLY parse obj to String and print
-        System.out.println(map);
+        //TODO beautify
+        System.out.println(result);
         //System.out.println("theCommonTongue is empty");
     }
 
