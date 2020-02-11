@@ -149,10 +149,10 @@ public class RedditParser {
                 conn.add(postIRI, iris.get("hasId"), valueFactory.createLiteral( post.getId() ));
                 conn.add(postIRI, iris.get("hasTitle"), valueFactory.createLiteral( post.getTitle() ));
                 conn.add(postIRI, iris.get("createdBy"), valueFactory.createLiteral( post.getUsername() ));
-                conn.add(postIRI, iris.get("hasEmotion"), valueFactory.createLiteral( post.getEmotion() ));
                 conn.add(postIRI, iris.get("hasSource"), valueFactory.createLiteral( post.getSource() ));
                 conn.add(postIRI, iris.get("hasDate"), valueFactory.createLiteral( post.getDate() ));
                 conn.add(postIRI, iris.get("hasLikes"), valueFactory.createLiteral( post.getUpvotes() ));
+                conn.add(postIRI, iris.get("hasEmotion"), valueFactory.createIRI(iris.get("Emotion") + "/" + Util.simpleEmotionResolver()));
 
                 // MOVIE DB LINK
                 String movieLink = (String) movieJsonData.toMap().get( post.getReferenceMovie());
@@ -171,7 +171,7 @@ public class RedditParser {
                     conn.add(commentIRI, iris.get("hasId"), valueFactory.createLiteral( comment.getId() ));
                     conn.add(commentIRI, iris.get("isCommentOn"), valueFactory.createLiteral( comment.getParentId() ));
                     conn.add(commentIRI, iris.get("createdBy"), valueFactory.createLiteral( comment.getUsername() ));
-                    conn.add(commentIRI, iris.get("hasEmotion"), valueFactory.createLiteral( comment.getEmotion() ));
+                    conn.add(commentIRI, iris.get("hasEmotion"), valueFactory.createIRI(iris.get("Emotion") + "/" + Util.simpleEmotionResolver()));
                     conn.add(commentIRI, iris.get("hasSource"), valueFactory.createLiteral( comment.getSource() ));
                     conn.add(commentIRI, iris.get("hasDate"), valueFactory.createLiteral( comment.getDate() ));
                     conn.add(commentIRI, iris.get("hasLikes"), valueFactory.createLiteral( comment.getUpvotes() ));
