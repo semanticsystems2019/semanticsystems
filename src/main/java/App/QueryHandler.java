@@ -45,9 +45,22 @@ public class QueryHandler {
         String sparqlFile = "common_tongue.sparql";
         HashMap<Integer, HashMap<String, String>> result = rdf4jHandler.tongueSelectQuery(sparqlFile);
 
-        //TODO beautify
-        System.out.println(result);
-        //System.out.println("theCommonTongue is empty");
+        System.out.println("Rank | Likes |   Movie   |   Platform   | User | Text ");
+        System.out.println("--- Text ");
+        for (int i : result.keySet()) {
+            System.out.print(i + ". | ");
+            System.out.print( result.get(i).get("likes").split("\"")[1]);
+            System.out.print("   |   ");
+            System.out.print( result.get(i).get("title").split("\"")[1]);
+            System.out.print("   |   ");
+            System.out.print( result.get(i).get("source").split("\"")[1]);
+            System.out.print("   |   ");
+            System.out.print( result.get(i).get("user").split("\"")[1]);
+            System.out.println("");
+            System.out.print("--- ");
+            System.out.print( result.get(i).get("text"));
+            System.out.println("");
+        }
     }
 
     /*

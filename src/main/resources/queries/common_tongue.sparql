@@ -12,7 +12,7 @@ WHERE {
         ?s :hasLikes ?likes .
         ?s :hasSource ?source .
         ?s :createdBy ?user .
-        } ORDER BY DESC(?likes) LIMIT 50
+        } ORDER BY DESC(?likes) LIMIT 25
     }
         { SERVICE <https://query.wikidata.org/sparql> {
                 ?movie wdp:P1476 ?title .

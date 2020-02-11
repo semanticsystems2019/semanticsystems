@@ -135,7 +135,6 @@ public class Rdf4jHandler implements Tutorial {
                     map.put("source", bindingSet.getValue("source").toString());
                     map.put("user", bindingSet.getValue("user").toString());
                     map.put("likes", bindingSet.getValue("likes").toString());
-
                     response.put(cnt, map);
                     cnt++;
                     //System.out.println(bindingSet);
