@@ -11,7 +11,6 @@ import org.json.JSONArray;
 import org.json.JSONObject;
 import org.json.simple.parser.JSONParser;
 import org.json.simple.parser.ParseException;
-
 import java.io.FileReader;
 import java.io.IOException;
 import java.util.Map;
@@ -71,6 +70,7 @@ public class TwitterParser{
         initializeUsers(repo, iris);
     }
 
+    // posts to graphDB
     private void initializePosts(Repository repo, Map<String, IRI> iris) {
         JSONArray tweets;
         ValueFactory valueFactory = repo.getValueFactory();
@@ -78,12 +78,12 @@ public class TwitterParser{
         int counter = 0;
 
         try {
-            // get movie URIs from file
+            // get movie URIs from file movenames.json
             JSONParser parser = new JSONParser();
             Object obj = parser.parse(new FileReader(getClass().getClassLoader().getResource("movienames.json").getPath()));
             JSONObject movieNames = new JSONObject(obj.toString());
 
-            // load tweets from file and reduce/rename them
+            // load tweets from file and reduce/rename/filter them
             tweets = parser();
 
             // repo connection
@@ -105,9 +105,6 @@ public class TwitterParser{
                 conn.add(tweetIri,
                         iris.get("hasSource"),
                         valueFactory.createLiteral(( "Twitter")));
-                //conn.add(tweetIri,
-                //        iris.get("refersToMovie"),
-                //        valueFactory.createLiteral( thisTweet.getString("refersTo")));
                 String movieName = thisTweet.get("refersTo").toString();
                 conn.add(tweetIri,
                         iris.get("refersToMovie"),
@@ -133,6 +130,7 @@ public class TwitterParser{
         }
     }
 
+    // users to graphDB
     private void initializeUsers(Repository repo, Map<String, IRI> iris) {
         JSONArray tweets;
         ValueFactory valueFactory = repo.getValueFactory();
@@ -145,7 +143,6 @@ public class TwitterParser{
             for (int i = 0; i < tweets.length(); i++) {
                 JSONObject thisTweet = tweets.getJSONObject(i);
                 IRI tweetUserIri = valueFactory.createIRI(Util.NS, "twitter/user#" + (counter+i));
-                //System.out.println(iris.get("Tweet"));
                 conn.add(tweetUserIri, RDF.TYPE, iris.get("User"));
 
                 conn.add(tweetUserIri,
