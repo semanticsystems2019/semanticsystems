@@ -18,7 +18,7 @@ public class QueryHandler {
     mostly = 60% likes;
      */
     public void hypeIsRealMovies() {
-        String sparqlQuery = "empty";
+        String sparqlQuery = "hype_is_real.sparql";
         Object obj = doQuery(sparqlQuery);
 
         //TODO MANUALLY parse obj to String and print
@@ -30,7 +30,7 @@ public class QueryHandler {
     mostly = 60% dislikes
      */
     public void notWorthTheWait() {
-        String sparqlQuery = "empty";
+        String sparqlQuery = "not_worth_the_wait.sparql";
         Object obj = doQuery(sparqlQuery);
 
         //TODO MANUALLY parse obj to String and print
